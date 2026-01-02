@@ -1,0 +1,16 @@
+{
+  "name": "human_design_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test_runner.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.7.2",
+    "swisseph": "^0.5.17"
+  }
+}
