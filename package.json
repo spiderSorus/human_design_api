@@ -2,7 +2,7 @@
   "name": "human_design_api",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "hd-engine.js",
   "scripts": {
     "test": "node test_runner.js"
   },
