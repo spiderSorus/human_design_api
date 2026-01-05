@@ -1,4 +1,4 @@
-const { calculateChart } = require('./hd-engine');
+const { calculateChart } = require('./index');
 
 async function test() {
     try {

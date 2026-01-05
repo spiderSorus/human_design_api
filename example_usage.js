@@ -1,4 +1,4 @@
-const { calculateChart } = require('./hd-engine');
+const { calculateChart, calculateChartWithOptions } = require('./index');
 
 async function test() {
     try {
@@ -16,6 +16,12 @@ async function test() {
         const startYear = await calculateChart('2024-01-23', '12:00', 0, 0);
         console.log("\nChart for Jan 23, 2024:");
         console.log("Sun Personality:", startYear.personality.Sun);
+
+        // “Just now” (transit/personality-only) example
+        const justNow = await calculateChartWithOptions('2024-01-23', '12:00', 0, 0, { includeDesign: false });
+        console.log("\nJust-now chart for Jan 23, 2024 (no design/body):");
+        console.log("Has design?", justNow.design);
+        console.log("Defined channels (personality-only):", justNow.definedChannels);
         
     } catch (e) {
         console.error(e);
