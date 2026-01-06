@@ -1,4 +1,4 @@
-const { calculateChart, calculateChartWithOptions } = require('./index');
+const { calculateChart, calculateChartWithOptions, calculateJustNowChart } = require('./index');
 
 async function test() {
     try {
@@ -22,6 +22,11 @@ async function test() {
         console.log("\nJust-now chart for Jan 23, 2024 (no design/body):");
         console.log("Has design?", justNow.design);
         console.log("Defined channels (personality-only):", justNow.definedChannels);
+
+        // “Just now” helper (uses current UTC time)
+        const justNowSf = await calculateJustNowChart(37.7749, -122.4194);
+        console.log("\nJust-now chart for SF (current UTC time), as JSON:");
+        console.log(JSON.stringify(justNowSf, null, 2));
         
     } catch (e) {
         console.error(e);
