@@ -2,6 +2,8 @@ const { parseUtcDateTime, toJulianDayUT } = require('./time');
 const { calculatePositions } = require('./positions');
 const { findDesignTime } = require('./design-time');
 const { calculateDefinedChannels } = require('./channels');
+const { calculateDefinedCenters } = require('./centers');
+const { deriveType } = require('./type');
 
 async function calculateChart(birthDate, birthTime, latitude, longitude) {
   // keep signature (lat/lon currently unused)
@@ -12,10 +14,17 @@ async function calculateChart(birthDate, birthTime, latitude, longitude) {
   const jdDesign = await findDesignTime(jdPersonality);
   const design = await calculatePositions(jdDesign);
 
+  const definedChannels = calculateDefinedChannels(personality, design);
+  const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
+  const type = deriveType({ definedChannels, definedCenters });
+
   return {
     personality,
     design,
-    definedChannels: calculateDefinedChannels(personality, design)
+    definedChannels,
+    definedCenters,
+    undefinedCenters,
+    type
   };
 }
 
@@ -27,19 +36,33 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
   const personality = await calculatePositions(jdPersonality);
 
   if (!includeDesign) {
+    const definedChannels = calculateDefinedChannels(personality, null);
+    const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
+    const type = deriveType({ definedChannels, definedCenters });
+
     return {
       personality,
       design: null,
-      definedChannels: calculateDefinedChannels(personality, null)
+      definedChannels,
+      definedCenters,
+      undefinedCenters,
+      type
     };
   }
 
   const jdDesign = await findDesignTime(jdPersonality);
   const design = await calculatePositions(jdDesign);
+  const definedChannels = calculateDefinedChannels(personality, design);
+  const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
+  const type = deriveType({ definedChannels, definedCenters });
+
   return {
     personality,
     design,
-    definedChannels: calculateDefinedChannels(personality, design)
+    definedChannels,
+    definedCenters,
+    undefinedCenters,
+    type
   };
 }
 
