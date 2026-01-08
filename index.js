@@ -1,3 +1,9 @@
 // Public entrypoint: keep this small and stable.
-module.exports = require('./src/hd/engine');
+const engine = require('./src/hd/engine');
+const { calculateGateTransitSegmentsUtc } = require('./src/hd/transits');
+
+module.exports = {
+  ...engine,
+  calculateGateTransitSegmentsUtc
+};
 
