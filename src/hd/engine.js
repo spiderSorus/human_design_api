@@ -19,6 +19,12 @@ async function calculateChart(birthDate, birthTime, latitude, longitude) {
   const type = deriveType({ definedChannels, definedCenters });
 
   return {
+    input: {
+      date: birthDate,
+      time: birthTime,
+      latitude,
+      longitude
+    },
     personality,
     design,
     definedChannels,
@@ -41,6 +47,12 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
     const type = deriveType({ definedChannels, definedCenters });
 
     return {
+      input: {
+        date: birthDate,
+        time: birthTime,
+        latitude,
+        longitude
+      },
       personality,
       design: null,
       definedChannels,
@@ -57,6 +69,12 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
   const type = deriveType({ definedChannels, definedCenters });
 
   return {
+    input: {
+      date: birthDate,
+      time: birthTime,
+      latitude,
+      longitude
+    },
     personality,
     design,
     definedChannels,
