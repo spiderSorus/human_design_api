@@ -29,8 +29,13 @@ function getGateDetails(tropicalLongitude) {
   const toneIndex = Math.floor(degreeInColor / 0.026041666666666668);
   const tone = toneIndex + 1;
 
-  return { gate, line, color, tone };
+  // Base (1-5)
+  // Tone is divided into 5 bases.
+  const degreeInTone = degreeInColor % 0.026041666666666668;
+  const baseIndex = Math.floor(degreeInTone / (0.026041666666666668 / 5));
+  const base = baseIndex + 1;
+
+  return { gate, line, color, tone, base };
 }
 
 module.exports = { getGateDetails };
-
