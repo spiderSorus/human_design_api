@@ -4,6 +4,7 @@ const { findDesignTime } = require('./design-time');
 const { calculateDefinedChannels } = require('./channels');
 const { calculateDefinedCenters } = require('./centers');
 const { deriveType } = require('./type');
+const { deriveRavePsychologyAndPHS } = require('./rave-psychology-derive');
 
 async function calculateChart(birthDate, birthTime, latitude, longitude) {
   // keep signature (lat/lon currently unused)
@@ -25,6 +26,7 @@ async function calculateChart(birthDate, birthTime, latitude, longitude) {
       latitude,
       longitude
     },
+    ravePsychology: deriveRavePsychologyAndPHS({ personality, design }),
     personality,
     design,
     definedChannels,
@@ -53,6 +55,7 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
         latitude,
         longitude
       },
+      ravePsychology: deriveRavePsychologyAndPHS({ personality, design: null }),
       personality,
       design: null,
       definedChannels,
@@ -75,6 +78,7 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
       latitude,
       longitude
     },
+    ravePsychology: deriveRavePsychologyAndPHS({ personality, design }),
     personality,
     design,
     definedChannels,
