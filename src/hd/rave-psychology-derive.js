@@ -12,6 +12,23 @@ const {
   asIntKeyedLookup
 } = require('./rave-psychology');
 
+function getPhsEnvironmentFromColor(color) {
+  // PHS Environment types are commonly keyed by Color (1-6):
+  // 1 Caves, 2 Markets, 3 Kitchens, 4 Mountains, 5 Valleys, 6 Shores
+  const c = Number(color);
+  if (!Number.isFinite(c)) return null;
+  return (
+    {
+      1: 'Caves',
+      2: 'Markets',
+      3: 'Kitchens',
+      4: 'Mountains',
+      5: 'Valleys',
+      6: 'Shores'
+    }[c] ?? null
+  );
+}
+
 function orientationLabelForTone(tone, { leftLabel, rightLabel }) {
   const left = isLeftTone(tone);
   if (left === null) return null;
@@ -137,10 +154,15 @@ function deriveRavePsychologyAndPHS(chart) {
   const dSunDerived = deriveFromActivation(dSun);
   const dNodeLine = asIntKeyedLookup(lineLookup, dNodes.line);
   const dNodeColor = asIntKeyedLookup(colorLookup, dNodes.color);
+
+  // Environment style (e.g. Kitchens: Dry/Wet, Mountains: Active/Passive, Shores: Natural/Artificial)
+  // is keyed by Environment type (color) and chosen by node tone orientation (left/right).
   const southNodeTone = chart?.design?.SouthNode?.tone;
   const leftSouthNode = isLeftTone(southNodeTone);
+  const envKey = Number(chart?.design?.SouthNode?.color);
+  const envLR = leftSouthNode === null ? null : leftSouthNode ? 'left' : 'right';
   const environmentStyle =
-    leftSouthNode === null ? null : leftSouthNode ? environment_activity.left : environment_activity.right;
+    envKey && envLR ? phsDetails?.environment_style?.[envKey]?.[envLR] ?? null : null;
 
   const dSunColor = chart?.design?.Sun?.color;
   const leftDesignSun = isLeftTone(chart?.design?.Sun?.tone);
@@ -160,8 +182,10 @@ function deriveRavePsychologyAndPHS(chart) {
       base: asIntKeyedLookup(bases, dEarth?.base)
     },
     nodes: {
-      // Correction: landscape comes from Design South Node line.
-      environment_landscape: asIntKeyedLookup(lineLookup, chart?.design?.SouthNode?.line)?.environment ?? null,
+      // PHS Environment comes from the Design Lunar Nodes.
+      // Environment type (Caves/Markets/Kitchens/...) is derived from the Node COLOR.
+      // We use the Design South Node color.
+      environment_landscape: getPhsEnvironmentFromColor(chart?.design?.SouthNode?.color),
       environment_style: environmentStyle,
       observed_trajectory: dNodeLine?.view ?? null,
       orientation: orientationLabelForTone(chart?.design?.SouthNode?.tone, {
@@ -185,11 +209,14 @@ function deriveRavePsychologyAndPHS(chart) {
     mind_cognition: cognition_library?.[Number(pSun?.tone)] ?? null,
     body: content_library?.phs_determination?.[Number(dSunColor)] ?? null,
     body_internal_sense: cognition_library?.[Number(chart?.design?.Sun?.tone)] ?? null,
-    space: content_library?.phs_environment?.[Number(chart?.design?.SouthNode?.line)] ?? null,
+    // Lookup environment description by environment type derived from color.
+    // (Content library is keyed by 1-6 in the same order: Caves..Shores)
+    space: content_library?.phs_environment?.[Number(chart?.design?.SouthNode?.color)] ?? null,
     dietary_regime_description:
       content_library?.phs_fixing_library?.internal?.[Number(dSunColor)]?.[regimeKey] ?? null,
     environment_style_description:
-      content_library?.phs_fixing_library?.external?.[Number(chart?.design?.SouthNode?.line)]?.[
+      // External environment “fixing” is keyed by environment type, i.e. color.
+      content_library?.phs_fixing_library?.external?.[Number(chart?.design?.SouthNode?.color)]?.[
         isLeftTone(chart?.design?.SouthNode?.tone) ? 'left' : 'right'
       ] ?? null
   };

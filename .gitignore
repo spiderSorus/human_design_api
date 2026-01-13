@@ -2,3 +2,4 @@ node_modules
 transits/
 .DS_Store
 .env
+.local/

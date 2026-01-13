@@ -3,7 +3,13 @@ const { BODIES } = require('./bodies');
 const { fetchBodyData } = require('./swisseph');
 const { getGateDetails } = require('./gates');
 
-async function calculatePositions(jd) {
+async function calculatePositions(jd, options = {}) {
+  const {
+    gateDetailsOptions = {},
+    tonePhaseShiftByBody = {},
+    subdivisionModeByBody = {},
+    swissephOptions = {}
+  } = options;
   const results = {};
   const promises = [];
 
@@ -11,16 +17,22 @@ async function calculatePositions(jd) {
     promises.push((async () => {
       let longitude;
       if (name === 'Earth') {
-        const sunData = await fetchBodyData(jd, swisseph.SE_SUN);
+        const sunData = await fetchBodyData(jd, swisseph.SE_SUN, swissephOptions);
         longitude = (sunData.longitude + 180) % 360;
       } else if (name === 'SouthNode') {
-        const nodeData = await fetchBodyData(jd, swisseph.SE_TRUE_NODE);
+        const nodeData = await fetchBodyData(jd, swisseph.SE_TRUE_NODE, swissephOptions);
         longitude = (nodeData.longitude + 180) % 360;
       } else {
-        const bodyData = await fetchBodyData(jd, id);
+        const bodyData = await fetchBodyData(jd, id, swissephOptions);
         longitude = bodyData.longitude;
       }
-      results[name] = getGateDetails(longitude);
+      const tonePhaseShiftDegrees = tonePhaseShiftByBody[name];
+      const subdivisionMode = subdivisionModeByBody[name];
+      results[name] = getGateDetails(longitude, {
+        ...gateDetailsOptions,
+        ...(typeof tonePhaseShiftDegrees === 'number' ? { tonePhaseShiftDegrees } : {})
+        ,...(typeof subdivisionMode === 'string' ? { subdivisionMode } : {})
+      });
     })());
   }
 
@@ -29,4 +41,3 @@ async function calculatePositions(jd) {
 }
 
 module.exports = { calculatePositions };
-

@@ -135,8 +135,12 @@ module.exports = {
       6: { left: 'Direct Light', right: 'Indirect Light', theme: 'Circumstances' }
     },
     environment_style: {
-      left: 'Active (Observed)',
-      right: 'Passive (Observer)'
+      1: { left: 'Selective', right: 'Blending' },
+      2: { left: 'Internal', right: 'External' },
+      3: { left: 'Wet', right: 'Dry' },
+      4: { left: 'Active', right: 'Passive' },
+      5: { left: 'Narrow', right: 'Wide' },
+      6: { left: 'Natural', right: 'Artificial' }
     }
   },
   content_library: {

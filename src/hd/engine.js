@@ -1,4 +1,4 @@
-const { parseUtcDateTime, toJulianDayUT } = require('./time');
+const { parseUtcDateTime, parseZonedDateTimeToUtc, toJulianDayUT } = require('./time');
 const { calculatePositions } = require('./positions');
 const { findDesignTime } = require('./design-time');
 const { calculateDefinedChannels } = require('./channels');
@@ -6,14 +6,26 @@ const { calculateDefinedCenters } = require('./centers');
 const { deriveType } = require('./type');
 const { deriveRavePsychologyAndPHS } = require('./rave-psychology-derive');
 
-async function calculateChart(birthDate, birthTime, latitude, longitude) {
+async function calculateChart(birthDate, birthTime, latitude, longitude, options = {}) {
   // keep signature (lat/lon currently unused)
   const dt = parseUtcDateTime(birthDate, birthTime);
   const jdPersonality = toJulianDayUT(dt);
 
-  const personality = await calculatePositions(jdPersonality);
+  const personality = await calculatePositions(jdPersonality, {
+    ...options.positionsOptions,
+    subdivisionModeByBody: {
+      ...(options.positionsOptions?.subdivisionModeByBody || {}),
+      // ZenFemme/BodyGraphChart compatibility should only affect personality nodes.
+      ...(options.personalityNodesSubdivisionMode
+        ? {
+            NorthNode: options.positionsOptions?.subdivisionModeByBody?.NorthNode || options.personalityNodesSubdivisionMode,
+            SouthNode: options.positionsOptions?.subdivisionModeByBody?.SouthNode || options.personalityNodesSubdivisionMode
+          }
+        : {})
+    }
+  });
   const jdDesign = await findDesignTime(jdPersonality);
-  const design = await calculatePositions(jdDesign);
+  const design = await calculatePositions(jdDesign, options.positionsOptions);
 
   const definedChannels = calculateDefinedChannels(personality, design);
   const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
@@ -36,12 +48,29 @@ async function calculateChart(birthDate, birthTime, latitude, longitude) {
   };
 }
 
+// Timezone-aware variant: accepts a local date/time + IANA timezone, converts to UTC,
+// and then delegates to calculateChart.
+async function calculateChartLocal(localDate, localTime, timezone, latitude, longitude, options = {}) {
+  const dtUtc = parseZonedDateTimeToUtc(localDate, localTime, timezone);
+  const dateUtc = dtUtc.toISODate();
+  const timeUtc = dtUtc.toFormat('HH:mm');
+  const chart = await calculateChart(dateUtc, timeUtc, latitude, longitude, options);
+  // Enrich input metadata so callers can see exactly what was used.
+  chart.input = {
+    ...chart.input,
+    localDate,
+    localTime,
+    timezone
+  };
+  return chart;
+}
+
 async function calculateChartWithOptions(birthDate, birthTime, latitude, longitude, options = {}) {
   const { includeDesign = true } = options;
 
   const dt = parseUtcDateTime(birthDate, birthTime);
   const jdPersonality = toJulianDayUT(dt);
-  const personality = await calculatePositions(jdPersonality);
+  const personality = await calculatePositions(jdPersonality, options.positionsOptions);
 
   if (!includeDesign) {
     const definedChannels = calculateDefinedChannels(personality, null);
@@ -66,7 +95,7 @@ async function calculateChartWithOptions(birthDate, birthTime, latitude, longitu
   }
 
   const jdDesign = await findDesignTime(jdPersonality);
-  const design = await calculatePositions(jdDesign);
+  const design = await calculatePositions(jdDesign, options.positionsOptions);
   const definedChannels = calculateDefinedChannels(personality, design);
   const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
   const type = deriveType({ definedChannels, definedCenters });
@@ -112,6 +141,7 @@ async function calculateJustNowChart(latitude, longitude, options = {}) {
 
 module.exports = {
   calculateChart,
+  calculateChartLocal,
   calculateChartWithOptions,
   calculateJustNowChart
 };
