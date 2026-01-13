@@ -22,6 +22,37 @@ function stripKeysDeep(value, keysToStrip) {
   return out;
 }
 
+function simplifyPropertiesGates(zen) {
+  if (!zen || typeof zen !== 'object') return zen;
+  const props = zen.Properties;
+  if (!props || typeof props !== 'object') return zen;
+
+  // Convert `Properties.Gates.list` from objects like {id, option} to strings like "<gate>.<line>".
+  // We derive line from the available placements (Personality/Design) when possible.
+  const gateToLine = new Map();
+  for (const side of ['Personality', 'Design']) {
+    const placements = zen[side];
+    if (!placements || typeof placements !== 'object') continue;
+    for (const v of Object.values(placements)) {
+      const gate = v?.Gate;
+      const line = v?.Line;
+      if (typeof gate === 'number' && typeof line === 'number') {
+        gateToLine.set(gate, line);
+      }
+    }
+  }
+
+  if (props.Gates?.list && Array.isArray(props.Gates.list)) {
+    props.Gates.list = props.Gates.list.map((x) => {
+      const gate = typeof x === 'number' ? x : x?.id;
+      const line = gateToLine.get(gate);
+      return typeof gate === 'number' ? `${gate}${typeof line === 'number' ? `.${line}` : ''}` : null;
+    }).filter(Boolean);
+  }
+
+  return zen;
+}
+
 async function main() {
   if (!process.env.ZENFEMME_TOKEN) {
     throw new Error('Please set ZENFEMME_TOKEN env var');
@@ -108,7 +139,7 @@ async function main() {
 
     // For prototypes: strip marketing/presentation fields we don't want to lock in yet.
     // This includes both top-level fields (ChartUrl) and nested `description`/`link` keys.
-    const zen = stripKeysDeep(
+    let zen = stripKeysDeep(
       zenFull || {},
       new Set([
         'ChartUrl',
@@ -125,6 +156,8 @@ async function main() {
         'Email'
       ])
     );
+
+    zen = simplifyPropertiesGates(zen);
 
     charts.push({ sample: s, zen });
   }
