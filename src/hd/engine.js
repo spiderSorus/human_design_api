@@ -1,5 +1,6 @@
 const { parseUtcDateTime, parseZonedDateTimeToUtc, toJulianDayUT } = require('./time');
 const { calculatePositions } = require('./positions');
+const { calculatePositionsFromZenFemme } = require('./zenfemme');
 const { findDesignTime } = require('./design-time');
 const { calculateDefinedChannels } = require('./channels');
 const { calculateDefinedCenters } = require('./centers');
@@ -51,6 +52,51 @@ async function calculateChart(birthDate, birthTime, latitude, longitude, options
 // Timezone-aware variant: accepts a local date/time + IANA timezone, converts to UTC,
 // and then delegates to calculateChart.
 async function calculateChartLocal(localDate, localTime, timezone, latitude, longitude, options = {}) {
+  // Prototype mode: use ZenFemme/BodyGraphChart as the ephemeris backend.
+  // This bypasses Swiss Ephemeris + local ephemeris files.
+  const useZenFemme = options.useZenFemme || process.env.HD_EPHEMERIS_BACKEND === 'zenfemme';
+
+  if (useZenFemme) {
+    const { personality, design, _zenRaw } = await calculatePositionsFromZenFemme(
+      localDate,
+      localTime,
+      timezone,
+      latitude,
+      longitude,
+      {
+        token: options.zenfemmeToken,
+        endpointBase: options.zenfemmeEndpointBase,
+        includeRaw: options.includeZenRaw,
+        name: options.name,
+        birthplace: options.birthplace
+      }
+    );
+
+    const definedChannels = calculateDefinedChannels(personality, design);
+    const { definedCenters, undefinedCenters } = calculateDefinedCenters(definedChannels);
+    const type = deriveType({ definedChannels, definedCenters });
+
+    return {
+      input: {
+        date: null,
+        time: null,
+        localDate,
+        localTime,
+        timezone,
+        latitude,
+        longitude
+      },
+      ravePsychology: deriveRavePsychologyAndPHS({ personality, design }),
+      personality,
+      design,
+      definedChannels,
+      definedCenters,
+      undefinedCenters,
+      type,
+      ...(options.includeZenRaw ? { zenfemme: _zenRaw } : {})
+    };
+  }
+
   const dtUtc = parseZonedDateTimeToUtc(localDate, localTime, timezone);
   const dateUtc = dtUtc.toISODate();
   const timeUtc = dtUtc.toFormat('HH:mm');
