@@ -16,7 +16,7 @@ async function main() {
   // Keep in sync with compare_with_zenfemme.js sample set.
   const samples = [
     {
-      name: 'Kay',
+      name: 'Kai',
       localDate: '1982-11-09',
       localTime: '06:13',
       timezone: 'America/Los_Angeles',
@@ -25,7 +25,7 @@ async function main() {
       longitude: -120.3450
     },
     {
-      name: 'Kay',
+      name: 'Kai',
       localDate: '1982-11-09',
       localTime: '06:12',
       timezone: 'America/Los_Angeles',
@@ -34,7 +34,7 @@ async function main() {
       longitude: -120.3450
     },
     {
-      name: 'Kay',
+      name: 'Kai',
       localDate: '1982-11-09',
       localTime: '06:14',
       timezone: 'America/Los_Angeles',
@@ -101,4 +101,3 @@ main().catch((e) => {
   console.error(e);
   process.exitCode = 1;
 });
-
