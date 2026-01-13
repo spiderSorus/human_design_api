@@ -60,13 +60,13 @@ async function main() {
   // Keep in sync with compare_with_zenfemme.js sample set.
   const samples = [
     {
-      name: 'Kai',
-      localDate: '1982-11-09',
-      localTime: '06:13',
+      name: 'Saint linda',
+      localDate: '1942-03-26',
+      localTime: '01:15',
       timezone: 'America/Los_Angeles',
-      birthplace: 'Lakeview, Oregon',
-      latitude: 42.1885,
-      longitude: -120.3450
+      birthplace: 'Red Bluff, CA, USA',
+      latitude: 40.1785,
+      longitude: -122.2358
     }
   ];
 
