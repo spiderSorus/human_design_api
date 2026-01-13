@@ -43,11 +43,14 @@ function simplifyPropertiesGates(zen) {
   }
 
   if (props.Gates?.list && Array.isArray(props.Gates.list)) {
-    props.Gates.list = props.Gates.list.map((x) => {
+    const list = props.Gates.list.map((x) => {
       const gate = typeof x === 'number' ? x : x?.id;
       const line = gateToLine.get(gate);
       return typeof gate === 'number' ? `${gate}${typeof line === 'number' ? `.${line}` : ''}` : null;
     }).filter(Boolean);
+
+    // Replace object wrapper with the list directly.
+    props.Gates = list;
   }
 
   return zen;
