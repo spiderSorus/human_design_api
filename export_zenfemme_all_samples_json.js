@@ -46,6 +46,9 @@ function simplifyPropertiesGates(zen) {
   // For now (per request) we remove Properties.Gates entirely.
   if (props.Gates !== undefined) delete props.Gates;
 
+  // Also remove the top-level numeric Gates list.
+  if (zen.Gates !== undefined) delete zen.Gates;
+
   return zen;
 }
 
