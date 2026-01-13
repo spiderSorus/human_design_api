@@ -153,6 +153,8 @@ async function main() {
         'EmailAddress',
         'email',
         'Email'
+        , 'Planets'
+        , 'planets'
       ])
     );
 
