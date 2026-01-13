@@ -57,7 +57,6 @@ async function main() {
     throw new Error('Please set ZENFEMME_TOKEN env var');
   }
 
-  // Keep in sync with compare_with_zenfemme.js sample set.
   const samples = [
     {
       name: 'Saint linda',
@@ -67,6 +66,16 @@ async function main() {
       birthplace: 'Red Bluff, CA, USA',
       latitude: 40.1785,
       longitude: -122.2358
+    },
+    {
+      name: 'Ashes',
+      localDate: '1984-11-09',
+      localTime: '09:17',
+      timezone: 'America/Los_Angeles',
+      birthplace: 'Pullman (Washington), United States (USA)',
+      // Approx Pullman, WA
+      latitude: 46.7298,
+      longitude: -117.1817
     }
   ];
 
@@ -106,7 +115,7 @@ async function main() {
 
     zen = simplifyPropertiesGates(zen);
 
-    charts.push({ zen });
+    charts.push({ name: s.name, zen });
   }
 
   process.stdout.write(JSON.stringify({ generatedAt: new Date().toISOString(), charts }, null, 2));
