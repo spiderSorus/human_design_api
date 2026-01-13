@@ -108,7 +108,10 @@ async function main() {
 
     // For prototypes: strip marketing/presentation fields we don't want to lock in yet.
     // This includes both top-level fields (ChartUrl) and nested `description`/`link` keys.
-    const zen = stripKeysDeep(zenFull || {}, new Set(['ChartUrl', 'Description', 'Link', 'description', 'link']));
+    const zen = stripKeysDeep(
+      zenFull || {},
+      new Set(['ChartUrl', 'Description', 'Link', 'description', 'link', 'Tooltips', 'tooltips'])
+    );
 
     charts.push({ sample: s, zen });
   }
