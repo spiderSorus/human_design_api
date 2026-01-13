@@ -8,6 +8,20 @@
 
 const { fetchZenChart } = require('./src/hd/zenfemme');
 
+function stripKeysDeep(value, keysToStrip) {
+  if (Array.isArray(value)) {
+    return value.map((v) => stripKeysDeep(v, keysToStrip));
+  }
+  if (!value || typeof value !== 'object') return value;
+
+  const out = {};
+  for (const [k, v] of Object.entries(value)) {
+    if (keysToStrip.has(k)) continue;
+    out[k] = stripKeysDeep(v, keysToStrip);
+  }
+  return out;
+}
+
 async function main() {
   if (!process.env.ZENFEMME_TOKEN) {
     throw new Error('Please set ZENFEMME_TOKEN env var');
@@ -93,9 +107,8 @@ async function main() {
     });
 
     // For prototypes: strip marketing/presentation fields we don't want to lock in yet.
-    // (BodyGraphChart includes e.g. chart URLs + descriptive strings.)
-    // Keep everything else verbatim.
-    const { ChartUrl, Description, description, link, Link, ...zen } = zenFull || {};
+    // This includes both top-level fields (ChartUrl) and nested `description`/`link` keys.
+    const zen = stripKeysDeep(zenFull || {}, new Set(['ChartUrl', 'Description', 'Link', 'description', 'link']));
 
     charts.push({ sample: s, zen });
   }
