@@ -82,7 +82,7 @@ async function main() {
 
   const charts = [];
   for (const s of samples) {
-    const zen = await fetchZenChart({
+    const zenFull = await fetchZenChart({
       localDate: s.localDate,
       localTime: s.localTime,
       timezone: s.timezone,
@@ -91,6 +91,12 @@ async function main() {
       name: s.name,
       birthplace: s.birthplace
     });
+
+    // For prototypes: strip marketing/presentation fields we don't want to lock in yet.
+    // (BodyGraphChart includes e.g. chart URLs + descriptive strings.)
+    // Keep everything else verbatim.
+    const { ChartUrl, Description, description, link, Link, ...zen } = zenFull || {};
+
     charts.push({ sample: s, zen });
   }
 
