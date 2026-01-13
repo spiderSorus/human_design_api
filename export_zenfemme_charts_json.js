@@ -6,7 +6,7 @@
     node export_zenfemme_charts_json.js > charts.json
 */
 
-const { calculateChartLocal } = require('./index');
+const { fetchZenChart } = require('./src/hd/zenfemme');
 
 async function main() {
   if (!process.env.ZENFEMME_TOKEN) {
@@ -63,13 +63,16 @@ async function main() {
 
   const charts = [];
   for (const s of samples) {
-    const chart = await calculateChartLocal(s.localDate, s.localTime, s.timezone, s.latitude, s.longitude, {
-      useZenFemme: true,
+    const zen = await fetchZenChart({
+      localDate: s.localDate,
+      localTime: s.localTime,
+      timezone: s.timezone,
+      latitude: s.latitude,
+      longitude: s.longitude,
       name: s.name,
-      birthplace: s.birthplace,
-      includeZenRaw: false
+      birthplace: s.birthplace
     });
-    charts.push({ sample: s, chart });
+    charts.push({ sample: s, zen });
   }
 
   process.stdout.write(JSON.stringify({ generatedAt: new Date().toISOString(), charts }, null, 2));
@@ -79,4 +82,3 @@ main().catch((e) => {
   console.error(e);
   process.exitCode = 1;
 });
-
