@@ -110,7 +110,20 @@ async function main() {
     // This includes both top-level fields (ChartUrl) and nested `description`/`link` keys.
     const zen = stripKeysDeep(
       zenFull || {},
-      new Set(['ChartUrl', 'Description', 'Link', 'description', 'link', 'Tooltips', 'tooltips'])
+      new Set([
+        'ChartUrl',
+        'Description',
+        'Link',
+        'description',
+        'link',
+        'Tooltips',
+        'tooltips',
+        'svg',
+        'Svg',
+        'EmailAddress',
+        'email',
+        'Email'
+      ])
     );
 
     charts.push({ sample: s, zen });
