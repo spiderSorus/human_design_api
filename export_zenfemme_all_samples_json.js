@@ -62,7 +62,7 @@ async function main() {
     {
       name: 'Saint linda',
       localDate: '1942-03-26',
-      localTime: '01:15',
+      localTime: '13:15',
       timezone: 'America/Los_Angeles',
       birthplace: 'Red Bluff, CA, USA',
       latitude: 40.1785,
