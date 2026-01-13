@@ -42,16 +42,9 @@ function simplifyPropertiesGates(zen) {
     }
   }
 
-  if (props.Gates?.list && Array.isArray(props.Gates.list)) {
-    const list = props.Gates.list.map((x) => {
-      const gate = typeof x === 'number' ? x : x?.id;
-      const line = gateToLine.get(gate);
-      return typeof gate === 'number' ? `${gate}${typeof line === 'number' ? `.${line}` : ''}` : null;
-    }).filter(Boolean);
-
-    // Replace object wrapper with the list directly.
-    props.Gates = list;
-  }
+  // If you want to keep a derived gates list, you could compute it here.
+  // For now (per request) we remove Properties.Gates entirely.
+  if (props.Gates !== undefined) delete props.Gates;
 
   return zen;
 }
