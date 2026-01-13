@@ -67,60 +67,6 @@ async function main() {
       birthplace: 'Lakeview, Oregon',
       latitude: 42.1885,
       longitude: -120.3450
-    },
-    {
-      name: 'Kai',
-      localDate: '1982-11-09',
-      localTime: '06:12',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Lakeview, Oregon',
-      latitude: 42.1885,
-      longitude: -120.3450
-    },
-    {
-      name: 'Kai',
-      localDate: '1982-11-09',
-      localTime: '06:14',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Lakeview, Oregon',
-      latitude: 42.1885,
-      longitude: -120.3450
-    },
-    {
-      name: 'Test',
-      localDate: '2011-03-24',
-      localTime: '11:37',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Roseburg, Oregon, USA',
-      latitude: 43.2165,
-      longitude: -123.3417
-    },
-    {
-      name: 'Helena Sorus',
-      localDate: '1978-04-21',
-      localTime: '16:26',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Santa Rosa, California, USA',
-      latitude: 38.4405,
-      longitude: -122.7144
-    },
-    {
-      name: 'Eliza Mei Sorus',
-      localDate: '2015-11-03',
-      localTime: '06:54',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Reno, Nevada, USA',
-      latitude: 39.5296,
-      longitude: -119.8138
-    },
-    {
-      name: 'Greg Ames',
-      localDate: '1956-01-29',
-      localTime: '11:47',
-      timezone: 'America/Los_Angeles',
-      birthplace: 'Los Angeles, California, USA',
-      latitude: 34.0522,
-      longitude: -118.2437
     }
   ];
 
