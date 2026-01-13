@@ -106,7 +106,7 @@ async function main() {
 
     zen = simplifyPropertiesGates(zen);
 
-    charts.push({ sample: s, zen });
+    charts.push({ zen });
   }
 
   process.stdout.write(JSON.stringify({ generatedAt: new Date().toISOString(), charts }, null, 2));
