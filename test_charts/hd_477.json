@@ -1,0 +1,56 @@
+{
+  "name": "Test_477",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (29/30 | 20/34)",
+  "channels": [
+    "20-34",
+    "29-46"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.6",
+      "Earth: 30.6",
+      "NorthNode: 28.5",
+      "SouthNode: 27.5",
+      "Moon: 56.2",
+      "Mercury: 6.5",
+      "Venus: 47.2",
+      "Mars: 46.2",
+      "Jupiter: 8.6",
+      "Saturn: 33.3",
+      "Uranus: 28.2",
+      "Neptune: 9.6",
+      "Pluto: 48.1"
+    ],
+    "design": [
+      "Sun: 20.2",
+      "Earth: 34.2",
+      "NorthNode: 44.6",
+      "SouthNode: 24.6",
+      "Moon: 36.3",
+      "Mercury: 8.4",
+      "Venus: 8.1",
+      "Mars: 31.2",
+      "Jupiter: 2.1",
+      "Saturn: 56.3",
+      "Uranus: 28.3",
+      "Neptune: 5.2",
+      "Pluto: 18.6"
+    ]
+  },
+  "input": {
+    "localDate": "1976-08-23",
+    "localTime": "02:51",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_477",
+    "birthplace": "Moscow"
+  }
+}

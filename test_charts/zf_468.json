@@ -1,0 +1,56 @@
+{
+  "name": "Test_468",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Self Projected",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (44/24 | 33/19)",
+  "channels": [
+    "13-33",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 44.2",
+      "Earth: 24.2",
+      "NorthNode: 47.2",
+      "SouthNode: 22.2",
+      "Moon: 43.6",
+      "Mercury: 43.3",
+      "Venus: 11.4",
+      "Mars: 11.2",
+      "Jupiter: 19.6",
+      "Saturn: 51.1",
+      "Uranus: 41.4",
+      "Neptune: 60.2",
+      "Pluto: 34.5"
+    ],
+    "design": [
+      "Sun: 33.4",
+      "Earth: 19.4",
+      "NorthNode: 47.4",
+      "SouthNode: 22.4",
+      "Moon: 7.2",
+      "Mercury: 40.4",
+      "Venus: 64.3",
+      "Mars: 32.3",
+      "Jupiter: 13.5",
+      "Saturn: 51.6",
+      "Uranus: 41.5",
+      "Neptune: 60.2",
+      "Pluto: 34.3"
+    ]
+  },
+  "input": {
+    "localDate": "1997-11-01",
+    "localTime": "19:28",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_468",
+    "birthplace": "Johannesburg"
+  }
+}

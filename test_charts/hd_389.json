@@ -1,0 +1,57 @@
+{
+  "name": "Test_389",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "18-58",
+    "26-44",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.5",
+      "Earth: 40.5",
+      "NorthNode: 35.1",
+      "SouthNode: 5.1",
+      "Moon: 19.2",
+      "Mercury: 55.3",
+      "Venus: 19.5",
+      "Mars: 43.3",
+      "Jupiter: 58.5",
+      "Saturn: 1.4",
+      "Uranus: 5.3",
+      "Neptune: 10.4",
+      "Pluto: 50.6"
+    ],
+    "design": [
+      "Sun: 5.1",
+      "Earth: 35.1",
+      "NorthNode: 35.5",
+      "SouthNode: 5.5",
+      "Moon: 9.4",
+      "Mercury: 10.2",
+      "Venus: 50.1",
+      "Mars: 18.6",
+      "Jupiter: 26.3",
+      "Saturn: 44.4",
+      "Uranus: 9.4",
+      "Neptune: 10.1",
+      "Pluto: 50.5"
+    ]
+  },
+  "input": {
+    "localDate": "1984-02-28",
+    "localTime": "18:13",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_389",
+    "birthplace": "New York"
+  }
+}

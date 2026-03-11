@@ -1,0 +1,57 @@
+{
+  "name": "Test_300",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "20-34",
+    "24-61",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.3",
+      "Earth: 61.3",
+      "NorthNode: 13.2",
+      "SouthNode: 7.2",
+      "Moon: 24.1",
+      "Mercury: 7.4",
+      "Venus: 39.3",
+      "Mars: 49.4",
+      "Jupiter: 14.3",
+      "Saturn: 20.4",
+      "Uranus: 48.1",
+      "Neptune: 34.1",
+      "Pluto: 6.6"
+    ],
+    "design": [
+      "Sun: 42.5",
+      "Earth: 32.5",
+      "NorthNode: 49.3",
+      "SouthNode: 4.3",
+      "Moon: 26.6",
+      "Mercury: 3.6",
+      "Venus: 22.4",
+      "Mars: 54.6",
+      "Jupiter: 34.6",
+      "Saturn: 23.4",
+      "Uranus: 48.2",
+      "Neptune: 34.3",
+      "Pluto: 6.6"
+    ]
+  },
+  "input": {
+    "localDate": "1971-07-16",
+    "localTime": "09:43",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_300",
+    "birthplace": "London"
+  }
+}

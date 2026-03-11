@@ -1,0 +1,57 @@
+{
+  "name": "Test_116",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (18/17 | 52/58)",
+  "channels": [
+    "18-58",
+    "20-57",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 18.4",
+      "Earth: 17.4",
+      "NorthNode: 40.3",
+      "SouthNode: 37.3",
+      "Moon: 41.1",
+      "Mercury: 57.6",
+      "Venus: 57.3",
+      "Mars: 31.2",
+      "Jupiter: 59.1",
+      "Saturn: 47.3",
+      "Uranus: 1.6",
+      "Neptune: 26.2",
+      "Pluto: 57.4"
+    ],
+    "design": [
+      "Sun: 52.6",
+      "Earth: 58.6",
+      "NorthNode: 40.5",
+      "SouthNode: 37.5",
+      "Moon: 46.3",
+      "Mercury: 31.4",
+      "Venus: 12.2",
+      "Mars: 20.5",
+      "Jupiter: 33.4",
+      "Saturn: 40.4",
+      "Uranus: 1.5",
+      "Neptune: 26.2",
+      "Pluto: 57.2"
+    ]
+  },
+  "input": {
+    "localDate": "1979-09-30",
+    "localTime": "20:20",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_116",
+    "birthplace": "Los Angeles"
+  }
+}

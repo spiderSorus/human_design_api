@@ -1,0 +1,59 @@
+{
+  "name": "Test_420",
+  "type": "Projector",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (16/9 | 37/40)",
+  "channels": [
+    "16-48",
+    "17-62",
+    "19-49",
+    "24-61",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.1",
+      "Earth: 9.1",
+      "NorthNode: 13.5",
+      "SouthNode: 7.5",
+      "Moon: 62.3",
+      "Mercury: 2.1",
+      "Venus: 24.5",
+      "Mars: 19.5",
+      "Jupiter: 34.1",
+      "Saturn: 8.4",
+      "Uranus: 48.1",
+      "Neptune: 34.2",
+      "Pluto: 6.5"
+    ],
+    "design": [
+      "Sun: 37.3",
+      "Earth: 40.3",
+      "NorthNode: 49.6",
+      "SouthNode: 4.6",
+      "Moon: 17.5",
+      "Mercury: 55.3",
+      "Venus: 61.5",
+      "Mars: 26.6",
+      "Jupiter: 34.6",
+      "Saturn: 2.5",
+      "Uranus: 48.4",
+      "Neptune: 34.4",
+      "Pluto: 46.1"
+    ]
+  },
+  "input": {
+    "localDate": "1971-05-28",
+    "localTime": "15:50",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_420",
+    "birthplace": "Sydney"
+  }
+}

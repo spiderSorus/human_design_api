@@ -1,0 +1,58 @@
+{
+  "name": "Test_18",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "1-8",
+    "19-49",
+    "3-60",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.4",
+      "Earth: 33.4",
+      "NorthNode: 4.4",
+      "SouthNode: 49.4",
+      "Moon: 31.1",
+      "Mercury: 19.1",
+      "Venus: 55.3",
+      "Mars: 50.6",
+      "Jupiter: 36.5",
+      "Saturn: 3.2",
+      "Uranus: 19.6",
+      "Neptune: 41.1",
+      "Pluto: 9.5"
+    ],
+    "design": [
+      "Sun: 44.6",
+      "Earth: 24.6",
+      "NorthNode: 29.5",
+      "SouthNode: 30.5",
+      "Moon: 8.4",
+      "Mercury: 34.5",
+      "Venus: 1.1",
+      "Mars: 47.1",
+      "Jupiter: 22.2",
+      "Saturn: 3.3",
+      "Uranus: 19.2",
+      "Neptune: 60.4",
+      "Pluto: 9.2"
+    ]
+  },
+  "input": {
+    "localDate": "1999-01-31",
+    "localTime": "08:50",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_18",
+    "birthplace": "Tokyo"
+  }
+}

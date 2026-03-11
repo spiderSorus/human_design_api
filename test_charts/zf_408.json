@@ -1,0 +1,59 @@
+{
+  "name": "Test_408",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "13-33",
+    "19-49",
+    "23-43",
+    "26-44",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.3",
+      "Earth: 33.3",
+      "NorthNode: 53.1",
+      "SouthNode: 54.1",
+      "Moon: 17.5",
+      "Mercury: 30.5",
+      "Venus: 36.5",
+      "Mars: 43.3",
+      "Jupiter: 20.2",
+      "Saturn: 23.6",
+      "Uranus: 49.2",
+      "Neptune: 41.5",
+      "Pluto: 5.4"
+    ],
+    "design": [
+      "Sun: 44.5",
+      "Earth: 24.5",
+      "NorthNode: 53.3",
+      "SouthNode: 54.3",
+      "Moon: 19.3",
+      "Mercury: 50.6",
+      "Venus: 26.3",
+      "Mars: 46.2",
+      "Jupiter: 16.4",
+      "Saturn: 8.5",
+      "Uranus: 13.4",
+      "Neptune: 41.3",
+      "Pluto: 5.1"
+    ]
+  },
+  "input": {
+    "localDate": "2001-01-30",
+    "localTime": "07:44",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_408",
+    "birthplace": "Sydney"
+  }
+}

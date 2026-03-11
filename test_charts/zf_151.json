@@ -1,0 +1,55 @@
+{
+  "name": "Test_151",
+  "type": "Projector",
+  "profile": "6 / 3",
+  "authority": "Splenic",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (11/12 | 46/25)",
+  "channels": [
+    "18-58"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.6",
+      "Earth: 12.6",
+      "NorthNode: 9.5",
+      "SouthNode: 16.5",
+      "Moon: 63.3",
+      "Mercury: 10.1",
+      "Venus: 58.6",
+      "Mars: 9.2",
+      "Jupiter: 63.1",
+      "Saturn: 53.2",
+      "Uranus: 50.6",
+      "Neptune: 9.5",
+      "Pluto: 18.6"
+    ],
+    "design": [
+      "Sun: 46.3",
+      "Earth: 25.3",
+      "NorthNode: 5.3",
+      "SouthNode: 35.3",
+      "Moon: 10.6",
+      "Mercury: 32.5",
+      "Venus: 47.2",
+      "Mars: 18.4",
+      "Jupiter: 37.6",
+      "Saturn: 53.3",
+      "Uranus: 50.1",
+      "Neptune: 9.2",
+      "Pluto: 18.3"
+    ]
+  },
+  "input": {
+    "localDate": "1974-12-20",
+    "localTime": "20:18",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_151",
+    "birthplace": "Tokyo"
+  }
+}

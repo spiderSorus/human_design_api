@@ -1,0 +1,57 @@
+{
+  "name": "Test_211",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (50/3 | 56/60)",
+  "channels": [
+    "27-50",
+    "3-60",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 50.2",
+      "Earth: 3.2",
+      "NorthNode: 41.2",
+      "SouthNode: 31.2",
+      "Moon: 14.1",
+      "Mercury: 50.1",
+      "Venus: 32.4",
+      "Mars: 35.4",
+      "Jupiter: 33.4",
+      "Saturn: 54.5",
+      "Uranus: 58.3",
+      "Neptune: 38.3",
+      "Pluto: 1.4"
+    ],
+    "design": [
+      "Sun: 56.4",
+      "Earth: 60.4",
+      "NorthNode: 41.6",
+      "SouthNode: 31.6",
+      "Moon: 31.3",
+      "Mercury: 4.1",
+      "Venus: 15.5",
+      "Mars: 27.5",
+      "Jupiter: 62.4",
+      "Saturn: 61.1",
+      "Uranus: 58.4",
+      "Neptune: 38.4",
+      "Pluto: 1.2"
+    ]
+  },
+  "input": {
+    "localDate": "1990-10-21",
+    "localTime": "11:21",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_211",
+    "birthplace": "Tokyo"
+  }
+}

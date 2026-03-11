@@ -1,0 +1,57 @@
+{
+  "name": "Test_234",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (2/1 | 49/4)",
+  "channels": [
+    "1-8",
+    "19-49",
+    "2-14"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 2.5",
+      "Earth: 1.5",
+      "NorthNode: 31.4",
+      "SouthNode: 41.4",
+      "Moon: 52.4",
+      "Mercury: 8.5",
+      "Venus: 8.1",
+      "Mars: 24.2",
+      "Jupiter: 46.3",
+      "Saturn: 46.6",
+      "Uranus: 14.5",
+      "Neptune: 11.2",
+      "Pluto: 32.2"
+    ],
+    "design": [
+      "Sun: 49.1",
+      "Earth: 4.1",
+      "NorthNode: 33.4",
+      "SouthNode: 19.4",
+      "Moon: 25.1",
+      "Mercury: 55.6",
+      "Venus: 41.3",
+      "Mars: 55.1",
+      "Jupiter: 48.1",
+      "Saturn: 18.6",
+      "Uranus: 14.6",
+      "Neptune: 11.2",
+      "Pluto: 32.4"
+    ]
+  },
+  "input": {
+    "localDate": "1981-05-08",
+    "localTime": "03:24",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_234",
+    "birthplace": "Tokyo"
+  }
+}

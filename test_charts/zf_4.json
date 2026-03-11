@@ -1,0 +1,58 @@
+{
+  "name": "Test_4",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (47/22 | 12/11)",
+  "channels": [
+    "11-56",
+    "12-22",
+    "3-60",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.5",
+      "Earth: 22.5",
+      "NorthNode: 31.4",
+      "SouthNode: 41.4",
+      "Moon: 1.2",
+      "Mercury: 64.4",
+      "Venus: 28.2",
+      "Mars: 60.5",
+      "Jupiter: 43.1",
+      "Saturn: 10.5",
+      "Uranus: 27.1",
+      "Neptune: 63.4",
+      "Pluto: 54.4"
+    ],
+    "design": [
+      "Sun: 12.1",
+      "Earth: 11.1",
+      "NorthNode: 31.5",
+      "SouthNode: 41.5",
+      "Moon: 12.4",
+      "Mercury: 15.5",
+      "Venus: 56.5",
+      "Mars: 19.1",
+      "Jupiter: 1.2",
+      "Saturn: 58.4",
+      "Uranus: 3.6",
+      "Neptune: 63.6",
+      "Pluto: 54.6"
+    ]
+  },
+  "input": {
+    "localDate": "2018-09-14",
+    "localTime": "05:44",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_4",
+    "birthplace": "Sydney"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_458",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Self Projected",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "10-20",
+    "23-43",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.4",
+      "Earth: 43.4",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 17.3",
+      "Mercury: 20.5",
+      "Venus: 52.3",
+      "Mars: 25.1",
+      "Jupiter: 26.1",
+      "Saturn: 7.6",
+      "Uranus: 22.2",
+      "Neptune: 49.4",
+      "Pluto: 10.1"
+    ],
+    "design": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 63.6",
+      "SouthNode: 64.6",
+      "Moon: 10.3",
+      "Mercury: 37.5",
+      "Venus: 22.4",
+      "Mars: 54.6",
+      "Jupiter: 5.5",
+      "Saturn: 4.3",
+      "Uranus: 63.3",
+      "Neptune: 49.1",
+      "Pluto: 10.1"
+    ]
+  },
+  "input": {
+    "localDate": "2007-05-13",
+    "localTime": "17:07",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_458",
+    "birthplace": "Moscow"
+  }
+}

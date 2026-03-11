@@ -1,0 +1,56 @@
+{
+  "name": "Test_205",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Self Projected",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (28/27 | 33/19)",
+  "channels": [
+    "13-33",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 28.5",
+      "Earth: 27.5",
+      "NorthNode: 27.1",
+      "SouthNode: 28.1",
+      "Moon: 23.1",
+      "Mercury: 43.2",
+      "Venus: 46.3",
+      "Mars: 32.1",
+      "Jupiter: 18.4",
+      "Saturn: 56.1",
+      "Uranus: 55.4",
+      "Neptune: 19.6",
+      "Pluto: 26.4"
+    ],
+    "design": [
+      "Sun: 33.1",
+      "Earth: 19.1",
+      "NorthNode: 27.5",
+      "SouthNode: 28.5",
+      "Moon: 60.3",
+      "Mercury: 59.6",
+      "Venus: 12.2",
+      "Mars: 4.5",
+      "Jupiter: 47.2",
+      "Saturn: 53.5",
+      "Uranus: 37.1",
+      "Neptune: 13.1",
+      "Pluto: 26.3"
+    ]
+  },
+  "input": {
+    "localDate": "2004-10-29",
+    "localTime": "10:25",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_205",
+    "birthplace": "Moscow"
+  }
+}

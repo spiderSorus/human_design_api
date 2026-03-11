@@ -1,0 +1,57 @@
+{
+  "name": "Test_349",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "12-22",
+    "17-62",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.2",
+      "Earth: 61.2",
+      "NorthNode: 26.3",
+      "SouthNode: 45.3",
+      "Moon: 23.1",
+      "Mercury: 52.1",
+      "Venus: 45.6",
+      "Mars: 4.4",
+      "Jupiter: 22.1",
+      "Saturn: 39.1",
+      "Uranus: 32.4",
+      "Neptune: 9.2",
+      "Pluto: 18.1"
+    ],
+    "design": [
+      "Sun: 42.4",
+      "Earth: 32.4",
+      "NorthNode: 26.5",
+      "SouthNode: 45.5",
+      "Moon: 61.2",
+      "Mercury: 17.1",
+      "Venus: 37.3",
+      "Mars: 12.5",
+      "Jupiter: 37.3",
+      "Saturn: 15.2",
+      "Uranus: 32.6",
+      "Neptune: 9.4",
+      "Pluto: 18.2"
+    ]
+  },
+  "input": {
+    "localDate": "1974-07-14",
+    "localTime": "18:06",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_349",
+    "birthplace": "New York"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_126",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (60/56 | 50/3)",
+  "channels": [
+    "18-58",
+    "3-60",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 60.3",
+      "Earth: 56.3",
+      "NorthNode: 61.1",
+      "SouthNode: 62.1",
+      "Moon: 55.3",
+      "Mercury: 58.3",
+      "Venus: 60.4",
+      "Mars: 7.1",
+      "Jupiter: 30.6",
+      "Saturn: 18.1",
+      "Uranus: 36.2",
+      "Neptune: 30.1",
+      "Pluto: 58.1"
+    ],
+    "design": [
+      "Sun: 50.5",
+      "Earth: 3.5",
+      "NorthNode: 61.5",
+      "SouthNode: 62.5",
+      "Moon: 10.6",
+      "Mercury: 32.2",
+      "Venus: 48.2",
+      "Mars: 31.2",
+      "Jupiter: 13.5",
+      "Saturn: 46.2",
+      "Uranus: 36.1",
+      "Neptune: 49.6",
+      "Pluto: 10.4"
+    ]
+  },
+  "input": {
+    "localDate": "2010-01-18",
+    "localTime": "12:08",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_126",
+    "birthplace": "London"
+  }
+}

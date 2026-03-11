@@ -1,0 +1,59 @@
+{
+  "name": "Test_368",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (56/60 | 27/28)",
+  "channels": [
+    "20-34",
+    "27-50",
+    "37-40",
+    "6-59",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 56.5",
+      "Earth: 60.5",
+      "NorthNode: 55.4",
+      "SouthNode: 59.4",
+      "Moon: 21.6",
+      "Mercury: 7.6",
+      "Venus: 64.2",
+      "Mars: 31.2",
+      "Jupiter: 50.2",
+      "Saturn: 23.3",
+      "Uranus: 18.2",
+      "Neptune: 14.4",
+      "Pluto: 6.3"
+    ],
+    "design": [
+      "Sun: 27.1",
+      "Earth: 28.1",
+      "NorthNode: 37.6",
+      "SouthNode: 40.6",
+      "Moon: 14.1",
+      "Mercury: 23.3",
+      "Venus: 8.1",
+      "Mars: 20.4",
+      "Jupiter: 50.5",
+      "Saturn: 24.4",
+      "Uranus: 18.2",
+      "Neptune: 34.1",
+      "Pluto: 6.3"
+    ]
+  },
+  "input": {
+    "localDate": "1970-07-24",
+    "localTime": "05:49",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_368",
+    "birthplace": "London"
+  }
+}

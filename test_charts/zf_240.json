@@ -1,0 +1,56 @@
+{
+  "name": "Test_240",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (63/64 | 5/35)",
+  "channels": [
+    "24-61",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 63.1",
+      "Earth: 64.1",
+      "NorthNode: 62.6",
+      "SouthNode: 61.6",
+      "Moon: 60.4",
+      "Mercury: 25.1",
+      "Venus: 60.6",
+      "Mars: 24.4",
+      "Jupiter: 26.6",
+      "Saturn: 54.3",
+      "Uranus: 3.4",
+      "Neptune: 63.5",
+      "Pluto: 61.2"
+    ],
+    "design": [
+      "Sun: 5.3",
+      "Earth: 35.3",
+      "NorthNode: 56.2",
+      "SouthNode: 60.2",
+      "Moon: 14.6",
+      "Mercury: 14.4",
+      "Venus: 50.6",
+      "Mars: 63.2",
+      "Jupiter: 9.1",
+      "Saturn: 58.5",
+      "Uranus: 3.3",
+      "Neptune: 63.3",
+      "Pluto: 54.5"
+    ]
+  },
+  "input": {
+    "localDate": "2019-03-03",
+    "localTime": "06:13",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_240",
+    "birthplace": "Sydney"
+  }
+}

@@ -1,0 +1,3087 @@
+{
+  "generatedAt": "2026-01-14T17:22:34.211Z",
+  "charts": [
+    {
+      "name": "Kai",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "9th November 1982 @ 06:13",
+          "BirthDateLocal12": "9th November 1982 @ 06:13 AM",
+          "BirthDateUtc": "9th November 1982 @ 14:13",
+          "BirthDateUtc12": "9th November 1982 @ 02:13 PM",
+          "BirthDateLocalStandard": "1982-11-09T06:13:00-08:00",
+          "BirthDateUtcStandard": "1982-11-09T14:13:00+00:00",
+          "Age": 43,
+          "DesignDateUtc": "11th August 1982 @ 21:00",
+          "DesignDateUtc12": "11th August 1982 @ 09:00 PM",
+          "DesignDateUtcStandard": "1982-08-11T21:00:01+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Generator",
+            "option": "Generator"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "To Respond",
+            "option": "To Respond"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Sacral",
+            "option": "Sacral"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "4 / 6",
+            "option": "4 / 6"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Satisfaction",
+            "option": "Satisfaction"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Frustration",
+            "option": "Frustration"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Right Angle Cross of The Sphinx  (1/2 | 7/13)",
+            "option": "Right Angle Cross of The Sphinx  (1/2 | 7/13)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Split Definition",
+            "option": "Split Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "InDirect",
+            "option": "InDirect"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Kitchens",
+            "option": "Kitchens"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Probability",
+            "option": "Probability"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Innocence",
+            "option": "Innocence"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Security",
+            "option": "Security"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Feeling",
+            "option": "Feeling"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Respond and trust your gut",
+            "option": "Respond and trust your gut"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Execution - Customer Service, Connections, Fundamentals, Knowledge<br>Direction - Customer Service, Connections, Fundamentals, Knowledge<br>Execution - Leadership, Trust, Determination and Capital<br>Organizing - Leadership, Trust, Determination and Capital<br>Accounting - Leadership, Trust, Determination and Capital"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "11 - 56",
+                "option": "11 - 56"
+              },
+              {
+                "id": "57 - 34",
+                "option": "57 - 34"
+              },
+              {
+                "id": "28 - 38",
+                "option": "28 - 38"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 1,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 2,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 52,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 58,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 59,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "Detriment"
+          },
+          "Mercury": {
+            "Gate": 44,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 1,
+            "Line": 6,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 58,
+            "Line": 3,
+            "Color": 5,
+            "Tone": 4,
+            "Base": 3,
+            "FixingState": "Detriment"
+          },
+          "Jupiter": {
+            "Gate": 43,
+            "Line": 2,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 50,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 34,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 11,
+            "Line": 3,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "Detriment"
+          },
+          "Pluto": {
+            "Gate": 50,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 8,
+            "Line": 2,
+            "Color": 2,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 54,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 3,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 7,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 13,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 39,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 38,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Moon": {
+            "Gate": 24,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 59,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Venus": {
+            "Gate": 56,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 28,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "Exalted"
+          },
+          "Jupiter": {
+            "Gate": 28,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Saturn": {
+            "Gate": 57,
+            "Line": 3,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 34,
+            "Line": 1,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "Exalted"
+          },
+          "Neptune": {
+            "Gate": 11,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 4,
+            "FixingState": "Exalted"
+          },
+          "Pluto": {
+            "Gate": 32,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 8,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 58,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [
+          "splenic center",
+          "root center",
+          "ajna center",
+          "throat center",
+          "splenic center",
+          "sacral center"
+        ],
+        "ConsciousCenters": [],
+        "DefinedCenters": [
+          "root center",
+          "splenic center",
+          "ajna center",
+          "sacral center",
+          "throat center"
+        ],
+        "OpenCenters": [
+          "g center",
+          "solar plexus center",
+          "heart center",
+          "head center"
+        ],
+        "Channels": [
+          "11-56",
+          "57-34",
+          "28-38"
+        ],
+        "Variables": {
+          "Digestion": "right",
+          "Environment": "right",
+          "Awareness": "left",
+          "Perspective": "left"
+        },
+        "Name": "Kai",
+        "FirstName": "Kai",
+        "LastName": "",
+        "BirthPlace": "Lakeview, Oregon"
+      }
+    },
+    {
+      "name": "Apollo",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "24th March 2011 @ 11:37",
+          "BirthDateLocal12": "24th March 2011 @ 11:37 AM",
+          "BirthDateUtc": "24th March 2011 @ 18:37",
+          "BirthDateUtc12": "24th March 2011 @ 06:37 PM",
+          "BirthDateLocalStandard": "2011-03-24T11:37:00-07:00",
+          "BirthDateUtcStandard": "2011-03-24T18:37:00+00:00",
+          "Age": 14,
+          "DesignDateUtc": "27th December 2010 @ 15:41",
+          "DesignDateUtc12": "27th December 2010 @ 03:41 PM",
+          "DesignDateUtcStandard": "2010-12-27T15:41:50+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Generator",
+            "option": "Generator"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "To Respond",
+            "option": "To Respond"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Sacral",
+            "option": "Sacral"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "6 / 3",
+            "option": "6 / 3"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Satisfaction",
+            "option": "Satisfaction"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Frustration",
+            "option": "Frustration"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Left Angle Cross of Healing (25/46 | 58/52)",
+            "option": "Left Angle Cross of Healing (25/46 | 58/52)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Single Definition",
+            "option": "Single Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Consecutive",
+            "option": "Consecutive"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Valleys",
+            "option": "Valleys"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Survival",
+            "option": "Survival"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Innocence",
+            "option": "Innocence"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Action",
+            "option": "Action"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Smell",
+            "option": "Smell"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Respond and trust your gut",
+            "option": "Respond and trust your gut"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Teamwork - Leadership, Trust, Determination and Capital<br>Culture - Talent, Competences, Propaganda, Credibility<br>Responsability - Propaganda, Credibility, Talent, Competences<br>Teamwork - Detail, Fundamentals, Networking and Client Relations"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "57 - 10",
+                "option": "57 - 10"
+              },
+              {
+                "id": "15 - 5",
+                "option": "15 - 5"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 25,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Earth": {
+            "Gate": 46,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 11,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 12,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 5,
+            "Line": 2,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 42,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 30,
+            "Line": 3,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 36,
+            "Line": 1,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "Juxtaposed"
+          },
+          "Jupiter": {
+            "Gate": 21,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 1,
+            "FixingState": "Exalted"
+          },
+          "Saturn": {
+            "Gate": 48,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 25,
+            "Line": 3,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 30,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 58,
+            "Line": 4,
+            "Color": 5,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "Exalted"
+          },
+          "Chiron": {
+            "Gate": 55,
+            "Line": 3,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 25,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 58,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 52,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 10,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 15,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 46,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 26,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 43,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Mars": {
+            "Gate": 38,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 36,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 4,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 57,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 36,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 30,
+            "Line": 3,
+            "Color": 2,
+            "Tone": 4,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 58,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 30,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 22,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [
+          "g center",
+          "splenic center"
+        ],
+        "ConsciousCenters": [],
+        "DefinedCenters": [
+          "g center",
+          "splenic center",
+          "sacral center"
+        ],
+        "OpenCenters": [
+          "root center",
+          "heart center",
+          "ajna center",
+          "solar plexus center",
+          "throat center",
+          "head center"
+        ],
+        "Channels": [
+          "57-10",
+          "15-5"
+        ],
+        "Variables": {
+          "Digestion": "left",
+          "Environment": "right",
+          "Awareness": "left",
+          "Perspective": "right"
+        },
+        "Name": "Apollo",
+        "FirstName": "Apollo",
+        "LastName": "",
+        "BirthPlace": "Roseburg, Oregon, USA"
+      }
+    },
+    {
+      "name": "Helena Sorus",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "21st April 1978 @ 16:26",
+          "BirthDateLocal12": "21st April 1978 @ 04:26 PM",
+          "BirthDateUtc": "22nd April 1978 @ 00:26",
+          "BirthDateUtc12": "22nd April 1978 @ 12:26 AM",
+          "BirthDateLocalStandard": "1978-04-21T16:26:00-08:00",
+          "BirthDateUtcStandard": "1978-04-22T00:26:00+00:00",
+          "Age": 47,
+          "DesignDateUtc": "23rd January 1978 @ 21:19",
+          "DesignDateUtc12": "23rd January 1978 @ 09:19 PM",
+          "DesignDateUtcStandard": "1978-01-23T21:19:42+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Reflector",
+            "option": "Reflector"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "Wait a Lunar Cycle",
+            "option": "Wait a Lunar Cycle"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Lunar",
+            "option": "Lunar"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "6 / 2",
+            "option": "6 / 2"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Surprise",
+            "option": "Surprise"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Disappointment",
+            "option": "Disappointment"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Left Angle Cross of Wishes (3/50 | 41/31)",
+            "option": "Left Angle Cross of Wishes (3/50 | 41/31)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "No Definition",
+            "option": "No Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Nervous",
+            "option": "Nervous"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Kitchens",
+            "option": "Kitchens"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Survival",
+            "option": "Survival"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Desire",
+            "option": "Desire"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Acceptance",
+            "option": "Acceptance"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Feeling",
+            "option": "Feeling"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Reflect and discuss with trusted people to see what comes up",
+            "option": "Reflect and discuss with trusted people to see what comes up"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Management - Determination, Capital, Leadership and Trust<br>Responsability - Customer Service, Connections, Fundamentals, Knowledge<br>Execution - Talent, Competences, Propaganda, Credibility<br>Management - Talent, Competences, Propaganda, Credibility<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Execution - Customer Service, Connections, Fundamentals, Knowledge"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": []
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": []
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 3,
+            "Line": 6,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "Exalted"
+          },
+          "Earth": {
+            "Gate": 50,
+            "Line": 6,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 18,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 17,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 57,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Mercury": {
+            "Gate": 51,
+            "Line": 1,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 23,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 5,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 31,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 15,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "Exalted"
+          },
+          "Saturn": {
+            "Gate": 4,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 1,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 26,
+            "Line": 2,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 48,
+            "Line": 6,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 27,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 39,
+            "Line": 2,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 41,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 31,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 18,
+            "Line": 5,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 17,
+            "Line": 5,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 56,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 38,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 41,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 56,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 3,
+            "FixingState": "Detriment"
+          },
+          "Jupiter": {
+            "Gate": 12,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 1,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 26,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "Exalted"
+          },
+          "Pluto": {
+            "Gate": 57,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Chiron": {
+            "Gate": 3,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 15,
+            "Line": 3,
+            "Color": 4,
+            "Tone": 4,
+            "Base": 3,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [],
+        "ConsciousCenters": [],
+        "DefinedCenters": [],
+        "OpenCenters": [
+          "root center",
+          "throat center",
+          "splenic center",
+          "ajna center",
+          "sacral center",
+          "g center",
+          "heart center",
+          "solar plexus center",
+          "head center"
+        ],
+        "Channels": [],
+        "Variables": {
+          "Digestion": "right",
+          "Environment": "right",
+          "Awareness": "right",
+          "Perspective": "left"
+        },
+        "Name": "Helena Sorus",
+        "FirstName": "Helena",
+        "LastName": "Sorus",
+        "BirthPlace": "Santa Rosa, California, USA"
+      }
+    },
+    {
+      "name": "Eliza Mei Sorus",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "3rd November 2015 @ 06:54",
+          "BirthDateLocal12": "3rd November 2015 @ 06:54 AM",
+          "BirthDateUtc": "3rd November 2015 @ 14:54",
+          "BirthDateUtc12": "3rd November 2015 @ 02:54 PM",
+          "BirthDateLocalStandard": "2015-11-03T06:54:00-08:00",
+          "BirthDateUtcStandard": "2015-11-03T14:54:00+00:00",
+          "Age": 10,
+          "DesignDateUtc": "5th August 2015 @ 14:26",
+          "DesignDateUtc12": "5th August 2015 @ 02:26 PM",
+          "DesignDateUtcStandard": "2015-08-05T14:26:02+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Generator",
+            "option": "Generator"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "To Respond",
+            "option": "To Respond"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Sacral",
+            "option": "Sacral"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "4 / 6",
+            "option": "4 / 6"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Satisfaction",
+            "option": "Satisfaction"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Frustration",
+            "option": "Frustration"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Right Angle Cross of The Four Ways (44/24 | 33/19)",
+            "option": "Right Angle Cross of The Four Ways (44/24 | 33/19)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Split Definition",
+            "option": "Split Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Nervous",
+            "option": "Nervous"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Caves",
+            "option": "Caves"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Survival",
+            "option": "Survival"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Desire",
+            "option": "Desire"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Judgment",
+            "option": "Judgment"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Inner Vision",
+            "option": "Inner Vision"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Respond and trust your gut",
+            "option": "Respond and trust your gut"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Teamwork - Determination, Capital, Leadership and Trust<br>Supervision - Propaganda, Credibility, Talent, Competences<br>Supervision - Leadership, Trust, Determination and Capital<br>Teamwork - Propaganda, Credibility, Talent, Competences<br>Dedication - Talent, Competences, Propaganda, Credibility<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Capacity - Propaganda, Credibility, Talent, Competences"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "46 - 29",
+                "option": "46 - 29"
+              },
+              {
+                "id": "25 - 51",
+                "option": "25 - 51"
+              },
+              {
+                "id": "28 - 38",
+                "option": "28 - 38"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 44,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "Detriment"
+          },
+          "Earth": {
+            "Gate": 24,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 46,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 25,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 33,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 2,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 28,
+            "Line": 1,
+            "Color": 2,
+            "Tone": 2,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 6,
+            "Line": 3,
+            "Color": 1,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 6,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 4,
+            "FixingState": "Juxtaposed"
+          },
+          "Jupiter": {
+            "Gate": 47,
+            "Line": 1,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 34,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 51,
+            "Line": 3,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 37,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 38,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "Detriment"
+          },
+          "Chiron": {
+            "Gate": 22,
+            "Line": 1,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 18,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 33,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "Exalted"
+          },
+          "Earth": {
+            "Gate": 19,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 46,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 25,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 42,
+            "Line": 3,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Mercury": {
+            "Gate": 29,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "Detriment"
+          },
+          "Venus": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 56,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 14,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 51,
+            "Line": 6,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 37,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 38,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Chiron": {
+            "Gate": 22,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 6,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [
+          "g center",
+          "sacral center",
+          "heart center",
+          "g center"
+        ],
+        "ConsciousCenters": [
+          "heart center",
+          "g center",
+          "splenic center",
+          "root center"
+        ],
+        "DefinedCenters": [
+          "root center",
+          "g center",
+          "sacral center",
+          "heart center",
+          "splenic center"
+        ],
+        "OpenCenters": [
+          "throat center",
+          "solar plexus center",
+          "ajna center",
+          "head center"
+        ],
+        "Channels": [
+          "46-29",
+          "25-51",
+          "28-38"
+        ],
+        "Variables": {
+          "Digestion": "right",
+          "Environment": "right",
+          "Awareness": "right",
+          "Perspective": "right"
+        },
+        "Name": "Eliza Mei Sorus",
+        "FirstName": "Eliza",
+        "LastName": "Mei Sorus",
+        "BirthPlace": "Reno, Nevada, USA"
+      }
+    },
+    {
+      "name": "Greg Ames",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "29th January 1956 @ 11:47",
+          "BirthDateLocal12": "29th January 1956 @ 11:47 AM",
+          "BirthDateUtc": "29th January 1956 @ 19:47",
+          "BirthDateUtc12": "29th January 1956 @ 07:47 PM",
+          "BirthDateLocalStandard": "1956-01-29T11:47:00-08:00",
+          "BirthDateUtcStandard": "1956-01-29T19:47:00+00:00",
+          "Age": 69,
+          "DesignDateUtc": "4th November 1955 @ 02:29",
+          "DesignDateUtc12": "4th November 1955 @ 02:29 AM",
+          "DesignDateUtcStandard": "1955-11-04T02:29:26+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Generator",
+            "option": "Generator"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "To Respond",
+            "option": "To Respond"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Sacral",
+            "option": "Sacral"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "2 / 4",
+            "option": "2 / 4"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Satisfaction",
+            "option": "Satisfaction"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Frustration",
+            "option": "Frustration"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Right Angle Cross of The Four Ways (19/33 | 44/24)",
+            "option": "Right Angle Cross of The Four Ways (19/33 | 44/24)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Split Definition",
+            "option": "Split Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Cold",
+            "option": "Cold"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Shores",
+            "option": "Shores"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Personal",
+            "option": "Personal"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Desire",
+            "option": "Desire"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Security",
+            "option": "Security"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Touch",
+            "option": "Touch"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Respond and trust your gut",
+            "option": "Respond and trust your gut"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Supervision - Talent, Competences, Propaganda, Credibility<br>Culture - Propaganda, Credibility, Talent, Competences<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Dedication - Customer Service, Connections, Fundamentals, Knowledge<br>Responsability - Leadership, Trust, Determination and Capital<br>Capacity - Customer Service, Connections, Fundamentals, Knowledge<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Management - Detail, Fundamentals, Networking and Client Relations<br>Dedication - Propaganda, Credibility, Talent, Competences"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "26 - 44",
+                "option": "26 - 44"
+              },
+              {
+                "id": "15 - 5",
+                "option": "15 - 5"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 19,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 33,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 5,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 35,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 40,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 41,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 63,
+            "Line": 4,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 9,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 34,
+            "Line": 2,
+            "Color": 2,
+            "Tone": 5,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 56,
+            "Line": 4,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 50,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 29,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 41,
+            "Line": 5,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 58,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 44,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "Detriment"
+          },
+          "Earth": {
+            "Gate": 24,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 26,
+            "Line": 1,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 45,
+            "Line": 1,
+            "Color": 6,
+            "Tone": 2,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 15,
+            "Line": 6,
+            "Color": 6,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 32,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 14,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 48,
+            "Line": 5,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "Exalted"
+          },
+          "Jupiter": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 43,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 31,
+            "Line": 1,
+            "Color": 3,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 50,
+            "Line": 3,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 29,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 60,
+            "Line": 5,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 11,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [
+          "heart center",
+          "splenic center"
+        ],
+        "ConsciousCenters": [],
+        "DefinedCenters": [
+          "splenic center",
+          "heart center",
+          "g center",
+          "sacral center"
+        ],
+        "OpenCenters": [
+          "ajna center",
+          "throat center",
+          "root center",
+          "head center",
+          "solar plexus center"
+        ],
+        "Channels": [
+          "26-44",
+          "15-5"
+        ],
+        "Variables": {
+          "Digestion": "right",
+          "Environment": "left",
+          "Awareness": "left",
+          "Perspective": "left"
+        },
+        "Name": "Greg Ames",
+        "FirstName": "Greg",
+        "LastName": "Ames",
+        "BirthPlace": "Los Angeles, California, USA"
+      }
+    },
+    {
+      "name": "Saint linda",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "26th March 1942 @ 13:15",
+          "BirthDateLocal12": "26th March 1942 @ 01:15 PM",
+          "BirthDateUtc": "26th March 1942 @ 20:15",
+          "BirthDateUtc12": "26th March 1942 @ 08:15 PM",
+          "BirthDateLocalStandard": "1942-03-26T13:15:00-07:00",
+          "BirthDateUtcStandard": "1942-03-26T20:15:00+00:00",
+          "Age": 83,
+          "DesignDateUtc": "29th December 1941 @ 15:17",
+          "DesignDateUtc12": "29th December 1941 @ 03:17 PM",
+          "DesignDateUtcStandard": "1941-12-29T15:17:21+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Projector",
+            "option": "Projector"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "Wait for the Invitation",
+            "option": "Wait for the Invitation"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Splenic",
+            "option": "Splenic"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "2 / 4",
+            "option": "2 / 4"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Success",
+            "option": "Success"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Bitterness",
+            "option": "Bitterness"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Right Angle Cross of Service (17/18 | 58/52)",
+            "option": "Right Angle Cross of Service (17/18 | 58/52)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Split Definition",
+            "option": "Split Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Direct",
+            "option": "Direct"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Markets",
+            "option": "Markets"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Personal",
+            "option": "Personal"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Guilt",
+            "option": "Guilt"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Meditation",
+            "option": "Meditation"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Outer Vision",
+            "option": "Outer Vision"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Wait for others to come to you then trust your instincts",
+            "option": "Wait for others to come to you then trust your instincts"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Public Relations - Detail, Fundamentals, Networking and Client Relations<br>Public Relations - Customer Service, Connections, Fundamentals, Knowledge<br>Teamwork - Detail, Fundamentals, Networking and Client Relations<br>Management - Talent, Competences, Propaganda, Credibility<br>Accounting - Propaganda, Credibility, Talent, Competences<br>Public Relations - Determination, Capital, Leadership and Trust<br>Teamwork - Talent, Competences, Propaganda, Credibility<br>Management - Customer Service, Connections, Fundamentals, Knowledge"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "17 - 62",
+                "option": "17 - 62"
+              },
+              {
+                "id": "18 - 58",
+                "option": "18 - 58"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 17,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 4,
+            "Base": 5,
+            "FixingState": "Juxtaposed"
+          },
+          "Earth": {
+            "Gate": 18,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 4,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 64,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 63,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 62,
+            "Line": 6,
+            "Color": 4,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 63,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "Exalted"
+          },
+          "Venus": {
+            "Gate": 49,
+            "Line": 2,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 35,
+            "Line": 1,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 35,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Saturn": {
+            "Gate": 8,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 8,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 6,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 46,
+            "Line": 1,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "Exalted"
+          },
+          "Pluto": {
+            "Gate": 31,
+            "Line": 2,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 33,
+            "Line": 1,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 35,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 4,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 58,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 52,
+            "Line": 4,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 64,
+            "Line": 6,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 63,
+            "Line": 6,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 23,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 4,
+            "FixingState": "Detriment"
+          },
+          "Mercury": {
+            "Gate": 38,
+            "Line": 3,
+            "Color": 4,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 13,
+            "Line": 5,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Mars": {
+            "Gate": 42,
+            "Line": 4,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Jupiter": {
+            "Gate": 35,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 5,
+            "FixingState": "Exalted"
+          },
+          "Saturn": {
+            "Gate": 23,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 8,
+            "Line": 3,
+            "Color": 4,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "Detriment"
+          },
+          "Neptune": {
+            "Gate": 46,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 31,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 4,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 7,
+            "Line": 1,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 20,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [],
+        "ConsciousCenters": [
+          "ajna center",
+          "throat center"
+        ],
+        "DefinedCenters": [
+          "root center",
+          "splenic center",
+          "throat center",
+          "ajna center"
+        ],
+        "OpenCenters": [
+          "head center",
+          "g center",
+          "sacral center",
+          "solar plexus center",
+          "heart center"
+        ],
+        "Channels": [
+          "17-62",
+          "18-58"
+        ],
+        "Variables": {
+          "Digestion": "left",
+          "Environment": "left",
+          "Awareness": "right",
+          "Perspective": "right"
+        },
+        "Name": "Saint linda",
+        "FirstName": "Saint",
+        "LastName": "linda",
+        "BirthPlace": "Red Bluff, CA, USA"
+      }
+    },
+    {
+      "name": "Ashes",
+      "zen": {
+        "Properties": {
+          "BirthDateLocal": "9th November 1984 @ 09:17",
+          "BirthDateLocal12": "9th November 1984 @ 09:17 AM",
+          "BirthDateUtc": "9th November 1984 @ 17:17",
+          "BirthDateUtc12": "9th November 1984 @ 05:17 PM",
+          "BirthDateLocalStandard": "1984-11-09T09:17:00-08:00",
+          "BirthDateUtcStandard": "1984-11-09T17:17:00+00:00",
+          "Age": 41,
+          "DesignDateUtc": "12th August 1984 @ 00:41",
+          "DesignDateUtc12": "12th August 1984 @ 12:41 AM",
+          "DesignDateUtcStandard": "1984-08-12T00:41:55+00:00",
+          "Type": {
+            "name": "Type",
+            "id": "Manifesting Generator",
+            "option": "Manifesting Generator"
+          },
+          "Strategy": {
+            "name": "Strategy (for the most ease)",
+            "id": "To Respond",
+            "option": "To Respond"
+          },
+          "InnerAuthority": {
+            "name": "Inner Authority (for aligned decisions)",
+            "id": "Sacral",
+            "option": "Sacral"
+          },
+          "Profile": {
+            "name": "Profile",
+            "id": "5 / 1",
+            "option": "5 / 1"
+          },
+          "Signature": {
+            "name": "Signature (when on the right track)",
+            "id": "Satisfaction",
+            "option": "Satisfaction"
+          },
+          "NotSelfTheme": {
+            "name": "Not-Self (not on the right track)",
+            "id": "Frustration",
+            "option": "Frustration"
+          },
+          "IncarnationCross": {
+            "name": "Incarnation Cross (life theme)",
+            "id": "Left Angle Cross of Defiance (1/2 | 4/49)",
+            "option": "Left Angle Cross of Defiance (1/2 | 4/49)"
+          },
+          "Definition": {
+            "name": "Definition",
+            "id": "Split Definition",
+            "option": "Split Definition"
+          },
+          "Digestion": {
+            "name": "Digestion",
+            "id": "Nervous",
+            "option": "Nervous"
+          },
+          "Environment": {
+            "name": "Environment",
+            "id": "Mountains",
+            "option": "Mountains"
+          },
+          "Perspective": {
+            "name": "Perspective (view)",
+            "id": "Survival",
+            "option": "Survival"
+          },
+          "Motivation": {
+            "name": "Motivation",
+            "id": "Need",
+            "option": "Need"
+          },
+          "Sense": {
+            "name": "",
+            "id": "Security",
+            "option": "Security"
+          },
+          "DesignSense": {
+            "name": "Design Sense (cognition)",
+            "id": "Touch",
+            "option": "Touch"
+          },
+          "DecisionMakingStrategy": {
+            "name": "",
+            "id": "Respond and trust your gut",
+            "option": "Respond and trust your gut"
+          },
+          "BusinessCompetencesAndQualities": {
+            "name": "",
+            "id": "skills-attributes",
+            "option": "Execution - Propaganda, Credibility, Talent, Competences<br>Direction - Propaganda, Credibility, Talent, Competences<br>Public Relations - Customer Service, Connections, Fundamentals, Knowledge<br>Capacity - Customer Service, Connections, Fundamentals, Knowledge<br>Public Relations - Propaganda, Credibility, Talent, Competences<br>Culture - Detail, Fundamentals, Networking and Client Relations<br>Capacity - Determination, Capital, Leadership and Trust"
+          },
+          "Channels": {
+            "name": "Defined Channels",
+            "id": "Channels",
+            "list": [
+              {
+                "id": "20 - 10",
+                "option": "20 - 10"
+              },
+              {
+                "id": "20 - 34",
+                "option": "20 - 34"
+              },
+              {
+                "id": "34 - 10",
+                "option": "34 - 10"
+              },
+              {
+                "id": "1 - 8",
+                "option": "1 - 8"
+              },
+              {
+                "id": "2 - 14",
+                "option": "2 - 14"
+              },
+              {
+                "id": "28 - 38",
+                "option": "28 - 38"
+              }
+            ]
+          },
+          "OpenCenters": {
+            "name": "Open Centers",
+            "id": "OpenCenters",
+            "list": [
+              {
+                "id": "Head",
+                "option": "Head - Inspiration"
+              },
+              {
+                "id": "Ajna",
+                "option": "Ajna - Ideas"
+              },
+              {
+                "id": "Heart",
+                "option": "Heart, Will, Ego - Resources"
+              },
+              {
+                "id": "Solar Plexus",
+                "option": "Solar Plexus - Emotion"
+              }
+            ]
+          },
+          "DefinedCenters": {
+            "name": "Defined Centers",
+            "id": "DefinedCenters",
+            "list": [
+              {
+                "id": "Throat",
+                "option": "Throat - Communication/Manifestation"
+              },
+              {
+                "id": "G",
+                "option": "G-Center - Love & Direction"
+              },
+              {
+                "id": "Splenic",
+                "option": "Spleen - Intuition/Instinct/Immunity"
+              },
+              {
+                "id": "Sacral",
+                "option": "Sacral - Life Force Energy"
+              },
+              {
+                "id": "Root",
+                "option": "Root - The Beginning"
+              }
+            ]
+          }
+        },
+        "Personality": {
+          "Sun": {
+            "Gate": 1,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 2,
+            "Line": 5,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "Detriment"
+          },
+          "North Node": {
+            "Gate": 8,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "South Node": {
+            "Gate": 14,
+            "Line": 4,
+            "Color": 1,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Moon": {
+            "Gate": 8,
+            "Line": 5,
+            "Color": 2,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "Detriment"
+          },
+          "Mercury": {
+            "Gate": 34,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 1,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 11,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 2,
+            "Base": 1,
+            "FixingState": "Detriment"
+          },
+          "Mars": {
+            "Gate": 61,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "Detriment"
+          },
+          "Jupiter": {
+            "Gate": 38,
+            "Line": 1,
+            "Color": 6,
+            "Tone": 3,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 43,
+            "Line": 1,
+            "Color": 1,
+            "Tone": 1,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 5,
+            "Line": 1,
+            "Color": 6,
+            "Tone": 4,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 10,
+            "Line": 2,
+            "Color": 3,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "Exalted"
+          },
+          "Pluto": {
+            "Gate": 28,
+            "Line": 1,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 16,
+            "Line": 2,
+            "Color": 2,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 17,
+            "Line": 4,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 1,
+            "FixingState": "None"
+          }
+        },
+        "Design": {
+          "Sun": {
+            "Gate": 4,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Earth": {
+            "Gate": 49,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "North Node": {
+            "Gate": 20,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "Juxtaposed"
+          },
+          "South Node": {
+            "Gate": 34,
+            "Line": 4,
+            "Color": 4,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Moon": {
+            "Gate": 49,
+            "Line": 6,
+            "Color": 1,
+            "Tone": 5,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Mercury": {
+            "Gate": 64,
+            "Line": 2,
+            "Color": 5,
+            "Tone": 5,
+            "Base": 2,
+            "FixingState": "None"
+          },
+          "Venus": {
+            "Gate": 59,
+            "Line": 6,
+            "Color": 3,
+            "Tone": 3,
+            "Base": 1,
+            "FixingState": "Exalted"
+          },
+          "Mars": {
+            "Gate": 14,
+            "Line": 3,
+            "Color": 5,
+            "Tone": 1,
+            "Base": 5,
+            "FixingState": "Exalted"
+          },
+          "Jupiter": {
+            "Gate": 10,
+            "Line": 6,
+            "Color": 5,
+            "Tone": 3,
+            "Base": 3,
+            "FixingState": "None"
+          },
+          "Saturn": {
+            "Gate": 44,
+            "Line": 3,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Uranus": {
+            "Gate": 9,
+            "Line": 5,
+            "Color": 1,
+            "Tone": 2,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Neptune": {
+            "Gate": 10,
+            "Line": 1,
+            "Color": 4,
+            "Tone": 6,
+            "Base": 5,
+            "FixingState": "None"
+          },
+          "Pluto": {
+            "Gate": 50,
+            "Line": 4,
+            "Color": 3,
+            "Tone": 6,
+            "Base": 1,
+            "FixingState": "None"
+          },
+          "Chiron": {
+            "Gate": 16,
+            "Line": 3,
+            "Color": 3,
+            "Tone": 1,
+            "Base": 4,
+            "FixingState": "None"
+          },
+          "Lilith": {
+            "Gate": 36,
+            "Line": 5,
+            "Color": 6,
+            "Tone": 6,
+            "Base": 2,
+            "FixingState": "None"
+          }
+        },
+        "UnconsciousCenters": [
+          "g center",
+          "throat center",
+          "sacral center",
+          "throat center",
+          "g center",
+          "sacral center"
+        ],
+        "ConsciousCenters": [
+          "g center",
+          "sacral center",
+          "g center",
+          "sacral center",
+          "throat center",
+          "g center",
+          "splenic center",
+          "root center"
+        ],
+        "DefinedCenters": [
+          "throat center",
+          "g center",
+          "sacral center",
+          "splenic center",
+          "root center"
+        ],
+        "OpenCenters": [
+          "ajna center",
+          "solar plexus center",
+          "head center",
+          "heart center"
+        ],
+        "Channels": [
+          "20-10",
+          "20-34",
+          "34-10",
+          "1-8",
+          "2-14",
+          "28-38"
+        ],
+        "Variables": {
+          "Digestion": "right",
+          "Environment": "left",
+          "Awareness": "left",
+          "Perspective": "right"
+        },
+        "Name": "Ashes",
+        "FirstName": "Ashes",
+        "LastName": "",
+        "BirthPlace": "Pullman (Washington), United States (USA)"
+      }
+    }
+  ]
+}

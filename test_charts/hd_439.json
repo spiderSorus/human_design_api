@@ -1,0 +1,61 @@
+{
+  "name": "Test_439",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (56/60 | 27/28)",
+  "channels": [
+    "17-62",
+    "2-14",
+    "20-34",
+    "20-57",
+    "27-50",
+    "34-57",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 56.6",
+      "Earth: 60.6",
+      "NorthNode: 14.5",
+      "SouthNode: 8.5",
+      "Moon: 30.2",
+      "Mercury: 62.4",
+      "Venus: 40.4",
+      "Mars: 2.4",
+      "Jupiter: 42.4",
+      "Saturn: 62.4",
+      "Uranus: 50.3",
+      "Neptune: 9.4",
+      "Pluto: 18.4"
+    ],
+    "design": [
+      "Sun: 27.2",
+      "Earth: 28.2",
+      "NorthNode: 34.2",
+      "SouthNode: 20.2",
+      "Moon: 57.3",
+      "Mercury: 24.4",
+      "Venus: 35.2",
+      "Mars: 37.5",
+      "Jupiter: 17.6",
+      "Saturn: 39.5",
+      "Uranus: 50.5",
+      "Neptune: 9.6",
+      "Pluto: 18.4"
+    ]
+  },
+  "input": {
+    "localDate": "1975-07-25",
+    "localTime": "12:23",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_439",
+    "birthplace": "Moscow"
+  }
+}

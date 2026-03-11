@@ -1,0 +1,57 @@
+{
+  "name": "Test_28",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Splenic",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (41/31 | 28/27)",
+  "channels": [
+    "1-8",
+    "26-44",
+    "28-38"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 41.2",
+      "Earth: 31.2",
+      "NorthNode: 18.5",
+      "SouthNode: 17.5",
+      "Moon: 56.4",
+      "Mercury: 38.4",
+      "Venus: 41.3",
+      "Mars: 56.5",
+      "Jupiter: 12.5",
+      "Saturn: 29.5",
+      "Uranus: 1.4",
+      "Neptune: 26.1",
+      "Pluto: 57.2"
+    ],
+    "design": [
+      "Sun: 28.4",
+      "Earth: 27.4",
+      "NorthNode: 57.1",
+      "SouthNode: 51.1",
+      "Moon: 8.6",
+      "Mercury: 44.5",
+      "Venus: 48.6",
+      "Mars: 56.5",
+      "Jupiter: 52.3",
+      "Saturn: 29.5",
+      "Uranus: 44.5",
+      "Neptune: 5.4",
+      "Pluto: 48.6"
+    ]
+  },
+  "input": {
+    "localDate": "1978-01-23",
+    "localTime": "20:23",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_28",
+    "birthplace": "Sao Paulo"
+  }
+}

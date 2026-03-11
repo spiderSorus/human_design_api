@@ -1,0 +1,58 @@
+{
+  "name": "Test_260",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (6/36 | 15/10)",
+  "channels": [
+    "23-43",
+    "35-36",
+    "39-55",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.5",
+      "Earth: 36.5",
+      "NorthNode: 23.4",
+      "SouthNode: 43.4",
+      "Moon: 53.2",
+      "Mercury: 64.1",
+      "Venus: 18.3",
+      "Mars: 55.1",
+      "Jupiter: 59.6",
+      "Saturn: 39.3",
+      "Uranus: 30.6",
+      "Neptune: 19.4",
+      "Pluto: 26.1"
+    ],
+    "design": [
+      "Sun: 15.1",
+      "Earth: 10.1",
+      "NorthNode: 8.5",
+      "SouthNode: 14.5",
+      "Moon: 22.4",
+      "Mercury: 35.2",
+      "Venus: 35.2",
+      "Mars: 55.2",
+      "Jupiter: 7.3",
+      "Saturn: 15.5",
+      "Uranus: 55.3",
+      "Neptune: 19.6",
+      "Pluto: 26.2"
+    ]
+  },
+  "input": {
+    "localDate": "2003-09-20",
+    "localTime": "21:57",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_260",
+    "birthplace": "Sydney"
+  }
+}

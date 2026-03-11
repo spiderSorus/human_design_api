@@ -1,0 +1,58 @@
+{
+  "name": "Test_313",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (36/6 | 10/15)",
+  "channels": [
+    "13-33",
+    "26-44",
+    "32-54",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 36.6",
+      "Earth: 6.6",
+      "NorthNode: 32.4",
+      "SouthNode: 42.4",
+      "Moon: 37.6",
+      "Mercury: 25.2",
+      "Venus: 42.4",
+      "Mars: 30.5",
+      "Jupiter: 8.3",
+      "Saturn: 33.4",
+      "Uranus: 44.4",
+      "Neptune: 5.6",
+      "Pluto: 48.4"
+    ],
+    "design": [
+      "Sun: 10.2",
+      "Earth: 15.2",
+      "NorthNode: 50.6",
+      "SouthNode: 3.6",
+      "Moon: 10.6",
+      "Mercury: 54.5",
+      "Venus: 13.1",
+      "Mars: 26.6",
+      "Jupiter: 23.4",
+      "Saturn: 7.4",
+      "Uranus: 44.3",
+      "Neptune: 5.4",
+      "Pluto: 48.5"
+    ]
+  },
+  "input": {
+    "localDate": "1977-03-18",
+    "localTime": "11:50",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_313",
+    "birthplace": "Moscow"
+  }
+}

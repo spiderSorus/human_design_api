@@ -1,0 +1,59 @@
+{
+  "name": "Test_430",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "26-44",
+    "27-50",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.3",
+      "Earth: 33.3",
+      "NorthNode: 36.2",
+      "SouthNode: 6.2",
+      "Moon: 52.5",
+      "Mercury: 30.4",
+      "Venus: 22.2",
+      "Mars: 5.4",
+      "Jupiter: 42.3",
+      "Saturn: 10.1",
+      "Uranus: 10.2",
+      "Neptune: 58.6",
+      "Pluto: 44.6"
+    ],
+    "design": [
+      "Sun: 44.5",
+      "Earth: 24.5",
+      "NorthNode: 25.4",
+      "SouthNode: 46.4",
+      "Moon: 27.5",
+      "Mercury: 50.2",
+      "Venus: 34.2",
+      "Mars: 57.3",
+      "Jupiter: 42.2",
+      "Saturn: 26.3",
+      "Uranus: 11.2",
+      "Neptune: 58.3",
+      "Pluto: 44.3"
+    ]
+  },
+  "input": {
+    "localDate": "1988-01-30",
+    "localTime": "23:16",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_430",
+    "birthplace": "Berlin"
+  }
+}

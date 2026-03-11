@@ -1,0 +1,57 @@
+{
+  "name": "Test_460",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (48/21 | 53/54)",
+  "channels": [
+    "1-8",
+    "18-58",
+    "29-46"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.5",
+      "Earth: 21.5",
+      "NorthNode: 58.4",
+      "SouthNode: 52.4",
+      "Moon: 46.6",
+      "Mercury: 18.3",
+      "Venus: 44.6",
+      "Mars: 1.2",
+      "Jupiter: 36.4",
+      "Saturn: 18.5",
+      "Uranus: 36.6",
+      "Neptune: 30.2",
+      "Pluto: 10.5"
+    ],
+    "design": [
+      "Sun: 53.1",
+      "Earth: 54.1",
+      "NorthNode: 38.3",
+      "SouthNode: 39.3",
+      "Moon: 8.1",
+      "Mercury: 56.1",
+      "Venus: 29.3",
+      "Mars: 64.6",
+      "Jupiter: 25.6",
+      "Saturn: 46.1",
+      "Uranus: 25.3",
+      "Neptune: 30.5",
+      "Pluto: 10.6"
+    ]
+  },
+  "input": {
+    "localDate": "2010-10-07",
+    "localTime": "10:14",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_460",
+    "birthplace": "Tokyo"
+  }
+}

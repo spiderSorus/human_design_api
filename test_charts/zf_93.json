@@ -1,0 +1,59 @@
+{
+  "name": "Test_93",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (9/16 | 40/37)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "34-57",
+    "37-40",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 9.3",
+      "Earth: 16.3",
+      "NorthNode: 64.5",
+      "SouthNode: 63.5",
+      "Moon: 5.1",
+      "Mercury: 10.2",
+      "Venus: 61.2",
+      "Mars: 54.2",
+      "Jupiter: 13.4",
+      "Saturn: 21.5",
+      "Uranus: 41.4",
+      "Neptune: 60.2",
+      "Pluto: 34.6"
+    ],
+    "design": [
+      "Sun: 40.5",
+      "Earth: 37.5",
+      "NorthNode: 47.3",
+      "SouthNode: 22.3",
+      "Moon: 47.1",
+      "Mercury: 40.1",
+      "Venus: 57.5",
+      "Mars: 44.5",
+      "Jupiter: 13.1",
+      "Saturn: 51.5",
+      "Uranus: 41.4",
+      "Neptune: 60.2",
+      "Pluto: 34.4"
+    ]
+  },
+  "input": {
+    "localDate": "1997-11-30",
+    "localTime": "11:10",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_93",
+    "birthplace": "Johannesburg"
+  }
+}

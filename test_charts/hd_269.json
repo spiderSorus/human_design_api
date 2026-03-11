@@ -1,0 +1,58 @@
+{
+  "name": "Test_269",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "10-20",
+    "2-14",
+    "21-45",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.3",
+      "Earth: 30.3",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 44.5",
+      "Mercury: 64.1",
+      "Venus: 39.2",
+      "Mars: 21.2",
+      "Jupiter: 20.5",
+      "Saturn: 11.4",
+      "Uranus: 11.5",
+      "Neptune: 58.5",
+      "Pluto: 44.3"
+    ],
+    "design": [
+      "Sun: 8.5",
+      "Earth: 14.5",
+      "NorthNode: 22.4",
+      "SouthNode: 47.4",
+      "Moon: 39.1",
+      "Mercury: 45.4",
+      "Venus: 15.3",
+      "Mars: 30.4",
+      "Jupiter: 2.4",
+      "Saturn: 10.4",
+      "Uranus: 10.3",
+      "Neptune: 38.1",
+      "Pluto: 44.4"
+    ]
+  },
+  "input": {
+    "localDate": "1988-08-19",
+    "localTime": "01:39",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_269",
+    "birthplace": "Los Angeles"
+  }
+}

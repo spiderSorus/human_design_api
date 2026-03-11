@@ -1,0 +1,57 @@
+{
+  "name": "Test_336",
+  "type": "Manifestor",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (47/22 | 12/11)",
+  "channels": [
+    "12-22",
+    "16-48",
+    "20-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.6",
+      "Earth: 22.6",
+      "NorthNode: 62.3",
+      "SouthNode: 61.3",
+      "Moon: 25.1",
+      "Mercury: 48.1",
+      "Venus: 57.3",
+      "Mars: 29.5",
+      "Jupiter: 16.6",
+      "Saturn: 20.1",
+      "Uranus: 13.5",
+      "Neptune: 41.3",
+      "Pluto: 9.5"
+    ],
+    "design": [
+      "Sun: 12.2",
+      "Earth: 11.2",
+      "NorthNode: 62.5",
+      "SouthNode: 61.5",
+      "Moon: 14.5",
+      "Mercury: 53.3",
+      "Venus: 12.3",
+      "Mars: 15.1",
+      "Jupiter: 8.3",
+      "Saturn: 8.1",
+      "Uranus: 49.2",
+      "Neptune: 41.5",
+      "Pluto: 9.6"
+    ]
+  },
+  "input": {
+    "localDate": "2000-09-14",
+    "localTime": "10:49",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_336",
+    "birthplace": "Berlin"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_95",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (10/15 | 18/17)",
+  "channels": [
+    "11-56",
+    "13-33",
+    "26-44",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 10.5",
+      "Earth: 15.5",
+      "NorthNode: 21.1",
+      "SouthNode: 48.1",
+      "Moon: 18.6",
+      "Mercury: 5.4",
+      "Venus: 60.6",
+      "Mars: 24.2",
+      "Jupiter: 44.5",
+      "Saturn: 33.3",
+      "Uranus: 37.2",
+      "Neptune: 13.3",
+      "Pluto: 11.3"
+    ],
+    "design": [
+      "Sun: 18.1",
+      "Earth: 17.1",
+      "NorthNode: 21.5",
+      "SouthNode: 48.5",
+      "Moon: 56.5",
+      "Mercury: 48.3",
+      "Venus: 1.6",
+      "Mars: 23.5",
+      "Jupiter: 32.4",
+      "Saturn: 33.2",
+      "Uranus: 37.3",
+      "Neptune: 13.2",
+      "Pluto: 26.6"
+    ]
+  },
+  "input": {
+    "localDate": "2005-12-24",
+    "localTime": "06:31",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_95",
+    "birthplace": "Sao Paulo"
+  }
+}

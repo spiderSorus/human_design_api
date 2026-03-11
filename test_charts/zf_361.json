@@ -1,0 +1,58 @@
+{
+  "name": "Test_361",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (3/50 | 60/56)",
+  "channels": [
+    "3-60",
+    "37-40",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.4",
+      "Earth: 50.4",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 12.3",
+      "Mercury: 17.4",
+      "Venus: 35.4",
+      "Mars: 29.3",
+      "Jupiter: 59.1",
+      "Saturn: 47.5",
+      "Uranus: 14.1",
+      "Neptune: 26.6",
+      "Pluto: 57.6"
+    ],
+    "design": [
+      "Sun: 60.6",
+      "Earth: 56.6",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 25.2",
+      "Mercury: 60.6",
+      "Venus: 37.2",
+      "Mars: 64.4",
+      "Jupiter: 40.4",
+      "Saturn: 6.5",
+      "Uranus: 14.1",
+      "Neptune: 26.5",
+      "Pluto: 32.2"
+    ]
+  },
+  "input": {
+    "localDate": "1980-04-19",
+    "localTime": "11:11",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_361",
+    "birthplace": "Mumbai"
+  }
+}

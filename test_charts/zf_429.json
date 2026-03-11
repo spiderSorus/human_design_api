@@ -1,0 +1,58 @@
+{
+  "name": "Test_429",
+  "type": "Manifestor",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (47/22 | 12/11)",
+  "channels": [
+    "12-22",
+    "18-58",
+    "28-38",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.5",
+      "Earth: 22.5",
+      "NorthNode: 44.2",
+      "SouthNode: 24.2",
+      "Moon: 58.5",
+      "Mercury: 18.4",
+      "Venus: 28.2",
+      "Mars: 33.4",
+      "Jupiter: 53.2",
+      "Saturn: 44.1",
+      "Uranus: 21.2",
+      "Neptune: 55.4",
+      "Pluto: 58.6"
+    ],
+    "design": [
+      "Sun: 12.1",
+      "Earth: 11.1",
+      "NorthNode: 1.4",
+      "SouthNode: 2.4",
+      "Moon: 4.6",
+      "Mercury: 53.3",
+      "Venus: 39.5",
+      "Mars: 16.5",
+      "Jupiter: 12.5",
+      "Saturn: 28.4",
+      "Uranus: 21.3",
+      "Neptune: 55.6",
+      "Pluto: 38.2"
+    ]
+  },
+  "input": {
+    "localDate": "2013-09-14",
+    "localTime": "08:09",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_429",
+    "birthplace": "Tokyo"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_352",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Self Projected",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "23-43",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.4",
+      "Earth: 41.4",
+      "NorthNode: 23.1",
+      "SouthNode: 43.1",
+      "Moon: 56.4",
+      "Mercury: 7.5",
+      "Venus: 39.4",
+      "Mars: 2.3",
+      "Jupiter: 17.6",
+      "Saturn: 49.5",
+      "Uranus: 2.6",
+      "Neptune: 36.3",
+      "Pluto: 60.1"
+    ],
+    "design": [
+      "Sun: 27.6",
+      "Earth: 28.6",
+      "NorthNode: 23.4",
+      "SouthNode: 43.4",
+      "Moon: 36.5",
+      "Mercury: 8.4",
+      "Venus: 36.2",
+      "Mars: 37.4",
+      "Jupiter: 36.5",
+      "Saturn: 49.6",
+      "Uranus: 2.2",
+      "Neptune: 36.2",
+      "Pluto: 60.3"
+    ]
+  },
+  "input": {
+    "localDate": "2022-07-28",
+    "localTime": "08:01",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_352",
+    "birthplace": "Berlin"
+  }
+}

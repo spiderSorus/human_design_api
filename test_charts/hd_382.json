@@ -1,0 +1,56 @@
+{
+  "name": "Test_382",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "23-43",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.5",
+      "Earth: 40.5",
+      "NorthNode: 23.3",
+      "SouthNode: 43.3",
+      "Moon: 45.3",
+      "Mercury: 22.2",
+      "Venus: 51.5",
+      "Mars: 51.5",
+      "Jupiter: 41.4",
+      "Saturn: 14.4",
+      "Uranus: 26.1",
+      "Neptune: 10.6",
+      "Pluto: 28.3"
+    ],
+    "design": [
+      "Sun: 5.1",
+      "Earth: 35.1",
+      "NorthNode: 8.4",
+      "SouthNode: 14.4",
+      "Moon: 42.3",
+      "Mercury: 10.3",
+      "Venus: 61.4",
+      "Mars: 13.1",
+      "Jupiter: 54.1",
+      "Saturn: 43.4",
+      "Uranus: 5.3",
+      "Neptune: 10.3",
+      "Pluto: 28.2"
+    ]
+  },
+  "input": {
+    "localDate": "1985-02-28",
+    "localTime": "15:36",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_382",
+    "birthplace": "Sao Paulo"
+  }
+}

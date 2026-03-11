@@ -1,0 +1,57 @@
+{
+  "name": "Test_293",
+  "type": "Projector",
+  "profile": "3 / 6",
+  "authority": "Self Projected",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "1-8",
+    "17-62",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.3",
+      "Earth: 41.3",
+      "NorthNode: 53.6",
+      "SouthNode: 54.6",
+      "Moon: 28.3",
+      "Mercury: 4.2",
+      "Venus: 62.6",
+      "Mars: 46.3",
+      "Jupiter: 51.5",
+      "Saturn: 49.3",
+      "Uranus: 59.4",
+      "Neptune: 44.6",
+      "Pluto: 40.6"
+    ],
+    "design": [
+      "Sun: 27.6",
+      "Earth: 28.6",
+      "NorthNode: 62.4",
+      "SouthNode: 61.4",
+      "Moon: 15.2",
+      "Mercury: 8.3",
+      "Venus: 17.1",
+      "Mars: 7.1",
+      "Jupiter: 17.2",
+      "Saturn: 49.4",
+      "Uranus: 59.2",
+      "Neptune: 1.2",
+      "Pluto: 40.5"
+    ]
+  },
+  "input": {
+    "localDate": "1963-07-28",
+    "localTime": "05:01",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_293",
+    "birthplace": "Los Angeles"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Test_35",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (25/46 | 10/15)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "18-58",
+    "20-34",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 25.2",
+      "Earth: 46.2",
+      "NorthNode: 34.4",
+      "SouthNode: 20.4",
+      "Moon: 15.5",
+      "Mercury: 37.1",
+      "Venus: 3.6",
+      "Mars: 13.1",
+      "Jupiter: 25.3",
+      "Saturn: 39.3",
+      "Uranus: 50.6",
+      "Neptune: 5.1",
+      "Pluto: 18.5"
+    ],
+    "design": [
+      "Sun: 10.4",
+      "Earth: 15.4",
+      "NorthNode: 9.5",
+      "SouthNode: 16.5",
+      "Moon: 3.1",
+      "Mercury: 58.1",
+      "Venus: 38.5",
+      "Mars: 9.4",
+      "Jupiter: 63.1",
+      "Saturn: 53.2",
+      "Uranus: 50.6",
+      "Neptune: 9.5",
+      "Pluto: 18.6"
+    ]
+  },
+  "input": {
+    "localDate": "1975-03-21",
+    "localTime": "03:55",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_35",
+    "birthplace": "Moscow"
+  }
+}

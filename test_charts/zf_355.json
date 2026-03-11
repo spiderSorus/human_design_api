@@ -1,0 +1,58 @@
+{
+  "name": "Test_355",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "13-33",
+    "26-44",
+    "34-57",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.4",
+      "Earth: 33.4",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 33.2",
+      "Mercury: 13.6",
+      "Venus: 22.3",
+      "Mars: 64.3",
+      "Jupiter: 40.3",
+      "Saturn: 6.5",
+      "Uranus: 14.1",
+      "Neptune: 26.6",
+      "Pluto: 32.2"
+    ],
+    "design": [
+      "Sun: 44.6",
+      "Earth: 24.6",
+      "NorthNode: 40.1",
+      "SouthNode: 37.1",
+      "Moon: 16.4",
+      "Mercury: 34.6",
+      "Venus: 34.3",
+      "Mars: 4.5",
+      "Jupiter: 40.1",
+      "Saturn: 6.2",
+      "Uranus: 43.3",
+      "Neptune: 26.3",
+      "Pluto: 57.6"
+    ]
+  },
+  "input": {
+    "localDate": "1980-02-01",
+    "localTime": "08:58",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_355",
+    "birthplace": "Sydney"
+  }
+}

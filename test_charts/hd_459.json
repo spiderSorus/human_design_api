@@ -1,0 +1,56 @@
+{
+  "name": "Test_459",
+  "type": "Projector",
+  "profile": "3 / 6",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (21/48 | 38/39)",
+  "channels": [
+    "32-54",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 21.3",
+      "Earth: 48.3",
+      "NorthNode: 32.4",
+      "SouthNode: 42.4",
+      "Moon: 64.3",
+      "Mercury: 3.3",
+      "Venus: 51.5",
+      "Mars: 37.5",
+      "Jupiter: 8.6",
+      "Saturn: 33.3",
+      "Uranus: 44.4",
+      "Neptune: 5.6",
+      "Pluto: 48.4"
+    ],
+    "design": [
+      "Sun: 38.6",
+      "Earth: 39.6",
+      "NorthNode: 50.5",
+      "SouthNode: 3.5",
+      "Moon: 52.1",
+      "Mercury: 54.4",
+      "Venus: 55.1",
+      "Mars: 10.5",
+      "Jupiter: 23.3",
+      "Saturn: 7.3",
+      "Uranus: 44.4",
+      "Neptune: 5.4",
+      "Pluto: 48.5"
+    ]
+  },
+  "input": {
+    "localDate": "1977-04-02",
+    "localTime": "02:36",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_459",
+    "birthplace": "Berlin"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_111",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (17/18 | 58/52)",
+  "channels": [
+    "18-58",
+    "3-60",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 17.3",
+      "Earth: 18.3",
+      "NorthNode: 40.1",
+      "SouthNode: 37.1",
+      "Moon: 33.5",
+      "Mercury: 37.5",
+      "Venus: 3.2",
+      "Mars: 39.3",
+      "Jupiter: 41.1",
+      "Saturn: 60.3",
+      "Uranus: 4.4",
+      "Neptune: 44.4",
+      "Pluto: 40.1"
+    ],
+    "design": [
+      "Sun: 58.5",
+      "Earth: 52.5",
+      "NorthNode: 40.3",
+      "SouthNode: 37.3",
+      "Moon: 16.2",
+      "Mercury: 58.1",
+      "Venus: 49.5",
+      "Mars: 52.6",
+      "Jupiter: 38.5",
+      "Saturn: 54.5",
+      "Uranus: 29.1",
+      "Neptune: 44.4",
+      "Pluto: 40.3"
+    ]
+  },
+  "input": {
+    "localDate": "1961-03-27",
+    "localTime": "01:05",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_111",
+    "birthplace": "Los Angeles"
+  }
+}

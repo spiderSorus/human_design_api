@@ -1,0 +1,56 @@
+{
+  "name": "Test_341",
+  "type": "Generator",
+  "profile": "4 / 1",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Juxtaposition Cross of ... (3/50 | 41/31)",
+  "channels": [
+    "10-34",
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.4",
+      "Earth: 50.4",
+      "NorthNode: 10.5",
+      "SouthNode: 15.5",
+      "Moon: 34.5",
+      "Mercury: 25.6",
+      "Venus: 51.1",
+      "Mars: 22.1",
+      "Jupiter: 59.6",
+      "Saturn: 13.5",
+      "Uranus: 54.4",
+      "Neptune: 54.5",
+      "Pluto: 43.4"
+    ],
+    "design": [
+      "Sun: 41.1",
+      "Earth: 31.1",
+      "NorthNode: 38.1",
+      "SouthNode: 39.1",
+      "Moon: 64.3",
+      "Mercury: 54.5",
+      "Venus: 11.5",
+      "Mars: 38.1",
+      "Jupiter: 64.3",
+      "Saturn: 19.1",
+      "Uranus: 38.6",
+      "Neptune: 54.3",
+      "Pluto: 43.5"
+    ]
+  },
+  "input": {
+    "localDate": "1992-04-20",
+    "localTime": "07:09",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_341",
+    "birthplace": "Tokyo"
+  }
+}

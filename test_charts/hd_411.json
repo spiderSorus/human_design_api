@@ -1,0 +1,57 @@
+{
+  "name": "Test_411",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (53/54 | 51/57)",
+  "channels": [
+    "16-48",
+    "25-51",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 53.4",
+      "Earth: 54.4",
+      "NorthNode: 21.1",
+      "SouthNode: 48.1",
+      "Moon: 40.3",
+      "Mercury: 33.5",
+      "Venus: 56.2",
+      "Mars: 23.4",
+      "Jupiter: 16.5",
+      "Saturn: 22.3",
+      "Uranus: 8.2",
+      "Neptune: 25.2",
+      "Pluto: 60.6"
+    ],
+    "design": [
+      "Sun: 51.6",
+      "Earth: 57.6",
+      "NorthNode: 51.1",
+      "SouthNode: 57.1",
+      "Moon: 27.4",
+      "Mercury: 42.4",
+      "Venus: 17.3",
+      "Mars: 63.3",
+      "Jupiter: 23.1",
+      "Saturn: 63.4",
+      "Uranus: 23.3",
+      "Neptune: 36.6",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2024-07-10",
+    "localTime": "07:38",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_411",
+    "birthplace": "Johannesburg"
+  }
+}

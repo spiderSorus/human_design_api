@@ -1,0 +1,59 @@
+{
+  "name": "Test_362",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Power",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "10-57",
+    "2-14",
+    "23-43",
+    "37-40",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.3",
+      "Earth: 43.3",
+      "NorthNode: 29.1",
+      "SouthNode: 30.1",
+      "Moon: 17.6",
+      "Mercury: 2.6",
+      "Venus: 15.2",
+      "Mars: 59.3",
+      "Jupiter: 59.1",
+      "Saturn: 47.4",
+      "Uranus: 43.6",
+      "Neptune: 26.6",
+      "Pluto: 57.5"
+    ],
+    "design": [
+      "Sun: 49.5",
+      "Earth: 4.5",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 10.3",
+      "Mercury: 37.4",
+      "Venus: 25.6",
+      "Mars: 40.6",
+      "Jupiter: 40.2",
+      "Saturn: 6.4",
+      "Uranus: 14.2",
+      "Neptune: 26.6",
+      "Pluto: 32.1"
+    ]
+  },
+  "input": {
+    "localDate": "1980-05-11",
+    "localTime": "14:39",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_362",
+    "birthplace": "Moscow"
+  }
+}

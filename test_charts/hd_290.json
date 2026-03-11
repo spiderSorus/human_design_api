@@ -1,0 +1,58 @@
+{
+  "name": "Test_290",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (11/12 | 6/36)",
+  "channels": [
+    "11-56",
+    "29-46",
+    "37-40",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.3",
+      "Earth: 12.3",
+      "NorthNode: 59.2",
+      "SouthNode: 55.2",
+      "Moon: 9.2",
+      "Mercury: 9.2",
+      "Venus: 61.4",
+      "Mars: 40.6",
+      "Jupiter: 40.5",
+      "Saturn: 6.5",
+      "Uranus: 43.5",
+      "Neptune: 26.4",
+      "Pluto: 32.1"
+    ],
+    "design": [
+      "Sun: 6.6",
+      "Earth: 36.6",
+      "NorthNode: 40.3",
+      "SouthNode: 37.3",
+      "Moon: 47.6",
+      "Mercury: 46.6",
+      "Venus: 18.1",
+      "Mars: 56.2",
+      "Jupiter: 29.5",
+      "Saturn: 47.2",
+      "Uranus: 1.6",
+      "Neptune: 26.1",
+      "Pluto: 57.4"
+    ]
+  },
+  "input": {
+    "localDate": "1979-12-17",
+    "localTime": "23:30",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_290",
+    "birthplace": "Johannesburg"
+  }
+}

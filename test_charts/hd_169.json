@@ -1,0 +1,58 @@
+{
+  "name": "Test_169",
+  "type": "Manifesting Generator",
+  "profile": "1 / 4",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (47/22 | 45/26)",
+  "channels": [
+    "20-34",
+    "25-51",
+    "37-40",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.1",
+      "Earth: 22.1",
+      "NorthNode: 46.3",
+      "SouthNode: 25.3",
+      "Moon: 4.3",
+      "Mercury: 48.5",
+      "Venus: 7.2",
+      "Mars: 4.3",
+      "Jupiter: 40.1",
+      "Saturn: 14.6",
+      "Uranus: 51.5",
+      "Neptune: 37.3",
+      "Pluto: 38.4"
+    ],
+    "design": [
+      "Sun: 45.4",
+      "Earth: 26.4",
+      "NorthNode: 18.4",
+      "SouthNode: 17.4",
+      "Moon: 17.5",
+      "Mercury: 20.5",
+      "Venus: 31.4",
+      "Mars: 45.5",
+      "Jupiter: 7.6",
+      "Saturn: 34.1",
+      "Uranus: 51.5",
+      "Neptune: 37.5",
+      "Pluto: 38.6"
+    ]
+  },
+  "input": {
+    "localDate": "2015-09-10",
+    "localTime": "13:59",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_169",
+    "birthplace": "Los Angeles"
+  }
+}

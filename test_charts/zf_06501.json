@@ -1,0 +1,192 @@
+{
+  "name": "Stress_6501",
+  "type": "Projector",
+  "profile": "1 / 4",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (16/9 | 37/40)",
+  "points": {
+    "personality": {
+      "Sun": {
+        "base": 3,
+        "tone": 2,
+        "color": 6
+      },
+      "Earth": {
+        "base": 3,
+        "tone": 2,
+        "color": 6
+      },
+      "NorthNode": {
+        "base": 3,
+        "tone": 4,
+        "color": 5
+      },
+      "SouthNode": {
+        "base": 3,
+        "tone": 4,
+        "color": 5
+      },
+      "Moon": {
+        "base": 4,
+        "tone": 1,
+        "color": 1
+      },
+      "Mercury": {
+        "base": 1,
+        "tone": 5,
+        "color": 3
+      },
+      "Venus": {
+        "base": 2,
+        "tone": 2,
+        "color": 1
+      },
+      "Mars": {
+        "base": 1,
+        "tone": 1,
+        "color": 2
+      },
+      "Jupiter": {
+        "base": 3,
+        "tone": 4,
+        "color": 3
+      },
+      "Saturn": {
+        "base": 4,
+        "tone": 2,
+        "color": 6
+      },
+      "Uranus": {
+        "base": 3,
+        "tone": 5,
+        "color": 4
+      },
+      "Neptune": {
+        "base": 2,
+        "tone": 2,
+        "color": 3
+      },
+      "Pluto": {
+        "base": 5,
+        "tone": 2,
+        "color": 3
+      }
+    },
+    "design": {
+      "Sun": {
+        "base": 2,
+        "tone": 1,
+        "color": 1
+      },
+      "Earth": {
+        "base": 2,
+        "tone": 1,
+        "color": 1
+      },
+      "NorthNode": {
+        "base": 2,
+        "tone": 3,
+        "color": 3
+      },
+      "SouthNode": {
+        "base": 2,
+        "tone": 3,
+        "color": 3
+      },
+      "Moon": {
+        "base": 1,
+        "tone": 6,
+        "color": 4
+      },
+      "Mercury": {
+        "base": 5,
+        "tone": 4,
+        "color": 1
+      },
+      "Venus": {
+        "base": 3,
+        "tone": 3,
+        "color": 2
+      },
+      "Mars": {
+        "base": 2,
+        "tone": 5,
+        "color": 5
+      },
+      "Jupiter": {
+        "base": 3,
+        "tone": 3,
+        "color": 5
+      },
+      "Saturn": {
+        "base": 1,
+        "tone": 5,
+        "color": 3
+      },
+      "Uranus": {
+        "base": 2,
+        "tone": 2,
+        "color": 5
+      },
+      "Neptune": {
+        "base": 5,
+        "tone": 6,
+        "color": 1
+      },
+      "Pluto": {
+        "base": 4,
+        "tone": 2,
+        "color": 2
+      }
+    }
+  },
+  "channels": [
+    "20-57",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.1",
+      "Earth: 9.1",
+      "NorthNode: 51.3",
+      "SouthNode: 57.3",
+      "Moon: 35.2",
+      "Mercury: 15.1",
+      "Venus: 20.1",
+      "Mars: 35.3",
+      "Jupiter: 29.4",
+      "Saturn: 42.1",
+      "Uranus: 6.3",
+      "Neptune: 14.1",
+      "Pluto: 47.4"
+    ],
+    "design": [
+      "Sun: 37.4",
+      "Earth: 40.4",
+      "NorthNode: 51.5",
+      "SouthNode: 57.5",
+      "Moon: 37.1",
+      "Mercury: 13.5",
+      "Venus: 19.3",
+      "Mars: 17.5",
+      "Jupiter: 29.6",
+      "Saturn: 21.2",
+      "Uranus: 6.6",
+      "Neptune: 14.3",
+      "Pluto: 47.6"
+    ]
+  },
+  "input": {
+    "localDate": "1968-05-28",
+    "localTime": "05:11",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Stress_6501",
+    "birthplace": "Tokyo"
+  }
+}

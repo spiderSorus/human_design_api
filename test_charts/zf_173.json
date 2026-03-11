@@ -1,0 +1,55 @@
+{
+  "name": "Test_173",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (49/4 | 14/8)",
+  "channels": [
+    "27-50"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 9.6",
+      "SouthNode: 16.6",
+      "Moon: 28.5",
+      "Mercury: 30.5",
+      "Venus: 17.3",
+      "Mars: 47.4",
+      "Jupiter: 27.3",
+      "Saturn: 50.4",
+      "Uranus: 25.5",
+      "Neptune: 55.1",
+      "Pluto: 58.6"
+    ],
+    "design": [
+      "Sun: 14.2",
+      "Earth: 8.2",
+      "NorthNode: 5.4",
+      "SouthNode: 35.4",
+      "Moon: 29.3",
+      "Mercury: 26.2",
+      "Venus: 26.4",
+      "Mars: 59.4",
+      "Jupiter: 27.1",
+      "Saturn: 32.4",
+      "Uranus: 25.3",
+      "Neptune: 30.4",
+      "Pluto: 58.3"
+    ]
+  },
+  "input": {
+    "localDate": "2012-02-13",
+    "localTime": "16:53",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_173",
+    "birthplace": "Tokyo"
+  }
+}

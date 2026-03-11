@@ -1,0 +1,57 @@
+{
+  "name": "Test_399",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Splenic",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (52/58 | 17/18)",
+  "channels": [
+    "1-8",
+    "18-58",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.3",
+      "Earth: 58.3",
+      "NorthNode: 43.5",
+      "SouthNode: 23.5",
+      "Moon: 37.2",
+      "Mercury: 15.5",
+      "Venus: 7.2",
+      "Mars: 8.2",
+      "Jupiter: 28.3",
+      "Saturn: 63.2",
+      "Uranus: 61.5",
+      "Neptune: 61.2",
+      "Pluto: 14.2"
+    ],
+    "design": [
+      "Sun: 17.5",
+      "Earth: 18.5",
+      "NorthNode: 14.1",
+      "SouthNode: 8.1",
+      "Moon: 28.3",
+      "Mercury: 63.2",
+      "Venus: 42.6",
+      "Mars: 22.1",
+      "Jupiter: 1.1",
+      "Saturn: 37.2",
+      "Uranus: 61.6",
+      "Neptune: 61.3",
+      "Pluto: 14.4"
+    ]
+  },
+  "input": {
+    "localDate": "1994-06-28",
+    "localTime": "08:39",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_399",
+    "birthplace": "Johannesburg"
+  }
+}

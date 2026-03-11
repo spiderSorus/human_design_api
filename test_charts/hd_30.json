@@ -1,0 +1,57 @@
+{
+  "name": "Test_30",
+  "type": "Manifestor",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Survival",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "21-45",
+    "30-41",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.1",
+      "Earth: 41.1",
+      "NorthNode: 9.6",
+      "SouthNode: 16.6",
+      "Moon: 32.2",
+      "Mercury: 53.4",
+      "Venus: 45.5",
+      "Mars: 47.3",
+      "Jupiter: 18.6",
+      "Saturn: 30.5",
+      "Uranus: 54.5",
+      "Neptune: 54.5",
+      "Pluto: 43.5"
+    ],
+    "design": [
+      "Sun: 27.3",
+      "Earth: 28.3",
+      "NorthNode: 5.2",
+      "SouthNode: 35.2",
+      "Moon: 20.5",
+      "Mercury: 21.5",
+      "Venus: 25.6",
+      "Mars: 56.3",
+      "Jupiter: 18.4",
+      "Saturn: 30.5",
+      "Uranus: 61.2",
+      "Neptune: 61.1",
+      "Pluto: 14.1"
+    ]
+  },
+  "input": {
+    "localDate": "1993-07-25",
+    "localTime": "05:52",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_30",
+    "birthplace": "Sao Paulo"
+  }
+}

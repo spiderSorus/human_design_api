@@ -1,0 +1,59 @@
+{
+  "name": "Test_416",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (24/44 | 19/33)",
+  "channels": [
+    "13-33",
+    "19-49",
+    "2-14",
+    "23-43",
+    "24-61"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 24.3",
+      "Earth: 44.3",
+      "NorthNode: 23.4",
+      "SouthNode: 43.4",
+      "Moon: 24.1",
+      "Mercury: 20.1",
+      "Venus: 36.6",
+      "Mars: 63.1",
+      "Jupiter: 36.6",
+      "Saturn: 49.6",
+      "Uranus: 2.2",
+      "Neptune: 36.3",
+      "Pluto: 60.3"
+    ],
+    "design": [
+      "Sun: 19.5",
+      "Earth: 33.5",
+      "NorthNode: 8.5",
+      "SouthNode: 14.5",
+      "Moon: 19.5",
+      "Mercury: 61.5",
+      "Venus: 38.2",
+      "Mars: 58.2",
+      "Jupiter: 37.2",
+      "Saturn: 13.3",
+      "Uranus: 24.4",
+      "Neptune: 22.5",
+      "Pluto: 60.1"
+    ]
+  },
+  "input": {
+    "localDate": "2022-04-30",
+    "localTime": "12:30",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_416",
+    "birthplace": "New York"
+  }
+}

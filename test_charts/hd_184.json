@@ -1,0 +1,56 @@
+{
+  "name": "Test_184",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "1-8",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.2",
+      "Earth: 30.2",
+      "NorthNode: 54.4",
+      "SouthNode: 53.4",
+      "Moon: 11.1",
+      "Mercury: 59.1",
+      "Venus: 59.2",
+      "Mars: 47.6",
+      "Jupiter: 29.1",
+      "Saturn: 60.6",
+      "Uranus: 38.1",
+      "Neptune: 38.6",
+      "Pluto: 1.5"
+    ],
+    "design": [
+      "Sun: 8.4",
+      "Earth: 14.4",
+      "NorthNode: 54.6",
+      "SouthNode: 53.6",
+      "Moon: 33.6",
+      "Mercury: 27.2",
+      "Venus: 39.3",
+      "Mars: 62.6",
+      "Jupiter: 31.6",
+      "Saturn: 41.6",
+      "Uranus: 38.5",
+      "Neptune: 54.2",
+      "Pluto: 1.6"
+    ]
+  },
+  "input": {
+    "localDate": "1991-08-20",
+    "localTime": "01:33",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_184",
+    "birthplace": "Sydney"
+  }
+}

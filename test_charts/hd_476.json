@@ -1,0 +1,56 @@
+{
+  "name": "Test_476",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (57/51 | 53/54)",
+  "channels": [
+    "32-54",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 57.4",
+      "Earth: 51.4",
+      "NorthNode: 52.5",
+      "SouthNode: 58.5",
+      "Moon: 7.1",
+      "Mercury: 46.5",
+      "Venus: 48.4",
+      "Mars: 5.5",
+      "Jupiter: 1.1",
+      "Saturn: 32.4",
+      "Uranus: 34.3",
+      "Neptune: 11.3",
+      "Pluto: 50.1"
+    ],
+    "design": [
+      "Sun: 53.6",
+      "Earth: 54.6",
+      "NorthNode: 39.5",
+      "SouthNode: 38.5",
+      "Moon: 17.3",
+      "Mercury: 52.3",
+      "Venus: 45.5",
+      "Mars: 57.4",
+      "Jupiter: 50.5",
+      "Saturn: 57.1",
+      "Uranus: 34.1",
+      "Neptune: 11.3",
+      "Pluto: 32.4"
+    ]
+  },
+  "input": {
+    "localDate": "1982-10-12",
+    "localTime": "07:20",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_476",
+    "birthplace": "Tokyo"
+  }
+}

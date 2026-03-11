@@ -1,0 +1,56 @@
+{
+  "name": "Test_434",
+  "type": "Generator",
+  "profile": "5 / 2",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (48/21 | 53/54)",
+  "channels": [
+    "27-50",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.5",
+      "Earth: 21.5",
+      "NorthNode: 5.6",
+      "SouthNode: 35.6",
+      "Moon: 30.3",
+      "Mercury: 32.1",
+      "Venus: 50.2",
+      "Mars: 33.4",
+      "Jupiter: 24.1",
+      "Saturn: 57.5",
+      "Uranus: 25.5",
+      "Neptune: 30.5",
+      "Pluto: 58.2"
+    ],
+    "design": [
+      "Sun: 53.2",
+      "Earth: 54.2",
+      "NorthNode: 11.1",
+      "SouthNode: 12.1",
+      "Moon: 32.1",
+      "Mercury: 33.3",
+      "Venus: 52.2",
+      "Mars: 35.2",
+      "Jupiter: 27.5",
+      "Saturn: 48.2",
+      "Uranus: 17.1",
+      "Neptune: 55.1",
+      "Pluto: 58.3"
+    ]
+  },
+  "input": {
+    "localDate": "2011-10-07",
+    "localTime": "15:50",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_434",
+    "birthplace": "Sao Paulo"
+  }
+}

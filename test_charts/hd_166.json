@@ -1,0 +1,60 @@
+{
+  "name": "Test_166",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (14/8 | 29/30)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "2-14",
+    "29-46",
+    "32-54",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 14.4",
+      "Earth: 8.4",
+      "NorthNode: 54.4",
+      "SouthNode: 53.4",
+      "Moon: 2.4",
+      "Mercury: 9.6",
+      "Venus: 32.5",
+      "Mars: 28.1",
+      "Jupiter: 58.6",
+      "Saturn: 45.2",
+      "Uranus: 32.1",
+      "Neptune: 34.5",
+      "Pluto: 46.6"
+    ],
+    "design": [
+      "Sun: 29.6",
+      "Earth: 30.6",
+      "NorthNode: 61.6",
+      "SouthNode: 62.6",
+      "Moon: 19.1",
+      "Mercury: 33.5",
+      "Venus: 39.6",
+      "Mars: 59.6",
+      "Jupiter: 10.1",
+      "Saturn: 45.3",
+      "Uranus: 57.1",
+      "Neptune: 34.3",
+      "Pluto: 46.3"
+    ]
+  },
+  "input": {
+    "localDate": "1972-11-20",
+    "localTime": "01:16",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_166",
+    "birthplace": "Sao Paulo"
+  }
+}

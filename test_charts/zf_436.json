@@ -1,0 +1,57 @@
+{
+  "name": "Test_436",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Survival",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (44/24 | 33/19)",
+  "channels": [
+    "25-51",
+    "29-46",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 44.1",
+      "Earth: 24.1",
+      "NorthNode: 46.3",
+      "SouthNode: 25.3",
+      "Moon: 52.2",
+      "Mercury: 50.2",
+      "Venus: 47.5",
+      "Mars: 6.1",
+      "Jupiter: 64.6",
+      "Saturn: 34.5",
+      "Uranus: 51.3",
+      "Neptune: 37.2",
+      "Pluto: 38.5"
+    ],
+    "design": [
+      "Sun: 33.3",
+      "Earth: 19.3",
+      "NorthNode: 46.5",
+      "SouthNode: 25.5",
+      "Moon: 37.5",
+      "Mercury: 4.2",
+      "Venus: 29.6",
+      "Mars: 62.6",
+      "Jupiter: 29.4",
+      "Saturn: 14.5",
+      "Uranus: 51.6",
+      "Neptune: 37.4",
+      "Pluto: 38.5"
+    ]
+  },
+  "input": {
+    "localDate": "2015-10-31",
+    "localTime": "11:42",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_436",
+    "birthplace": "Los Angeles"
+  }
+}

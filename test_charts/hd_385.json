@@ -1,0 +1,57 @@
+{
+  "name": "Test_385",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (48/21 | 39/38)",
+  "channels": [
+    "18-58",
+    "21-45",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.4",
+      "Earth: 21.4",
+      "NorthNode: 18.5",
+      "SouthNode: 17.5",
+      "Moon: 56.5",
+      "Mercury: 6.4",
+      "Venus: 59.3",
+      "Mars: 7.3",
+      "Jupiter: 58.6",
+      "Saturn: 25.6",
+      "Uranus: 60.5",
+      "Neptune: 61.5",
+      "Pluto: 34.2"
+    ],
+    "design": [
+      "Sun: 39.6",
+      "Earth: 38.6",
+      "NorthNode: 48.4",
+      "SouthNode: 21.4",
+      "Moon: 17.1",
+      "Mercury: 39.1",
+      "Venus: 35.1",
+      "Mars: 45.1",
+      "Jupiter: 38.4",
+      "Saturn: 17.4",
+      "Uranus: 41.2",
+      "Neptune: 60.1",
+      "Pluto: 34.1"
+    ]
+  },
+  "input": {
+    "localDate": "1996-10-06",
+    "localTime": "07:43",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_385",
+    "birthplace": "Mumbai"
+  }
+}

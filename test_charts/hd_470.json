@@ -1,0 +1,56 @@
+{
+  "name": "Test_470",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Splenic",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "24-61",
+    "26-44"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.4",
+      "Earth: 33.4",
+      "NorthNode: 18.4",
+      "SouthNode: 17.4",
+      "Moon: 50.5",
+      "Mercury: 61.3",
+      "Venus: 19.6",
+      "Mars: 56.2",
+      "Jupiter: 12.5",
+      "Saturn: 29.5",
+      "Uranus: 1.4",
+      "Neptune: 26.1",
+      "Pluto: 57.2"
+    ],
+    "design": [
+      "Sun: 44.6",
+      "Earth: 24.6",
+      "NorthNode: 48.6",
+      "SouthNode: 21.6",
+      "Moon: 29.4",
+      "Mercury: 43.5",
+      "Venus: 32.4",
+      "Mars: 31.2",
+      "Jupiter: 52.3",
+      "Saturn: 29.6",
+      "Uranus: 44.5",
+      "Neptune: 5.4",
+      "Pluto: 57.1"
+    ]
+  },
+  "input": {
+    "localDate": "1978-01-31",
+    "localTime": "04:33",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_470",
+    "birthplace": "Berlin"
+  }
+}

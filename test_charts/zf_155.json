@@ -1,0 +1,56 @@
+{
+  "name": "Test_155",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Personal",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (10/15 | 18/17)",
+  "channels": [
+    "19-49",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 10.6",
+      "Earth: 15.6",
+      "NorthNode: 39.2",
+      "SouthNode: 38.2",
+      "Moon: 3.2",
+      "Mercury: 54.6",
+      "Venus: 41.1",
+      "Mars: 54.1",
+      "Jupiter: 21.1",
+      "Saturn: 49.1",
+      "Uranus: 40.5",
+      "Neptune: 1.5",
+      "Pluto: 64.4"
+    ],
+    "design": [
+      "Sun: 18.2",
+      "Earth: 17.2",
+      "NorthNode: 53.3",
+      "SouthNode: 54.3",
+      "Moon: 19.4",
+      "Mercury: 47.4",
+      "Venus: 48.5",
+      "Mars: 44.4",
+      "Jupiter: 51.1",
+      "Saturn: 13.4",
+      "Uranus: 40.2",
+      "Neptune: 1.1",
+      "Pluto: 64.2"
+    ]
+  },
+  "input": {
+    "localDate": "1963-12-25",
+    "localTime": "22:57",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_155",
+    "birthplace": "Mumbai"
+  }
+}

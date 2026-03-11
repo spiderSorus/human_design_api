@@ -1,0 +1,56 @@
+{
+  "name": "Test_309",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (38/39 | 48/21)",
+  "channels": [
+    "29-46",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 38.2",
+      "Earth: 39.2",
+      "NorthNode: 42.1",
+      "SouthNode: 32.1",
+      "Moon: 47.2",
+      "Mercury: 26.6",
+      "Venus: 34.4",
+      "Mars: 11.6",
+      "Jupiter: 27.4",
+      "Saturn: 55.4",
+      "Uranus: 23.1",
+      "Neptune: 36.3",
+      "Pluto: 60.4"
+    ],
+    "design": [
+      "Sun: 48.4",
+      "Earth: 21.4",
+      "NorthNode: 42.5",
+      "SouthNode: 32.5",
+      "Moon: 39.5",
+      "Mercury: 46.5",
+      "Venus: 29.4",
+      "Mars: 32.6",
+      "Jupiter: 2.1",
+      "Saturn: 55.2",
+      "Uranus: 23.4",
+      "Neptune: 36.4",
+      "Pluto: 60.2"
+    ]
+  },
+  "input": {
+    "localDate": "2024-01-01",
+    "localTime": "19:30",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_309",
+    "birthplace": "New York"
+  }
+}

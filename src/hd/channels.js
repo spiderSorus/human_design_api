@@ -1,12 +1,19 @@
 const { CHANNELS } = require('./constants');
+const { BODIES } = require('./bodies');
+
+const STANDARD_BODIES = Object.keys(BODIES);
 
 function calculateDefinedChannels(personality, design) {
   const activeGates = new Set();
 
-  Object.values(personality).forEach((p) => activeGates.add(p.gate));
-  if (design) {
-    Object.values(design).forEach((d) => activeGates.add(d.gate));
-  }
+  STANDARD_BODIES.forEach((body) => {
+    if (personality[body]) {
+      activeGates.add(personality[body].gate);
+    }
+    if (design && design[body]) {
+      activeGates.add(design[body].gate);
+    }
+  });
 
   const defined = [];
   for (const [g1, g2] of CHANNELS) {

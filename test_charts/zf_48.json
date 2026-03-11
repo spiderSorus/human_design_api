@@ -1,0 +1,55 @@
+{
+  "name": "Test_48",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (3/50 | 41/31)",
+  "channels": [
+    "19-49"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.6",
+      "Earth: 50.6",
+      "NorthNode: 26.4",
+      "SouthNode: 45.4",
+      "Moon: 42.5",
+      "Mercury: 51.3",
+      "Venus: 63.5",
+      "Mars: 15.3",
+      "Jupiter: 37.5",
+      "Saturn: 15.3",
+      "Uranus: 32.6",
+      "Neptune: 9.4",
+      "Pluto: 18.1"
+    ],
+    "design": [
+      "Sun: 41.2",
+      "Earth: 31.2",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 41.6",
+      "Mercury: 19.6",
+      "Venus: 41.2",
+      "Mars: 24.5",
+      "Jupiter: 49.1",
+      "Saturn: 15.1",
+      "Uranus: 50.2",
+      "Neptune: 9.4",
+      "Pluto: 18.4"
+    ]
+  },
+  "input": {
+    "localDate": "1974-04-21",
+    "localTime": "14:50",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_48",
+    "birthplace": "Los Angeles"
+  }
+}

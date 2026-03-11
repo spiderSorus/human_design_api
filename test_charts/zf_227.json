@@ -1,0 +1,60 @@
+{
+  "name": "Test_227",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (2/1 | 13/7)",
+  "channels": [
+    "1-8",
+    "19-49",
+    "24-61",
+    "26-44",
+    "30-41",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 2.1",
+      "Earth: 1.1",
+      "NorthNode: 16.6",
+      "SouthNode: 9.6",
+      "Moon: 13.5",
+      "Mercury: 8.6",
+      "Venus: 23.6",
+      "Mars: 52.3",
+      "Jupiter: 30.5",
+      "Saturn: 19.6",
+      "Uranus: 24.4",
+      "Neptune: 22.6",
+      "Pluto: 60.1"
+    ],
+    "design": [
+      "Sun: 13.3",
+      "Earth: 7.3",
+      "NorthNode: 45.2",
+      "SouthNode: 26.2",
+      "Moon: 44.6",
+      "Mercury: 49.6",
+      "Venus: 41.2",
+      "Mars: 2.2",
+      "Jupiter: 19.4",
+      "Saturn: 41.4",
+      "Uranus: 27.6",
+      "Neptune: 22.3",
+      "Pluto: 61.5"
+    ]
+  },
+  "input": {
+    "localDate": "2021-05-04",
+    "localTime": "11:41",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_227",
+    "birthplace": "Tokyo"
+  }
+}

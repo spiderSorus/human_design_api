@@ -1,0 +1,59 @@
+{
+  "name": "Test_52",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (3/50 | 60/56)",
+  "channels": [
+    "13-33",
+    "19-49",
+    "3-60",
+    "30-41",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.4",
+      "Earth: 50.4",
+      "NorthNode: 41.4",
+      "SouthNode: 31.4",
+      "Moon: 13.5",
+      "Mercury: 2.5",
+      "Venus: 25.2",
+      "Mars: 36.6",
+      "Jupiter: 49.4",
+      "Saturn: 64.5",
+      "Uranus: 36.3",
+      "Neptune: 30.2",
+      "Pluto: 10.6"
+    ],
+    "design": [
+      "Sun: 60.6",
+      "Earth: 56.6",
+      "NorthNode: 19.2",
+      "SouthNode: 33.2",
+      "Moon: 9.1",
+      "Mercury: 60.4",
+      "Venus: 22.2",
+      "Mars: 54.5",
+      "Jupiter: 41.2",
+      "Saturn: 47.5",
+      "Uranus: 22.4",
+      "Neptune: 49.5",
+      "Pluto: 10.4"
+    ]
+  },
+  "input": {
+    "localDate": "2009-04-18",
+    "localTime": "22:46",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_52",
+    "birthplace": "Los Angeles"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_255",
+  "type": "Projector",
+  "profile": "1 / 3",
+  "authority": "Splenic",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (17/18 | 58/52)",
+  "channels": [
+    "18-58",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 17.1",
+      "Earth: 18.1",
+      "NorthNode: 36.1",
+      "SouthNode: 6.1",
+      "Moon: 15.2",
+      "Mercury: 63.1",
+      "Venus: 23.2",
+      "Mars: 61.1",
+      "Jupiter: 27.2",
+      "Saturn: 10.5",
+      "Uranus: 10.3",
+      "Neptune: 38.1",
+      "Pluto: 44.5"
+    ],
+    "design": [
+      "Sun: 58.3",
+      "Earth: 52.3",
+      "NorthNode: 36.5",
+      "SouthNode: 6.5",
+      "Moon: 42.2",
+      "Mercury: 58.6",
+      "Venus: 19.1",
+      "Mars: 43.5",
+      "Jupiter: 51.6",
+      "Saturn: 11.3",
+      "Uranus: 11.6",
+      "Neptune: 58.5",
+      "Pluto: 44.5"
+    ]
+  },
+  "input": {
+    "localDate": "1988-03-25",
+    "localTime": "00:46",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_255",
+    "birthplace": "Mumbai"
+  }
+}

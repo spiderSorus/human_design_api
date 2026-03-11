@@ -1,0 +1,58 @@
+{
+  "name": "Test_360",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (6/36 | 12/11)",
+  "channels": [
+    "12-22",
+    "19-49",
+    "20-34",
+    "24-61"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.3",
+      "Earth: 36.3",
+      "NorthNode: 20.5",
+      "SouthNode: 34.5",
+      "Moon: 19.3",
+      "Mercury: 32.1",
+      "Venus: 28.6",
+      "Mars: 46.4",
+      "Jupiter: 49.6",
+      "Saturn: 41.6",
+      "Uranus: 2.2",
+      "Neptune: 22.6",
+      "Pluto: 61.4"
+    ],
+    "design": [
+      "Sun: 12.5",
+      "Earth: 11.5",
+      "NorthNode: 16.6",
+      "SouthNode: 9.6",
+      "Moon: 47.5",
+      "Mercury: 45.1",
+      "Venus: 53.4",
+      "Mars: 31.2",
+      "Jupiter: 55.3",
+      "Saturn: 19.6",
+      "Uranus: 24.6",
+      "Neptune: 36.1",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2021-09-17",
+    "localTime": "11:20",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_360",
+    "birthplace": "Berlin"
+  }
+}

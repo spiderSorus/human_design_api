@@ -1,0 +1,56 @@
+{
+  "name": "Test_305",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Splenic",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (8/14 | 55/59)",
+  "channels": [
+    "10-57",
+    "18-58"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 8.6",
+      "Earth: 14.6",
+      "NorthNode: 11.1",
+      "SouthNode: 12.1",
+      "Moon: 54.1",
+      "Mercury: 27.6",
+      "Venus: 27.5",
+      "Mars: 27.6",
+      "Jupiter: 3.1",
+      "Saturn: 48.2",
+      "Uranus: 25.6",
+      "Neptune: 55.1",
+      "Pluto: 58.4"
+    ],
+    "design": [
+      "Sun: 55.2",
+      "Earth: 59.2",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 18.1",
+      "Mercury: 30.4",
+      "Venus: 54.5",
+      "Mars: 30.4",
+      "Jupiter: 17.3",
+      "Saturn: 57.2",
+      "Uranus: 25.1",
+      "Neptune: 30.5",
+      "Pluto: 58.4"
+    ]
+  },
+  "input": {
+    "localDate": "2011-05-21",
+    "localTime": "02:13",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_305",
+    "birthplace": "Johannesburg"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Test_287",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Splenic",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (1/2 | 4/49)",
+  "channels": [
+    "26-44"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 1.5",
+      "Earth: 2.5",
+      "NorthNode: 25.4",
+      "SouthNode: 46.4",
+      "Moon: 39.1",
+      "Mercury: 50.3",
+      "Venus: 9.3",
+      "Mars: 32.1",
+      "Jupiter: 42.2",
+      "Saturn: 26.3",
+      "Uranus: 11.3",
+      "Neptune: 58.3",
+      "Pluto: 44.3"
+    ],
+    "design": [
+      "Sun: 4.1",
+      "Earth: 49.1",
+      "NorthNode: 25.6",
+      "SouthNode: 46.6",
+      "Moon: 25.4",
+      "Mercury: 33.4",
+      "Venus: 7.4",
+      "Mars: 4.5",
+      "Jupiter: 3.4",
+      "Saturn: 5.4",
+      "Uranus: 11.1",
+      "Neptune: 58.2",
+      "Pluto: 28.6"
+    ]
+  },
+  "input": {
+    "localDate": "1987-11-09",
+    "localTime": "21:28",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_287",
+    "birthplace": "Los Angeles"
+  }
+}

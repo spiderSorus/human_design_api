@@ -1,0 +1,58 @@
+{
+  "name": "Test_79",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "10-57",
+    "35-36",
+    "37-40",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.5",
+      "Earth: 40.5",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 61.1",
+      "Mercury: 63.2",
+      "Venus: 60.2",
+      "Mars: 55.5",
+      "Jupiter: 17.5",
+      "Saturn: 57.2",
+      "Uranus: 25.2",
+      "Neptune: 30.5",
+      "Pluto: 58.4"
+    ],
+    "design": [
+      "Sun: 5.1",
+      "Earth: 35.1",
+      "NorthNode: 10.5",
+      "SouthNode: 15.5",
+      "Moon: 1.5",
+      "Mercury: 10.5",
+      "Venus: 50.6",
+      "Mars: 11.5",
+      "Jupiter: 36.2",
+      "Saturn: 48.6",
+      "Uranus: 36.5",
+      "Neptune: 30.2",
+      "Pluto: 58.1"
+    ]
+  },
+  "input": {
+    "localDate": "2011-02-28",
+    "localTime": "18:10",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_79",
+    "birthplace": "Mumbai"
+  }
+}

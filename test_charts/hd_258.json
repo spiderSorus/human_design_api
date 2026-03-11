@@ -1,0 +1,56 @@
+{
+  "name": "Test_258",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Self Projected",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (32/42 | 62/61)",
+  "channels": [
+    "13-33",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 32.2",
+      "Earth: 42.2",
+      "NorthNode: 36.3",
+      "SouthNode: 6.3",
+      "Moon: 7.2",
+      "Mercury: 1.5",
+      "Venus: 57.5",
+      "Mars: 32.5",
+      "Jupiter: 43.3",
+      "Saturn: 4.5",
+      "Uranus: 37.6",
+      "Neptune: 13.5",
+      "Pluto: 11.3"
+    ],
+    "design": [
+      "Sun: 62.4",
+      "Earth: 61.4",
+      "NorthNode: 36.6",
+      "SouthNode: 6.6",
+      "Moon: 51.2",
+      "Mercury: 62.6",
+      "Venus: 12.6",
+      "Mars: 29.3",
+      "Jupiter: 44.2",
+      "Saturn: 33.5",
+      "Uranus: 63.4",
+      "Neptune: 49.1",
+      "Pluto: 11.3"
+    ]
+  },
+  "input": {
+    "localDate": "2006-10-16",
+    "localTime": "03:39",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_258",
+    "birthplace": "Moscow"
+  }
+}

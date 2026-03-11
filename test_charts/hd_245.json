@@ -1,0 +1,57 @@
+{
+  "name": "Test_245",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (56/60 | 3/50)",
+  "channels": [
+    "23-43",
+    "3-60",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 56.4",
+      "Earth: 60.4",
+      "NorthNode: 43.3",
+      "SouthNode: 23.3",
+      "Moon: 60.2",
+      "Mercury: 39.1",
+      "Venus: 64.2",
+      "Mars: 35.2",
+      "Jupiter: 28.4",
+      "Saturn: 63.1",
+      "Uranus: 61.4",
+      "Neptune: 61.2",
+      "Pluto: 14.1"
+    ],
+    "design": [
+      "Sun: 3.6",
+      "Earth: 50.6",
+      "NorthNode: 43.6",
+      "SouthNode: 23.6",
+      "Moon: 40.3",
+      "Mercury: 42.2",
+      "Venus: 8.1",
+      "Mars: 17.2",
+      "Jupiter: 44.4",
+      "Saturn: 37.4",
+      "Uranus: 61.6",
+      "Neptune: 61.3",
+      "Pluto: 14.4"
+    ]
+  },
+  "input": {
+    "localDate": "1994-07-22",
+    "localTime": "20:48",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_245",
+    "birthplace": "Moscow"
+  }
+}

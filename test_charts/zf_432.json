@@ -1,0 +1,57 @@
+{
+  "name": "Test_432",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (14/8 | 59/55)",
+  "channels": [
+    "25-51",
+    "26-44",
+    "29-46"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 14.5",
+      "Earth: 8.5",
+      "NorthNode: 25.3",
+      "SouthNode: 46.3",
+      "Moon: 34.2",
+      "Mercury: 44.5",
+      "Venus: 26.6",
+      "Mars: 50.3",
+      "Jupiter: 51.6",
+      "Saturn: 26.4",
+      "Uranus: 11.3",
+      "Neptune: 58.3",
+      "Pluto: 44.4"
+    ],
+    "design": [
+      "Sun: 59.1",
+      "Earth: 55.1",
+      "NorthNode: 25.5",
+      "SouthNode: 46.5",
+      "Moon: 29.5",
+      "Mercury: 59.5",
+      "Venus: 59.1",
+      "Mars: 59.1",
+      "Jupiter: 3.4",
+      "Saturn: 5.4",
+      "Uranus: 11.1",
+      "Neptune: 58.2",
+      "Pluto: 28.6"
+    ]
+  },
+  "input": {
+    "localDate": "1987-11-21",
+    "localTime": "10:22",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_432",
+    "birthplace": "Sao Paulo"
+  }
+}

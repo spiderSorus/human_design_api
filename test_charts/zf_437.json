@@ -1,0 +1,61 @@
+{
+  "name": "Test_437",
+  "type": "Manifesting Generator",
+  "profile": "4 / 1",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Juxtaposition Cross of ... (10/15 | 18/17)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "19-49",
+    "20-34",
+    "24-61",
+    "30-41",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 10.4",
+      "Earth: 15.4",
+      "NorthNode: 20.2",
+      "SouthNode: 34.2",
+      "Moon: 4.3",
+      "Mercury: 54.1",
+      "Venus: 61.6",
+      "Mars: 9.2",
+      "Jupiter: 30.5",
+      "Saturn: 19.4",
+      "Uranus: 24.4",
+      "Neptune: 22.4",
+      "Pluto: 61.6"
+    ],
+    "design": [
+      "Sun: 18.1",
+      "Earth: 17.1",
+      "NorthNode: 20.4",
+      "SouthNode: 34.4",
+      "Moon: 16.5",
+      "Mercury: 32.6",
+      "Venus: 1.6",
+      "Mars: 18.5",
+      "Jupiter: 49.5",
+      "Saturn: 41.6",
+      "Uranus: 2.2",
+      "Neptune: 22.5",
+      "Pluto: 61.4"
+    ]
+  },
+  "input": {
+    "localDate": "2021-12-23",
+    "localTime": "23:49",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_437",
+    "birthplace": "Tokyo"
+  }
+}

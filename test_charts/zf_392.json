@@ -1,0 +1,58 @@
+{
+  "name": "Test_392",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (36/6 | 11/12)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "3-60",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 36.4",
+      "Earth: 6.4",
+      "NorthNode: 48.1",
+      "SouthNode: 21.1",
+      "Moon: 60.5",
+      "Mercury: 55.6",
+      "Venus: 3.3",
+      "Mars: 51.4",
+      "Jupiter: 7.1",
+      "Saturn: 34.6",
+      "Uranus: 51.1",
+      "Neptune: 37.3",
+      "Pluto: 54.1"
+    ],
+    "design": [
+      "Sun: 11.6",
+      "Earth: 12.6",
+      "NorthNode: 57.2",
+      "SouthNode: 51.2",
+      "Moon: 14.1",
+      "Mercury: 10.6",
+      "Venus: 38.2",
+      "Mars: 19.4",
+      "Jupiter: 4.4",
+      "Saturn: 14.6",
+      "Uranus: 21.4",
+      "Neptune: 55.6",
+      "Pluto: 38.4"
+    ]
+  },
+  "input": {
+    "localDate": "2015-03-16",
+    "localTime": "03:50",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_392",
+    "birthplace": "Los Angeles"
+  }
+}

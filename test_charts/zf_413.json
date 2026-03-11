@@ -1,0 +1,60 @@
+{
+  "name": "Test_413",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (11/12 | 6/36)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "24-61",
+    "32-54",
+    "34-57",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.4",
+      "Earth: 12.4",
+      "NorthNode: 54.2",
+      "SouthNode: 53.2",
+      "Moon: 24.5",
+      "Mercury: 34.5",
+      "Venus: 14.4",
+      "Mars: 43.3",
+      "Jupiter: 38.6",
+      "Saturn: 35.6",
+      "Uranus: 32.2",
+      "Neptune: 34.6",
+      "Pluto: 18.1"
+    ],
+    "design": [
+      "Sun: 6.6",
+      "Earth: 36.6",
+      "NorthNode: 61.4",
+      "SouthNode: 62.4",
+      "Moon: 49.2",
+      "Mercury: 6.6",
+      "Venus: 33.6",
+      "Mars: 6.1",
+      "Jupiter: 10.2",
+      "Saturn: 45.4",
+      "Uranus: 57.3",
+      "Neptune: 34.3",
+      "Pluto: 46.4"
+    ]
+  },
+  "input": {
+    "localDate": "1972-12-17",
+    "localTime": "18:08",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_413",
+    "birthplace": "Sydney"
+  }
+}

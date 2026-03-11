@@ -1,0 +1,57 @@
+{
+  "name": "Test_24",
+  "type": "Manifestor",
+  "profile": "5 / 2",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (24/44 | 13/7)",
+  "channels": [
+    "12-22",
+    "24-61",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 24.5",
+      "Earth: 44.5",
+      "NorthNode: 49.6",
+      "SouthNode: 4.6",
+      "Moon: 36.6",
+      "Mercury: 8.5",
+      "Venus: 27.1",
+      "Mars: 62.6",
+      "Jupiter: 61.2",
+      "Saturn: 59.2",
+      "Uranus: 22.5",
+      "Neptune: 49.6",
+      "Pluto: 10.3"
+    ],
+    "design": [
+      "Sun: 13.2",
+      "Earth: 7.2",
+      "NorthNode: 30.4",
+      "SouthNode: 29.4",
+      "Moon: 58.1",
+      "Mercury: 49.2",
+      "Venus: 38.4",
+      "Mars: 12.2",
+      "Jupiter: 38.2",
+      "Saturn: 40.2",
+      "Uranus: 63.6",
+      "Neptune: 49.3",
+      "Pluto: 10.3"
+    ]
+  },
+  "input": {
+    "localDate": "2008-05-02",
+    "localTime": "00:53",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_24",
+    "birthplace": "Los Angeles"
+  }
+}

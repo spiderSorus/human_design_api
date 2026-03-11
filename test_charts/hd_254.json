@@ -1,0 +1,58 @@
+{
+  "name": "Test_254",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (5/35 | 64/63)",
+  "channels": [
+    "11-56",
+    "12-22",
+    "24-61",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 5.2",
+      "Earth: 35.2",
+      "NorthNode: 45.4",
+      "SouthNode: 26.4",
+      "Moon: 31.1",
+      "Mercury: 34.5",
+      "Venus: 1.4",
+      "Mars: 51.3",
+      "Jupiter: 60.1",
+      "Saturn: 60.3",
+      "Uranus: 27.6",
+      "Neptune: 22.2",
+      "Pluto: 61.3"
+    ],
+    "design": [
+      "Sun: 64.4",
+      "Earth: 63.4",
+      "NorthNode: 12.3",
+      "SouthNode: 11.3",
+      "Moon: 24.3",
+      "Mercury: 46.5",
+      "Venus: 56.5",
+      "Mars: 3.2",
+      "Jupiter: 54.3",
+      "Saturn: 61.6",
+      "Uranus: 24.4",
+      "Neptune: 22.3",
+      "Pluto: 61.3"
+    ]
+  },
+  "input": {
+    "localDate": "2020-12-04",
+    "localTime": "12:40",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_254",
+    "birthplace": "New York"
+  }
+}

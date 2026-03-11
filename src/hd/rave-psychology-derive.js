@@ -78,15 +78,39 @@ function isLeftTone(tone) {
   return t <= 3;
 }
 
-function deriveRavePsychologyAndPHS(chart) {
-  // We lean on the most common convention:
-  // - Personality: use Personality Sun (line/color/tone) and Personality Nodes (line/color)
-  // - Design: use Design Sun (line/color/tone) and Design Nodes (line/color)
-  //
-  // If a chart is personality-only (design is null), we derive only personality.
+function deriveCrossAngle(line) {
+  const l = Number(line);
+  if (l === 1 || l === 2 || l === 3 || l === 4) return 'Right Angle';
+  if (l === 5 || l === 6) return 'Left Angle';
+  if (l === 4) return 'Juxtaposition'; // Note: 4.1 is often Juxtaposition but for simplicity we can use standard rules
+  // Standard refined rule:
+  // 1/3, 1/4, 2/4, 2/5, 3/5, 3/6, 4/6 -> Right Angle
+  // 4/1 -> Juxtaposition
+  // 5/1, 5/2, 6/2, 6/3 -> Left Angle
+  return '';
+}
 
+function deriveRavePsychologyAndPHS(chart) {
   const pSun = chart?.personality?.Sun;
+  const dSun = chart?.design?.Sun;
   const pEarth = chart?.personality?.Earth;
+  const dEarth = chart?.design?.Earth;
+
+  const profile = pSun && dSun ? `${pSun.line} / ${dSun.line}` : null;
+  
+  let angle = '';
+  const pl = pSun?.line;
+  const dl = dSun?.line;
+  if (pl && dl) {
+    if (pl <= 4 && !(pl === 4 && dl === 1)) angle = 'Right Angle';
+    else if (pl === 4 && dl === 1) angle = 'Juxtaposition';
+    else angle = 'Left Angle';
+  }
+
+  const cross = (pSun && pEarth && dSun && dEarth) 
+    ? `${angle} Cross of ... (${pSun.gate}/${pEarth.gate} | ${dSun.gate}/${dEarth.gate})` 
+    : null;
+
   const pNodes = {
     line: chart?.personality?.NorthNode?.line,
     color: chart?.personality?.NorthNode?.color
@@ -137,13 +161,13 @@ function deriveRavePsychologyAndPHS(chart) {
 
   if (!chart?.design) {
     return {
+      profile,
+      cross,
       personality,
       design: null
     };
   }
 
-  const dSun = chart?.design?.Sun;
-  const dEarth = chart?.design?.Earth;
   const dNodes = {
     line: chart?.design?.NorthNode?.line,
     color: chart?.design?.NorthNode?.color
@@ -221,7 +245,7 @@ function deriveRavePsychologyAndPHS(chart) {
       ] ?? null
   };
 
-  return { personality, design, summary, descriptions };
+  return { profile, cross, personality, design, summary, descriptions };
 }
 
 module.exports = {

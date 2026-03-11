@@ -1,0 +1,56 @@
+{
+  "name": "Test_218",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (3/50 | 41/31)",
+  "channels": [
+    "11-56",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.5",
+      "Earth: 50.5",
+      "NorthNode: 56.3",
+      "SouthNode: 60.3",
+      "Moon: 1.5",
+      "Mercury: 21.3",
+      "Venus: 51.2",
+      "Mars: 23.2",
+      "Jupiter: 2.1",
+      "Saturn: 2.5",
+      "Uranus: 49.2",
+      "Neptune: 41.5",
+      "Pluto: 5.2"
+    ],
+    "design": [
+      "Sun: 41.1",
+      "Earth: 31.1",
+      "NorthNode: 31.2",
+      "SouthNode: 41.2",
+      "Moon: 29.5",
+      "Mercury: 41.6",
+      "Venus: 11.6",
+      "Mars: 63.4",
+      "Jupiter: 3.1",
+      "Saturn: 24.3",
+      "Uranus: 13.3",
+      "Neptune: 41.3",
+      "Pluto: 5.1"
+    ]
+  },
+  "input": {
+    "localDate": "2000-04-20",
+    "localTime": "00:49",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_218",
+    "birthplace": "New York"
+  }
+}

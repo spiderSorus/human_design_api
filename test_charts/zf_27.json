@@ -1,0 +1,60 @@
+{
+  "name": "Test_27",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (55/59 | 34/20)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "10-57",
+    "20-34",
+    "20-57",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 55.3",
+      "Earth: 59.3",
+      "NorthNode: 57.4",
+      "SouthNode: 51.4",
+      "Moon: 21.1",
+      "Mercury: 19.1",
+      "Venus: 21.6",
+      "Mars: 55.6",
+      "Jupiter: 38.1",
+      "Saturn: 36.2",
+      "Uranus: 41.1",
+      "Neptune: 60.1",
+      "Pluto: 34.4"
+    ],
+    "design": [
+      "Sun: 34.5",
+      "Earth: 20.5",
+      "NorthNode: 32.6",
+      "SouthNode: 42.6",
+      "Moon: 19.1",
+      "Mercury: 9.2",
+      "Venus: 10.2",
+      "Mars: 11.6",
+      "Jupiter: 26.5",
+      "Saturn: 22.2",
+      "Uranus: 60.2",
+      "Neptune: 61.3",
+      "Pluto: 34.1"
+    ]
+  },
+  "input": {
+    "localDate": "1996-02-21",
+    "localTime": "11:41",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_27",
+    "birthplace": "Los Angeles"
+  }
+}

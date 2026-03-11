@@ -1,0 +1,57 @@
+{
+  "name": "Test_359",
+  "type": "Manifestor",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Survival",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (39/38 | 21/48)",
+  "channels": [
+    "10-20",
+    "21-45",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 39.1",
+      "Earth: 38.1",
+      "NorthNode: 30.3",
+      "SouthNode: 29.3",
+      "Moon: 45.4",
+      "Mercury: 45.6",
+      "Venus: 31.1",
+      "Mars: 33.2",
+      "Jupiter: 12.2",
+      "Saturn: 38.2",
+      "Uranus: 10.6",
+      "Neptune: 38.2",
+      "Pluto: 44.6"
+    ],
+    "design": [
+      "Sun: 21.3",
+      "Earth: 48.3",
+      "NorthNode: 55.5",
+      "SouthNode: 59.5",
+      "Moon: 19.2",
+      "Mercury: 17.6",
+      "Venus: 21.2",
+      "Mars: 35.2",
+      "Jupiter: 20.4",
+      "Saturn: 38.5",
+      "Uranus: 58.2",
+      "Neptune: 38.4",
+      "Pluto: 1.2"
+    ]
+  },
+  "input": {
+    "localDate": "1989-07-01",
+    "localTime": "17:42",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_359",
+    "birthplace": "London"
+  }
+}

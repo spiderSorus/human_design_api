@@ -1,0 +1,56 @@
+{
+  "name": "Test_63",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (15/10 | 25/46)",
+  "channels": [
+    "25-51",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 15.4",
+      "Earth: 10.4",
+      "NorthNode: 16.1",
+      "SouthNode: 9.1",
+      "Moon: 51.6",
+      "Mercury: 15.4",
+      "Venus: 15.6",
+      "Mars: 44.5",
+      "Jupiter: 58.6",
+      "Saturn: 44.3",
+      "Uranus: 9.6",
+      "Neptune: 10.2",
+      "Pluto: 50.4"
+    ],
+    "design": [
+      "Sun: 25.6",
+      "Earth: 46.6",
+      "NorthNode: 16.4",
+      "SouthNode: 9.4",
+      "Moon: 10.6",
+      "Mercury: 51.4",
+      "Venus: 63.1",
+      "Mars: 14.4",
+      "Jupiter: 38.2",
+      "Saturn: 1.3",
+      "Uranus: 5.3",
+      "Neptune: 10.4",
+      "Pluto: 50.6"
+    ]
+  },
+  "input": {
+    "localDate": "1984-06-22",
+    "localTime": "19:51",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_63",
+    "birthplace": "Los Angeles"
+  }
+}

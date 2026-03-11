@@ -1,0 +1,58 @@
+{
+  "name": "Test_454",
+  "type": "Projector",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (38/39 | 48/21)",
+  "channels": [
+    "10-57",
+    "13-33",
+    "19-49",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 38.1",
+      "Earth: 39.1",
+      "NorthNode: 19.2",
+      "SouthNode: 33.2",
+      "Moon: 49.5",
+      "Mercury: 60.3",
+      "Venus: 30.3",
+      "Mars: 10.6",
+      "Jupiter: 60.3",
+      "Saturn: 47.6",
+      "Uranus: 22.3",
+      "Neptune: 49.4",
+      "Pluto: 10.4"
+    ],
+    "design": [
+      "Sun: 48.3",
+      "Earth: 21.3",
+      "NorthNode: 13.4",
+      "SouthNode: 7.4",
+      "Moon: 5.6",
+      "Mercury: 57.2",
+      "Venus: 1.1",
+      "Mars: 50.5",
+      "Jupiter: 38.5",
+      "Saturn: 64.5",
+      "Uranus: 22.4",
+      "Neptune: 49.3",
+      "Pluto: 10.1"
+    ]
+  },
+  "input": {
+    "localDate": "2008-12-31",
+    "localTime": "12:59",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_454",
+    "birthplace": "Johannesburg"
+  }
+}

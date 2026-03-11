@@ -1,0 +1,57 @@
+{
+  "name": "Test_329",
+  "type": "Manifesting Generator",
+  "profile": "4 / 1",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Juxtaposition Cross of ... (47/22 | 12/11)",
+  "channels": [
+    "12-22",
+    "27-50",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.4",
+      "Earth: 22.4",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 50.6",
+      "Mercury: 48.4",
+      "Venus: 7.6",
+      "Mars: 57.4",
+      "Jupiter: 60.2",
+      "Saturn: 61.3",
+      "Uranus: 29.4",
+      "Neptune: 44.2",
+      "Pluto: 40.3"
+    ],
+    "design": [
+      "Sun: 12.1",
+      "Earth: 11.1",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 15.4",
+      "Mercury: 39.1",
+      "Venus: 27.6",
+      "Mars: 4.3",
+      "Jupiter: 41.5",
+      "Saturn: 60.3",
+      "Uranus: 4.4",
+      "Neptune: 44.2",
+      "Pluto: 59.6"
+    ]
+  },
+  "input": {
+    "localDate": "1961-09-13",
+    "localTime": "14:48",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_329",
+    "birthplace": "New York"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_493",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (58/52 | 18/17)",
+  "channels": [
+    "18-58",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 58.4",
+      "Earth: 52.4",
+      "NorthNode: 12.5",
+      "SouthNode: 11.5",
+      "Moon: 16.5",
+      "Mercury: 54.6",
+      "Venus: 10.5",
+      "Mars: 63.4",
+      "Jupiter: 39.2",
+      "Saturn: 16.5",
+      "Uranus: 49.4",
+      "Neptune: 41.6",
+      "Pluto: 5.5"
+    ],
+    "design": [
+      "Sun: 18.6",
+      "Earth: 17.6",
+      "NorthNode: 15.3",
+      "SouthNode: 10.3",
+      "Moon: 25.3",
+      "Mercury: 50.4",
+      "Venus: 64.2",
+      "Mars: 38.4",
+      "Jupiter: 39.5",
+      "Saturn: 35.4",
+      "Uranus: 49.3",
+      "Neptune: 41.5",
+      "Pluto: 5.2"
+    ]
+  },
+  "input": {
+    "localDate": "2001-12-28",
+    "localTime": "10:03",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_493",
+    "birthplace": "Berlin"
+  }
+}

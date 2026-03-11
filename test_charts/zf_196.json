@@ -1,0 +1,56 @@
+{
+  "name": "Test_196",
+  "type": "Projector",
+  "profile": "5 / 2",
+  "authority": "Ego",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (33/19 | 2/1)",
+  "channels": [
+    "1-8",
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 33.5",
+      "Earth: 19.5",
+      "NorthNode: 22.3",
+      "SouthNode: 47.3",
+      "Moon: 5.2",
+      "Mercury: 31.5",
+      "Venus: 52.2",
+      "Mars: 46.1",
+      "Jupiter: 39.4",
+      "Saturn: 25.4",
+      "Uranus: 20.1",
+      "Neptune: 25.4",
+      "Pluto: 41.1"
+    ],
+    "design": [
+      "Sun: 2.2",
+      "Earth: 1.2",
+      "NorthNode: 36.4",
+      "SouthNode: 6.4",
+      "Moon: 33.6",
+      "Mercury: 51.6",
+      "Venus: 25.5",
+      "Mars: 31.6",
+      "Jupiter: 45.6",
+      "Saturn: 36.6",
+      "Uranus: 8.3",
+      "Neptune: 25.4",
+      "Pluto: 41.2"
+    ]
+  },
+  "input": {
+    "localDate": "2025-08-04",
+    "localTime": "04:15",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_196",
+    "birthplace": "New York"
+  }
+}

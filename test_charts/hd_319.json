@@ -1,0 +1,57 @@
+{
+  "name": "Test_319",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (57/51 | 53/54)",
+  "channels": [
+    "18-58",
+    "25-51",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 57.2",
+      "Earth: 51.2",
+      "NorthNode: 25.5",
+      "SouthNode: 46.5",
+      "Moon: 23.4",
+      "Mercury: 44.4",
+      "Venus: 50.3",
+      "Mars: 46.3",
+      "Jupiter: 42.6",
+      "Saturn: 5.6",
+      "Uranus: 11.1",
+      "Neptune: 58.2",
+      "Pluto: 44.2"
+    ],
+    "design": [
+      "Sun: 53.4",
+      "Earth: 54.4",
+      "NorthNode: 17.2",
+      "SouthNode: 18.2",
+      "Moon: 54.2",
+      "Mercury: 52.5",
+      "Venus: 52.3",
+      "Mars: 31.1",
+      "Jupiter: 3.1",
+      "Saturn: 5.5",
+      "Uranus: 11.2",
+      "Neptune: 58.3",
+      "Pluto: 28.6"
+    ]
+  },
+  "input": {
+    "localDate": "1987-10-09",
+    "localTime": "21:16",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_319",
+    "birthplace": "New York"
+  }
+}

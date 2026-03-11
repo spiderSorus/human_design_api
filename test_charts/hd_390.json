@@ -1,0 +1,60 @@
+{
+  "name": "Test_390",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (10/15 | 46/25)",
+  "channels": [
+    "13-33",
+    "19-49",
+    "28-38",
+    "29-46",
+    "32-54",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 10.4",
+      "Earth: 15.4",
+      "NorthNode: 19.3",
+      "SouthNode: 33.3",
+      "Moon: 44.5",
+      "Mercury: 54.2",
+      "Venus: 13.5",
+      "Mars: 11.5",
+      "Jupiter: 60.1",
+      "Saturn: 47.6",
+      "Uranus: 22.3",
+      "Neptune: 49.4",
+      "Pluto: 10.3"
+    ],
+    "design": [
+      "Sun: 46.6",
+      "Earth: 25.6",
+      "NorthNode: 13.5",
+      "SouthNode: 7.5",
+      "Moon: 29.1",
+      "Mercury: 32.3",
+      "Venus: 28.1",
+      "Mars: 32.5",
+      "Jupiter: 38.4",
+      "Saturn: 64.4",
+      "Uranus: 22.4",
+      "Neptune: 49.4",
+      "Pluto: 10.1"
+    ]
+  },
+  "input": {
+    "localDate": "2008-12-22",
+    "localTime": "17:18",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_390",
+    "birthplace": "New York"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_415",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (18/17 | 52/58)",
+  "channels": [
+    "1-8",
+    "11-56",
+    "18-58",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 18.4",
+      "Earth: 17.4",
+      "NorthNode: 8.5",
+      "SouthNode: 14.5",
+      "Moon: 5.4",
+      "Mercury: 46.1",
+      "Venus: 28.4",
+      "Mars: 11.5",
+      "Jupiter: 58.1",
+      "Saturn: 1.2",
+      "Uranus: 9.5",
+      "Neptune: 10.1",
+      "Pluto: 50.6"
+    ],
+    "design": [
+      "Sun: 52.6",
+      "Earth: 58.6",
+      "NorthNode: 16.1",
+      "SouthNode: 9.1",
+      "Moon: 56.5",
+      "Mercury: 53.4",
+      "Venus: 39.4",
+      "Mars: 44.6",
+      "Jupiter: 58.5",
+      "Saturn: 44.3",
+      "Uranus: 9.6",
+      "Neptune: 10.2",
+      "Pluto: 50.4"
+    ]
+  },
+  "input": {
+    "localDate": "1984-09-30",
+    "localTime": "05:01",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_415",
+    "birthplace": "Moscow"
+  }
+}

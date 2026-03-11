@@ -1,0 +1,58 @@
+{
+  "name": "Test_187",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (52/58 | 21/48)",
+  "channels": [
+    "18-58",
+    "19-49",
+    "25-51",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.5",
+      "Earth: 58.5",
+      "NorthNode: 6.1",
+      "SouthNode: 36.1",
+      "Moon: 27.1",
+      "Mercury: 39.3",
+      "Venus: 56.5",
+      "Mars: 18.1",
+      "Jupiter: 49.3",
+      "Saturn: 51.5",
+      "Uranus: 19.1",
+      "Neptune: 60.3",
+      "Pluto: 34.4"
+    ],
+    "design": [
+      "Sun: 21.1",
+      "Earth: 48.1",
+      "NorthNode: 46.1",
+      "SouthNode: 25.1",
+      "Moon: 26.5",
+      "Mercury: 3.1",
+      "Venus: 17.6",
+      "Mars: 47.6",
+      "Jupiter: 13.2",
+      "Saturn: 21.1",
+      "Uranus: 19.1",
+      "Neptune: 60.4",
+      "Pluto: 34.6"
+    ]
+  },
+  "input": {
+    "localDate": "1997-06-29",
+    "localTime": "12:23",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_187",
+    "birthplace": "Johannesburg"
+  }
+}

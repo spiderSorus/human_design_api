@@ -1,0 +1,58 @@
+{
+  "name": "Test_445",
+  "type": "Manifesting Generator",
+  "profile": "6 / 3",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (31/41 | 24/44)",
+  "channels": [
+    "20-34",
+    "42-53",
+    "6-59",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.6",
+      "Earth: 41.6",
+      "NorthNode: 13.2",
+      "SouthNode: 7.2",
+      "Moon: 1.6",
+      "Mercury: 59.5",
+      "Venus: 56.4",
+      "Mars: 49.1",
+      "Jupiter: 14.3",
+      "Saturn: 20.5",
+      "Uranus: 48.1",
+      "Neptune: 34.1",
+      "Pluto: 6.6"
+    ],
+    "design": [
+      "Sun: 24.3",
+      "Earth: 44.3",
+      "NorthNode: 49.2",
+      "SouthNode: 4.2",
+      "Moon: 53.6",
+      "Mercury: 42.3",
+      "Venus: 17.5",
+      "Mars: 60.3",
+      "Jupiter: 34.5",
+      "Saturn: 23.6",
+      "Uranus: 48.1",
+      "Neptune: 34.3",
+      "Pluto: 6.6"
+    ]
+  },
+  "input": {
+    "localDate": "1971-07-31",
+    "localTime": "20:59",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_445",
+    "birthplace": "Sydney"
+  }
+}

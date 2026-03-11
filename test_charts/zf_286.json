@@ -1,0 +1,59 @@
+{
+  "name": "Test_286",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (11/12 | 46/25)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "34-57",
+    "5-15",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.6",
+      "Earth: 12.6",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 28.6",
+      "Mercury: 5.6",
+      "Venus: 41.6",
+      "Mars: 3.3",
+      "Jupiter: 19.5",
+      "Saturn: 15.4",
+      "Uranus: 50.1",
+      "Neptune: 9.3",
+      "Pluto: 18.4"
+    ],
+    "design": [
+      "Sun: 46.2",
+      "Earth: 25.2",
+      "NorthNode: 10.6",
+      "SouthNode: 15.6",
+      "Moon: 7.3",
+      "Mercury: 57.1",
+      "Venus: 44.5",
+      "Mars: 24.2",
+      "Jupiter: 41.1",
+      "Saturn: 52.1",
+      "Uranus: 32.2",
+      "Neptune: 34.6",
+      "Pluto: 18.1"
+    ]
+  },
+  "input": {
+    "localDate": "1973-12-19",
+    "localTime": "21:03",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_286",
+    "birthplace": "Sao Paulo"
+  }
+}

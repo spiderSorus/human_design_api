@@ -1,0 +1,57 @@
+{
+  "name": "Test_235",
+  "type": "Manifesting Generator",
+  "profile": "4 / 1",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Juxtaposition Cross of ... (43/23 | 29/30)",
+  "channels": [
+    "23-43",
+    "29-46",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 43.4",
+      "Earth: 23.4",
+      "NorthNode: 35.6",
+      "SouthNode: 5.6",
+      "Moon: 36.3",
+      "Mercury: 34.2",
+      "Venus: 18.3",
+      "Mars: 46.1",
+      "Jupiter: 5.5",
+      "Saturn: 44.2",
+      "Uranus: 9.3",
+      "Neptune: 11.6",
+      "Pluto: 50.5"
+    ],
+    "design": [
+      "Sun: 29.1",
+      "Earth: 30.1",
+      "NorthNode: 12.1",
+      "SouthNode: 11.1",
+      "Moon: 11.3",
+      "Mercury: 47.6",
+      "Venus: 59.6",
+      "Mars: 31.1",
+      "Jupiter: 34.2",
+      "Saturn: 50.4",
+      "Uranus: 34.6",
+      "Neptune: 11.5",
+      "Pluto: 50.1"
+    ]
+  },
+  "input": {
+    "localDate": "1983-11-15",
+    "localTime": "16:49",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_235",
+    "birthplace": "Moscow"
+  }
+}

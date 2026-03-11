@@ -1,0 +1,58 @@
+{
+  "name": "Test_83",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "3-60",
+    "37-40",
+    "39-55",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.2",
+      "Earth: 41.2",
+      "NorthNode: 59.2",
+      "SouthNode: 55.2",
+      "Moon: 64.1",
+      "Mercury: 29.4",
+      "Venus: 52.6",
+      "Mars: 39.5",
+      "Jupiter: 36.6",
+      "Saturn: 27.2",
+      "Uranus: 19.4",
+      "Neptune: 60.5",
+      "Pluto: 34.6"
+    ],
+    "design": [
+      "Sun: 27.4",
+      "Earth: 28.4",
+      "NorthNode: 40.4",
+      "SouthNode: 37.4",
+      "Moon: 3.3",
+      "Mercury: 21.2",
+      "Venus: 22.5",
+      "Mars: 24.3",
+      "Jupiter: 22.2",
+      "Saturn: 42.5",
+      "Uranus: 19.6",
+      "Neptune: 41.1",
+      "Pluto: 9.2"
+    ]
+  },
+  "input": {
+    "localDate": "1998-07-26",
+    "localTime": "22:56",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_83",
+    "birthplace": "Moscow"
+  }
+}

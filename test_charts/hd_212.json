@@ -1,0 +1,57 @@
+{
+  "name": "Test_212",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (53/54 | 51/57)",
+  "channels": [
+    "20-57",
+    "29-46",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 53.3",
+      "Earth: 54.3",
+      "NorthNode: 4.2",
+      "SouthNode: 49.2",
+      "Moon: 35.5",
+      "Mercury: 62.1",
+      "Venus: 35.6",
+      "Mars: 46.2",
+      "Jupiter: 40.2",
+      "Saturn: 47.6",
+      "Uranus: 43.3",
+      "Neptune: 26.4",
+      "Pluto: 57.5"
+    ],
+    "design": [
+      "Sun: 51.5",
+      "Earth: 57.5",
+      "NorthNode: 29.4",
+      "SouthNode: 30.4",
+      "Moon: 60.5",
+      "Mercury: 36.1",
+      "Venus: 20.6",
+      "Mars: 29.2",
+      "Jupiter: 59.1",
+      "Saturn: 47.6",
+      "Uranus: 14.1",
+      "Neptune: 26.6",
+      "Pluto: 57.6"
+    ]
+  },
+  "input": {
+    "localDate": "1980-07-09",
+    "localTime": "20:49",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_212",
+    "birthplace": "Moscow"
+  }
+}

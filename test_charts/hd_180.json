@@ -1,0 +1,57 @@
+{
+  "name": "Test_180",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Splenic",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (62/61 | 3/50)",
+  "channels": [
+    "23-43",
+    "32-54",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.5",
+      "Earth: 61.5",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 30.2",
+      "Mercury: 7.5",
+      "Venus: 31.3",
+      "Mars: 23.6",
+      "Jupiter: 64.2",
+      "Saturn: 13.4",
+      "Uranus: 54.1",
+      "Neptune: 54.3",
+      "Pluto: 43.2"
+    ],
+    "design": [
+      "Sun: 3.1",
+      "Earth: 50.1",
+      "NorthNode: 10.5",
+      "SouthNode: 15.5",
+      "Moon: 32.5",
+      "Mercury: 25.4",
+      "Venus: 21.3",
+      "Mars: 63.5",
+      "Jupiter: 59.6",
+      "Saturn: 13.5",
+      "Uranus: 54.4",
+      "Neptune: 54.5",
+      "Pluto: 43.4"
+    ]
+  },
+  "input": {
+    "localDate": "1992-07-17",
+    "localTime": "23:58",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_180",
+    "birthplace": "Tokyo"
+  }
+}

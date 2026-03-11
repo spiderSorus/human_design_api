@@ -1,0 +1,58 @@
+{
+  "name": "Test_325",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (36/6 | 11/12)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "32-54",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 36.3",
+      "Earth: 6.3",
+      "NorthNode: 53.6",
+      "SouthNode: 54.6",
+      "Moon: 9.5",
+      "Mercury: 55.4",
+      "Venus: 19.3",
+      "Mars: 57.1",
+      "Jupiter: 44.3",
+      "Saturn: 57.6",
+      "Uranus: 34.5",
+      "Neptune: 11.5",
+      "Pluto: 32.6"
+    ],
+    "design": [
+      "Sun: 11.6",
+      "Earth: 12.6",
+      "NorthNode: 62.3",
+      "SouthNode: 61.3",
+      "Moon: 48.1",
+      "Mercury: 10.5",
+      "Venus: 41.5",
+      "Mars: 46.4",
+      "Jupiter: 28.3",
+      "Saturn: 57.6",
+      "Uranus: 34.2",
+      "Neptune: 11.3",
+      "Pluto: 50.1"
+    ]
+  },
+  "input": {
+    "localDate": "1982-03-16",
+    "localTime": "01:28",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_325",
+    "birthplace": "New York"
+  }
+}

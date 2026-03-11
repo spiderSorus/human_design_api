@@ -1,0 +1,56 @@
+{
+  "name": "Test_398",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Mental",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (61/62 | 50/3)",
+  "channels": [
+    "23-43",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 61.6",
+      "Earth: 62.6",
+      "NorthNode: 12.1",
+      "SouthNode: 11.1",
+      "Moon: 52.4",
+      "Mercury: 58.1",
+      "Venus: 58.2",
+      "Mars: 6.5",
+      "Jupiter: 2.4",
+      "Saturn: 55.3",
+      "Uranus: 64.4",
+      "Neptune: 43.1",
+      "Pluto: 64.6"
+    ],
+    "design": [
+      "Sun: 50.2",
+      "Earth: 3.2",
+      "NorthNode: 12.2",
+      "SouthNode: 11.2",
+      "Moon: 3.3",
+      "Mercury: 50.6",
+      "Venus: 47.2",
+      "Mars: 4.3",
+      "Jupiter: 23.6",
+      "Saturn: 30.5",
+      "Uranus: 64.3",
+      "Neptune: 1.4",
+      "Pluto: 64.5"
+    ]
+  },
+  "input": {
+    "localDate": "1965-01-16",
+    "localTime": "15:50",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_398",
+    "birthplace": "Sydney"
+  }
+}

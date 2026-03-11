@@ -1,0 +1,57 @@
+{
+  "name": "Test_377",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (42/32 | 60/56)",
+  "channels": [
+    "10-34",
+    "26-44",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 42.5",
+      "Earth: 32.5",
+      "NorthNode: 24.4",
+      "SouthNode: 44.4",
+      "Moon: 30.3",
+      "Mercury: 3.3",
+      "Venus: 16.5",
+      "Mars: 35.5",
+      "Jupiter: 40.5",
+      "Saturn: 52.4",
+      "Uranus: 55.6",
+      "Neptune: 13.2",
+      "Pluto: 26.6"
+    ],
+    "design": [
+      "Sun: 60.1",
+      "Earth: 56.1",
+      "NorthNode: 2.6",
+      "SouthNode: 1.6",
+      "Moon: 34.2",
+      "Mercury: 10.6",
+      "Venus: 55.4",
+      "Mars: 51.5",
+      "Jupiter: 47.2",
+      "Saturn: 52.5",
+      "Uranus: 55.1",
+      "Neptune: 19.5",
+      "Pluto: 26.5"
+    ]
+  },
+  "input": {
+    "localDate": "2004-04-14",
+    "localTime": "20:04",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_377",
+    "birthplace": "Moscow"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_259",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (30/29 | 14/8)",
+  "channels": [
+    "20-34",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 30.4",
+      "Earth: 29.4",
+      "NorthNode: 20.6",
+      "SouthNode: 34.6",
+      "Moon: 4.5",
+      "Mercury: 41.4",
+      "Venus: 38.5",
+      "Mars: 26.3",
+      "Jupiter: 33.4",
+      "Saturn: 45.6",
+      "Uranus: 30.5",
+      "Neptune: 19.4",
+      "Pluto: 26.3"
+    ],
+    "design": [
+      "Sun: 14.6",
+      "Earth: 8.6",
+      "NorthNode: 16.4",
+      "SouthNode: 9.4",
+      "Moon: 45.6",
+      "Mercury: 34.5",
+      "Venus: 50.4",
+      "Mars: 32.4",
+      "Jupiter: 7.5",
+      "Saturn: 12.6",
+      "Uranus: 30.1",
+      "Neptune: 19.1",
+      "Pluto: 5.6"
+    ]
+  },
+  "input": {
+    "localDate": "2003-02-16",
+    "localTime": "19:12",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_259",
+    "birthplace": "Moscow"
+  }
+}

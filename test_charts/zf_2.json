@@ -1,0 +1,58 @@
+{
+  "name": "Test_2",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (17/18 | 58/52)",
+  "channels": [
+    "11-56",
+    "18-58",
+    "2-14",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 17.4",
+      "Earth: 18.4",
+      "NorthNode: 56.6",
+      "SouthNode: 60.6",
+      "Moon: 11.6",
+      "Mercury: 37.4",
+      "Venus: 63.6",
+      "Mars: 27.2",
+      "Jupiter: 24.1",
+      "Saturn: 2.2",
+      "Uranus: 49.1",
+      "Neptune: 41.5",
+      "Pluto: 5.2"
+    ],
+    "design": [
+      "Sun: 58.6",
+      "Earth: 52.6",
+      "NorthNode: 31.3",
+      "SouthNode: 41.3",
+      "Moon: 32.5",
+      "Mercury: 10.2",
+      "Venus: 14.6",
+      "Mars: 30.3",
+      "Jupiter: 42.5",
+      "Saturn: 24.3",
+      "Uranus: 13.2",
+      "Neptune: 41.2",
+      "Pluto: 5.1"
+    ]
+  },
+  "input": {
+    "localDate": "2000-03-27",
+    "localTime": "06:56",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_2",
+    "birthplace": "Johannesburg"
+  }
+}

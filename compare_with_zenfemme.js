@@ -13,7 +13,10 @@
 
 const { calculateChartLocal } = require('./index');
 
-const TOKEN = 'bd31ba1b-5ce9-4035-960b-889eef3825e2';
+const TOKEN = process.env.ZENFEMME_TOKEN;
+if (!TOKEN) {
+  throw new Error('Please set ZENFEMME_TOKEN env var');
+}
 const ENDPOINT = `https://embed.bodygraphchart.com/v1/485/generate?token=${TOKEN}`;
 
 function pad2(n) {
@@ -26,7 +29,7 @@ function toZenFormData(input) {
   const [hh, mm] = input.localTime.split(':');
 
   const params = new URLSearchParams();
-  params.set('name', input.name || 'Test');
+  params.set('name', input.name || 'Apollo');
   params.set('year', y);
   params.set('month', pad2(m));
   params.set('day', pad2(d));
@@ -197,7 +200,7 @@ async function main() {
 
     // Additional validation sample provided by user
     {
-      name: 'Test',
+      name: 'Apollo',
       localDate: '2011-03-24',
       localTime: '11:37',
       timezone: 'America/Los_Angeles',

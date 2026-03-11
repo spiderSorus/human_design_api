@@ -14,6 +14,19 @@ function hasMotorToThroat(definedChannels) {
   return MOTORS.some((motor) => hasDefinedCenterConnection(definedChannels, motor, 'throat'));
 }
 
+function deriveAuthority(definedCenters) {
+  if (!definedCenters || definedCenters.length === 0) return 'Lunar';
+
+  if (definedCenters.includes('solarPlexus')) return 'Emotional';
+  if (definedCenters.includes('sacral')) return 'Sacral';
+  if (definedCenters.includes('spleen')) return 'Splenic';
+  if (definedCenters.includes('heart')) return 'Ego';
+  if (definedCenters.includes('g')) return 'Self Projected';
+  if (definedCenters.includes('throat') || definedCenters.includes('ajna') || definedCenters.includes('head')) return 'Mental';
+
+  return 'None';
+}
+
 function deriveType({ definedChannels, definedCenters }) {
   if (!definedCenters || definedCenters.length === 0) return 'Reflector';
 
@@ -30,4 +43,4 @@ function deriveType({ definedChannels, definedCenters }) {
   return 'Projector';
 }
 
-module.exports = { deriveType };
+module.exports = { deriveType, deriveAuthority };

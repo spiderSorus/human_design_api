@@ -1,0 +1,61 @@
+{
+  "name": "Test_346",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "16-48",
+    "19-49",
+    "23-43",
+    "3-60",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.4",
+      "Earth: 43.4",
+      "NorthNode: 60.3",
+      "SouthNode: 56.3",
+      "Moon: 23.4",
+      "Mercury: 3.5",
+      "Venus: 15.4",
+      "Mars: 15.3",
+      "Jupiter: 58.5",
+      "Saturn: 16.2",
+      "Uranus: 48.6",
+      "Neptune: 34.5",
+      "Pluto: 46.2"
+    ],
+    "design": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 41.4",
+      "SouthNode: 31.4",
+      "Moon: 19.6",
+      "Mercury: 49.4",
+      "Venus: 17.1",
+      "Mars: 27.1",
+      "Jupiter: 10.4",
+      "Saturn: 8.6",
+      "Uranus: 57.4",
+      "Neptune: 34.6",
+      "Pluto: 46.4"
+    ]
+  },
+  "input": {
+    "localDate": "1972-05-12",
+    "localTime": "21:10",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_346",
+    "birthplace": "Los Angeles"
+  }
+}

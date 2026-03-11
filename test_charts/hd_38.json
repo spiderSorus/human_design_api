@@ -1,0 +1,58 @@
+{
+  "name": "Test_38",
+  "type": "Manifestor",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "13-33",
+    "24-61",
+    "35-36",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.5",
+      "Earth: 40.5",
+      "NorthNode: 17.1",
+      "SouthNode: 18.1",
+      "Moon: 22.6",
+      "Mercury: 36.5",
+      "Venus: 60.1",
+      "Mars: 20.6",
+      "Jupiter: 1.6",
+      "Saturn: 31.4",
+      "Uranus: 37.6",
+      "Neptune: 13.6",
+      "Pluto: 11.5"
+    ],
+    "design": [
+      "Sun: 5.1",
+      "Earth: 35.1",
+      "NorthNode: 21.3",
+      "SouthNode: 48.3",
+      "Moon: 54.1",
+      "Mercury: 14.1",
+      "Venus: 61.4",
+      "Mars: 24.1",
+      "Jupiter: 44.1",
+      "Saturn: 33.4",
+      "Uranus: 37.2",
+      "Neptune: 13.3",
+      "Pluto: 11.2"
+    ]
+  },
+  "input": {
+    "localDate": "2006-03-01",
+    "localTime": "05:07",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_38",
+    "birthplace": "Tokyo"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "name": "Stress_647",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (1/2 | 4/49)",
+  "points": {
+    "personality": {
+      "Sun": {
+        "base": 4,
+        "tone": 5,
+        "color": 1
+      },
+      "Earth": {
+        "base": 4,
+        "tone": 5,
+        "color": 1
+      },
+      "NorthNode": {
+        "base": 2,
+        "tone": 1,
+        "color": 2
+      },
+      "SouthNode": {
+        "base": 2,
+        "tone": 1,
+        "color": 2
+      },
+      "Moon": {
+        "base": 2,
+        "tone": 1,
+        "color": 5
+      },
+      "Mercury": {
+        "base": 4,
+        "tone": 5,
+        "color": 1
+      },
+      "Venus": {
+        "base": 4,
+        "tone": 2,
+        "color": 5
+      },
+      "Mars": {
+        "base": 2,
+        "tone": 3,
+        "color": 6
+      },
+      "Jupiter": {
+        "base": 1,
+        "tone": 4,
+        "color": 1
+      },
+      "Saturn": {
+        "base": 4,
+        "tone": 6,
+        "color": 5
+      },
+      "Uranus": {
+        "base": 2,
+        "tone": 3,
+        "color": 5
+      },
+      "Neptune": {
+        "base": 5,
+        "tone": 3,
+        "color": 6
+      },
+      "Pluto": {
+        "base": 3,
+        "tone": 6,
+        "color": 5
+      }
+    },
+    "design": {
+      "Sun": {
+        "base": 3,
+        "tone": 4,
+        "color": 2
+      },
+      "Earth": {
+        "base": 3,
+        "tone": 4,
+        "color": 2
+      },
+      "NorthNode": {
+        "base": 5,
+        "tone": 3,
+        "color": 1
+      },
+      "SouthNode": {
+        "base": 5,
+        "tone": 3,
+        "color": 1
+      },
+      "Moon": {
+        "base": 5,
+        "tone": 5,
+        "color": 6
+      },
+      "Mercury": {
+        "base": 1,
+        "tone": 6,
+        "color": 4
+      },
+      "Venus": {
+        "base": 5,
+        "tone": 5,
+        "color": 3
+      },
+      "Mars": {
+        "base": 1,
+        "tone": 3,
+        "color": 1
+      },
+      "Jupiter": {
+        "base": 5,
+        "tone": 4,
+        "color": 4
+      },
+      "Saturn": {
+        "base": 1,
+        "tone": 2,
+        "color": 1
+      },
+      "Uranus": {
+        "base": 5,
+        "tone": 2,
+        "color": 2
+      },
+      "Neptune": {
+        "base": 4,
+        "tone": 1,
+        "color": 4
+      },
+      "Pluto": {
+        "base": 5,
+        "tone": 2,
+        "color": 3
+      }
+    }
+  },
+  "channels": [
+    "34-57",
+    "4-63",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 1.5",
+      "Earth: 2.5",
+      "NorthNode: 6.4",
+      "SouthNode: 36.4",
+      "Moon: 63.5",
+      "Mercury: 9.4",
+      "Venus: 1.1",
+      "Mars: 34.6",
+      "Jupiter: 33.2",
+      "Saturn: 64.1",
+      "Uranus: 1.4",
+      "Neptune: 5.6",
+      "Pluto: 57.3"
+    ],
+    "design": [
+      "Sun: 4.1",
+      "Earth: 49.1",
+      "NorthNode: 6.6",
+      "SouthNode: 36.6",
+      "Moon: 43.5",
+      "Mercury: 59.1",
+      "Venus: 18.1",
+      "Mars: 18.2",
+      "Jupiter: 62.5",
+      "Saturn: 59.3",
+      "Uranus: 44.6",
+      "Neptune: 5.5",
+      "Pluto: 48.6"
+    ]
+  },
+  "input": {
+    "localDate": "1978-11-09",
+    "localTime": "18:19",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Stress_647",
+    "birthplace": "Sao Paulo"
+  }
+}

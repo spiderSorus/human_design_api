@@ -1,0 +1,60 @@
+{
+  "name": "Test_442",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (38/39 | 57/51)",
+  "channels": [
+    "10-20",
+    "10-57",
+    "20-57",
+    "25-51",
+    "28-38",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 38.5",
+      "Earth: 39.5",
+      "NorthNode: 37.6",
+      "SouthNode: 40.6",
+      "Moon: 53.4",
+      "Mercury: 10.5",
+      "Venus: 38.4",
+      "Mars: 38.6",
+      "Jupiter: 62.1",
+      "Saturn: 36.4",
+      "Uranus: 8.4",
+      "Neptune: 25.2",
+      "Pluto: 41.1"
+    ],
+    "design": [
+      "Sun: 57.1",
+      "Earth: 51.1",
+      "NorthNode: 22.2",
+      "SouthNode: 47.2",
+      "Moon: 27.2",
+      "Mercury: 28.1",
+      "Venus: 6.1",
+      "Mars: 44.4",
+      "Jupiter: 62.3",
+      "Saturn: 36.5",
+      "Uranus: 20.1",
+      "Neptune: 25.3",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2026-01-03",
+    "localTime": "11:03",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_442",
+    "birthplace": "Los Angeles"
+  }
+}

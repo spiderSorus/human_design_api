@@ -1,0 +1,55 @@
+{
+  "name": "Test_171",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (60/56 | 28/27)",
+  "channels": [
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 60.5",
+      "Earth: 56.5",
+      "NorthNode: 37.4",
+      "SouthNode: 40.4",
+      "Moon: 13.5",
+      "Mercury: 60.4",
+      "Venus: 41.2",
+      "Mars: 60.2",
+      "Jupiter: 53.4",
+      "Saturn: 36.6",
+      "Uranus: 8.4",
+      "Neptune: 25.2",
+      "Pluto: 41.2"
+    ],
+    "design": [
+      "Sun: 28.1",
+      "Earth: 27.1",
+      "NorthNode: 22.1",
+      "SouthNode: 47.1",
+      "Moon: 5.4",
+      "Mercury: 14.2",
+      "Venus: 48.6",
+      "Mars: 43.5",
+      "Jupiter: 62.5",
+      "Saturn: 36.4",
+      "Uranus: 20.1",
+      "Neptune: 25.2",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2026-01-20",
+    "localTime": "12:30",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_171",
+    "birthplace": "Mumbai"
+  }
+}

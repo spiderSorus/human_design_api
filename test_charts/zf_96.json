@@ -1,0 +1,57 @@
+{
+  "name": "Test_96",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (48/21 | 53/54)",
+  "channels": [
+    "32-54",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.5",
+      "Earth: 21.5",
+      "NorthNode: 53.1",
+      "SouthNode: 54.1",
+      "Moon: 35.6",
+      "Mercury: 6.4",
+      "Venus: 32.4",
+      "Mars: 1.5",
+      "Jupiter: 21.6",
+      "Saturn: 13.4",
+      "Uranus: 40.3",
+      "Neptune: 1.2",
+      "Pluto: 64.2"
+    ],
+    "design": [
+      "Sun: 53.1",
+      "Earth: 54.1",
+      "NorthNode: 53.6",
+      "SouthNode: 54.6",
+      "Moon: 41.4",
+      "Mercury: 52.6",
+      "Venus: 15.4",
+      "Mars: 47.3",
+      "Jupiter: 51.3",
+      "Saturn: 49.4",
+      "Uranus: 59.3",
+      "Neptune: 44.6",
+      "Pluto: 40.5"
+    ]
+  },
+  "input": {
+    "localDate": "1963-10-07",
+    "localTime": "12:53",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_96",
+    "birthplace": "New York"
+  }
+}

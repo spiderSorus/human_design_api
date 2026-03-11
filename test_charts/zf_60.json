@@ -1,0 +1,60 @@
+{
+  "name": "Test_60",
+  "type": "Generator",
+  "profile": "2 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (32/42 | 62/61)",
+  "channels": [
+    "23-43",
+    "26-44",
+    "37-40",
+    "39-55",
+    "4-63",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 32.2",
+      "Earth: 42.2",
+      "NorthNode: 23.2",
+      "SouthNode: 43.2",
+      "Moon: 15.1",
+      "Mercury: 57.2",
+      "Venus: 44.1",
+      "Mars: 55.3",
+      "Jupiter: 40.5",
+      "Saturn: 39.4",
+      "Uranus: 30.5",
+      "Neptune: 19.3",
+      "Pluto: 26.1"
+    ],
+    "design": [
+      "Sun: 62.5",
+      "Earth: 61.5",
+      "NorthNode: 8.4",
+      "SouthNode: 14.4",
+      "Moon: 63.2",
+      "Mercury: 33.1",
+      "Venus: 53.1",
+      "Mars: 37.4",
+      "Jupiter: 4.3",
+      "Saturn: 52.2",
+      "Uranus: 55.3",
+      "Neptune: 19.5",
+      "Pluto: 26.1"
+    ]
+  },
+  "input": {
+    "localDate": "2003-10-16",
+    "localTime": "01:59",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_60",
+    "birthplace": "Los Angeles"
+  }
+}

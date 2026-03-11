@@ -1,0 +1,57 @@
+{
+  "name": "Test_23",
+  "type": "Manifestor",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "24-61",
+    "25-51",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.4",
+      "Earth: 61.4",
+      "NorthNode: 63.4",
+      "SouthNode: 64.4",
+      "Moon: 7.6",
+      "Mercury: 52.2",
+      "Venus: 35.6",
+      "Mars: 25.3",
+      "Jupiter: 8.5",
+      "Saturn: 11.6",
+      "Uranus: 11.6",
+      "Neptune: 58.5",
+      "Pluto: 44.3"
+    ],
+    "design": [
+      "Sun: 42.6",
+      "Earth: 32.6",
+      "NorthNode: 36.1",
+      "SouthNode: 6.1",
+      "Moon: 21.5",
+      "Mercury: 51.6",
+      "Venus: 16.6",
+      "Mars: 41.5",
+      "Jupiter: 24.1",
+      "Saturn: 10.5",
+      "Uranus: 10.3",
+      "Neptune: 38.1",
+      "Pluto: 44.5"
+    ]
+  },
+  "input": {
+    "localDate": "1988-07-16",
+    "localTime": "05:16",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_23",
+    "birthplace": "Berlin"
+  }
+}

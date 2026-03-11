@@ -1,0 +1,56 @@
+{
+  "name": "Test_273",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (44/24 | 33/19)",
+  "channels": [
+    "34-57",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 44.3",
+      "Earth: 24.3",
+      "NorthNode: 6.4",
+      "SouthNode: 36.4",
+      "Moon: 9.2",
+      "Mercury: 14.6",
+      "Venus: 1.6",
+      "Mars: 34.1",
+      "Jupiter: 33.1",
+      "Saturn: 64.1",
+      "Uranus: 1.4",
+      "Neptune: 5.6",
+      "Pluto: 57.3"
+    ],
+    "design": [
+      "Sun: 33.5",
+      "Earth: 19.5",
+      "NorthNode: 6.6",
+      "SouthNode: 36.6",
+      "Moon: 4.4",
+      "Mercury: 59.4",
+      "Venus: 6.5",
+      "Mars: 46.3",
+      "Jupiter: 62.3",
+      "Saturn: 59.2",
+      "Uranus: 44.6",
+      "Neptune: 5.5",
+      "Pluto: 48.6"
+    ]
+  },
+  "input": {
+    "localDate": "1978-11-03",
+    "localTime": "00:45",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_273",
+    "birthplace": "Johannesburg"
+  }
+}

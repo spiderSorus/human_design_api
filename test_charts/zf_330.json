@@ -1,0 +1,56 @@
+{
+  "name": "Test_330",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (15/10 | 17/18)",
+  "channels": [
+    "10-34",
+    "27-50"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 15.5",
+      "Earth: 10.5",
+      "NorthNode: 12.3",
+      "SouthNode: 11.3",
+      "Moon: 11.1",
+      "Mercury: 35.5",
+      "Venus: 7.5",
+      "Mars: 12.5",
+      "Jupiter: 34.3",
+      "Saturn: 50.2",
+      "Uranus: 9.1",
+      "Neptune: 11.6",
+      "Pluto: 50.1"
+    ],
+    "design": [
+      "Sun: 17.1",
+      "Earth: 18.1",
+      "NorthNode: 15.2",
+      "SouthNode: 10.2",
+      "Moon: 4.3",
+      "Mercury: 25.6",
+      "Venus: 27.6",
+      "Mars: 42.2",
+      "Jupiter: 9.6",
+      "Saturn: 28.2",
+      "Uranus: 9.4",
+      "Neptune: 10.2",
+      "Pluto: 50.3"
+    ]
+  },
+  "input": {
+    "localDate": "1983-06-24",
+    "localTime": "05:00",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_330",
+    "birthplace": "Los Angeles"
+  }
+}

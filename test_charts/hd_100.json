@@ -1,0 +1,59 @@
+{
+  "name": "Test_100",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "21-45",
+    "25-51",
+    "28-38",
+    "34-57",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.3",
+      "Earth: 41.3",
+      "NorthNode: 48.2",
+      "SouthNode: 21.2",
+      "Moon: 5.6",
+      "Mercury: 4.2",
+      "Venus: 45.5",
+      "Mars: 15.3",
+      "Jupiter: 38.1",
+      "Saturn: 17.4",
+      "Uranus: 41.1",
+      "Neptune: 61.6",
+      "Pluto: 34.1"
+    ],
+    "design": [
+      "Sun: 27.5",
+      "Earth: 28.5",
+      "NorthNode: 57.2",
+      "SouthNode: 51.2",
+      "Moon: 33.4",
+      "Mercury: 8.2",
+      "Venus: 45.3",
+      "Mars: 42.5",
+      "Jupiter: 54.3",
+      "Saturn: 25.5",
+      "Uranus: 41.3",
+      "Neptune: 60.2",
+      "Pluto: 34.3"
+    ]
+  },
+  "input": {
+    "localDate": "1996-07-27",
+    "localTime": "03:17",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_100",
+    "birthplace": "Johannesburg"
+  }
+}

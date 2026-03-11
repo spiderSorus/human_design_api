@@ -1,0 +1,55 @@
+{
+  "name": "Test_345",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (63/64 | 5/35)",
+  "channels": [
+    "2-14"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 63.4",
+      "Earth: 64.4",
+      "NorthNode: 28.6",
+      "SouthNode: 27.6",
+      "Moon: 27.4",
+      "Mercury: 13.6",
+      "Venus: 41.2",
+      "Mars: 7.3",
+      "Jupiter: 5.4",
+      "Saturn: 63.4",
+      "Uranus: 60.3",
+      "Neptune: 61.5",
+      "Pluto: 34.1"
+    ],
+    "design": [
+      "Sun: 5.6",
+      "Earth: 35.6",
+      "NorthNode: 1.2",
+      "SouthNode: 2.2",
+      "Moon: 37.2",
+      "Mercury: 5.3",
+      "Venus: 28.6",
+      "Mars: 29.5",
+      "Jupiter: 14.6",
+      "Saturn: 37.1",
+      "Uranus: 61.4",
+      "Neptune: 61.2",
+      "Pluto: 14.5"
+    ]
+  },
+  "input": {
+    "localDate": "1995-03-06",
+    "localTime": "05:41",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_345",
+    "birthplace": "Sydney"
+  }
+}

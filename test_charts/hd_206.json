@@ -1,0 +1,59 @@
+{
+  "name": "Test_206",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "13-33",
+    "19-49",
+    "23-43",
+    "24-61",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.2",
+      "Earth: 43.2",
+      "NorthNode: 19.4",
+      "SouthNode: 33.4",
+      "Moon: 34.2",
+      "Mercury: 24.2",
+      "Venus: 17.4",
+      "Mars: 63.4",
+      "Jupiter: 52.6",
+      "Saturn: 61.5",
+      "Uranus: 58.6",
+      "Neptune: 38.6",
+      "Pluto: 1.4"
+    ],
+    "design": [
+      "Sun: 49.4",
+      "Earth: 4.4",
+      "NorthNode: 13.4",
+      "SouthNode: 7.4",
+      "Moon: 40.1",
+      "Mercury: 60.3",
+      "Venus: 61.1",
+      "Mars: 58.6",
+      "Jupiter: 15.4",
+      "Saturn: 54.6",
+      "Uranus: 58.5",
+      "Neptune: 38.5",
+      "Pluto: 1.5"
+    ]
+  },
+  "input": {
+    "localDate": "1990-05-10",
+    "localTime": "17:32",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_206",
+    "birthplace": "New York"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_424",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (9/16 | 64/63)",
+  "channels": [
+    "16-48",
+    "25-51",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 9.6",
+      "Earth: 16.6",
+      "NorthNode: 6.6",
+      "SouthNode: 36.6",
+      "Moon: 64.1",
+      "Mercury: 26.3",
+      "Venus: 50.2",
+      "Mars: 48.3",
+      "Jupiter: 47.5",
+      "Saturn: 9.3",
+      "Uranus: 51.2",
+      "Neptune: 37.2",
+      "Pluto: 38.5"
+    ],
+    "design": [
+      "Sun: 64.2",
+      "Earth: 63.2",
+      "NorthNode: 46.4",
+      "SouthNode: 25.4",
+      "Moon: 45.1",
+      "Mercury: 48.1",
+      "Venus: 7.2",
+      "Mars: 7.5",
+      "Jupiter: 59.6",
+      "Saturn: 14.6",
+      "Uranus: 51.6",
+      "Neptune: 37.3",
+      "Pluto: 38.4"
+    ]
+  },
+  "input": {
+    "localDate": "2015-12-03",
+    "localTime": "14:33",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_424",
+    "birthplace": "Mumbai"
+  }
+}

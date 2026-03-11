@@ -1,0 +1,57 @@
+{
+  "name": "Test_474",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (26/45 | 47/22)",
+  "channels": [
+    "10-34",
+    "16-48",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.4",
+      "Earth: 45.4",
+      "NorthNode: 9.5",
+      "SouthNode: 16.5",
+      "Moon: 5.1",
+      "Mercury: 5.6",
+      "Venus: 10.2",
+      "Mars: 34.2",
+      "Jupiter: 37.6",
+      "Saturn: 53.3",
+      "Uranus: 50.6",
+      "Neptune: 9.5",
+      "Pluto: 18.6"
+    ],
+    "design": [
+      "Sun: 47.6",
+      "Earth: 22.6",
+      "NorthNode: 5.3",
+      "SouthNode: 35.3",
+      "Moon: 47.1",
+      "Mercury: 48.6",
+      "Venus: 40.4",
+      "Mars: 46.4",
+      "Jupiter: 63.1",
+      "Saturn: 53.3",
+      "Uranus: 32.6",
+      "Neptune: 9.2",
+      "Pluto: 18.3"
+    ]
+  },
+  "input": {
+    "localDate": "1974-12-12",
+    "localTime": "23:46",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_474",
+    "birthplace": "Berlin"
+  }
+}

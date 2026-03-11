@@ -1,0 +1,57 @@
+{
+  "name": "Test_127",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Splenic",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (52/58 | 17/18)",
+  "channels": [
+    "1-8",
+    "18-58",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.4",
+      "Earth: 58.4",
+      "NorthNode: 43.5",
+      "SouthNode: 23.5",
+      "Moon: 22.5",
+      "Mercury: 15.4",
+      "Venus: 7.4",
+      "Mars: 8.3",
+      "Jupiter: 28.3",
+      "Saturn: 63.2",
+      "Uranus: 61.5",
+      "Neptune: 61.2",
+      "Pluto: 14.2"
+    ],
+    "design": [
+      "Sun: 17.6",
+      "Earth: 18.6",
+      "NorthNode: 14.1",
+      "SouthNode: 8.1",
+      "Moon: 43.2",
+      "Mercury: 63.4",
+      "Venus: 3.1",
+      "Mars: 22.2",
+      "Jupiter: 1.1",
+      "Saturn: 37.2",
+      "Uranus: 61.6",
+      "Neptune: 61.3",
+      "Pluto: 14.4"
+    ]
+  },
+  "input": {
+    "localDate": "1994-06-29",
+    "localTime": "10:33",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_127",
+    "birthplace": "London"
+  }
+}

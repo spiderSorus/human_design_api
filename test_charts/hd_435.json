@@ -1,0 +1,60 @@
+{
+  "name": "Test_435",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (40/37 | 16/9)",
+  "channels": [
+    "16-48",
+    "20-57",
+    "29-46",
+    "37-40",
+    "47-64",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 40.4",
+      "Earth: 37.4",
+      "NorthNode: 21.1",
+      "SouthNode: 48.1",
+      "Moon: 11.4",
+      "Mercury: 46.2",
+      "Venus: 46.1",
+      "Mars: 7.5",
+      "Jupiter: 64.4",
+      "Saturn: 42.5",
+      "Uranus: 46.1",
+      "Neptune: 43.6",
+      "Pluto: 47.6"
+    ],
+    "design": [
+      "Sun: 16.6",
+      "Earth: 9.6",
+      "NorthNode: 51.3",
+      "SouthNode: 57.3",
+      "Moon: 31.6",
+      "Mercury: 15.4",
+      "Venus: 20.6",
+      "Mars: 35.6",
+      "Jupiter: 29.4",
+      "Saturn: 42.2",
+      "Uranus: 6.3",
+      "Neptune: 14.1",
+      "Pluto: 47.4"
+    ]
+  },
+  "input": {
+    "localDate": "1968-09-01",
+    "localTime": "03:31",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_435",
+    "birthplace": "Sao Paulo"
+  }
+}

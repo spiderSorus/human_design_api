@@ -1,0 +1,58 @@
+{
+  "name": "Test_201",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "1-8",
+    "2-14",
+    "37-40",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.3",
+      "Earth: 30.3",
+      "NorthNode: 40.3",
+      "SouthNode: 37.3",
+      "Moon: 56.5",
+      "Mercury: 33.1",
+      "Venus: 29.1",
+      "Mars: 52.5",
+      "Jupiter: 4.3",
+      "Saturn: 64.4",
+      "Uranus: 1.5",
+      "Neptune: 26.1",
+      "Pluto: 57.3"
+    ],
+    "design": [
+      "Sun: 8.5",
+      "Earth: 14.5",
+      "NorthNode: 64.4",
+      "SouthNode: 63.4",
+      "Moon: 63.5",
+      "Mercury: 2.5",
+      "Venus: 27.1",
+      "Mars: 27.2",
+      "Jupiter: 31.2",
+      "Saturn: 40.2",
+      "Uranus: 1.6",
+      "Neptune: 26.3",
+      "Pluto: 57.2"
+    ]
+  },
+  "input": {
+    "localDate": "1979-08-20",
+    "localTime": "16:52",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_201",
+    "birthplace": "Sydney"
+  }
+}

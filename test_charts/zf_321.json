@@ -1,0 +1,57 @@
+{
+  "name": "Test_321",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (37/40 | 9/16)",
+  "channels": [
+    "27-50",
+    "37-40",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.4",
+      "Earth: 40.4",
+      "NorthNode: 63.1",
+      "SouthNode: 64.1",
+      "Moon: 43.2",
+      "Mercury: 49.2",
+      "Venus: 63.6",
+      "Mars: 42.5",
+      "Jupiter: 28.5",
+      "Saturn: 27.3",
+      "Uranus: 18.5",
+      "Neptune: 34.1",
+      "Pluto: 6.5"
+    ],
+    "design": [
+      "Sun: 9.6",
+      "Earth: 16.6",
+      "NorthNode: 22.1",
+      "SouthNode: 47.1",
+      "Moon: 47.4",
+      "Mercury: 26.4",
+      "Venus: 14.4",
+      "Mars: 49.2",
+      "Jupiter: 50.2",
+      "Saturn: 27.2",
+      "Uranus: 18.5",
+      "Neptune: 14.5",
+      "Pluto: 6.5"
+    ]
+  },
+  "input": {
+    "localDate": "1970-02-27",
+    "localTime": "07:44",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_321",
+    "birthplace": "Los Angeles"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_249",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (33/19 | 24/44)",
+  "channels": [
+    "2-14",
+    "26-44",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 33.2",
+      "Earth: 19.2",
+      "NorthNode: 8.3",
+      "SouthNode: 14.3",
+      "Moon: 6.2",
+      "Mercury: 59.4",
+      "Venus: 31.3",
+      "Mars: 37.5",
+      "Jupiter: 4.6",
+      "Saturn: 52.4",
+      "Uranus: 55.2",
+      "Neptune: 19.5",
+      "Pluto: 26.1"
+    ],
+    "design": [
+      "Sun: 24.4",
+      "Earth: 44.4",
+      "NorthNode: 8.6",
+      "SouthNode: 14.6",
+      "Moon: 2.4",
+      "Mercury: 23.1",
+      "Venus: 21.4",
+      "Mars: 41.5",
+      "Jupiter: 33.2",
+      "Saturn: 12.4",
+      "Uranus: 55.3",
+      "Neptune: 19.6",
+      "Pluto: 26.3"
+    ]
+  },
+  "input": {
+    "localDate": "2003-08-01",
+    "localTime": "13:51",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_249",
+    "birthplace": "Los Angeles"
+  }
+}

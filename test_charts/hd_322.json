@@ -1,0 +1,57 @@
+{
+  "name": "Test_322",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (8/14 | 30/29)",
+  "channels": [
+    "10-20",
+    "2-14",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 8.3",
+      "Earth: 14.3",
+      "NorthNode: 12.3",
+      "SouthNode: 11.3",
+      "Moon: 33.1",
+      "Mercury: 2.6",
+      "Venus: 39.1",
+      "Mars: 20.1",
+      "Jupiter: 9.2",
+      "Saturn: 50.4",
+      "Uranus: 9.2",
+      "Neptune: 10.1",
+      "Pluto: 50.2"
+    ],
+    "design": [
+      "Sun: 30.5",
+      "Earth: 29.5",
+      "NorthNode: 15.5",
+      "SouthNode: 10.5",
+      "Moon: 42.5",
+      "Mercury: 41.3",
+      "Venus: 36.2",
+      "Mars: 36.3",
+      "Jupiter: 9.4",
+      "Saturn: 28.3",
+      "Uranus: 9.4",
+      "Neptune: 10.1",
+      "Pluto: 50.4"
+    ]
+  },
+  "input": {
+    "localDate": "1983-05-18",
+    "localTime": "01:22",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_322",
+    "birthplace": "New York"
+  }
+}

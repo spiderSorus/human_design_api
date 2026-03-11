@@ -1,0 +1,59 @@
+{
+  "name": "Test_134",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Ego",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "23-43",
+    "24-61",
+    "25-51",
+    "4-63",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.2",
+      "Earth: 43.2",
+      "NorthNode: 47.3",
+      "SouthNode: 22.3",
+      "Moon: 52.6",
+      "Mercury: 23.1",
+      "Venus: 24.6",
+      "Mars: 34.6",
+      "Jupiter: 64.3",
+      "Saturn: 5.4",
+      "Uranus: 42.2",
+      "Neptune: 63.1",
+      "Pluto: 54.3"
+    ],
+    "design": [
+      "Sun: 49.4",
+      "Earth: 4.4",
+      "NorthNode: 47.6",
+      "SouthNode: 22.6",
+      "Moon: 25.3",
+      "Mercury: 60.1",
+      "Venus: 61.3",
+      "Mars: 43.2",
+      "Jupiter: 47.5",
+      "Saturn: 5.4",
+      "Uranus: 51.3",
+      "Neptune: 37.4",
+      "Pluto: 54.2"
+    ]
+  },
+  "input": {
+    "localDate": "2016-05-10",
+    "localTime": "12:20",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_134",
+    "birthplace": "Moscow"
+  }
+}

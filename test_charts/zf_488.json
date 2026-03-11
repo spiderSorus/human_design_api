@@ -1,0 +1,58 @@
+{
+  "name": "Test_488",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (33/19 | 24/44)",
+  "channels": [
+    "24-61",
+    "25-51",
+    "3-60",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 33.4",
+      "Earth: 19.4",
+      "NorthNode: 48.1",
+      "SouthNode: 21.1",
+      "Moon: 36.4",
+      "Mercury: 59.2",
+      "Venus: 12.4",
+      "Mars: 52.2",
+      "Jupiter: 58.6",
+      "Saturn: 17.4",
+      "Uranus: 41.1",
+      "Neptune: 61.6",
+      "Pluto: 34.1"
+    ],
+    "design": [
+      "Sun: 24.6",
+      "Earth: 44.6",
+      "NorthNode: 57.3",
+      "SouthNode: 51.3",
+      "Moon: 28.2",
+      "Mercury: 8.5",
+      "Venus: 12.1",
+      "Mars: 3.4",
+      "Jupiter: 54.3",
+      "Saturn: 25.5",
+      "Uranus: 41.3",
+      "Neptune: 60.2",
+      "Pluto: 34.3"
+    ]
+  },
+  "input": {
+    "localDate": "1996-08-02",
+    "localTime": "22:12",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_488",
+    "birthplace": "Mumbai"
+  }
+}

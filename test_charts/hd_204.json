@@ -1,0 +1,57 @@
+{
+  "name": "Test_204",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (52/58 | 21/48)",
+  "channels": [
+    "10-34",
+    "7-31",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.5",
+      "Earth: 58.5",
+      "NorthNode: 3.2",
+      "SouthNode: 50.2",
+      "Moon: 42.4",
+      "Mercury: 31.2",
+      "Venus: 7.5",
+      "Mars: 54.6",
+      "Jupiter: 22.6",
+      "Saturn: 34.5",
+      "Uranus: 26.3",
+      "Neptune: 58.1",
+      "Pluto: 28.3"
+    ],
+    "design": [
+      "Sun: 21.1",
+      "Earth: 48.1",
+      "NorthNode: 3.4",
+      "SouthNode: 50.4",
+      "Moon: 26.5",
+      "Mercury: 22.2",
+      "Venus: 3.2",
+      "Mars: 10.4",
+      "Jupiter: 37.4",
+      "Saturn: 9.5",
+      "Uranus: 26.6",
+      "Neptune: 58.3",
+      "Pluto: 28.5"
+    ]
+  },
+  "input": {
+    "localDate": "1986-06-30",
+    "localTime": "19:52",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_204",
+    "birthplace": "Tokyo"
+  }
+}

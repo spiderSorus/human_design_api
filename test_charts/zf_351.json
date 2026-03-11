@@ -1,0 +1,57 @@
+{
+  "name": "Test_351",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Splenic",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (16/9 | 63/64)",
+  "channels": [
+    "16-48",
+    "4-63",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.6",
+      "Earth: 9.6",
+      "NorthNode: 13.5",
+      "SouthNode: 7.5",
+      "Moon: 47.2",
+      "Mercury: 23.2",
+      "Venus: 2.5",
+      "Mars: 13.1",
+      "Jupiter: 34.1",
+      "Saturn: 8.4",
+      "Uranus: 48.1",
+      "Neptune: 34.2",
+      "Pluto: 6.5"
+    ],
+    "design": [
+      "Sun: 63.2",
+      "Earth: 64.2",
+      "NorthNode: 49.5",
+      "SouthNode: 4.5",
+      "Moon: 16.5",
+      "Mercury: 37.5",
+      "Venus: 60.4",
+      "Mars: 11.3",
+      "Jupiter: 9.1",
+      "Saturn: 2.5",
+      "Uranus: 48.4",
+      "Neptune: 34.4",
+      "Pluto: 46.1"
+    ]
+  },
+  "input": {
+    "localDate": "1971-06-01",
+    "localTime": "11:03",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_351",
+    "birthplace": "Los Angeles"
+  }
+}

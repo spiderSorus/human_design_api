@@ -1,0 +1,58 @@
+{
+  "name": "Test_200",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (39/38 | 21/48)",
+  "channels": [
+    "42-53",
+    "47-64",
+    "5-15",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 39.3",
+      "Earth: 38.3",
+      "NorthNode: 64.4",
+      "SouthNode: 63.4",
+      "Moon: 15.4",
+      "Mercury: 52.5",
+      "Venus: 53.5",
+      "Mars: 43.5",
+      "Jupiter: 47.1",
+      "Saturn: 9.6",
+      "Uranus: 42.4",
+      "Neptune: 63.1",
+      "Pluto: 54.2"
+    ],
+    "design": [
+      "Sun: 21.5",
+      "Earth: 48.5",
+      "NorthNode: 47.5",
+      "SouthNode: 22.5",
+      "Moon: 49.1",
+      "Mercury: 42.5",
+      "Venus: 36.5",
+      "Mars: 9.3",
+      "Jupiter: 64.5",
+      "Saturn: 5.6",
+      "Uranus: 51.6",
+      "Neptune: 37.6",
+      "Pluto: 54.3"
+    ]
+  },
+  "input": {
+    "localDate": "2016-07-04",
+    "localTime": "02:36",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_200",
+    "birthplace": "Sydney"
+  }
+}

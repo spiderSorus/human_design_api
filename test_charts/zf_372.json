@@ -1,0 +1,57 @@
+{
+  "name": "Test_372",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (18/17 | 39/38)",
+  "channels": [
+    "28-38",
+    "30-41",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 18.5",
+      "Earth: 17.5",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 52.6",
+      "Mercury: 28.2",
+      "Venus: 40.5",
+      "Mars: 50.4",
+      "Jupiter: 60.2",
+      "Saturn: 61.3",
+      "Uranus: 29.5",
+      "Neptune: 44.3",
+      "Pluto: 40.4"
+    ],
+    "design": [
+      "Sun: 39.1",
+      "Earth: 38.1",
+      "NorthNode: 29.4",
+      "SouthNode: 30.4",
+      "Moon: 55.4",
+      "Mercury: 15.5",
+      "Venus: 8.1",
+      "Mars: 59.2",
+      "Jupiter: 41.4",
+      "Saturn: 60.2",
+      "Uranus: 4.5",
+      "Neptune: 44.2",
+      "Pluto: 40.1"
+    ]
+  },
+  "input": {
+    "localDate": "1961-10-01",
+    "localTime": "20:49",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_372",
+    "birthplace": "Mumbai"
+  }
+}

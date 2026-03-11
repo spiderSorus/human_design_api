@@ -1,0 +1,194 @@
+{
+  "name": "Stress_7580",
+  "type": "Manifestor",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (39/38 | 51/57)",
+  "points": {
+    "personality": {
+      "Sun": {
+        "base": 2,
+        "tone": 4,
+        "color": 4
+      },
+      "Earth": {
+        "base": 2,
+        "tone": 4,
+        "color": 4
+      },
+      "NorthNode": {
+        "base": 2,
+        "tone": 2,
+        "color": 1
+      },
+      "SouthNode": {
+        "base": 2,
+        "tone": 2,
+        "color": 1
+      },
+      "Moon": {
+        "base": 5,
+        "tone": 6,
+        "color": 5
+      },
+      "Mercury": {
+        "base": 5,
+        "tone": 5,
+        "color": 2
+      },
+      "Venus": {
+        "base": 5,
+        "tone": 3,
+        "color": 4
+      },
+      "Mars": {
+        "base": 4,
+        "tone": 3,
+        "color": 6
+      },
+      "Jupiter": {
+        "base": 2,
+        "tone": 3,
+        "color": 6
+      },
+      "Saturn": {
+        "base": 5,
+        "tone": 2,
+        "color": 2
+      },
+      "Uranus": {
+        "base": 5,
+        "tone": 6,
+        "color": 6
+      },
+      "Neptune": {
+        "base": 2,
+        "tone": 5,
+        "color": 2
+      },
+      "Pluto": {
+        "base": 2,
+        "tone": 4,
+        "color": 2
+      }
+    },
+    "design": {
+      "Sun": {
+        "base": 1,
+        "tone": 3,
+        "color": 5
+      },
+      "Earth": {
+        "base": 1,
+        "tone": 3,
+        "color": 5
+      },
+      "NorthNode": {
+        "base": 1,
+        "tone": 5,
+        "color": 2
+      },
+      "SouthNode": {
+        "base": 1,
+        "tone": 5,
+        "color": 2
+      },
+      "Moon": {
+        "base": 4,
+        "tone": 4,
+        "color": 6
+      },
+      "Mercury": {
+        "base": 4,
+        "tone": 6,
+        "color": 4
+      },
+      "Venus": {
+        "base": 3,
+        "tone": 5,
+        "color": 5
+      },
+      "Mars": {
+        "base": 1,
+        "tone": 6,
+        "color": 5
+      },
+      "Jupiter": {
+        "base": 1,
+        "tone": 4,
+        "color": 6
+      },
+      "Saturn": {
+        "base": 4,
+        "tone": 6,
+        "color": 2
+      },
+      "Uranus": {
+        "base": 4,
+        "tone": 4,
+        "color": 3
+      },
+      "Neptune": {
+        "base": 4,
+        "tone": 1,
+        "color": 1
+      },
+      "Pluto": {
+        "base": 1,
+        "tone": 4,
+        "color": 1
+      }
+    }
+  },
+  "channels": [
+    "10-57",
+    "12-22",
+    "17-62",
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 39.6",
+      "Earth: 38.6",
+      "NorthNode: 49.1",
+      "SouthNode: 4.1",
+      "Moon: 29.6",
+      "Mercury: 12.2",
+      "Venus: 62.2",
+      "Mars: 59.3",
+      "Jupiter: 54.3",
+      "Saturn: 59.6",
+      "Uranus: 22.6",
+      "Neptune: 49.6",
+      "Pluto: 10.2"
+    ],
+    "design": [
+      "Sun: 51.2",
+      "Earth: 57.2",
+      "NorthNode: 30.3",
+      "SouthNode: 29.3",
+      "Moon: 51.2",
+      "Mercury: 17.3",
+      "Venus: 25.2",
+      "Mars: 39.4",
+      "Jupiter: 54.6",
+      "Saturn: 59.3",
+      "Uranus: 22.4",
+      "Neptune: 49.6",
+      "Pluto: 10.4"
+    ]
+  },
+  "input": {
+    "localDate": "2008-07-06",
+    "localTime": "15:00",
+    "timezone": "Asia/Dubai",
+    "latitude": 25.2048,
+    "longitude": 55.2708,
+    "name": "Stress_7580",
+    "birthplace": "Dubai"
+  }
+}

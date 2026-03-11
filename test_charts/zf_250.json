@@ -1,0 +1,58 @@
+{
+  "name": "Test_250",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Survival",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (34/20 | 59/55)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "20-34",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 34.1",
+      "Earth: 20.1",
+      "NorthNode: 61.2",
+      "SouthNode: 62.2",
+      "Moon: 41.4",
+      "Mercury: 9.5",
+      "Venus: 1.6",
+      "Mars: 7.3",
+      "Jupiter: 49.1",
+      "Saturn: 46.5",
+      "Uranus: 36.1",
+      "Neptune: 49.6",
+      "Pluto: 10.4"
+    ],
+    "design": [
+      "Sun: 59.3",
+      "Earth: 55.3",
+      "NorthNode: 60.4",
+      "SouthNode: 56.4",
+      "Moon: 44.2",
+      "Mercury: 46.2",
+      "Venus: 56.3",
+      "Mars: 15.2",
+      "Jupiter: 49.2",
+      "Saturn: 47.6",
+      "Uranus: 36.4",
+      "Neptune: 30.1",
+      "Pluto: 10.3"
+    ]
+  },
+  "input": {
+    "localDate": "2009-11-22",
+    "localTime": "05:56",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_250",
+    "birthplace": "Los Angeles"
+  }
+}

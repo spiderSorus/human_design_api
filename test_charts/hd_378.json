@@ -1,0 +1,58 @@
+{
+  "name": "Test_378",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (8/14 | 30/29)",
+  "channels": [
+    "18-58",
+    "29-46",
+    "32-54",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 8.4",
+      "Earth: 14.4",
+      "NorthNode: 58.5",
+      "SouthNode: 52.5",
+      "Moon: 26.3",
+      "Mercury: 8.3",
+      "Venus: 16.3",
+      "Mars: 37.3",
+      "Jupiter: 19.5",
+      "Saturn: 45.4",
+      "Uranus: 57.5",
+      "Neptune: 9.1",
+      "Pluto: 46.4"
+    ],
+    "design": [
+      "Sun: 30.6",
+      "Earth: 29.6",
+      "NorthNode: 54.1",
+      "SouthNode: 53.1",
+      "Moon: 47.2",
+      "Mercury: 63.5",
+      "Venus: 13.5",
+      "Mars: 58.1",
+      "Jupiter: 60.3",
+      "Saturn: 35.3",
+      "Uranus: 32.3",
+      "Neptune: 9.2",
+      "Pluto: 18.1"
+    ]
+  },
+  "input": {
+    "localDate": "1973-05-19",
+    "localTime": "10:06",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_378",
+    "birthplace": "Mumbai"
+  }
+}

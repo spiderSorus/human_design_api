@@ -1,0 +1,57 @@
+{
+  "name": "Test_299",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (46/25 | 15/10)",
+  "channels": [
+    "23-43",
+    "25-51",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 46.2",
+      "Earth: 25.2",
+      "NorthNode: 23.4",
+      "SouthNode: 43.4",
+      "Moon: 7.2",
+      "Mercury: 64.2",
+      "Venus: 18.6",
+      "Mars: 55.1",
+      "Jupiter: 59.6",
+      "Saturn: 39.3",
+      "Uranus: 30.6",
+      "Neptune: 19.4",
+      "Pluto: 26.1"
+    ],
+    "design": [
+      "Sun: 15.4",
+      "Earth: 10.4",
+      "NorthNode: 8.5",
+      "SouthNode: 14.5",
+      "Moon: 51.4",
+      "Mercury: 45.1",
+      "Venus: 35.5",
+      "Mars: 55.3",
+      "Jupiter: 7.4",
+      "Saturn: 15.5",
+      "Uranus: 55.3",
+      "Neptune: 19.6",
+      "Pluto: 26.2"
+    ]
+  },
+  "input": {
+    "localDate": "2003-09-22",
+    "localTime": "21:29",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_299",
+    "birthplace": "Moscow"
+  }
+}

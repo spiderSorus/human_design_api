@@ -1,0 +1,58 @@
+{
+  "name": "Test_39",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "23-43",
+    "27-50",
+    "28-38",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.3",
+      "Earth: 43.3",
+      "NorthNode: 7.5",
+      "SouthNode: 13.5",
+      "Moon: 21.5",
+      "Mercury: 27.6",
+      "Venus: 52.1",
+      "Mars: 50.2",
+      "Jupiter: 42.1",
+      "Saturn: 24.2",
+      "Uranus: 13.4",
+      "Neptune: 41.3",
+      "Pluto: 9.5"
+    ],
+    "design": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 4.4",
+      "SouthNode: 49.4",
+      "Moon: 38.2",
+      "Mercury: 55.1",
+      "Venus: 22.2",
+      "Mars: 28.5",
+      "Jupiter: 25.2",
+      "Saturn: 3.3",
+      "Uranus: 13.1",
+      "Neptune: 41.1",
+      "Pluto: 9.5"
+    ]
+  },
+  "input": {
+    "localDate": "1999-05-12",
+    "localTime": "16:00",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_39",
+    "birthplace": "Sao Paulo"
+  }
+}

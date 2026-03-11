@@ -1,0 +1,56 @@
+{
+  "name": "Test_388",
+  "type": "Generator",
+  "profile": "4 / 1",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Juxtaposition Cross of ... (21/48 | 54/53)",
+  "channels": [
+    "32-54",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 21.4",
+      "Earth: 48.4",
+      "NorthNode: 32.4",
+      "SouthNode: 42.4",
+      "Moon: 6.6",
+      "Mercury: 3.4",
+      "Venus: 51.4",
+      "Mars: 37.6",
+      "Jupiter: 8.6",
+      "Saturn: 33.3",
+      "Uranus: 44.4",
+      "Neptune: 5.6",
+      "Pluto: 48.4"
+    ],
+    "design": [
+      "Sun: 54.1",
+      "Earth: 53.1",
+      "NorthNode: 50.5",
+      "SouthNode: 3.5",
+      "Moon: 53.2",
+      "Mercury: 54.2",
+      "Venus: 55.2",
+      "Mars: 10.6",
+      "Jupiter: 23.3",
+      "Saturn: 7.3",
+      "Uranus: 44.4",
+      "Neptune: 5.4",
+      "Pluto: 48.5"
+    ]
+  },
+  "input": {
+    "localDate": "1977-04-02",
+    "localTime": "21:31",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_388",
+    "birthplace": "Sao Paulo"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Test_163",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (56/60 | 3/50)",
+  "channels": [
+    "19-49",
+    "25-51",
+    "27-50",
+    "29-46",
+    "3-60",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 56.3",
+      "Earth: 60.3",
+      "NorthNode: 47.5",
+      "SouthNode: 22.5",
+      "Moon: 49.1",
+      "Mercury: 4.4",
+      "Venus: 29.4",
+      "Mars: 57.2",
+      "Jupiter: 49.1",
+      "Saturn: 51.6",
+      "Uranus: 41.6",
+      "Neptune: 60.3",
+      "Pluto: 34.4"
+    ],
+    "design": [
+      "Sun: 3.5",
+      "Earth: 50.5",
+      "NorthNode: 46.1",
+      "SouthNode: 25.1",
+      "Moon: 18.6",
+      "Mercury: 24.1",
+      "Venus: 27.4",
+      "Mars: 47.1",
+      "Jupiter: 13.6",
+      "Saturn: 21.4",
+      "Uranus: 19.1",
+      "Neptune: 60.4",
+      "Pluto: 34.6"
+    ]
+  },
+  "input": {
+    "localDate": "1997-07-21",
+    "localTime": "07:09",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_163",
+    "birthplace": "Los Angeles"
+  }
+}

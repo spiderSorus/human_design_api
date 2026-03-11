@@ -1,0 +1,56 @@
+{
+  "name": "Test_289",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (51/57 | 54/53)",
+  "channels": [
+    "25-51",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 51.3",
+      "Earth: 57.3",
+      "NorthNode: 51.1",
+      "SouthNode: 57.1",
+      "Moon: 36.5",
+      "Mercury: 42.6",
+      "Venus: 25.5",
+      "Mars: 63.1",
+      "Jupiter: 2.6",
+      "Saturn: 63.4",
+      "Uranus: 23.3",
+      "Neptune: 36.6",
+      "Pluto: 60.6"
+    ],
+    "design": [
+      "Sun: 54.6",
+      "Earth: 53.6",
+      "NorthNode: 51.6",
+      "SouthNode: 57.6",
+      "Moon: 58.6",
+      "Mercury: 11.5",
+      "Venus: 5.4",
+      "Mars: 58.1",
+      "Jupiter: 27.5",
+      "Saturn: 55.5",
+      "Uranus: 23.1",
+      "Neptune: 36.3",
+      "Pluto: 60.4"
+    ]
+  },
+  "input": {
+    "localDate": "2024-04-07",
+    "localTime": "08:26",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_289",
+    "birthplace": "Johannesburg"
+  }
+}

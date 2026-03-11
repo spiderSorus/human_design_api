@@ -1,0 +1,59 @@
+{
+  "name": "Test_499",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (6/36 | 15/10)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "19-49",
+    "20-34",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.5",
+      "Earth: 36.5",
+      "NorthNode: 20.5",
+      "SouthNode: 34.5",
+      "Moon: 63.2",
+      "Mercury: 32.3",
+      "Venus: 44.3",
+      "Mars: 46.6",
+      "Jupiter: 49.6",
+      "Saturn: 41.6",
+      "Uranus: 2.2",
+      "Neptune: 22.5",
+      "Pluto: 61.4"
+    ],
+    "design": [
+      "Sun: 15.1",
+      "Earth: 10.1",
+      "NorthNode: 16.6",
+      "SouthNode: 9.6",
+      "Moon: 32.6",
+      "Mercury: 35.6",
+      "Venus: 62.1",
+      "Mars: 31.4",
+      "Jupiter: 55.3",
+      "Saturn: 19.6",
+      "Uranus: 2.1",
+      "Neptune: 36.1",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2021-09-19",
+    "localTime": "16:17",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_499",
+    "birthplace": "New York"
+  }
+}

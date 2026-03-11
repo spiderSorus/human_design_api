@@ -1,0 +1,56 @@
+{
+  "name": "Test_472",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (54/53 | 57/51)",
+  "channels": [
+    "25-51",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 54.2",
+      "Earth: 53.2",
+      "NorthNode: 36.3",
+      "SouthNode: 6.3",
+      "Moon: 4.6",
+      "Mercury: 61.6",
+      "Venus: 49.2",
+      "Mars: 14.6",
+      "Jupiter: 51.6",
+      "Saturn: 11.4",
+      "Uranus: 11.6",
+      "Neptune: 58.5",
+      "Pluto: 44.5"
+    ],
+    "design": [
+      "Sun: 57.4",
+      "Earth: 51.4",
+      "NorthNode: 25.5",
+      "SouthNode: 46.5",
+      "Moon: 45.5",
+      "Mercury: 44.5",
+      "Venus: 50.6",
+      "Mars: 46.5",
+      "Jupiter: 42.6",
+      "Saturn: 5.6",
+      "Uranus: 11.1",
+      "Neptune: 58.2",
+      "Pluto: 44.2"
+    ]
+  },
+  "input": {
+    "localDate": "1988-01-07",
+    "localTime": "11:16",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_472",
+    "birthplace": "Sao Paulo"
+  }
+}

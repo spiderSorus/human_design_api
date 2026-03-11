@@ -1,0 +1,56 @@
+{
+  "name": "Test_181",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Self Projected",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (64/63 | 45/26)",
+  "channels": [
+    "13-33",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 64.5",
+      "Earth: 63.5",
+      "NorthNode: 13.6",
+      "SouthNode: 7.6",
+      "Moon: 5.6",
+      "Mercury: 48.3",
+      "Venus: 48.1",
+      "Mars: 48.4",
+      "Jupiter: 38.4",
+      "Saturn: 64.2",
+      "Uranus: 22.5",
+      "Neptune: 49.4",
+      "Pluto: 10.1"
+    ],
+    "design": [
+      "Sun: 45.1",
+      "Earth: 26.1",
+      "NorthNode: 49.2",
+      "SouthNode: 4.2",
+      "Moon: 33.6",
+      "Mercury: 45.1",
+      "Venus: 45.1",
+      "Mars: 7.4",
+      "Jupiter: 61.1",
+      "Saturn: 59.3",
+      "Uranus: 22.6",
+      "Neptune: 49.6",
+      "Pluto: 10.3"
+    ]
+  },
+  "input": {
+    "localDate": "2008-09-07",
+    "localTime": "20:17",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_181",
+    "birthplace": "Moscow"
+  }
+}

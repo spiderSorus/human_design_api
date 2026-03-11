@@ -1,0 +1,57 @@
+{
+  "name": "Test_150",
+  "type": "Projector",
+  "profile": "6 / 3",
+  "authority": "Self Projected",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (7/13 | 23/43)",
+  "channels": [
+    "13-33",
+    "17-62",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.6",
+      "Earth: 13.6",
+      "NorthNode: 26.1",
+      "SouthNode: 45.1",
+      "Moon: 8.5",
+      "Mercury: 33.6",
+      "Venus: 62.6",
+      "Mars: 40.5",
+      "Jupiter: 63.5",
+      "Saturn: 39.5",
+      "Uranus: 32.4",
+      "Neptune: 9.2",
+      "Pluto: 18.2"
+    ],
+    "design": [
+      "Sun: 23.3",
+      "Earth: 43.3",
+      "NorthNode: 26.3",
+      "SouthNode: 45.3",
+      "Moon: 61.4",
+      "Mercury: 8.6",
+      "Venus: 17.5",
+      "Mars: 39.4",
+      "Jupiter: 63.2",
+      "Saturn: 15.5",
+      "Uranus: 32.5",
+      "Neptune: 9.4",
+      "Pluto: 18.1"
+    ]
+  },
+  "input": {
+    "localDate": "1974-08-11",
+    "localTime": "23:33",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_150",
+    "birthplace": "London"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Test_68",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (40/37 | 16/9)",
+  "channels": [
+    "17-62",
+    "20-34",
+    "37-40",
+    "42-53",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 40.3",
+      "Earth: 37.3",
+      "NorthNode: 14.1",
+      "SouthNode: 8.1",
+      "Moon: 52.3",
+      "Mercury: 46.5",
+      "Venus: 59.1",
+      "Mars: 16.5",
+      "Jupiter: 42.4",
+      "Saturn: 56.3",
+      "Uranus: 50.4",
+      "Neptune: 9.4",
+      "Pluto: 18.5"
+    ],
+    "design": [
+      "Sun: 16.5",
+      "Earth: 9.5",
+      "NorthNode: 34.1",
+      "SouthNode: 20.1",
+      "Moon: 55.3",
+      "Mercury: 12.1",
+      "Venus: 62.5",
+      "Mars: 17.5",
+      "Jupiter: 51.2",
+      "Saturn: 53.3",
+      "Uranus: 50.3",
+      "Neptune: 9.5",
+      "Pluto: 18.3"
+    ]
+  },
+  "input": {
+    "localDate": "1975-09-01",
+    "localTime": "07:02",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_68",
+    "birthplace": "London"
+  }
+}

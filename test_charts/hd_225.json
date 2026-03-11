@@ -1,0 +1,56 @@
+{
+  "name": "Test_225",
+  "type": "Manifesting Generator",
+  "profile": "1 / 4",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (59/55 | 20/34)",
+  "channels": [
+    "20-34",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 59.1",
+      "Earth: 55.1",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 41.5",
+      "Mercury: 40.6",
+      "Venus: 62.4",
+      "Mars: 18.1",
+      "Jupiter: 60.3",
+      "Saturn: 61.4",
+      "Uranus: 29.3",
+      "Neptune: 44.2",
+      "Pluto: 40.2"
+    ],
+    "design": [
+      "Sun: 20.4",
+      "Earth: 34.4",
+      "NorthNode: 59.2",
+      "SouthNode: 55.2",
+      "Moon: 47.6",
+      "Mercury: 12.2",
+      "Venus: 42.1",
+      "Mars: 33.3",
+      "Jupiter: 41.6",
+      "Saturn: 60.4",
+      "Uranus: 4.4",
+      "Neptune: 44.2",
+      "Pluto: 59.6"
+    ]
+  },
+  "input": {
+    "localDate": "1961-08-24",
+    "localTime": "10:58",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_225",
+    "birthplace": "London"
+  }
+}

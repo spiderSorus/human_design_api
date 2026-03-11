@@ -1,0 +1,58 @@
+{
+  "name": "Test_327",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (55/59 | 34/20)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "19-49",
+    "20-34"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 55.1",
+      "Earth: 59.1",
+      "NorthNode: 19.2",
+      "SouthNode: 33.2",
+      "Moon: 11.3",
+      "Mercury: 41.4",
+      "Venus: 21.2",
+      "Mars: 19.4",
+      "Jupiter: 19.4",
+      "Saturn: 47.3",
+      "Uranus: 22.5",
+      "Neptune: 49.6",
+      "Pluto: 10.5"
+    ],
+    "design": [
+      "Sun: 34.3",
+      "Earth: 20.3",
+      "NorthNode: 19.5",
+      "SouthNode: 33.5",
+      "Moon: 50.1",
+      "Mercury: 34.2",
+      "Venus: 38.5",
+      "Mars: 9.1",
+      "Jupiter: 61.1",
+      "Saturn: 47.4",
+      "Uranus: 22.2",
+      "Neptune: 49.3",
+      "Pluto: 10.2"
+    ]
+  },
+  "input": {
+    "localDate": "2009-02-19",
+    "localTime": "03:04",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_327",
+    "birthplace": "London"
+  }
+}

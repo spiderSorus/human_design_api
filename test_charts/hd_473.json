@@ -1,0 +1,59 @@
+{
+  "name": "Test_473",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (60/56 | 28/27)",
+  "channels": [
+    "18-58",
+    "19-49",
+    "27-50",
+    "3-60",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 60.5",
+      "Earth: 56.5",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 58.1",
+      "Mercury: 19.1",
+      "Venus: 41.4",
+      "Mars: 24.4",
+      "Jupiter: 49.1",
+      "Saturn: 15.1",
+      "Uranus: 50.2",
+      "Neptune: 9.4",
+      "Pluto: 18.4"
+    ],
+    "design": [
+      "Sun: 28.1",
+      "Earth: 27.1",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 28.1",
+      "Mercury: 14.2",
+      "Venus: 26.2",
+      "Mars: 3.6",
+      "Jupiter: 41.2",
+      "Saturn: 52.1",
+      "Uranus: 32.4",
+      "Neptune: 9.1",
+      "Pluto: 18.2"
+    ]
+  },
+  "input": {
+    "localDate": "1974-01-20",
+    "localTime": "21:04",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_473",
+    "birthplace": "Sao Paulo"
+  }
+}

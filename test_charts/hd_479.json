@@ -1,0 +1,58 @@
+{
+  "name": "Test_479",
+  "type": "Manifesting Generator",
+  "profile": "6 / 3",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (30/29 | 34/20)",
+  "channels": [
+    "20-34",
+    "25-51",
+    "29-46",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 30.6",
+      "Earth: 29.6",
+      "NorthNode: 25.3",
+      "SouthNode: 46.3",
+      "Moon: 25.2",
+      "Mercury: 41.3",
+      "Venus: 21.6",
+      "Mars: 14.3",
+      "Jupiter: 18.1",
+      "Saturn: 42.2",
+      "Uranus: 46.6",
+      "Neptune: 14.5",
+      "Pluto: 6.2"
+    ],
+    "design": [
+      "Sun: 34.3",
+      "Earth: 20.3",
+      "NorthNode: 17.5",
+      "SouthNode: 18.5",
+      "Moon: 60.2",
+      "Mercury: 14.1",
+      "Venus: 38.2",
+      "Mars: 18.6",
+      "Jupiter: 46.4",
+      "Saturn: 51.5",
+      "Uranus: 46.6",
+      "Neptune: 14.3",
+      "Pluto: 6.3"
+    ]
+  },
+  "input": {
+    "localDate": "1969-02-18",
+    "localTime": "19:37",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_479",
+    "birthplace": "Sao Paulo"
+  }
+}

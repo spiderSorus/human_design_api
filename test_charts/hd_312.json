@@ -1,0 +1,55 @@
+{
+  "name": "Test_312",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (10/15 | 18/17)",
+  "channels": [
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 10.6",
+      "Earth: 15.6",
+      "NorthNode: 12.5",
+      "SouthNode: 11.5",
+      "Moon: 3.4",
+      "Mercury: 38.6",
+      "Venus: 10.1",
+      "Mars: 63.1",
+      "Jupiter: 39.3",
+      "Saturn: 16.5",
+      "Uranus: 49.4",
+      "Neptune: 41.6",
+      "Pluto: 5.5"
+    ],
+    "design": [
+      "Sun: 18.2",
+      "Earth: 17.2",
+      "NorthNode: 15.4",
+      "SouthNode: 10.4",
+      "Moon: 49.3",
+      "Mercury: 50.3",
+      "Venus: 40.4",
+      "Mars: 38.2",
+      "Jupiter: 39.5",
+      "Saturn: 35.4",
+      "Uranus: 49.3",
+      "Neptune: 41.5",
+      "Pluto: 5.2"
+    ]
+  },
+  "input": {
+    "localDate": "2001-12-25",
+    "localTime": "06:52",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_312",
+    "birthplace": "Johannesburg"
+  }
+}

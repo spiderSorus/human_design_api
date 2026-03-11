@@ -1,0 +1,57 @@
+{
+  "name": "Test_143",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (3/50 | 60/56)",
+  "channels": [
+    "19-49",
+    "21-45",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.3",
+      "Earth: 50.3",
+      "NorthNode: 26.5",
+      "SouthNode: 45.5",
+      "Moon: 36.1",
+      "Mercury: 21.5",
+      "Venus: 63.3",
+      "Mars: 15.2",
+      "Jupiter: 37.4",
+      "Saturn: 15.2",
+      "Uranus: 32.6",
+      "Neptune: 9.4",
+      "Pluto: 18.2"
+    ],
+    "design": [
+      "Sun: 60.5",
+      "Earth: 56.5",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 38.1",
+      "Mercury: 19.2",
+      "Venus: 41.4",
+      "Mars: 24.4",
+      "Jupiter: 49.1",
+      "Saturn: 15.1",
+      "Uranus: 50.2",
+      "Neptune: 9.4",
+      "Pluto: 18.4"
+    ]
+  },
+  "input": {
+    "localDate": "1974-04-19",
+    "localTime": "17:10",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_143",
+    "birthplace": "Mumbai"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_457",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Possibility",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (7/13 | 2/1)",
+  "channels": [
+    "13-33",
+    "37-40",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.2",
+      "Earth: 13.2",
+      "NorthNode: 40.4",
+      "SouthNode: 37.4",
+      "Moon: 41.4",
+      "Mercury: 31.2",
+      "Venus: 33.2",
+      "Mars: 15.2",
+      "Jupiter: 7.6",
+      "Saturn: 64.2",
+      "Uranus: 1.4",
+      "Neptune: 26.1",
+      "Pluto: 57.2"
+    ],
+    "design": [
+      "Sun: 2.4",
+      "Earth: 1.4",
+      "NorthNode: 64.5",
+      "SouthNode: 63.5",
+      "Moon: 6.1",
+      "Mercury: 42.4",
+      "Venus: 51.3",
+      "Mars: 42.3",
+      "Jupiter: 56.6",
+      "Saturn: 40.2",
+      "Uranus: 43.1",
+      "Neptune: 26.4",
+      "Pluto: 57.3"
+    ]
+  },
+  "input": {
+    "localDate": "1979-08-07",
+    "localTime": "20:15",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_457",
+    "birthplace": "Tokyo"
+  }
+}

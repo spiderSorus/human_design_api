@@ -1,0 +1,58 @@
+{
+  "name": "Test_49",
+  "type": "Manifestor",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "10-20",
+    "19-49",
+    "21-45",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.3",
+      "Earth: 30.3",
+      "NorthNode: 52.2",
+      "SouthNode: 58.2",
+      "Moon: 59.1",
+      "Mercury: 40.5",
+      "Venus: 62.1",
+      "Mars: 26.5",
+      "Jupiter: 52.5",
+      "Saturn: 35.3",
+      "Uranus: 49.5",
+      "Neptune: 41.6",
+      "Pluto: 5.2"
+    ],
+    "design": [
+      "Sun: 8.5",
+      "Earth: 14.5",
+      "NorthNode: 52.4",
+      "SouthNode: 58.4",
+      "Moon: 21.5",
+      "Mercury: 45.4",
+      "Venus: 21.6",
+      "Mars: 10.1",
+      "Jupiter: 45.1",
+      "Saturn: 20.4",
+      "Uranus: 30.1",
+      "Neptune: 19.2",
+      "Pluto: 5.4"
+    ]
+  },
+  "input": {
+    "localDate": "2001-08-19",
+    "localTime": "03:25",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_49",
+    "birthplace": "Los Angeles"
+  }
+}

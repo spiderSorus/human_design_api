@@ -1,0 +1,57 @@
+{
+  "name": "Test_87",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (32/42 | 62/61)",
+  "channels": [
+    "16-48",
+    "29-46",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 32.2",
+      "Earth: 42.2",
+      "NorthNode: 57.1",
+      "SouthNode: 51.1",
+      "Moon: 34.2",
+      "Mercury: 57.6",
+      "Venus: 46.1",
+      "Mars: 62.5",
+      "Jupiter: 52.3",
+      "Saturn: 29.4",
+      "Uranus: 44.4",
+      "Neptune: 5.3",
+      "Pluto: 48.6"
+    ],
+    "design": [
+      "Sun: 62.4",
+      "Earth: 61.4",
+      "NorthNode: 57.5",
+      "SouthNode: 51.5",
+      "Moon: 56.6",
+      "Mercury: 33.5",
+      "Venus: 16.6",
+      "Mars: 8.6",
+      "Jupiter: 12.1",
+      "Saturn: 7.4",
+      "Uranus: 44.1",
+      "Neptune: 5.3",
+      "Pluto: 48.3"
+    ]
+  },
+  "input": {
+    "localDate": "1977-10-16",
+    "localTime": "04:18",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_87",
+    "birthplace": "Sydney"
+  }
+}

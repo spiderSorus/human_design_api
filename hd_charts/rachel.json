@@ -1,0 +1,194 @@
+{
+  "name": "Rachel",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (59/55 | 20/34)",
+  "points": {
+    "personality": {
+      "Sun": {
+        "base": 3,
+        "tone": 1,
+        "color": 3
+      },
+      "Earth": {
+        "base": 3,
+        "tone": 1,
+        "color": 3
+      },
+      "NorthNode": {
+        "base": 1,
+        "tone": 5,
+        "color": 2
+      },
+      "SouthNode": {
+        "base": 1,
+        "tone": 5,
+        "color": 2
+      },
+      "Moon": {
+        "base": 1,
+        "tone": 6,
+        "color": 4
+      },
+      "Mercury": {
+        "base": 5,
+        "tone": 1,
+        "color": 5
+      },
+      "Venus": {
+        "base": 2,
+        "tone": 5,
+        "color": 4
+      },
+      "Mars": {
+        "base": 2,
+        "tone": 1,
+        "color": 5
+      },
+      "Jupiter": {
+        "base": 1,
+        "tone": 4,
+        "color": 2
+      },
+      "Saturn": {
+        "base": 4,
+        "tone": 2,
+        "color": 5
+      },
+      "Uranus": {
+        "base": 5,
+        "tone": 2,
+        "color": 1
+      },
+      "Neptune": {
+        "base": 2,
+        "tone": 1,
+        "color": 4
+      },
+      "Pluto": {
+        "base": 3,
+        "tone": 4,
+        "color": 5
+      }
+    },
+    "design": {
+      "Sun": {
+        "base": 2,
+        "tone": 6,
+        "color": 3
+      },
+      "Earth": {
+        "base": 2,
+        "tone": 6,
+        "color": 3
+      },
+      "NorthNode": {
+        "base": 4,
+        "tone": 3,
+        "color": 6
+      },
+      "SouthNode": {
+        "base": 4,
+        "tone": 3,
+        "color": 6
+      },
+      "Moon": {
+        "base": 2,
+        "tone": 6,
+        "color": 5
+      },
+      "Mercury": {
+        "base": 1,
+        "tone": 6,
+        "color": 6
+      },
+      "Venus": {
+        "base": 4,
+        "tone": 5,
+        "color": 6
+      },
+      "Mars": {
+        "base": 1,
+        "tone": 3,
+        "color": 2
+      },
+      "Jupiter": {
+        "base": 2,
+        "tone": 2,
+        "color": 5
+      },
+      "Saturn": {
+        "base": 4,
+        "tone": 1,
+        "color": 2
+      },
+      "Uranus": {
+        "base": 4,
+        "tone": 3,
+        "color": 4
+      },
+      "Neptune": {
+        "base": 3,
+        "tone": 1,
+        "color": 5
+      },
+      "Pluto": {
+        "base": 1,
+        "tone": 3,
+        "color": 5
+      }
+    }
+  },
+  "channels": [
+    "1-8",
+    "10-20",
+    "10-34",
+    "20-34"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 59.2",
+      "Earth: 55.2",
+      "NorthNode: 20.3",
+      "SouthNode: 34.3",
+      "Moon: 56.2",
+      "Mercury: 40.4",
+      "Venus: 47.4",
+      "Mars: 34.4",
+      "Jupiter: 10.6",
+      "Saturn: 44.4",
+      "Uranus: 9.5",
+      "Neptune: 10.1",
+      "Pluto: 50.4"
+    ],
+    "design": [
+      "Sun: 20.4",
+      "Earth: 34.4",
+      "NorthNode: 16.1",
+      "SouthNode: 9.1",
+      "Moon: 22.5",
+      "Mercury: 24.1",
+      "Venus: 8.3",
+      "Mars: 1.4",
+      "Jupiter: 38.3",
+      "Saturn: 44.5",
+      "Uranus: 5.1",
+      "Neptune: 10.3",
+      "Pluto: 50.4"
+    ]
+  },
+  "input": {
+    "localDate": "1984-08-24",
+    "localTime": "02:32",
+    "timezone": "America/Los_Angeles",
+    "latitude": 42.1885,
+    "longitude": -120.345,
+    "name": "Rachel",
+    "birthplace": "Lakeview, United States (USA)"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Test_320",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Splenic",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (22/47 | 26/45)",
+  "channels": [
+    "26-44"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 22.4",
+      "Earth: 47.4",
+      "NorthNode: 30.4",
+      "SouthNode: 29.4",
+      "Moon: 42.6",
+      "Mercury: 49.6",
+      "Venus: 30.3",
+      "Mars: 15.5",
+      "Jupiter: 54.3",
+      "Saturn: 59.5",
+      "Uranus: 22.2",
+      "Neptune: 49.5",
+      "Pluto: 10.3"
+    ],
+    "design": [
+      "Sun: 26.6",
+      "Earth: 45.6",
+      "NorthNode: 30.6",
+      "SouthNode: 29.6",
+      "Moon: 13.5",
+      "Mercury: 26.4",
+      "Venus: 44.4",
+      "Mars: 52.3",
+      "Jupiter: 10.1",
+      "Saturn: 40.3",
+      "Uranus: 63.4",
+      "Neptune: 49.1",
+      "Pluto: 10.1"
+    ]
+  },
+  "input": {
+    "localDate": "2008-03-10",
+    "localTime": "05:16",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_320",
+    "birthplace": "New York"
+  }
+}

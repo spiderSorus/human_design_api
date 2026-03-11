@@ -1,0 +1,57 @@
+{
+  "name": "Test_417",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (42/32 | 60/56)",
+  "channels": [
+    "13-33",
+    "3-60",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 42.5",
+      "Earth: 32.5",
+      "NorthNode: 33.5",
+      "SouthNode: 19.5",
+      "Moon: 21.4",
+      "Mercury: 17.1",
+      "Venus: 2.6",
+      "Mars: 54.1",
+      "Jupiter: 43.3",
+      "Saturn: 58.6",
+      "Uranus: 3.3",
+      "Neptune: 63.5",
+      "Pluto: 61.1"
+    ],
+    "design": [
+      "Sun: 60.1",
+      "Earth: 56.1",
+      "NorthNode: 7.2",
+      "SouthNode: 13.2",
+      "Moon: 60.3",
+      "Mercury: 58.5",
+      "Venus: 60.3",
+      "Mars: 43.6",
+      "Jupiter: 43.1",
+      "Saturn: 10.6",
+      "Uranus: 42.5",
+      "Neptune: 63.2",
+      "Pluto: 54.5"
+    ]
+  },
+  "input": {
+    "localDate": "2018-04-15",
+    "localTime": "02:44",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_417",
+    "birthplace": "London"
+  }
+}

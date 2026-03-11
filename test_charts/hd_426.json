@@ -1,0 +1,58 @@
+{
+  "name": "Test_426",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Personal",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (62/61 | 3/50)",
+  "channels": [
+    "2-14",
+    "27-50",
+    "42-53",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.6",
+      "Earth: 61.6",
+      "NorthNode: 21.4",
+      "SouthNode: 48.4",
+      "Moon: 27.1",
+      "Mercury: 52.3",
+      "Venus: 31.2",
+      "Mars: 53.3",
+      "Jupiter: 59.6",
+      "Saturn: 42.5",
+      "Uranus: 6.4",
+      "Neptune: 43.6",
+      "Pluto: 47.5"
+    ],
+    "design": [
+      "Sun: 3.2",
+      "Earth: 50.2",
+      "NorthNode: 51.4",
+      "SouthNode: 57.4",
+      "Moon: 11.4",
+      "Mercury: 51.5",
+      "Venus: 21.2",
+      "Mars: 2.2",
+      "Jupiter: 29.2",
+      "Saturn: 51.2",
+      "Uranus: 6.4",
+      "Neptune: 14.2",
+      "Pluto: 47.4"
+    ]
+  },
+  "input": {
+    "localDate": "1968-07-18",
+    "localTime": "03:38",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_426",
+    "birthplace": "Moscow"
+  }
+}

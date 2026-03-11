@@ -1,0 +1,60 @@
+{
+  "name": "Test_47",
+  "type": "Manifestor",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "19-49",
+    "23-43",
+    "24-61",
+    "30-41",
+    "35-36",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.4",
+      "Earth: 43.4",
+      "NorthNode: 16.6",
+      "SouthNode: 9.6",
+      "Moon: 20.2",
+      "Mercury: 35.3",
+      "Venus: 20.5",
+      "Mars: 39.3",
+      "Jupiter: 30.6",
+      "Saturn: 13.1",
+      "Uranus: 24.4",
+      "Neptune: 36.1",
+      "Pluto: 60.1"
+    ],
+    "design": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 45.1",
+      "SouthNode: 26.1",
+      "Moon: 55.5",
+      "Mercury: 13.3",
+      "Venus: 13.1",
+      "Mars: 23.1",
+      "Jupiter: 19.6",
+      "Saturn: 41.5",
+      "Uranus: 27.6",
+      "Neptune: 22.3",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2021-05-13",
+    "localTime": "01:41",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_47",
+    "birthplace": "Sydney"
+  }
+}

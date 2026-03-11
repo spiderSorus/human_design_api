@@ -1,0 +1,57 @@
+{
+  "name": "Test_85",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Splenic",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (52/58 | 17/18)",
+  "channels": [
+    "17-62",
+    "18-58",
+    "20-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.3",
+      "Earth: 58.3",
+      "NorthNode: 32.6",
+      "SouthNode: 42.6",
+      "Moon: 52.5",
+      "Mercury: 12.3",
+      "Venus: 20.5",
+      "Mars: 57.3",
+      "Jupiter: 62.6",
+      "Saturn: 1.5",
+      "Uranus: 51.2",
+      "Neptune: 37.2",
+      "Pluto: 38.4"
+    ],
+    "design": [
+      "Sun: 17.5",
+      "Earth: 18.5",
+      "NorthNode: 50.3",
+      "SouthNode: 3.3",
+      "Moon: 37.3",
+      "Mercury: 63.3",
+      "Venus: 49.3",
+      "Mars: 32.3",
+      "Jupiter: 39.2",
+      "Saturn: 43.5",
+      "Uranus: 21.3",
+      "Neptune: 37.1",
+      "Pluto: 38.5"
+    ]
+  },
+  "input": {
+    "localDate": "2014-06-27",
+    "localTime": "08:09",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_85",
+    "birthplace": "New York"
+  }
+}

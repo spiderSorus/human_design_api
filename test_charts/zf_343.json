@@ -1,0 +1,57 @@
+{
+  "name": "Test_343",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (16/9 | 63/64)",
+  "channels": [
+    "2-14",
+    "25-51",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.5",
+      "Earth: 9.5",
+      "NorthNode: 47.2",
+      "SouthNode: 22.2",
+      "Moon: 25.5",
+      "Mercury: 2.5",
+      "Venus: 16.3",
+      "Mars: 14.5",
+      "Jupiter: 64.3",
+      "Saturn: 5.3",
+      "Uranus: 42.3",
+      "Neptune: 63.1",
+      "Pluto: 54.3"
+    ],
+    "design": [
+      "Sun: 63.1",
+      "Earth: 64.1",
+      "NorthNode: 47.6",
+      "SouthNode: 22.6",
+      "Moon: 5.6",
+      "Mercury: 30.1",
+      "Venus: 13.5",
+      "Mars: 14.5",
+      "Jupiter: 47.3",
+      "Saturn: 5.5",
+      "Uranus: 51.4",
+      "Neptune: 37.5",
+      "Pluto: 54.2"
+    ]
+  },
+  "input": {
+    "localDate": "2016-05-31",
+    "localTime": "01:36",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_343",
+    "birthplace": "Sao Paulo"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "Test_178",
+  "type": "Manifesting Generator",
+  "profile": "2 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (36/6 | 11/12)",
+  "channels": [
+    "12-22",
+    "19-49",
+    "20-34",
+    "24-61",
+    "30-41",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 36.2",
+      "Earth: 6.2",
+      "NorthNode: 8.1",
+      "SouthNode: 14.1",
+      "Moon: 7.2",
+      "Mercury: 37.3",
+      "Venus: 19.1",
+      "Mars: 41.5",
+      "Jupiter: 22.1",
+      "Saturn: 49.2",
+      "Uranus: 24.5",
+      "Neptune: 36.1",
+      "Pluto: 60.2"
+    ],
+    "design": [
+      "Sun: 11.5",
+      "Earth: 12.5",
+      "NorthNode: 20.2",
+      "SouthNode: 34.2",
+      "Moon: 35.4",
+      "Mercury: 58.4",
+      "Venus: 60.1",
+      "Mars: 34.4",
+      "Jupiter: 30.4",
+      "Saturn: 19.4",
+      "Uranus: 24.4",
+      "Neptune: 22.4",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2022-03-15",
+    "localTime": "11:26",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_178",
+    "birthplace": "Sydney"
+  }
+}

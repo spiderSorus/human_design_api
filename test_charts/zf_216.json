@@ -1,0 +1,56 @@
+{
+  "name": "Test_216",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Personal",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (35/5 | 22/47)",
+  "channels": [
+    "24-61",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 35.6",
+      "Earth: 5.6",
+      "NorthNode: 15.1",
+      "SouthNode: 10.1",
+      "Moon: 58.1",
+      "Mercury: 39.1",
+      "Venus: 35.1",
+      "Mars: 63.6",
+      "Jupiter: 60.1",
+      "Saturn: 60.6",
+      "Uranus: 24.2",
+      "Neptune: 22.5",
+      "Pluto: 61.5"
+    ],
+    "design": [
+      "Sun: 22.2",
+      "Earth: 47.2",
+      "NorthNode: 52.2",
+      "SouthNode: 58.2",
+      "Moon: 40.2",
+      "Mercury: 30.5",
+      "Venus: 27.3",
+      "Mars: 38.6",
+      "Jupiter: 61.1",
+      "Saturn: 60.3",
+      "Uranus: 27.3",
+      "Neptune: 22.2",
+      "Pluto: 61.4"
+    ]
+  },
+  "input": {
+    "localDate": "2020-06-07",
+    "localTime": "04:34",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_216",
+    "birthplace": "Berlin"
+  }
+}

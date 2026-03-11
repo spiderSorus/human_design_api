@@ -1,0 +1,57 @@
+{
+  "name": "Test_223",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Splenic",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (7/13 | 23/43)",
+  "channels": [
+    "13-33",
+    "16-48",
+    "23-43"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.5",
+      "Earth: 13.5",
+      "NorthNode: 57.3",
+      "SouthNode: 51.3",
+      "Moon: 12.6",
+      "Mercury: 64.4",
+      "Venus: 52.6",
+      "Mars: 35.6",
+      "Jupiter: 12.6",
+      "Saturn: 4.2",
+      "Uranus: 44.1",
+      "Neptune: 5.3",
+      "Pluto: 48.3"
+    ],
+    "design": [
+      "Sun: 23.1",
+      "Earth: 43.1",
+      "NorthNode: 32.4",
+      "SouthNode: 42.4",
+      "Moon: 30.1",
+      "Mercury: 27.4",
+      "Venus: 21.2",
+      "Mars: 21.1",
+      "Jupiter: 16.3",
+      "Saturn: 33.4",
+      "Uranus: 44.2",
+      "Neptune: 5.5",
+      "Pluto: 48.3"
+    ]
+  },
+  "input": {
+    "localDate": "1977-08-10",
+    "localTime": "14:17",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_223",
+    "birthplace": "London"
+  }
+}

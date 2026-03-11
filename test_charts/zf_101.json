@@ -1,0 +1,58 @@
+{
+  "name": "Test_101",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (46/25 | 52/58)",
+  "channels": [
+    "2-14",
+    "25-51",
+    "29-46",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 46.5",
+      "Earth: 25.5",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 51.1",
+      "Mercury: 50.2",
+      "Venus: 59.3",
+      "Mars: 32.6",
+      "Jupiter: 60.2",
+      "Saturn: 61.3",
+      "Uranus: 29.5",
+      "Neptune: 44.3",
+      "Pluto: 40.4"
+    ],
+    "design": [
+      "Sun: 52.1",
+      "Earth: 58.1",
+      "NorthNode: 29.5",
+      "SouthNode: 30.5",
+      "Moon: 14.6",
+      "Mercury: 52.3",
+      "Venus: 2.6",
+      "Mars: 29.4",
+      "Jupiter: 41.4",
+      "Saturn: 60.2",
+      "Uranus: 4.5",
+      "Neptune: 44.2",
+      "Pluto: 40.1"
+    ]
+  },
+  "input": {
+    "localDate": "1961-09-25",
+    "localTime": "11:30",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_101",
+    "birthplace": "London"
+  }
+}

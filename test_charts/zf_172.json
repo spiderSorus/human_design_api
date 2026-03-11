@@ -1,0 +1,58 @@
+{
+  "name": "Test_172",
+  "type": "Manifestor",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (6/36 | 15/10)",
+  "channels": [
+    "10-57",
+    "23-43",
+    "35-36",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.5",
+      "Earth: 36.5",
+      "NorthNode: 42.5",
+      "SouthNode: 32.5",
+      "Moon: 43.3",
+      "Mercury: 40.4",
+      "Venus: 7.4",
+      "Mars: 57.1",
+      "Jupiter: 2.3",
+      "Saturn: 55.3",
+      "Uranus: 23.5",
+      "Neptune: 36.4",
+      "Pluto: 60.2"
+    ],
+    "design": [
+      "Sun: 15.1",
+      "Earth: 10.1",
+      "NorthNode: 27.1",
+      "SouthNode: 28.1",
+      "Moon: 62.2",
+      "Mercury: 35.5",
+      "Venus: 33.6",
+      "Mars: 7.5",
+      "Jupiter: 27.6",
+      "Saturn: 37.2",
+      "Uranus: 23.3",
+      "Neptune: 36.6",
+      "Pluto: 60.4"
+    ]
+  },
+  "input": {
+    "localDate": "2023-09-19",
+    "localTime": "22:42",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_172",
+    "birthplace": "London"
+  }
+}

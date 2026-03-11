@@ -1,0 +1,57 @@
+{
+  "name": "Test_475",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "10-20",
+    "37-40",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.6",
+      "Earth: 40.6",
+      "NorthNode: 11.3",
+      "SouthNode: 12.3",
+      "Moon: 16.5",
+      "Mercury: 55.1",
+      "Venus: 60.5",
+      "Mars: 20.2",
+      "Jupiter: 30.5",
+      "Saturn: 12.6",
+      "Uranus: 50.2",
+      "Neptune: 9.5",
+      "Pluto: 18.3"
+    ],
+    "design": [
+      "Sun: 5.2",
+      "Earth: 35.2",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 17.2",
+      "Mercury: 43.6",
+      "Venus: 60.2",
+      "Mars: 42.6",
+      "Jupiter: 19.2",
+      "Saturn: 15.5",
+      "Uranus: 32.6",
+      "Neptune: 9.2",
+      "Pluto: 18.3"
+    ]
+  },
+  "input": {
+    "localDate": "1974-03-02",
+    "localTime": "03:27",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_475",
+    "birthplace": "Sydney"
+  }
+}

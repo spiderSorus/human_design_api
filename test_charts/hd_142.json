@@ -1,0 +1,56 @@
+{
+  "name": "Test_142",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (26/45 | 6/36)",
+  "channels": [
+    "10-34",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.5",
+      "Earth: 45.5",
+      "NorthNode: 56.1",
+      "SouthNode: 60.1",
+      "Moon: 55.1",
+      "Mercury: 34.1",
+      "Venus: 28.6",
+      "Mars: 22.1",
+      "Jupiter: 9.3",
+      "Saturn: 58.6",
+      "Uranus: 3.3",
+      "Neptune: 63.3",
+      "Pluto: 54.6"
+    ],
+    "design": [
+      "Sun: 6.1",
+      "Earth: 36.1",
+      "NorthNode: 31.3",
+      "SouthNode: 41.3",
+      "Moon: 26.1",
+      "Mercury: 47.3",
+      "Venus: 28.3",
+      "Mars: 60.6",
+      "Jupiter: 43.1",
+      "Saturn: 10.5",
+      "Uranus: 3.6",
+      "Neptune: 63.4",
+      "Pluto: 54.4"
+    ]
+  },
+  "input": {
+    "localDate": "2018-12-14",
+    "localTime": "01:10",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_142",
+    "birthplace": "Sydney"
+  }
+}

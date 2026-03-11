@@ -1,0 +1,58 @@
+{
+  "name": "Test_55",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Personal",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (37/40 | 5/35)",
+  "channels": [
+    "20-34",
+    "30-41",
+    "35-36",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.6",
+      "Earth: 40.6",
+      "NorthNode: 37.4",
+      "SouthNode: 40.4",
+      "Moon: 33.3",
+      "Mercury: 22.6",
+      "Venus: 36.1",
+      "Mars: 30.5",
+      "Jupiter: 53.1",
+      "Saturn: 25.4",
+      "Uranus: 8.4",
+      "Neptune: 25.3",
+      "Pluto: 41.3"
+    ],
+    "design": [
+      "Sun: 5.2",
+      "Earth: 35.2",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 20.5",
+      "Mercury: 43.4",
+      "Venus: 34.5",
+      "Mars: 26.6",
+      "Jupiter: 62.4",
+      "Saturn: 36.3",
+      "Uranus: 8.5",
+      "Neptune: 25.2",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2026-03-01",
+    "localTime": "10:51",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_55",
+    "birthplace": "Tokyo"
+  }
+}

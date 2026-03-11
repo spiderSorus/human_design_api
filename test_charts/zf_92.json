@@ -1,0 +1,59 @@
+{
+  "name": "Test_92",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (20/34 | 37/40)",
+  "channels": [
+    "20-34",
+    "20-57",
+    "34-57",
+    "37-40",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 20.5",
+      "Earth: 34.5",
+      "NorthNode: 4.6",
+      "SouthNode: 49.6",
+      "Moon: 48.1",
+      "Mercury: 45.1",
+      "Venus: 15.5",
+      "Mars: 40.2",
+      "Jupiter: 59.2",
+      "Saturn: 47.4",
+      "Uranus: 43.5",
+      "Neptune: 26.6",
+      "Pluto: 57.5"
+    ],
+    "design": [
+      "Sun: 37.1",
+      "Earth: 40.1",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 52.3",
+      "Mercury: 22.5",
+      "Venus: 51.4",
+      "Mars: 59.6",
+      "Jupiter: 59.6",
+      "Saturn: 6.3",
+      "Uranus: 14.2",
+      "Neptune: 26.6",
+      "Pluto: 32.1"
+    ]
+  },
+  "input": {
+    "localDate": "1980-05-25",
+    "localTime": "05:15",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_92",
+    "birthplace": "Berlin"
+  }
+}

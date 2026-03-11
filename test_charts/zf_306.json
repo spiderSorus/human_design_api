@@ -1,0 +1,55 @@
+{
+  "name": "Test_306",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Ego",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (13/7 | 1/2)",
+  "channels": [
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 13.4",
+      "Earth: 7.4",
+      "NorthNode: 47.6",
+      "SouthNode: 22.6",
+      "Moon: 58.4",
+      "Mercury: 54.6",
+      "Venus: 54.1",
+      "Mars: 1.5",
+      "Jupiter: 47.6",
+      "Saturn: 5.4",
+      "Uranus: 51.3",
+      "Neptune: 37.4",
+      "Pluto: 54.2"
+    ],
+    "design": [
+      "Sun: 1.6",
+      "Earth: 2.6",
+      "NorthNode: 46.3",
+      "SouthNode: 25.3",
+      "Moon: 44.2",
+      "Mercury: 1.2",
+      "Venus: 46.5",
+      "Mars: 46.1",
+      "Jupiter: 47.2",
+      "Saturn: 34.6",
+      "Uranus: 51.3",
+      "Neptune: 37.2",
+      "Pluto: 38.5"
+    ]
+  },
+  "input": {
+    "localDate": "2016-02-05",
+    "localTime": "15:11",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_306",
+    "birthplace": "Berlin"
+  }
+}

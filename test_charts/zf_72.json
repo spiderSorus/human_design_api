@@ -1,0 +1,55 @@
+{
+  "name": "Test_72",
+  "type": "Manifestor",
+  "profile": "2 / 4",
+  "authority": "Ego",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (21/48 | 38/39)",
+  "channels": [
+    "21-45"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 21.2",
+      "Earth: 48.2",
+      "NorthNode: 5.4",
+      "SouthNode: 35.4",
+      "Moon: 53.2",
+      "Mercury: 63.3",
+      "Venus: 21.4",
+      "Mars: 53.4",
+      "Jupiter: 48.1",
+      "Saturn: 30.3",
+      "Uranus: 61.2",
+      "Neptune: 61.1",
+      "Pluto: 14.1"
+    ],
+    "design": [
+      "Sun: 38.4",
+      "Earth: 39.4",
+      "NorthNode: 26.5",
+      "SouthNode: 45.5",
+      "Moon: 27.5",
+      "Mercury: 10.3",
+      "Venus: 30.6",
+      "Mars: 53.5",
+      "Jupiter: 48.5",
+      "Saturn: 13.4",
+      "Uranus: 54.3",
+      "Neptune: 54.4",
+      "Pluto: 14.1"
+    ]
+  },
+  "input": {
+    "localDate": "1993-03-31",
+    "localTime": "18:33",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_72",
+    "birthplace": "Moscow"
+  }
+}

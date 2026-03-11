@@ -1,0 +1,58 @@
+{
+  "name": "Test_402",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (24/44 | 19/33)",
+  "channels": [
+    "19-49",
+    "2-14",
+    "24-61",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 24.2",
+      "Earth: 44.2",
+      "NorthNode: 31.5",
+      "SouthNode: 41.5",
+      "Moon: 30.5",
+      "Mercury: 24.3",
+      "Venus: 2.2",
+      "Mars: 27.1",
+      "Jupiter: 46.4",
+      "Saturn: 18.1",
+      "Uranus: 14.5",
+      "Neptune: 11.3",
+      "Pluto: 32.2"
+    ],
+    "design": [
+      "Sun: 19.4",
+      "Earth: 33.4",
+      "NorthNode: 33.4",
+      "SouthNode: 19.4",
+      "Moon: 9.2",
+      "Mercury: 30.5",
+      "Venus: 61.4",
+      "Mars: 49.6",
+      "Jupiter: 48.1",
+      "Saturn: 48.1",
+      "Uranus: 14.6",
+      "Neptune: 11.2",
+      "Pluto: 32.4"
+    ]
+  },
+  "input": {
+    "localDate": "1981-04-29",
+    "localTime": "02:28",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_402",
+    "birthplace": "London"
+  }
+}

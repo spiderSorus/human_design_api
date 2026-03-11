@@ -1,0 +1,56 @@
+{
+  "name": "Test_239",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (9/16 | 64/63)",
+  "channels": [
+    "29-46",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 9.6",
+      "Earth: 16.6",
+      "NorthNode: 29.1",
+      "SouthNode: 30.1",
+      "Moon: 16.1",
+      "Mercury: 9.2",
+      "Venus: 26.3",
+      "Mars: 46.6",
+      "Jupiter: 22.2",
+      "Saturn: 3.2",
+      "Uranus: 19.3",
+      "Neptune: 60.5",
+      "Pluto: 9.3"
+    ],
+    "design": [
+      "Sun: 64.2",
+      "Earth: 63.2",
+      "NorthNode: 59.2",
+      "SouthNode: 55.2",
+      "Moon: 55.3",
+      "Mercury: 29.2",
+      "Venus: 29.5",
+      "Mars: 33.3",
+      "Jupiter: 36.2",
+      "Saturn: 27.2",
+      "Uranus: 19.3",
+      "Neptune: 60.4",
+      "Pluto: 34.6"
+    ]
+  },
+  "input": {
+    "localDate": "1998-12-03",
+    "localTime": "10:55",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_239",
+    "birthplace": "Moscow"
+  }
+}

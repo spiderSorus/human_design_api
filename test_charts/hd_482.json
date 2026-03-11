@@ -1,0 +1,58 @@
+{
+  "name": "Test_482",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Personal",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (58/52 | 48/21)",
+  "channels": [
+    "1-8",
+    "16-48",
+    "25-51",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 58.6",
+      "Earth: 52.6",
+      "NorthNode: 37.1",
+      "SouthNode: 40.1",
+      "Moon: 6.6",
+      "Mercury: 61.5",
+      "Venus: 5.5",
+      "Mars: 51.5",
+      "Jupiter: 8.3",
+      "Saturn: 58.2",
+      "Uranus: 10.4",
+      "Neptune: 38.1",
+      "Pluto: 1.2"
+    ],
+    "design": [
+      "Sun: 48.2",
+      "Earth: 21.2",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 62.2",
+      "Mercury: 32.6",
+      "Venus: 29.5",
+      "Mars: 25.6",
+      "Jupiter: 16.1",
+      "Saturn: 11.5",
+      "Uranus: 11.6",
+      "Neptune: 58.4",
+      "Pluto: 44.4"
+    ]
+  },
+  "input": {
+    "localDate": "1988-12-30",
+    "localTime": "15:07",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_482",
+    "birthplace": "Sydney"
+  }
+}

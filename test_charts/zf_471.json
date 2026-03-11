@@ -1,0 +1,58 @@
+{
+  "name": "Test_471",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (20/34 | 37/40)",
+  "channels": [
+    "2-14",
+    "20-34",
+    "37-40",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 20.5",
+      "Earth: 34.5",
+      "NorthNode: 47.2",
+      "SouthNode: 22.2",
+      "Moon: 38.6",
+      "Mercury: 2.2",
+      "Venus: 20.2",
+      "Mars: 34.1",
+      "Jupiter: 64.3",
+      "Saturn: 5.3",
+      "Uranus: 42.3",
+      "Neptune: 63.1",
+      "Pluto: 54.3"
+    ],
+    "design": [
+      "Sun: 37.1",
+      "Earth: 40.1",
+      "NorthNode: 47.6",
+      "SouthNode: 22.6",
+      "Moon: 48.1",
+      "Mercury: 13.4",
+      "Venus: 19.4",
+      "Mars: 14.2",
+      "Jupiter: 47.3",
+      "Saturn: 5.5",
+      "Uranus: 51.4",
+      "Neptune: 37.4",
+      "Pluto: 54.2"
+    ]
+  },
+  "input": {
+    "localDate": "2016-05-25",
+    "localTime": "10:52",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_471",
+    "birthplace": "Berlin"
+  }
+}

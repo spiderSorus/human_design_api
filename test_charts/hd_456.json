@@ -1,0 +1,56 @@
+{
+  "name": "Test_456",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (14/8 | 59/55)",
+  "channels": [
+    "1-8",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 14.5",
+      "Earth: 8.5",
+      "NorthNode: 57.4",
+      "SouthNode: 51.4",
+      "Moon: 44.1",
+      "Mercury: 1.6",
+      "Venus: 34.6",
+      "Mars: 54.5",
+      "Jupiter: 4.4",
+      "Saturn: 14.2",
+      "Uranus: 21.4",
+      "Neptune: 55.5",
+      "Pluto: 38.3"
+    ],
+    "design": [
+      "Sun: 59.1",
+      "Earth: 55.1",
+      "NorthNode: 57.6",
+      "SouthNode: 51.6",
+      "Moon: 33.2",
+      "Mercury: 64.4",
+      "Venus: 7.1",
+      "Mars: 1.4",
+      "Jupiter: 33.1",
+      "Saturn: 1.5",
+      "Uranus: 51.2",
+      "Neptune: 37.1",
+      "Pluto: 38.2"
+    ]
+  },
+  "input": {
+    "localDate": "2014-11-21",
+    "localTime": "07:44",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_456",
+    "birthplace": "Sydney"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_358",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Sacral",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (3/50 | 60/56)",
+  "channels": [
+    "13-33",
+    "16-48",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.3",
+      "Earth: 50.3",
+      "NorthNode: 48.1",
+      "SouthNode: 21.1",
+      "Moon: 3.1",
+      "Mercury: 24.1",
+      "Venus: 16.3",
+      "Mars: 24.6",
+      "Jupiter: 33.6",
+      "Saturn: 34.5",
+      "Uranus: 51.3",
+      "Neptune: 37.4",
+      "Pluto: 54.1"
+    ],
+    "design": [
+      "Sun: 60.5",
+      "Earth: 56.5",
+      "NorthNode: 48.4",
+      "SouthNode: 21.4",
+      "Moon: 41.1",
+      "Mercury: 13.5",
+      "Venus: 49.3",
+      "Mars: 37.1",
+      "Jupiter: 4.2",
+      "Saturn: 34.3",
+      "Uranus: 21.4",
+      "Neptune: 37.1",
+      "Pluto: 38.5"
+    ]
+  },
+  "input": {
+    "localDate": "2015-04-19",
+    "localTime": "02:12",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_358",
+    "birthplace": "Sydney"
+  }
+}

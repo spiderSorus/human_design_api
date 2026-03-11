@@ -1,0 +1,60 @@
+{
+  "name": "Test_481",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (21/48 | 38/39)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "12-22",
+    "25-51",
+    "32-54",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 21.2",
+      "Earth: 48.2",
+      "NorthNode: 57.3",
+      "SouthNode: 51.3",
+      "Moon: 59.2",
+      "Mercury: 21.6",
+      "Venus: 8.3",
+      "Mars: 17.2",
+      "Jupiter: 54.1",
+      "Saturn: 25.1",
+      "Uranus: 41.3",
+      "Neptune: 60.2",
+      "Pluto: 34.3"
+    ],
+    "design": [
+      "Sun: 38.4",
+      "Earth: 39.4",
+      "NorthNode: 32.3",
+      "SouthNode: 42.3",
+      "Moon: 12.4",
+      "Mercury: 41.1",
+      "Venus: 13.4",
+      "Mars: 60.1",
+      "Jupiter: 10.3",
+      "Saturn: 22.3",
+      "Uranus: 60.4",
+      "Neptune: 61.5",
+      "Pluto: 34.3"
+    ]
+  },
+  "input": {
+    "localDate": "1996-03-31",
+    "localTime": "19:27",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_481",
+    "birthplace": "Moscow"
+  }
+}

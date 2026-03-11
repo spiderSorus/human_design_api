@@ -1,0 +1,58 @@
+{
+  "name": "Test_467",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (5/35 | 64/63)",
+  "channels": [
+    "1-8",
+    "10-20",
+    "26-44",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 5.4",
+      "Earth: 35.4",
+      "NorthNode: 37.4",
+      "SouthNode: 40.4",
+      "Moon: 1.3",
+      "Mercury: 26.1",
+      "Venus: 1.4",
+      "Mars: 17.6",
+      "Jupiter: 8.6",
+      "Saturn: 10.5",
+      "Uranus: 10.3",
+      "Neptune: 58.6",
+      "Pluto: 1.1"
+    ],
+    "design": [
+      "Sun: 64.6",
+      "Earth: 63.6",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 29.4",
+      "Mercury: 48.4",
+      "Venus: 31.1",
+      "Mars: 21.1",
+      "Jupiter: 20.6",
+      "Saturn: 11.4",
+      "Uranus: 11.5",
+      "Neptune: 58.4",
+      "Pluto: 44.4"
+    ]
+  },
+  "input": {
+    "localDate": "1988-12-06",
+    "localTime": "14:40",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_467",
+    "birthplace": "New York"
+  }
+}

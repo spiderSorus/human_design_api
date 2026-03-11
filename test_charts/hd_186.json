@@ -1,0 +1,56 @@
+{
+  "name": "Test_186",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Personal",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (50/3 | 31/41)",
+  "channels": [
+    "30-41",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 50.6",
+      "Earth: 3.6",
+      "NorthNode: 12.2",
+      "SouthNode: 11.2",
+      "Moon: 45.2",
+      "Mercury: 28.6",
+      "Venus: 47.6",
+      "Mars: 4.5",
+      "Jupiter: 23.6",
+      "Saturn: 30.5",
+      "Uranus: 64.3",
+      "Neptune: 1.4",
+      "Pluto: 64.5"
+    ],
+    "design": [
+      "Sun: 31.2",
+      "Earth: 41.2",
+      "NorthNode: 15.4",
+      "SouthNode: 10.4",
+      "Moon: 49.3",
+      "Mercury: 29.5",
+      "Venus: 12.2",
+      "Mars: 12.5",
+      "Jupiter: 23.4",
+      "Saturn: 55.4",
+      "Uranus: 40.3",
+      "Neptune: 1.2",
+      "Pluto: 64.2"
+    ]
+  },
+  "input": {
+    "localDate": "1964-10-24",
+    "localTime": "19:14",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_186",
+    "birthplace": "Moscow"
+  }
+}

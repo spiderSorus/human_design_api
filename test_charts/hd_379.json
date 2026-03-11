@@ -1,0 +1,57 @@
+{
+  "name": "Test_379",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (58/52 | 18/17)",
+  "channels": [
+    "18-58",
+    "23-43",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 58.2",
+      "Earth: 52.2",
+      "NorthNode: 23.1",
+      "SouthNode: 43.1",
+      "Moon: 55.3",
+      "Mercury: 58.1",
+      "Venus: 19.1",
+      "Mars: 17.3",
+      "Jupiter: 47.2",
+      "Saturn: 39.1",
+      "Uranus: 30.6",
+      "Neptune: 19.5",
+      "Pluto: 26.4"
+    ],
+    "design": [
+      "Sun: 18.4",
+      "Earth: 17.4",
+      "NorthNode: 23.3",
+      "SouthNode: 43.3",
+      "Moon: 5.4",
+      "Mercury: 47.4",
+      "Venus: 57.5",
+      "Mars: 55.1",
+      "Jupiter: 40.2",
+      "Saturn: 39.4",
+      "Uranus: 30.6",
+      "Neptune: 19.4",
+      "Pluto: 26.1"
+    ]
+  },
+  "input": {
+    "localDate": "2003-12-27",
+    "localTime": "18:08",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_379",
+    "birthplace": "Johannesburg"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_326",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Splenic",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (9/16 | 64/63)",
+  "channels": [
+    "26-44",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 9.5",
+      "Earth: 16.5",
+      "NorthNode: 16.4",
+      "SouthNode: 9.4",
+      "Moon: 44.5",
+      "Mercury: 26.4",
+      "Venus: 28.1",
+      "Mars: 50.5",
+      "Jupiter: 7.6",
+      "Saturn: 12.5",
+      "Uranus: 30.1",
+      "Neptune: 19.2",
+      "Pluto: 26.1"
+    ],
+    "design": [
+      "Sun: 64.1",
+      "Earth: 63.1",
+      "NorthNode: 35.3",
+      "SouthNode: 5.3",
+      "Moon: 31.6",
+      "Mercury: 18.6",
+      "Venus: 50.1",
+      "Mars: 59.4",
+      "Jupiter: 31.6",
+      "Saturn: 12.6",
+      "Uranus: 30.2",
+      "Neptune: 19.2",
+      "Pluto: 5.4"
+    ]
+  },
+  "input": {
+    "localDate": "2002-12-02",
+    "localTime": "05:59",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_326",
+    "birthplace": "London"
+  }
+}

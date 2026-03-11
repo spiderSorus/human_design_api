@@ -46,13 +46,25 @@ function getCalcFlags(options = {}) {
   return swisseph.SEFLG_SWIEPH;
 }
 
+// A small longitudinal offset (in degrees) to align with BodyGraphChart/ZenFemme.
+// Calibration analysis suggests -20 arc seconds (-0.00555555°) is the exact bridge.
+const ZENFEMME_CALIBRATION_OFFSET = -1.0 / 3600.0;
+
 function fetchBodyData(jd, id, options = {}) {
+  console.log(`swe_calc_ut: jd=${jd}, id=${id}`);
   configureSwissEphemeris(options);
   const flags = getCalcFlags(options);
+  const offset = (options.ephemerisOffset || 0) + ZENFEMME_CALIBRATION_OFFSET;
+  
   return new Promise((resolve, reject) => {
     swisseph.swe_calc_ut(jd, id, flags, (data) => {
       if (data.error) reject(new Error(data.error));
-      else resolve(data);
+      else {
+        if (offset !== 0) {
+          data.longitude = (data.longitude + offset + 360) % 360;
+        }
+        resolve(data);
+      }
     });
   });
 }

@@ -1,0 +1,56 @@
+{
+  "name": "Test_384",
+  "type": "Projector",
+  "profile": "1 / 4",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (30/29 | 14/8)",
+  "channels": [
+    "18-58",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 30.1",
+      "Earth: 29.1",
+      "NorthNode: 39.6",
+      "SouthNode: 38.6",
+      "Moon: 44.5",
+      "Mercury: 49.5",
+      "Venus: 17.6",
+      "Mars: 14.6",
+      "Jupiter: 20.2",
+      "Saturn: 23.6",
+      "Uranus: 49.3",
+      "Neptune: 41.6",
+      "Pluto: 5.4"
+    ],
+    "design": [
+      "Sun: 14.4",
+      "Earth: 8.4",
+      "NorthNode: 53.2",
+      "SouthNode: 54.2",
+      "Moon: 40.2",
+      "Mercury: 44.2",
+      "Venus: 58.4",
+      "Mars: 18.6",
+      "Jupiter: 16.2",
+      "Saturn: 8.4",
+      "Uranus: 13.5",
+      "Neptune: 41.3",
+      "Pluto: 5.1"
+    ]
+  },
+  "input": {
+    "localDate": "2001-02-14",
+    "localTime": "05:37",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_384",
+    "birthplace": "Mumbai"
+  }
+}

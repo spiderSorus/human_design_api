@@ -1,0 +1,55 @@
+{
+  "name": "Test_412",
+  "type": "Manifestor",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (12/11 | 36/6)",
+  "channels": [
+    "12-22"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 12.4",
+      "Earth: 11.4",
+      "NorthNode: 53.3",
+      "SouthNode: 54.3",
+      "Moon: 11.5",
+      "Mercury: 53.6",
+      "Venus: 16.5",
+      "Mars: 53.6",
+      "Jupiter: 26.2",
+      "Saturn: 54.4",
+      "Uranus: 27.4",
+      "Neptune: 22.2",
+      "Pluto: 61.2"
+    ],
+    "design": [
+      "Sun: 36.6",
+      "Earth: 6.6",
+      "NorthNode: 62.5",
+      "SouthNode: 61.5",
+      "Moon: 29.3",
+      "Mercury: 22.4",
+      "Venus: 49.2",
+      "Mars: 23.4",
+      "Jupiter: 11.1",
+      "Saturn: 54.5",
+      "Uranus: 3.5",
+      "Neptune: 63.6",
+      "Pluto: 61.3"
+    ]
+  },
+  "input": {
+    "localDate": "2019-06-17",
+    "localTime": "11:44",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_412",
+    "birthplace": "Johannesburg"
+  }
+}

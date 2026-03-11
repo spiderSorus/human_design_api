@@ -1,0 +1,56 @@
+{
+  "name": "Test_46",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Self Projected",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (7/13 | 2/1)",
+  "channels": [
+    "1-8",
+    "13-33"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.3",
+      "Earth: 13.3",
+      "NorthNode: 28.6",
+      "SouthNode: 27.6",
+      "Moon: 54.2",
+      "Mercury: 40.1",
+      "Venus: 29.5",
+      "Mars: 47.3",
+      "Jupiter: 8.5",
+      "Saturn: 33.1",
+      "Uranus: 28.2",
+      "Neptune: 9.6",
+      "Pluto: 48.1"
+    ],
+    "design": [
+      "Sun: 2.5",
+      "Earth: 1.5",
+      "NorthNode: 44.6",
+      "SouthNode: 24.6",
+      "Moon: 4.5",
+      "Mercury: 20.4",
+      "Venus: 27.5",
+      "Mars: 62.5",
+      "Jupiter: 24.3",
+      "Saturn: 56.2",
+      "Uranus: 28.3",
+      "Neptune: 5.3",
+      "Pluto: 18.6"
+    ]
+  },
+  "input": {
+    "localDate": "1976-08-07",
+    "localTime": "13:04",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_46",
+    "birthplace": "Sao Paulo"
+  }
+}

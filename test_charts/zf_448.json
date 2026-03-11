@@ -1,0 +1,56 @@
+{
+  "name": "Test_448",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (47/22 | 45/26)",
+  "channels": [
+    "37-40",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 47.4",
+      "Earth: 22.4",
+      "NorthNode: 42.5",
+      "SouthNode: 32.5",
+      "Moon: 29.5",
+      "Mercury: 40.4",
+      "Venus: 7.1",
+      "Mars: 48.2",
+      "Jupiter: 2.3",
+      "Saturn: 55.3",
+      "Uranus: 23.5",
+      "Neptune: 36.5",
+      "Pluto: 60.2"
+    ],
+    "design": [
+      "Sun: 45.6",
+      "Earth: 26.6",
+      "NorthNode: 27.2",
+      "SouthNode: 28.2",
+      "Moon: 42.4",
+      "Mercury: 20.4",
+      "Venus: 31.6",
+      "Mars: 7.1",
+      "Jupiter: 27.5",
+      "Saturn: 37.2",
+      "Uranus: 23.3",
+      "Neptune: 36.6",
+      "Pluto: 60.4"
+    ]
+  },
+  "input": {
+    "localDate": "2023-09-13",
+    "localTime": "11:50",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_448",
+    "birthplace": "Tokyo"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Test_280",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (41/31 | 28/27)",
+  "channels": [
+    "27-50",
+    "3-60",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 41.2",
+      "Earth: 31.2",
+      "NorthNode: 57.6",
+      "SouthNode: 51.6",
+      "Moon: 36.5",
+      "Mercury: 61.2",
+      "Venus: 37.6",
+      "Mars: 19.6",
+      "Jupiter: 58.1",
+      "Saturn: 22.5",
+      "Uranus: 60.5",
+      "Neptune: 61.6",
+      "Pluto: 34.3"
+    ],
+    "design": [
+      "Sun: 28.4",
+      "Earth: 27.4",
+      "NorthNode: 50.1",
+      "SouthNode: 3.1",
+      "Moon: 54.4",
+      "Mercury: 57.6",
+      "Venus: 43.6",
+      "Mars: 9.1",
+      "Jupiter: 5.5",
+      "Saturn: 22.2",
+      "Uranus: 60.1",
+      "Neptune: 61.3",
+      "Pluto: 14.6"
+    ]
+  },
+  "input": {
+    "localDate": "1996-01-24",
+    "localTime": "11:56",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_280",
+    "birthplace": "Johannesburg"
+  }
+}

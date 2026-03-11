@@ -1,0 +1,58 @@
+{
+  "name": "Test_190",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (2/1 | 13/7)",
+  "channels": [
+    "1-8",
+    "2-14",
+    "29-46",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 2.3",
+      "Earth: 1.3",
+      "NorthNode: 51.4",
+      "SouthNode: 57.4",
+      "Moon: 4.1",
+      "Mercury: 8.4",
+      "Venus: 27.2",
+      "Mars: 8.4",
+      "Jupiter: 29.2",
+      "Saturn: 51.5",
+      "Uranus: 6.3",
+      "Neptune: 14.1",
+      "Pluto: 47.4"
+    ],
+    "design": [
+      "Sun: 13.5",
+      "Earth: 7.5",
+      "NorthNode: 42.1",
+      "SouthNode: 32.1",
+      "Moon: 8.2",
+      "Mercury: 55.3",
+      "Venus: 38.5",
+      "Mars: 22.6",
+      "Jupiter: 59.3",
+      "Saturn: 17.6",
+      "Uranus: 46.1",
+      "Neptune: 14.3",
+      "Pluto: 47.6"
+    ]
+  },
+  "input": {
+    "localDate": "1968-05-06",
+    "localTime": "02:32",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_190",
+    "birthplace": "London"
+  }
+}

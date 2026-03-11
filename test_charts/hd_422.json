@@ -1,0 +1,58 @@
+{
+  "name": "Test_422",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (25/46 | 10/15)",
+  "channels": [
+    "10-57",
+    "19-49",
+    "25-51",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 25.2",
+      "Earth: 46.2",
+      "NorthNode: 40.5",
+      "SouthNode: 37.5",
+      "Moon: 26.3",
+      "Mercury: 51.4",
+      "Venus: 13.1",
+      "Mars: 21.3",
+      "Jupiter: 37.6",
+      "Saturn: 51.6",
+      "Uranus: 19.5",
+      "Neptune: 60.6",
+      "Pluto: 9.3"
+    ],
+    "design": [
+      "Sun: 10.4",
+      "Earth: 15.4",
+      "NorthNode: 64.3",
+      "SouthNode: 63.3",
+      "Moon: 57.3",
+      "Mercury: 26.2",
+      "Venus: 41.2",
+      "Mars: 41.3",
+      "Jupiter: 49.2",
+      "Saturn: 21.5",
+      "Uranus: 41.5",
+      "Neptune: 60.3",
+      "Pluto: 9.1"
+    ]
+  },
+  "input": {
+    "localDate": "1998-03-20",
+    "localTime": "13:12",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_422",
+    "birthplace": "Moscow"
+  }
+}

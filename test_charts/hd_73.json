@@ -1,0 +1,57 @@
+{
+  "name": "Test_73",
+  "type": "Projector",
+  "profile": "3 / 6",
+  "authority": "Splenic",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (26/45 | 47/22)",
+  "channels": [
+    "26-44",
+    "32-54",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.3",
+      "Earth: 45.3",
+      "NorthNode: 7.4",
+      "SouthNode: 13.4",
+      "Moon: 18.1",
+      "Mercury: 11.1",
+      "Venus: 5.2",
+      "Mars: 50.6",
+      "Jupiter: 44.6",
+      "Saturn: 10.1",
+      "Uranus: 42.5",
+      "Neptune: 63.1",
+      "Pluto: 54.4"
+    ],
+    "design": [
+      "Sun: 47.6",
+      "Earth: 22.6",
+      "NorthNode: 4.6",
+      "SouthNode: 49.6",
+      "Moon: 52.3",
+      "Mercury: 59.5",
+      "Venus: 4.5",
+      "Mars: 59.6",
+      "Jupiter: 32.5",
+      "Saturn: 26.5",
+      "Uranus: 3.2",
+      "Neptune: 63.2",
+      "Pluto: 54.2"
+    ]
+  },
+  "input": {
+    "localDate": "2017-12-11",
+    "localTime": "19:18",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_73",
+    "birthplace": "Mumbai"
+  }
+}

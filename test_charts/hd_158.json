@@ -1,0 +1,55 @@
+{
+  "name": "Test_158",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Mental",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (13/7 | 1/2)",
+  "channels": [
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 13.2",
+      "Earth: 7.2",
+      "NorthNode: 7.2",
+      "SouthNode: 13.2",
+      "Moon: 46.2",
+      "Mercury: 41.4",
+      "Venus: 49.3",
+      "Mars: 34.6",
+      "Jupiter: 43.3",
+      "Saturn: 58.2",
+      "Uranus: 42.5",
+      "Neptune: 63.2",
+      "Pluto: 54.6"
+    ],
+    "design": [
+      "Sun: 1.4",
+      "Earth: 2.4",
+      "NorthNode: 4.2",
+      "SouthNode: 49.2",
+      "Moon: 62.5",
+      "Mercury: 34.6",
+      "Venus: 28.1",
+      "Mars: 48.2",
+      "Jupiter: 28.5",
+      "Saturn: 11.3",
+      "Uranus: 42.6",
+      "Neptune: 63.1",
+      "Pluto: 54.3"
+    ]
+  },
+  "input": {
+    "localDate": "2018-02-04",
+    "localTime": "01:56",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_158",
+    "birthplace": "Mumbai"
+  }
+}

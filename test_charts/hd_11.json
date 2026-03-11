@@ -1,0 +1,57 @@
+{
+  "name": "Test_11",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (59/55 | 16/9)",
+  "channels": [
+    "29-46",
+    "39-55",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 59.6",
+      "Earth: 55.6",
+      "NorthNode: 35.3",
+      "SouthNode: 5.3",
+      "Moon: 24.4",
+      "Mercury: 46.5",
+      "Venus: 32.1",
+      "Mars: 29.6",
+      "Jupiter: 31.5",
+      "Saturn: 12.6",
+      "Uranus: 30.3",
+      "Neptune: 19.2",
+      "Pluto: 5.4"
+    ],
+    "design": [
+      "Sun: 16.2",
+      "Earth: 9.2",
+      "NorthNode: 45.1",
+      "SouthNode: 26.1",
+      "Moon: 58.6",
+      "Mercury: 20.6",
+      "Venus: 39.1",
+      "Mars: 15.3",
+      "Jupiter: 53.1",
+      "Saturn: 35.6",
+      "Uranus: 30.5",
+      "Neptune: 19.4",
+      "Pluto: 5.6"
+    ]
+  },
+  "input": {
+    "localDate": "2002-08-29",
+    "localTime": "03:26",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_11",
+    "birthplace": "Mumbai"
+  }
+}

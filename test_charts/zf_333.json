@@ -1,0 +1,56 @@
+{
+  "name": "Test_333",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (14/8 | 29/30)",
+  "channels": [
+    "28-38",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 14.3",
+      "Earth: 8.3",
+      "NorthNode: 52.1",
+      "SouthNode: 58.1",
+      "Moon: 38.6",
+      "Mercury: 14.3",
+      "Venus: 34.2",
+      "Mars: 38.6",
+      "Jupiter: 43.4",
+      "Saturn: 50.3",
+      "Uranus: 34.5",
+      "Neptune: 11.4",
+      "Pluto: 50.2"
+    ],
+    "design": [
+      "Sun: 29.6",
+      "Earth: 30.6",
+      "NorthNode: 39.3",
+      "SouthNode: 38.3",
+      "Moon: 57.1",
+      "Mercury: 47.6",
+      "Venus: 33.3",
+      "Mars: 44.5",
+      "Jupiter: 28.3",
+      "Saturn: 57.4",
+      "Uranus: 34.1",
+      "Neptune: 11.2",
+      "Pluto: 32.5"
+    ]
+  },
+  "input": {
+    "localDate": "1982-11-19",
+    "localTime": "18:36",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_333",
+    "birthplace": "Sao Paulo"
+  }
+}

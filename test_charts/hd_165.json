@@ -1,0 +1,59 @@
+{
+  "name": "Test_165",
+  "type": "Manifesting Generator",
+  "profile": "1 / 4",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (16/9 | 37/40)",
+  "channels": [
+    "12-22",
+    "30-41",
+    "35-36",
+    "37-40",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.1",
+      "Earth: 9.1",
+      "NorthNode: 36.3",
+      "SouthNode: 6.3",
+      "Moon: 35.5",
+      "Mercury: 20.4",
+      "Venus: 42.1",
+      "Mars: 7.6",
+      "Jupiter: 12.5",
+      "Saturn: 25.3",
+      "Uranus: 8.4",
+      "Neptune: 25.4",
+      "Pluto: 41.2"
+    ],
+    "design": [
+      "Sun: 37.4",
+      "Earth: 40.4",
+      "NorthNode: 36.6",
+      "SouthNode: 6.6",
+      "Moon: 30.1",
+      "Mercury: 36.1",
+      "Venus: 21.2",
+      "Mars: 53.3",
+      "Jupiter: 35.1",
+      "Saturn: 22.4",
+      "Uranus: 23.6",
+      "Neptune: 25.1",
+      "Pluto: 41.1"
+    ]
+  },
+  "input": {
+    "localDate": "2025-05-27",
+    "localTime": "14:46",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_165",
+    "birthplace": "Sao Paulo"
+  }
+}

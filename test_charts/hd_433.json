@@ -1,0 +1,58 @@
+{
+  "name": "Test_433",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (48/21 | 39/38)",
+  "channels": [
+    "12-22",
+    "27-50",
+    "28-38",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.4",
+      "Earth: 21.4",
+      "NorthNode: 50.1",
+      "SouthNode: 3.1",
+      "Moon: 63.4",
+      "Mercury: 48.1",
+      "Venus: 32.5",
+      "Mars: 43.1",
+      "Jupiter: 9.6",
+      "Saturn: 22.3",
+      "Uranus: 60.1",
+      "Neptune: 61.3",
+      "Pluto: 14.5"
+    ],
+    "design": [
+      "Sun: 39.6",
+      "Earth: 38.6",
+      "NorthNode: 28.1",
+      "SouthNode: 27.1",
+      "Moon: 28.1",
+      "Mercury: 12.3",
+      "Venus: 15.5",
+      "Mars: 47.6",
+      "Jupiter: 9.1",
+      "Saturn: 36.3",
+      "Uranus: 60.3",
+      "Neptune: 61.4",
+      "Pluto: 14.4"
+    ]
+  },
+  "input": {
+    "localDate": "1995-10-06",
+    "localTime": "18:16",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_433",
+    "birthplace": "Tokyo"
+  }
+}

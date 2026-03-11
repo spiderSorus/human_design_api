@@ -1,0 +1,11 @@
+--- Run started at 2026-03-10T20:37:21.904Z for 50 charts ---
+--- Run started at 2026-03-10T20:39:07.117Z for 10000 charts ---
+[FAIL] Chart 01630 (2012-07-18 02:56): mismatch!
+[FAIL] Chart 05536 (1967-11-19 12:06): mismatch!
+[FAIL] Chart 06096 (1998-12-22 21:41): mismatch!
+[ERROR] Chart 06443: fetch failed
+[ERROR] Chart 06447: fetch failed
+[FAIL] Chart 06487 (2015-08-29 19:08): mismatch!
+[ERROR] Chart 06947: fetch failed
+[FAIL] Chart 07959 (1960-08-14 13:29): mismatch!
+[FAIL] Chart 08194 (1987-03-11 23:24): mismatch!

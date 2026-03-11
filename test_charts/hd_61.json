@@ -1,0 +1,57 @@
+{
+  "name": "Test_61",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (35/5 | 63/64)",
+  "channels": [
+    "26-44",
+    "37-40",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 35.4",
+      "Earth: 5.4",
+      "NorthNode: 24.4",
+      "SouthNode: 44.4",
+      "Moon: 58.4",
+      "Mercury: 8.5",
+      "Venus: 45.4",
+      "Mars: 53.4",
+      "Jupiter: 40.5",
+      "Saturn: 39.4",
+      "Uranus: 37.2",
+      "Neptune: 13.3",
+      "Pluto: 26.5"
+    ],
+    "design": [
+      "Sun: 63.6",
+      "Earth: 64.6",
+      "NorthNode: 24.6",
+      "SouthNode: 44.6",
+      "Moon: 64.2",
+      "Mercury: 22.2",
+      "Venus: 3.5",
+      "Mars: 23.2",
+      "Jupiter: 64.3",
+      "Saturn: 52.3",
+      "Uranus: 55.4",
+      "Neptune: 13.1",
+      "Pluto: 26.6"
+    ]
+  },
+  "input": {
+    "localDate": "2004-06-04",
+    "localTime": "23:30",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_61",
+    "birthplace": "Mumbai"
+  }
+}

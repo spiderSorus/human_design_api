@@ -1,0 +1,57 @@
+{
+  "name": "Test_387",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (14/8 | 29/30)",
+  "channels": [
+    "2-14",
+    "29-46",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 14.3",
+      "Earth: 8.3",
+      "NorthNode: 35.5",
+      "SouthNode: 5.5",
+      "Moon: 2.3",
+      "Mercury: 9.3",
+      "Venus: 48.2",
+      "Mars: 46.3",
+      "Jupiter: 5.6",
+      "Saturn: 44.3",
+      "Uranus: 9.4",
+      "Neptune: 11.6",
+      "Pluto: 50.5"
+    ],
+    "design": [
+      "Sun: 29.5",
+      "Earth: 30.5",
+      "NorthNode: 12.1",
+      "SouthNode: 11.1",
+      "Moon: 13.2",
+      "Mercury: 6.4",
+      "Venus: 59.4",
+      "Mars: 31.4",
+      "Jupiter: 34.2",
+      "Saturn: 50.4",
+      "Uranus: 34.6",
+      "Neptune: 11.5",
+      "Pluto: 50.1"
+    ]
+  },
+  "input": {
+    "localDate": "1983-11-19",
+    "localTime": "09:11",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_387",
+    "birthplace": "New York"
+  }
+}

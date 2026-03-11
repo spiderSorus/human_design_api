@@ -1,0 +1,58 @@
+{
+  "name": "Test_410",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (26/45 | 47/22)",
+  "channels": [
+    "10-57",
+    "26-44",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.2",
+      "Earth: 45.2",
+      "NorthNode: 6.1",
+      "SouthNode: 36.1",
+      "Moon: 3.6",
+      "Mercury: 9.3",
+      "Venus: 44.3",
+      "Mars: 10.1",
+      "Jupiter: 33.2",
+      "Saturn: 64.3",
+      "Uranus: 1.6",
+      "Neptune: 26.2",
+      "Pluto: 57.4"
+    ],
+    "design": [
+      "Sun: 47.4",
+      "Earth: 22.4",
+      "NorthNode: 6.5",
+      "SouthNode: 36.5",
+      "Moon: 41.1",
+      "Mercury: 59.6",
+      "Venus: 28.4",
+      "Mars: 32.6",
+      "Jupiter: 56.6",
+      "Saturn: 40.1",
+      "Uranus: 1.1",
+      "Neptune: 5.5",
+      "Pluto: 57.1"
+    ]
+  },
+  "input": {
+    "localDate": "1978-12-10",
+    "localTime": "22:30",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_410",
+    "birthplace": "Tokyo"
+  }
+}

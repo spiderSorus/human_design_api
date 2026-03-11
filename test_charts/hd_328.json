@@ -1,0 +1,59 @@
+{
+  "name": "Test_328",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "24-61",
+    "25-51",
+    "32-54",
+    "42-53",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.2",
+      "Earth: 61.2",
+      "NorthNode: 53.6",
+      "SouthNode: 54.6",
+      "Moon: 24.6",
+      "Mercury: 62.4",
+      "Venus: 39.1",
+      "Mars: 6.1",
+      "Jupiter: 51.4",
+      "Saturn: 49.4",
+      "Uranus: 59.4",
+      "Neptune: 44.6",
+      "Pluto: 40.5"
+    ],
+    "design": [
+      "Sun: 42.4",
+      "Earth: 32.4",
+      "NorthNode: 62.5",
+      "SouthNode: 61.5",
+      "Moon: 10.3",
+      "Mercury: 24.3",
+      "Venus: 22.3",
+      "Mars: 33.3",
+      "Jupiter: 25.5",
+      "Saturn: 49.3",
+      "Uranus: 59.2",
+      "Neptune: 1.2",
+      "Pluto: 40.5"
+    ]
+  },
+  "input": {
+    "localDate": "1963-07-15",
+    "localTime": "23:04",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_328",
+    "birthplace": "Tokyo"
+  }
+}

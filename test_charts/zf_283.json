@@ -1,0 +1,56 @@
+{
+  "name": "Test_283",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (24/44 | 19/33)",
+  "channels": [
+    "19-49",
+    "24-61"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 24.4",
+      "Earth: 44.4",
+      "NorthNode: 49.2",
+      "SouthNode: 4.2",
+      "Moon: 33.4",
+      "Mercury: 42.3",
+      "Venus: 21.1",
+      "Mars: 60.3",
+      "Jupiter: 34.5",
+      "Saturn: 23.6",
+      "Uranus: 48.1",
+      "Neptune: 34.3",
+      "Pluto: 6.6"
+    ],
+    "design": [
+      "Sun: 19.6",
+      "Earth: 33.6",
+      "NorthNode: 49.6",
+      "SouthNode: 4.6",
+      "Moon: 2.2",
+      "Mercury: 61.2",
+      "Venus: 11.5",
+      "Mars: 9.2",
+      "Jupiter: 34.4",
+      "Saturn: 2.3",
+      "Uranus: 48.5",
+      "Neptune: 34.3",
+      "Pluto: 46.2"
+    ]
+  },
+  "input": {
+    "localDate": "1971-05-02",
+    "localTime": "07:53",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_283",
+    "birthplace": "London"
+  }
+}

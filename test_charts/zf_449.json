@@ -1,0 +1,53 @@
+{
+  "name": "Test_449",
+  "type": "Reflector",
+  "profile": "4 / 6",
+  "authority": "Lunar",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (47/22 | 45/26)",
+  "channels": [],
+  "gates": {
+    "personality": [
+      "Sun: 47.4",
+      "Earth: 22.4",
+      "NorthNode: 9.1",
+      "SouthNode: 16.1",
+      "Moon: 33.1",
+      "Mercury: 46.5",
+      "Venus: 4.1",
+      "Mars: 57.6",
+      "Jupiter: 57.3",
+      "Saturn: 30.1",
+      "Uranus: 54.4",
+      "Neptune: 54.4",
+      "Pluto: 43.5"
+    ],
+    "design": [
+      "Sun: 45.6",
+      "Earth: 26.6",
+      "NorthNode: 5.1",
+      "SouthNode: 35.1",
+      "Moon: 17.1",
+      "Mercury: 53.2",
+      "Venus: 27.5",
+      "Mars: 4.6",
+      "Jupiter: 18.2",
+      "Saturn: 55.1",
+      "Uranus: 61.1",
+      "Neptune: 54.6",
+      "Pluto: 43.5"
+    ]
+  },
+  "input": {
+    "localDate": "1993-09-12",
+    "localTime": "19:15",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_449",
+    "birthplace": "Los Angeles"
+  }
+}

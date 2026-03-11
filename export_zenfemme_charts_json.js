@@ -7,15 +7,19 @@
 */
 
 const { fetchZenChart } = require('./src/hd/zenfemme');
+const { zenToFlatChart } = require('./src/hd/zenflat');
 
 async function main() {
-  if (!process.env.ZENFEMME_TOKEN) {
+  // For safety, do not hardcode tokens in-repo.
+  // If you need a token for your ZenFemme/BodyGraphChart setup, provide it via env.
+  const token = process.env.ZENFEMME_TOKEN;
+  if (!token) {
     throw new Error('Please set ZENFEMME_TOKEN env var');
   }
 
   const samples = [
     {
-      name: 'Kay',
+      name: 'Kai',
       localDate: '1982-11-09',
       localTime: '06:13',
       timezone: 'America/Los_Angeles',
@@ -24,7 +28,7 @@ async function main() {
       longitude: -120.3450
     },
     {
-      name: 'Test',
+      name: 'Apollo',
       localDate: '2011-03-24',
       localTime: '11:37',
       timezone: 'America/Los_Angeles',
@@ -58,12 +62,31 @@ async function main() {
       birthplace: 'Los Angeles, California, USA',
       latitude: 34.0522,
       longitude: -118.2437
+    },
+    {
+      name: 'Saint linda',
+      localDate: '1942-03-26',
+      localTime: '13:15',
+      timezone: 'America/Los_Angeles',
+      birthplace: 'Red Bluff, CA, USA',
+      latitude: 40.1785,
+      longitude: -122.2358
+    },
+    {
+      name: 'Ashes',
+      localDate: '1984-11-09',
+      localTime: '09:17',
+      timezone: 'America/Los_Angeles',
+      birthplace: 'Pullman (Washington), United States (USA)',
+      // Approx Pullman, WA
+      latitude: 46.7298,
+      longitude: -117.1817
     }
   ];
 
   const charts = [];
   for (const s of samples) {
-    const zen = await fetchZenChart({
+    const zenFull = await fetchZenChart({
       localDate: s.localDate,
       localTime: s.localTime,
       timezone: s.timezone,
@@ -71,8 +94,9 @@ async function main() {
       longitude: s.longitude,
       name: s.name,
       birthplace: s.birthplace
-    });
-    charts.push({ sample: s, zen });
+    }, { token });
+
+    charts.push(zenToFlatChart({ sample: s, zenFull }));
   }
 
   process.stdout.write(JSON.stringify({ generatedAt: new Date().toISOString(), charts }, null, 2));

@@ -1,0 +1,55 @@
+{
+  "name": "Test_115",
+  "type": "Manifestor",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (25/46 | 10/15)",
+  "channels": [
+    "12-22"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 25.4",
+      "Earth: 46.4",
+      "NorthNode: 11.1",
+      "SouthNode: 12.1",
+      "Moon: 22.2",
+      "Mercury: 55.5",
+      "Venus: 13.3",
+      "Mars: 35.2",
+      "Jupiter: 55.4",
+      "Saturn: 15.1",
+      "Uranus: 50.1",
+      "Neptune: 9.5",
+      "Pluto: 18.2"
+    ],
+    "design": [
+      "Sun: 10.6",
+      "Earth: 15.6",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 38.6",
+      "Mercury: 11.3",
+      "Venus: 19.3",
+      "Mars: 3.5",
+      "Jupiter: 19.6",
+      "Saturn: 15.4",
+      "Uranus: 50.1",
+      "Neptune: 9.3",
+      "Pluto: 18.4"
+    ]
+  },
+  "input": {
+    "localDate": "1974-03-23",
+    "localTime": "03:24",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_115",
+    "birthplace": "Sydney"
+  }
+}

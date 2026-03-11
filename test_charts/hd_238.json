@@ -1,0 +1,59 @@
+{
+  "name": "Test_238",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (59/55 | 20/34)",
+  "channels": [
+    "12-22",
+    "19-49",
+    "20-34",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 59.4",
+      "Earth: 55.4",
+      "NorthNode: 47.4",
+      "SouthNode: 22.4",
+      "Moon: 12.5",
+      "Mercury: 64.2",
+      "Venus: 48.2",
+      "Mars: 44.1",
+      "Jupiter: 13.2",
+      "Saturn: 51.6",
+      "Uranus: 41.4",
+      "Neptune: 60.2",
+      "Pluto: 34.3"
+    ],
+    "design": [
+      "Sun: 20.6",
+      "Earth: 34.6",
+      "NorthNode: 6.4",
+      "SouthNode: 36.4",
+      "Moon: 41.4",
+      "Mercury: 24.4",
+      "Venus: 45.4",
+      "Mars: 47.5",
+      "Jupiter: 49.3",
+      "Saturn: 51.2",
+      "Uranus: 19.2",
+      "Neptune: 60.4",
+      "Pluto: 34.5"
+    ]
+  },
+  "input": {
+    "localDate": "1997-08-27",
+    "localTime": "04:52",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_238",
+    "birthplace": "Mumbai"
+  }
+}

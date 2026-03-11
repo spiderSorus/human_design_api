@@ -1,0 +1,59 @@
+{
+  "name": "Test_314",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "10-20",
+    "12-22",
+    "2-14",
+    "21-45",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.1",
+      "Earth: 30.1",
+      "NorthNode: 63.3",
+      "SouthNode: 64.3",
+      "Moon: 32.5",
+      "Mercury: 40.5",
+      "Venus: 39.1",
+      "Mars: 21.2",
+      "Jupiter: 20.5",
+      "Saturn: 11.4",
+      "Uranus: 11.5",
+      "Neptune: 58.5",
+      "Pluto: 44.3"
+    ],
+    "design": [
+      "Sun: 8.3",
+      "Earth: 14.3",
+      "NorthNode: 22.4",
+      "SouthNode: 47.4",
+      "Moon: 12.1",
+      "Mercury: 45.3",
+      "Venus: 15.2",
+      "Mars: 30.3",
+      "Jupiter: 2.4",
+      "Saturn: 10.4",
+      "Uranus: 10.3",
+      "Neptune: 38.1",
+      "Pluto: 44.4"
+    ]
+  },
+  "input": {
+    "localDate": "1988-08-18",
+    "localTime": "09:34",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_314",
+    "birthplace": "Tokyo"
+  }
+}

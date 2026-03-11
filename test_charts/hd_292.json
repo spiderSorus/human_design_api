@@ -1,0 +1,58 @@
+{
+  "name": "Test_292",
+  "type": "Projector",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "23-43",
+    "25-51",
+    "30-41",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.4",
+      "Earth: 43.4",
+      "NorthNode: 15.5",
+      "SouthNode: 10.5",
+      "Moon: 16.6",
+      "Mercury: 3.6",
+      "Venus: 15.5",
+      "Mars: 27.3",
+      "Jupiter: 27.6",
+      "Saturn: 55.5",
+      "Uranus: 40.1",
+      "Neptune: 1.4",
+      "Pluto: 64.1"
+    ],
+    "design": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 39.2",
+      "SouthNode: 38.2",
+      "Moon: 55.1",
+      "Mercury: 41.3",
+      "Venus: 25.6",
+      "Mars: 30.1",
+      "Jupiter: 51.3",
+      "Saturn: 30.2",
+      "Uranus: 40.4",
+      "Neptune: 1.5",
+      "Pluto: 64.3"
+    ]
+  },
+  "input": {
+    "localDate": "1964-05-13",
+    "localTime": "00:39",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_292",
+    "birthplace": "Sao Paulo"
+  }
+}

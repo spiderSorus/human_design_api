@@ -1,0 +1,58 @@
+{
+  "name": "Test_88",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (7/13 | 2/1)",
+  "channels": [
+    "17-62",
+    "27-50",
+    "3-60",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.4",
+      "Earth: 13.4",
+      "NorthNode: 59.2",
+      "SouthNode: 55.2",
+      "Moon: 37.1",
+      "Mercury: 29.1",
+      "Venus: 62.5",
+      "Mars: 62.3",
+      "Jupiter: 36.5",
+      "Saturn: 27.2",
+      "Uranus: 19.4",
+      "Neptune: 60.5",
+      "Pluto: 34.6"
+    ],
+    "design": [
+      "Sun: 2.6",
+      "Earth: 1.6",
+      "NorthNode: 40.3",
+      "SouthNode: 37.3",
+      "Moon: 50.1",
+      "Mercury: 42.3",
+      "Venus: 17.3",
+      "Mars: 23.1",
+      "Jupiter: 22.5",
+      "Saturn: 3.1",
+      "Uranus: 19.6",
+      "Neptune: 41.1",
+      "Pluto: 9.2"
+    ]
+  },
+  "input": {
+    "localDate": "1998-08-09",
+    "localTime": "22:04",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_88",
+    "birthplace": "Tokyo"
+  }
+}

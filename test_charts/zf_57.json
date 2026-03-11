@@ -1,0 +1,57 @@
+{
+  "name": "Test_57",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (8/14 | 30/29)",
+  "channels": [
+    "12-22",
+    "20-34",
+    "27-50"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 8.1",
+      "Earth: 14.1",
+      "NorthNode: 34.6",
+      "SouthNode: 20.6",
+      "Moon: 22.6",
+      "Mercury: 24.4",
+      "Venus: 12.2",
+      "Mars: 40.4",
+      "Jupiter: 23.6",
+      "Saturn: 32.4",
+      "Uranus: 17.4",
+      "Neptune: 55.4",
+      "Pluto: 58.6"
+    ],
+    "design": [
+      "Sun: 30.3",
+      "Earth: 29.3",
+      "NorthNode: 9.6",
+      "SouthNode: 16.6",
+      "Moon: 5.5",
+      "Mercury: 55.4",
+      "Venus: 17.6",
+      "Mars: 47.3",
+      "Jupiter: 27.3",
+      "Saturn: 50.4",
+      "Uranus: 25.5",
+      "Neptune: 55.1",
+      "Pluto: 58.6"
+    ]
+  },
+  "input": {
+    "localDate": "2012-05-15",
+    "localTime": "16:58",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_57",
+    "birthplace": "Sydney"
+  }
+}

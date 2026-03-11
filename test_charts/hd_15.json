@@ -1,0 +1,58 @@
+{
+  "name": "Test_15",
+  "type": "Generator",
+  "profile": "2 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (58/52 | 18/17)",
+  "channels": [
+    "18-58",
+    "2-14",
+    "3-60",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 58.2",
+      "Earth: 52.2",
+      "NorthNode: 42.2",
+      "SouthNode: 32.2",
+      "Moon: 39.6",
+      "Mercury: 11.3",
+      "Venus: 14.4",
+      "Mars: 11.2",
+      "Jupiter: 27.4",
+      "Saturn: 55.3",
+      "Uranus: 23.1",
+      "Neptune: 36.3",
+      "Pluto: 60.4"
+    ],
+    "design": [
+      "Sun: 18.5",
+      "Earth: 17.5",
+      "NorthNode: 42.5",
+      "SouthNode: 32.5",
+      "Moon: 3.6",
+      "Mercury: 6.1",
+      "Venus: 4.6",
+      "Mars: 32.3",
+      "Jupiter: 2.2",
+      "Saturn: 55.2",
+      "Uranus: 23.5",
+      "Neptune: 36.4",
+      "Pluto: 60.2"
+    ]
+  },
+  "input": {
+    "localDate": "2023-12-28",
+    "localTime": "03:51",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_15",
+    "birthplace": "Tokyo"
+  }
+}

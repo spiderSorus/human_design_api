@@ -1,0 +1,59 @@
+{
+  "name": "Test_356",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (22/47 | 11/12)",
+  "channels": [
+    "12-22",
+    "30-41",
+    "47-64",
+    "5-15",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 22.6",
+      "Earth: 47.6",
+      "NorthNode: 58.3",
+      "SouthNode: 52.3",
+      "Moon: 15.2",
+      "Mercury: 21.1",
+      "Venus: 30.5",
+      "Mars: 13.6",
+      "Jupiter: 40.3",
+      "Saturn: 13.1",
+      "Uranus: 54.3",
+      "Neptune: 54.4",
+      "Pluto: 43.5"
+    ],
+    "design": [
+      "Sun: 11.2",
+      "Earth: 12.2",
+      "NorthNode: 38.1",
+      "SouthNode: 39.1",
+      "Moon: 42.3",
+      "Mercury: 9.3",
+      "Venus: 44.5",
+      "Mars: 5.2",
+      "Jupiter: 64.4",
+      "Saturn: 41.3",
+      "Uranus: 38.4",
+      "Neptune: 54.1",
+      "Pluto: 43.3"
+    ]
+  },
+  "input": {
+    "localDate": "1992-03-12",
+    "localTime": "15:42",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_356",
+    "birthplace": "London"
+  }
+}

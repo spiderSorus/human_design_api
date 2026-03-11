@@ -1,0 +1,59 @@
+{
+  "name": "Test_189",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (26/45 | 6/36)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "26-44",
+    "32-54",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.5",
+      "Earth: 45.5",
+      "NorthNode: 51.5",
+      "SouthNode: 57.5",
+      "Moon: 23.3",
+      "Mercury: 34.6",
+      "Venus: 44.3",
+      "Mars: 63.1",
+      "Jupiter: 63.4",
+      "Saturn: 5.3",
+      "Uranus: 26.6",
+      "Neptune: 58.2",
+      "Pluto: 44.2"
+    ],
+    "design": [
+      "Sun: 6.1",
+      "Earth: 36.1",
+      "NorthNode: 42.1",
+      "SouthNode: 32.1",
+      "Moon: 30.6",
+      "Mercury: 46.5",
+      "Venus: 28.6",
+      "Mars: 54.5",
+      "Jupiter: 22.1",
+      "Saturn: 34.5",
+      "Uranus: 26.2",
+      "Neptune: 10.6",
+      "Pluto: 28.4"
+    ]
+  },
+  "input": {
+    "localDate": "1986-12-13",
+    "localTime": "18:10",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_189",
+    "birthplace": "Mumbai"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_69",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (53/54 | 42/32)",
+  "channels": [
+    "10-34",
+    "24-61",
+    "32-54",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 53.5",
+      "Earth: 54.5",
+      "NorthNode: 15.1",
+      "SouthNode: 10.1",
+      "Moon: 25.5",
+      "Mercury: 52.2",
+      "Venus: 16.5",
+      "Mars: 17.5",
+      "Jupiter: 61.3",
+      "Saturn: 60.4",
+      "Uranus: 24.3",
+      "Neptune: 22.5",
+      "Pluto: 61.4"
+    ],
+    "design": [
+      "Sun: 42.1",
+      "Earth: 32.1",
+      "NorthNode: 15.4",
+      "SouthNode: 10.4",
+      "Moon: 34.2",
+      "Mercury: 25.2",
+      "Venus: 16.1",
+      "Mars: 19.1",
+      "Jupiter: 61.6",
+      "Saturn: 60.6",
+      "Uranus: 27.4",
+      "Neptune: 22.3",
+      "Pluto: 61.5"
+    ]
+  },
+  "input": {
+    "localDate": "2020-07-11",
+    "localTime": "07:06",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_69",
+    "birthplace": "Sao Paulo"
+  }
+}

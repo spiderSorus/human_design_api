@@ -1,0 +1,5199 @@
+{
+  "generatedAt": "2026-02-19T10:54:56.456Z",
+  "charts": [
+    {
+      "name": "Kai",
+      "localDate": "1982-11-09",
+      "localTime": "06:13",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Lakeview, Oregon",
+      "latitude": 42.1885,
+      "longitude": -120.345,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 1,
+            "line": 4,
+            "color": 6,
+            "tone": 1,
+            "base": 1
+          },
+          "earth": {
+            "gate": 2,
+            "line": 4,
+            "color": 6,
+            "tone": 1,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 52,
+            "line": 2,
+            "color": 5,
+            "tone": 3,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 58,
+            "line": 2,
+            "color": 5,
+            "tone": 3,
+            "base": 5
+          },
+          "moon": {
+            "gate": 59,
+            "line": 4,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 44,
+            "line": 4,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "venus": {
+            "gate": 1,
+            "line": 6,
+            "color": 2,
+            "tone": 6,
+            "base": 2
+          },
+          "mars": {
+            "gate": 58,
+            "line": 3,
+            "color": 5,
+            "tone": 4,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 43,
+            "line": 2,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 50,
+            "line": 2,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 34,
+            "line": 4,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 11,
+            "line": 3,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 50,
+            "line": 2,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 8,
+            "line": 2,
+            "color": 2,
+            "tone": 2,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 54,
+            "line": 1,
+            "color": 4,
+            "tone": 5,
+            "base": 3
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 7,
+            "line": 6,
+            "color": 6,
+            "tone": 5,
+            "base": 5
+          },
+          "earth": {
+            "gate": 13,
+            "line": 6,
+            "color": 6,
+            "tone": 5,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 39,
+            "line": 4,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 38,
+            "line": 4,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "moon": {
+            "gate": 24,
+            "line": 4,
+            "color": 6,
+            "tone": 4,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 59,
+            "line": 6,
+            "color": 6,
+            "tone": 5,
+            "base": 4
+          },
+          "venus": {
+            "gate": 56,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "mars": {
+            "gate": 28,
+            "line": 4,
+            "color": 1,
+            "tone": 3,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 28,
+            "line": 2,
+            "color": 3,
+            "tone": 3,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 57,
+            "line": 3,
+            "color": 6,
+            "tone": 2,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 34,
+            "line": 1,
+            "color": 3,
+            "tone": 6,
+            "base": 3
+          },
+          "neptune": {
+            "gate": 11,
+            "line": 2,
+            "color": 6,
+            "tone": 4,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 5,
+            "color": 1,
+            "tone": 1,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 8,
+            "line": 4,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 58,
+            "line": 3,
+            "color": 1,
+            "tone": 2,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "9th November 1982 @ 06:13",
+        "BirthDateLocal12": "9th November 1982 @ 06:13 AM",
+        "BirthDateUtc": "9th November 1982 @ 14:13",
+        "BirthDateUtc12": "9th November 1982 @ 02:13 PM",
+        "BirthDateLocalStandard": "1982-11-09T06:13:00-08:00",
+        "BirthDateUtcStandard": "1982-11-09T14:13:00+00:00",
+        "Age": 43,
+        "DesignDateUtc": "11th August 1982 @ 21:00",
+        "DesignDateUtc12": "11th August 1982 @ 09:00 PM",
+        "DesignDateUtcStandard": "1982-08-11T21:00:01+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "4 / 6",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Sphinx  (1/2 | 7/13)",
+        "Definition": "Split Definition",
+        "Digestion": "InDirect",
+        "Environment": "Kitchens",
+        "Perspective": "Probability",
+        "Motivation": "Innocence",
+        "Sense": "Security",
+        "DesignSense": "Feeling",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Execution - Customer Service, Connections, Fundamentals, Knowledge<br>Direction - Customer Service, Connections, Fundamentals, Knowledge<br>Execution - Leadership, Trust, Determination and Capital<br>Organizing - Leadership, Trust, Determination and Capital<br>Accounting - Leadership, Trust, Determination and Capital",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "11 - 56",
+          "57 - 34",
+          "28 - 38"
+        ],
+        "Channels": [
+          "11-56",
+          "57-34",
+          "28-38"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "left",
+        "Name": "Kai",
+        "FirstName": "Kai",
+        "LastName": "",
+        "BirthPlace": "Lakeview, Oregon"
+      }
+    },
+    {
+      "name": "Apollo",
+      "localDate": "2011-03-24",
+      "localTime": "11:37",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Roseburg, Oregon, USA",
+      "latitude": 43.2165,
+      "longitude": -123.3417,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 25,
+            "line": 6,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "earth": {
+            "gate": 46,
+            "line": 6,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 11,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 12,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "moon": {
+            "gate": 5,
+            "line": 2,
+            "color": 2,
+            "tone": 6,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 42,
+            "line": 2,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "venus": {
+            "gate": 30,
+            "line": 3,
+            "color": 4,
+            "tone": 6,
+            "base": 3
+          },
+          "mars": {
+            "gate": 36,
+            "line": 1,
+            "color": 6,
+            "tone": 1,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 21,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 48,
+            "line": 6,
+            "color": 4,
+            "tone": 1,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 25,
+            "line": 3,
+            "color": 4,
+            "tone": 6,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 30,
+            "line": 6,
+            "color": 4,
+            "tone": 1,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 58,
+            "line": 4,
+            "color": 5,
+            "tone": 6,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 55,
+            "line": 3,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 25,
+            "line": 3,
+            "color": 1,
+            "tone": 2,
+            "base": 1
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 58,
+            "line": 3,
+            "color": 1,
+            "tone": 1,
+            "base": 5
+          },
+          "earth": {
+            "gate": 52,
+            "line": 3,
+            "color": 1,
+            "tone": 1,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 10,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 15,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "moon": {
+            "gate": 46,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 26,
+            "line": 4,
+            "color": 3,
+            "tone": 4,
+            "base": 1
+          },
+          "venus": {
+            "gate": 43,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 1
+          },
+          "mars": {
+            "gate": 38,
+            "line": 6,
+            "color": 6,
+            "tone": 2,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 36,
+            "line": 4,
+            "color": 4,
+            "tone": 4,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 57,
+            "line": 2,
+            "color": 3,
+            "tone": 3,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 36,
+            "line": 5,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 30,
+            "line": 3,
+            "color": 2,
+            "tone": 4,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 58,
+            "line": 2,
+            "color": 3,
+            "tone": 2,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 30,
+            "line": 4,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 22,
+            "line": 4,
+            "color": 4,
+            "tone": 5,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "24th March 2011 @ 11:37",
+        "BirthDateLocal12": "24th March 2011 @ 11:37 AM",
+        "BirthDateUtc": "24th March 2011 @ 18:37",
+        "BirthDateUtc12": "24th March 2011 @ 06:37 PM",
+        "BirthDateLocalStandard": "2011-03-24T11:37:00-07:00",
+        "BirthDateUtcStandard": "2011-03-24T18:37:00+00:00",
+        "Age": 14,
+        "DesignDateUtc": "27th December 2010 @ 15:41",
+        "DesignDateUtc12": "27th December 2010 @ 03:41 PM",
+        "DesignDateUtcStandard": "2010-12-27T15:41:50+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "6 / 3",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Left Angle Cross of Healing (25/46 | 58/52)",
+        "Definition": "Single Definition",
+        "Digestion": "Consecutive",
+        "Environment": "Valleys",
+        "Perspective": "Survival",
+        "Motivation": "Innocence",
+        "Sense": "Action",
+        "DesignSense": "Smell",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Teamwork - Leadership, Trust, Determination and Capital<br>Culture - Talent, Competences, Propaganda, Credibility<br>Responsability - Propaganda, Credibility, Talent, Competences<br>Teamwork - Detail, Fundamentals, Networking and Client Relations",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "57 - 10",
+          "15 - 5"
+        ],
+        "Channels": [
+          "57-10",
+          "15-5"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Apollo",
+        "FirstName": "Apollo",
+        "LastName": "",
+        "BirthPlace": "Roseburg, Oregon, USA"
+      }
+    },
+    {
+      "name": "Helena Sorus",
+      "localDate": "1978-04-21",
+      "localTime": "16:26",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Santa Rosa, California, USA",
+      "latitude": 38.4405,
+      "longitude": -122.7144,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 3,
+            "line": 6,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "earth": {
+            "gate": 50,
+            "line": 6,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 18,
+            "line": 3,
+            "color": 1,
+            "tone": 3,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 17,
+            "line": 3,
+            "color": 1,
+            "tone": 3,
+            "base": 2
+          },
+          "moon": {
+            "gate": 57,
+            "line": 2,
+            "color": 4,
+            "tone": 3,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 51,
+            "line": 1,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "venus": {
+            "gate": 23,
+            "line": 5,
+            "color": 6,
+            "tone": 5,
+            "base": 1
+          },
+          "mars": {
+            "gate": 31,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 15,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 4,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 1,
+            "line": 2,
+            "color": 5,
+            "tone": 5,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 2,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 48,
+            "line": 6,
+            "color": 5,
+            "tone": 3,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 27,
+            "line": 4,
+            "color": 2,
+            "tone": 5,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 39,
+            "line": 2,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 41,
+            "line": 2,
+            "color": 4,
+            "tone": 5,
+            "base": 4
+          },
+          "earth": {
+            "gate": 31,
+            "line": 2,
+            "color": 4,
+            "tone": 5,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 18,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 17,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "moon": {
+            "gate": 56,
+            "line": 3,
+            "color": 3,
+            "tone": 3,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 38,
+            "line": 4,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "venus": {
+            "gate": 41,
+            "line": 3,
+            "color": 1,
+            "tone": 2,
+            "base": 4
+          },
+          "mars": {
+            "gate": 56,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 12,
+            "line": 5,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 29,
+            "line": 5,
+            "color": 5,
+            "tone": 2,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 1,
+            "line": 4,
+            "color": 1,
+            "tone": 1,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 2,
+            "color": 5,
+            "tone": 1,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 3,
+            "line": 6,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 15,
+            "line": 3,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "21st April 1978 @ 16:26",
+        "BirthDateLocal12": "21st April 1978 @ 04:26 PM",
+        "BirthDateUtc": "22nd April 1978 @ 00:26",
+        "BirthDateUtc12": "22nd April 1978 @ 12:26 AM",
+        "BirthDateLocalStandard": "1978-04-21T16:26:00-08:00",
+        "BirthDateUtcStandard": "1978-04-22T00:26:00+00:00",
+        "Age": 47,
+        "DesignDateUtc": "23rd January 1978 @ 21:19",
+        "DesignDateUtc12": "23rd January 1978 @ 09:19 PM",
+        "DesignDateUtcStandard": "1978-01-23T21:19:42+00:00",
+        "Type": "Reflector",
+        "Strategy": "Wait a Lunar Cycle",
+        "InnerAuthority": "Lunar",
+        "Profile": "6 / 2",
+        "Signature": "Surprise",
+        "NotSelfTheme": "Disappointment",
+        "IncarnationCross": "Left Angle Cross of Wishes (3/50 | 41/31)",
+        "Definition": "No Definition",
+        "Digestion": "Nervous",
+        "Environment": "Kitchens",
+        "Perspective": "Survival",
+        "Motivation": "Desire",
+        "Sense": "Acceptance",
+        "DesignSense": "Feeling",
+        "DecisionMakingStrategy": "Reflect and discuss with trusted people to see what comes up",
+        "BusinessCompetencesAndQualities": "Management - Determination, Capital, Leadership and Trust<br>Responsability - Customer Service, Connections, Fundamentals, Knowledge<br>Execution - Talent, Competences, Propaganda, Credibility<br>Management - Talent, Competences, Propaganda, Credibility<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Execution - Customer Service, Connections, Fundamentals, Knowledge",
+        "Channels.id": "Channels",
+        "Channels.list": [],
+        "Channels": [],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "left",
+        "Name": "Helena Sorus",
+        "FirstName": "Helena",
+        "LastName": "Sorus",
+        "BirthPlace": "Santa Rosa, California, USA"
+      }
+    },
+    {
+      "name": "Eliza Mei Sorus",
+      "localDate": "2015-11-03",
+      "localTime": "06:54",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Reno, Nevada, USA",
+      "latitude": 39.5296,
+      "longitude": -119.8138,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 44,
+            "line": 4,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "earth": {
+            "gate": 24,
+            "line": 4,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 46,
+            "line": 3,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 25,
+            "line": 3,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "moon": {
+            "gate": 33,
+            "line": 5,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 28,
+            "line": 1,
+            "color": 2,
+            "tone": 2,
+            "base": 3
+          },
+          "venus": {
+            "gate": 6,
+            "line": 3,
+            "color": 1,
+            "tone": 6,
+            "base": 3
+          },
+          "mars": {
+            "gate": 6,
+            "line": 2,
+            "color": 6,
+            "tone": 2,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 47,
+            "line": 1,
+            "color": 2,
+            "tone": 1,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 34,
+            "line": 5,
+            "color": 4,
+            "tone": 2,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 51,
+            "line": 3,
+            "color": 5,
+            "tone": 1,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 37,
+            "line": 2,
+            "color": 3,
+            "tone": 4,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 38,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 22,
+            "line": 1,
+            "color": 2,
+            "tone": 3,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 18,
+            "line": 5,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 33,
+            "line": 6,
+            "color": 4,
+            "tone": 4,
+            "base": 1
+          },
+          "earth": {
+            "gate": 19,
+            "line": 6,
+            "color": 4,
+            "tone": 4,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 46,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 25,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "moon": {
+            "gate": 42,
+            "line": 3,
+            "color": 6,
+            "tone": 3,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 29,
+            "line": 2,
+            "color": 4,
+            "tone": 6,
+            "base": 2
+          },
+          "venus": {
+            "gate": 29,
+            "line": 5,
+            "color": 1,
+            "tone": 3,
+            "base": 1
+          },
+          "mars": {
+            "gate": 56,
+            "line": 2,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 29,
+            "line": 5,
+            "color": 4,
+            "tone": 1,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 14,
+            "line": 5,
+            "color": 1,
+            "tone": 2,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 51,
+            "line": 6,
+            "color": 5,
+            "tone": 1,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 37,
+            "line": 4,
+            "color": 4,
+            "tone": 3,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 38,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 4
+          },
+          "chiron": {
+            "gate": 22,
+            "line": 5,
+            "color": 1,
+            "tone": 2,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 6,
+            "line": 6,
+            "color": 4,
+            "tone": 2,
+            "base": 5
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "3rd November 2015 @ 06:54",
+        "BirthDateLocal12": "3rd November 2015 @ 06:54 AM",
+        "BirthDateUtc": "3rd November 2015 @ 14:54",
+        "BirthDateUtc12": "3rd November 2015 @ 02:54 PM",
+        "BirthDateLocalStandard": "2015-11-03T06:54:00-08:00",
+        "BirthDateUtcStandard": "2015-11-03T14:54:00+00:00",
+        "Age": 10,
+        "DesignDateUtc": "5th August 2015 @ 14:26",
+        "DesignDateUtc12": "5th August 2015 @ 02:26 PM",
+        "DesignDateUtcStandard": "2015-08-05T14:26:02+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "4 / 6",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Four Ways (44/24 | 33/19)",
+        "Definition": "Split Definition",
+        "Digestion": "Nervous",
+        "Environment": "Caves",
+        "Perspective": "Survival",
+        "Motivation": "Desire",
+        "Sense": "Judgment",
+        "DesignSense": "Inner Vision",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Teamwork - Determination, Capital, Leadership and Trust<br>Supervision - Propaganda, Credibility, Talent, Competences<br>Supervision - Leadership, Trust, Determination and Capital<br>Teamwork - Propaganda, Credibility, Talent, Competences<br>Dedication - Talent, Competences, Propaganda, Credibility<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Capacity - Propaganda, Credibility, Talent, Competences",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "46 - 29",
+          "25 - 51",
+          "28 - 38"
+        ],
+        "Channels": [
+          "46-29",
+          "25-51",
+          "28-38"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "right",
+        "Name": "Eliza Mei Sorus",
+        "FirstName": "Eliza",
+        "LastName": "Mei Sorus",
+        "BirthPlace": "Reno, Nevada, USA"
+      }
+    },
+    {
+      "name": "Greg Ames",
+      "localDate": "1956-01-29",
+      "localTime": "11:47",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Los Angeles, California, USA",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 19,
+            "line": 2,
+            "color": 3,
+            "tone": 1,
+            "base": 4
+          },
+          "earth": {
+            "gate": 33,
+            "line": 2,
+            "color": 3,
+            "tone": 1,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 5,
+            "line": 5,
+            "color": 6,
+            "tone": 1,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 35,
+            "line": 5,
+            "color": 6,
+            "tone": 1,
+            "base": 2
+          },
+          "moon": {
+            "gate": 40,
+            "line": 4,
+            "color": 6,
+            "tone": 2,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 41,
+            "line": 2,
+            "color": 6,
+            "tone": 4,
+            "base": 4
+          },
+          "venus": {
+            "gate": 63,
+            "line": 4,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "mars": {
+            "gate": 9,
+            "line": 5,
+            "color": 6,
+            "tone": 1,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 29,
+            "line": 5,
+            "color": 4,
+            "tone": 2,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 34,
+            "line": 2,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 56,
+            "line": 4,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 50,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 29,
+            "line": 4,
+            "color": 4,
+            "tone": 2,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 41,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 58,
+            "line": 3,
+            "color": 3,
+            "tone": 1,
+            "base": 1
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 44,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 3
+          },
+          "earth": {
+            "gate": 24,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 26,
+            "line": 1,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 45,
+            "line": 1,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "moon": {
+            "gate": 15,
+            "line": 6,
+            "color": 6,
+            "tone": 5,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 32,
+            "line": 4,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "venus": {
+            "gate": 14,
+            "line": 4,
+            "color": 2,
+            "tone": 3,
+            "base": 2
+          },
+          "mars": {
+            "gate": 48,
+            "line": 5,
+            "color": 5,
+            "tone": 1,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 29,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 43,
+            "line": 4,
+            "color": 4,
+            "tone": 5,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 31,
+            "line": 1,
+            "color": 3,
+            "tone": 1,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 50,
+            "line": 3,
+            "color": 2,
+            "tone": 3,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 29,
+            "line": 5,
+            "color": 2,
+            "tone": 1,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 60,
+            "line": 5,
+            "color": 3,
+            "tone": 3,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 11,
+            "line": 5,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "29th January 1956 @ 11:47",
+        "BirthDateLocal12": "29th January 1956 @ 11:47 AM",
+        "BirthDateUtc": "29th January 1956 @ 19:47",
+        "BirthDateUtc12": "29th January 1956 @ 07:47 PM",
+        "BirthDateLocalStandard": "1956-01-29T11:47:00-08:00",
+        "BirthDateUtcStandard": "1956-01-29T19:47:00+00:00",
+        "Age": 70,
+        "DesignDateUtc": "4th November 1955 @ 02:29",
+        "DesignDateUtc12": "4th November 1955 @ 02:29 AM",
+        "DesignDateUtcStandard": "1955-11-04T02:29:26+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "2 / 4",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Four Ways (19/33 | 44/24)",
+        "Definition": "Split Definition",
+        "Digestion": "Cold",
+        "Environment": "Shores",
+        "Perspective": "Personal",
+        "Motivation": "Desire",
+        "Sense": "Security",
+        "DesignSense": "Touch",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Supervision - Talent, Competences, Propaganda, Credibility<br>Culture - Propaganda, Credibility, Talent, Competences<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Dedication - Customer Service, Connections, Fundamentals, Knowledge<br>Responsability - Leadership, Trust, Determination and Capital<br>Capacity - Customer Service, Connections, Fundamentals, Knowledge<br>Dedication - Propaganda, Credibility, Talent, Competences<br>Management - Detail, Fundamentals, Networking and Client Relations<br>Dedication - Propaganda, Credibility, Talent, Competences",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "26 - 44",
+          "15 - 5"
+        ],
+        "Channels": [
+          "26-44",
+          "15-5"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "left",
+        "Name": "Greg Ames",
+        "FirstName": "Greg",
+        "LastName": "Ames",
+        "BirthPlace": "Los Angeles, California, USA"
+      }
+    },
+    {
+      "name": "Robin Gorden",
+      "localDate": "1962-11-08",
+      "localTime": "14:12",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Red Bluff, California, USA",
+      "latitude": 40.1785,
+      "longitude": -122.2358,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 1,
+            "line": 3,
+            "color": 6,
+            "tone": 5,
+            "base": 4
+          },
+          "earth": {
+            "gate": 2,
+            "line": 3,
+            "color": 6,
+            "tone": 5,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 31,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 41,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "moon": {
+            "gate": 17,
+            "line": 1,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 28,
+            "line": 5,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "venus": {
+            "gate": 43,
+            "line": 4,
+            "color": 4,
+            "tone": 6,
+            "base": 4
+          },
+          "mars": {
+            "gate": 7,
+            "line": 1,
+            "color": 1,
+            "tone": 6,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 55,
+            "line": 4,
+            "color": 1,
+            "tone": 3,
+            "base": 3
+          },
+          "saturn": {
+            "gate": 41,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 1
+          },
+          "uranus": {
+            "gate": 59,
+            "line": 6,
+            "color": 1,
+            "tone": 1,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 1,
+            "line": 1,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 64,
+            "line": 1,
+            "color": 3,
+            "tone": 6,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 37,
+            "line": 1,
+            "color": 3,
+            "tone": 5,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 48,
+            "line": 3,
+            "color": 3,
+            "tone": 5,
+            "base": 1
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 7,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "earth": {
+            "gate": 13,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 33,
+            "line": 2,
+            "color": 3,
+            "tone": 2,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 19,
+            "line": 2,
+            "color": 3,
+            "tone": 2,
+            "base": 5
+          },
+          "moon": {
+            "gate": 26,
+            "line": 1,
+            "color": 3,
+            "tone": 3,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 59,
+            "line": 1,
+            "color": 4,
+            "tone": 4,
+            "base": 1
+          },
+          "venus": {
+            "gate": 46,
+            "line": 5,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "mars": {
+            "gate": 45,
+            "line": 6,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 37,
+            "line": 5,
+            "color": 5,
+            "tone": 6,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 41,
+            "line": 6,
+            "color": 4,
+            "tone": 6,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 29,
+            "line": 6,
+            "color": 6,
+            "tone": 4,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 44,
+            "line": 4,
+            "color": 3,
+            "tone": 3,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 40,
+            "line": 4,
+            "color": 4,
+            "tone": 3,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 37,
+            "line": 4,
+            "color": 6,
+            "tone": 5,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 46,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 5
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "8th November 1962 @ 14:12",
+        "BirthDateLocal12": "8th November 1962 @ 02:12 PM",
+        "BirthDateUtc": "8th November 1962 @ 22:12",
+        "BirthDateUtc12": "8th November 1962 @ 10:12 PM",
+        "BirthDateLocalStandard": "1962-11-08T14:12:00-08:00",
+        "BirthDateUtcStandard": "1962-11-08T22:12:00+00:00",
+        "Age": 63,
+        "DesignDateUtc": "11th August 1962 @ 04:23",
+        "DesignDateUtc12": "11th August 1962 @ 04:23 AM",
+        "DesignDateUtcStandard": "1962-08-11T04:23:18+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Emotional",
+        "Profile": "3 / 6",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Sphinx  (1/2 | 7/13)",
+        "Definition": "Split Definition",
+        "Digestion": "Alternating",
+        "Environment": "Kitchens",
+        "Perspective": "Possibility",
+        "Motivation": "Innocence",
+        "Sense": "Judgment",
+        "DesignSense": "Inner Vision",
+        "DecisionMakingStrategy": "Respond then wait for clarity",
+        "BusinessCompetencesAndQualities": "Execution - Determination, Capital, Leadership and Trust<br>Direction - Determination, Capital, Leadership and Trust<br>Management - Talent, Competences, Propaganda, Credibility<br>Organizing - Detail, Fundamentals, Networking and Client Relations<br>Execution - Detail, Fundamentals, Networking and Client Relations<br>Organizing - Leadership, Trust, Determination and Capital<br>Accounting - Leadership, Trust, Determination and Capital<br>Supervision - Talent, Competences, Propaganda, Credibility<br>Teamwork - Propaganda, Credibility, Talent, Competences<br>Dedication - Leadership, Trust, Determination and Capital",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "26 - 44",
+          "7 - 31",
+          "13 - 33",
+          "46 - 29",
+          "37 - 40"
+        ],
+        "Channels": [
+          "26-44",
+          "7-31",
+          "13-33",
+          "46-29",
+          "37-40"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "left",
+        "Name": "Robin Gorden",
+        "FirstName": "Robin",
+        "LastName": "Gorden",
+        "BirthPlace": "Red Bluff, California, USA"
+      }
+    },
+    {
+      "name": "Ash",
+      "localDate": "1970-04-14",
+      "localTime": "04:45",
+      "timezone": "America/New_York",
+      "birthplace": "Lexington, Kentucky, USA",
+      "latitude": 38.0406,
+      "longitude": -84.5037,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 42,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "earth": {
+            "gate": 32,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 37,
+            "line": 6,
+            "color": 4,
+            "tone": 3,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 40,
+            "line": 6,
+            "color": 4,
+            "tone": 3,
+            "base": 5
+          },
+          "moon": {
+            "gate": 31,
+            "line": 1,
+            "color": 2,
+            "tone": 3,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 24,
+            "line": 6,
+            "color": 5,
+            "tone": 6,
+            "base": 4
+          },
+          "venus": {
+            "gate": 2,
+            "line": 1,
+            "color": 2,
+            "tone": 5,
+            "base": 4
+          },
+          "mars": {
+            "gate": 8,
+            "line": 3,
+            "color": 4,
+            "tone": 6,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 28,
+            "line": 1,
+            "color": 1,
+            "tone": 1,
+            "base": 3
+          },
+          "saturn": {
+            "gate": 24,
+            "line": 3,
+            "color": 2,
+            "tone": 4,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 18,
+            "line": 3,
+            "color": 2,
+            "tone": 5,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 1,
+            "color": 2,
+            "tone": 6,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 6,
+            "line": 3,
+            "color": 6,
+            "tone": 2,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 17,
+            "line": 4,
+            "color": 5,
+            "tone": 2,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 7,
+            "line": 2,
+            "color": 1,
+            "tone": 3,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 61,
+            "line": 6,
+            "color": 4,
+            "tone": 5,
+            "base": 5
+          },
+          "earth": {
+            "gate": 62,
+            "line": 6,
+            "color": 4,
+            "tone": 5,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 63,
+            "line": 2,
+            "color": 5,
+            "tone": 6,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 64,
+            "line": 2,
+            "color": 5,
+            "tone": 6,
+            "base": 1
+          },
+          "moon": {
+            "gate": 23,
+            "line": 2,
+            "color": 2,
+            "tone": 1,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 54,
+            "line": 4,
+            "color": 5,
+            "tone": 6,
+            "base": 4
+          },
+          "venus": {
+            "gate": 61,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 4
+          },
+          "mars": {
+            "gate": 36,
+            "line": 2,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 28,
+            "line": 3,
+            "color": 2,
+            "tone": 6,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 27,
+            "line": 1,
+            "color": 2,
+            "tone": 2,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 18,
+            "line": 6,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 1,
+            "color": 2,
+            "tone": 2,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 6,
+            "line": 5,
+            "color": 6,
+            "tone": 6,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 25,
+            "line": 5,
+            "color": 6,
+            "tone": 4,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 31,
+            "line": 3,
+            "color": 4,
+            "tone": 6,
+            "base": 5
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "14th April 1970 @ 04:45",
+        "BirthDateLocal12": "14th April 1970 @ 04:45 AM",
+        "BirthDateUtc": "14th April 1970 @ 09:45",
+        "BirthDateUtc12": "14th April 1970 @ 09:45 AM",
+        "BirthDateLocalStandard": "1970-04-14T04:45:00-05:00",
+        "BirthDateUtcStandard": "1970-04-14T09:45:00+00:00",
+        "Age": 55,
+        "DesignDateUtc": "16th January 1970 @ 13:51",
+        "DesignDateUtc12": "16th January 1970 @ 01:51 PM",
+        "DesignDateUtcStandard": "1970-01-16T13:51:27+00:00",
+        "Type": "Projector",
+        "Strategy": "Wait for the Invitation",
+        "InnerAuthority": "Emotional",
+        "Profile": "4 / 6",
+        "Signature": "Success",
+        "NotSelfTheme": "Bitterness",
+        "IncarnationCross": "Right Angle Cross of Maya (42/32 | 61/62)",
+        "Definition": "Triple Split Definition",
+        "Digestion": "Nervous",
+        "Environment": "Valleys",
+        "Perspective": "Wanting",
+        "Motivation": "Need",
+        "Sense": "Security",
+        "DesignSense": "Feeling",
+        "DecisionMakingStrategy": "Wait for others to come to you then wait for clarity",
+        "BusinessCompetencesAndQualities": "Management - Detail, Fundamentals, Networking and Client Relations<br>Direction - Detail, Fundamentals, Networking and Client Relations<br>Public Relations - Determination, Capital, Leadership and Trust",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "61 - 24",
+          "37 - 40",
+          "32 - 54"
+        ],
+        "Channels": [
+          "61-24",
+          "37-40",
+          "32-54"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "left",
+        "Name": "Ash",
+        "FirstName": "Ash",
+        "LastName": "",
+        "BirthPlace": "Lexington, Kentucky, USA"
+      }
+    },
+    {
+      "name": "Saint Linda",
+      "localDate": "1942-03-26",
+      "localTime": "01:15",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Red Bluff, California, USA",
+      "latitude": 40.1785,
+      "longitude": -122.2358,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 17,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 5
+          },
+          "earth": {
+            "gate": 18,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 64,
+            "line": 2,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 63,
+            "line": 2,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "moon": {
+            "gate": 53,
+            "line": 6,
+            "color": 1,
+            "tone": 3,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 63,
+            "line": 3,
+            "color": 2,
+            "tone": 1,
+            "base": 3
+          },
+          "venus": {
+            "gate": 49,
+            "line": 2,
+            "color": 4,
+            "tone": 1,
+            "base": 2
+          },
+          "mars": {
+            "gate": 16,
+            "line": 6,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 35,
+            "line": 4,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 8,
+            "line": 1,
+            "color": 3,
+            "tone": 6,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 8,
+            "line": 4,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 46,
+            "line": 1,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 31,
+            "line": 2,
+            "color": 4,
+            "tone": 6,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 33,
+            "line": 1,
+            "color": 5,
+            "tone": 5,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 35,
+            "line": 2,
+            "color": 3,
+            "tone": 4,
+            "base": 3
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 58,
+            "line": 4,
+            "color": 3,
+            "tone": 2,
+            "base": 4
+          },
+          "earth": {
+            "gate": 52,
+            "line": 4,
+            "color": 3,
+            "tone": 2,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 64,
+            "line": 6,
+            "color": 2,
+            "tone": 6,
+            "base": 3
+          },
+          "south_node": {
+            "gate": 63,
+            "line": 6,
+            "color": 2,
+            "tone": 6,
+            "base": 3
+          },
+          "moon": {
+            "gate": 2,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 38,
+            "line": 2,
+            "color": 5,
+            "tone": 5,
+            "base": 3
+          },
+          "venus": {
+            "gate": 13,
+            "line": 5,
+            "color": 1,
+            "tone": 6,
+            "base": 1
+          },
+          "mars": {
+            "gate": 42,
+            "line": 4,
+            "color": 1,
+            "tone": 1,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 35,
+            "line": 3,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 23,
+            "line": 4,
+            "color": 4,
+            "tone": 3,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 8,
+            "line": 3,
+            "color": 4,
+            "tone": 3,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 46,
+            "line": 2,
+            "color": 5,
+            "tone": 3,
+            "base": 3
+          },
+          "pluto": {
+            "gate": 31,
+            "line": 4,
+            "color": 3,
+            "tone": 4,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 7,
+            "line": 1,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 20,
+            "line": 4,
+            "color": 1,
+            "tone": 1,
+            "base": 3
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "26th March 1942 @ 01:15",
+        "BirthDateLocal12": "26th March 1942 @ 01:15 AM",
+        "BirthDateUtc": "26th March 1942 @ 08:15",
+        "BirthDateUtc12": "26th March 1942 @ 08:15 AM",
+        "BirthDateLocalStandard": "1942-03-26T01:15:00-07:00",
+        "BirthDateUtcStandard": "1942-03-26T08:15:00+00:00",
+        "Age": 83,
+        "DesignDateUtc": "29th December 1941 @ 03:37",
+        "DesignDateUtc12": "29th December 1941 @ 03:37 AM",
+        "DesignDateUtcStandard": "1941-12-29T03:37:59+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "2 / 4",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of Service (17/18 | 58/52)",
+        "Definition": "Single Definition",
+        "Digestion": "Hot",
+        "Environment": "Markets",
+        "Perspective": "Personal",
+        "Motivation": "Hope",
+        "Sense": "Action",
+        "DesignSense": "Taste",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Public Relations - Detail, Fundamentals, Networking and Client Relations<br>Public Relations - Customer Service, Connections, Fundamentals, Knowledge<br>Teamwork - Detail, Fundamentals, Networking and Client Relations<br>Management - Talent, Competences, Propaganda, Credibility<br>Direction - Propaganda, Credibility, Talent, Competences<br>Accounting - Propaganda, Credibility, Talent, Competences<br>Public Relations - Determination, Capital, Leadership and Trust<br>Teamwork - Talent, Competences, Propaganda, Credibility<br>Management - Customer Service, Connections, Fundamentals, Knowledge",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "18 - 58",
+          "42 - 53"
+        ],
+        "Channels": [
+          "18-58",
+          "42-53"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Saint Linda",
+        "FirstName": "Saint",
+        "LastName": "Linda",
+        "BirthPlace": "Red Bluff, California, USA"
+      }
+    },
+    {
+      "name": "Tanya",
+      "localDate": "1979-04-20",
+      "localTime": "08:05",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Seattle (Washington), United States (USA)",
+      "latitude": 47.6062,
+      "longitude": -122.3321,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 3,
+            "line": 4,
+            "color": 6,
+            "tone": 1,
+            "base": 3
+          },
+          "earth": {
+            "gate": 50,
+            "line": 4,
+            "color": 6,
+            "tone": 1,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 64,
+            "line": 6,
+            "color": 4,
+            "tone": 5,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 63,
+            "line": 6,
+            "color": 4,
+            "tone": 5,
+            "base": 4
+          },
+          "moon": {
+            "gate": 19,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 25,
+            "line": 5,
+            "color": 5,
+            "tone": 3,
+            "base": 3
+          },
+          "venus": {
+            "gate": 36,
+            "line": 5,
+            "color": 4,
+            "tone": 6,
+            "base": 4
+          },
+          "mars": {
+            "gate": 21,
+            "line": 2,
+            "color": 1,
+            "tone": 5,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 56,
+            "line": 4,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 40,
+            "line": 2,
+            "color": 5,
+            "tone": 3,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 43,
+            "line": 1,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 3,
+            "color": 4,
+            "tone": 2,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 24,
+            "line": 2,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 4,
+            "line": 3,
+            "color": 3,
+            "tone": 3,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 60,
+            "line": 6,
+            "color": 6,
+            "tone": 6,
+            "base": 2
+          },
+          "earth": {
+            "gate": 56,
+            "line": 6,
+            "color": 6,
+            "tone": 6,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 47,
+            "line": 2,
+            "color": 5,
+            "tone": 1,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 22,
+            "line": 2,
+            "color": 5,
+            "tone": 1,
+            "base": 2
+          },
+          "moon": {
+            "gate": 1,
+            "line": 3,
+            "color": 4,
+            "tone": 2,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 54,
+            "line": 6,
+            "color": 5,
+            "tone": 4,
+            "base": 5
+          },
+          "venus": {
+            "gate": 5,
+            "line": 5,
+            "color": 1,
+            "tone": 3,
+            "base": 1
+          },
+          "mars": {
+            "gate": 60,
+            "line": 6,
+            "color": 3,
+            "tone": 5,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 31,
+            "line": 3,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 64,
+            "line": 2,
+            "color": 6,
+            "tone": 5,
+            "base": 1
+          },
+          "uranus": {
+            "gate": 43,
+            "line": 2,
+            "color": 5,
+            "tone": 3,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 3,
+            "color": 5,
+            "tone": 2,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 5,
+            "color": 3,
+            "tone": 2,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 27,
+            "line": 4,
+            "color": 2,
+            "tone": 4,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 33,
+            "line": 4,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "20th April 1979 @ 08:05",
+        "BirthDateLocal12": "20th April 1979 @ 08:05 AM",
+        "BirthDateUtc": "20th April 1979 @ 16:05",
+        "BirthDateUtc12": "20th April 1979 @ 04:05 PM",
+        "BirthDateLocalStandard": "1979-04-20T08:05:00-08:00",
+        "BirthDateUtcStandard": "1979-04-20T16:05:00+00:00",
+        "Age": 46,
+        "DesignDateUtc": "22nd January 1979 @ 14:40",
+        "DesignDateUtc12": "22nd January 1979 @ 02:40 PM",
+        "DesignDateUtcStandard": "1979-01-22T14:40:53+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "4 / 6",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of Laws (3/50 | 60/56)",
+        "Definition": "Split Definition",
+        "Digestion": "InDirect",
+        "Environment": "Valleys",
+        "Perspective": "Wanting",
+        "Motivation": "Innocence",
+        "Sense": "Security",
+        "DesignSense": "Touch",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Execution - Determination, Capital, Leadership and Trust<br>Culture - Propaganda, Credibility, Talent, Competences<br>Management - Determination, Capital, Leadership and Trust",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "64 - 47",
+          "3 - 60"
+        ],
+        "Channels": [
+          "64-47",
+          "3-60"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Tanya",
+        "FirstName": "Tanya",
+        "LastName": "",
+        "BirthPlace": "Seattle (Washington), United States (USA)"
+      }
+    },
+    {
+      "name": "Lisa Clark",
+      "localDate": "1979-07-26",
+      "localTime": "04:04",
+      "timezone": "America/New_York",
+      "birthplace": "New York City (New York), United States (USA)",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 31,
+            "line": 1,
+            "color": 5,
+            "tone": 6,
+            "base": 1
+          },
+          "earth": {
+            "gate": 41,
+            "line": 1,
+            "color": 5,
+            "tone": 6,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 40,
+            "line": 4,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 37,
+            "line": 4,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "moon": {
+            "gate": 29,
+            "line": 4,
+            "color": 2,
+            "tone": 4,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 33,
+            "line": 5,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "venus": {
+            "gate": 62,
+            "line": 4,
+            "color": 6,
+            "tone": 5,
+            "base": 3
+          },
+          "mars": {
+            "gate": 45,
+            "line": 5,
+            "color": 3,
+            "tone": 2,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 7,
+            "line": 4,
+            "color": 1,
+            "tone": 2,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 64,
+            "line": 1,
+            "color": 3,
+            "tone": 2,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 1,
+            "line": 4,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 2,
+            "color": 1,
+            "tone": 4,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 2,
+            "color": 4,
+            "tone": 5,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 2,
+            "line": 1,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 59,
+            "line": 2,
+            "color": 6,
+            "tone": 1,
+            "base": 2
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 27,
+            "line": 3,
+            "color": 6,
+            "tone": 4,
+            "base": 5
+          },
+          "earth": {
+            "gate": 28,
+            "line": 3,
+            "color": 6,
+            "tone": 4,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 64,
+            "line": 6,
+            "color": 4,
+            "tone": 3,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 63,
+            "line": 6,
+            "color": 4,
+            "tone": 3,
+            "base": 2
+          },
+          "moon": {
+            "gate": 42,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 17,
+            "line": 5,
+            "color": 2,
+            "tone": 4,
+            "base": 1
+          },
+          "venus": {
+            "gate": 25,
+            "line": 5,
+            "color": 6,
+            "tone": 5,
+            "base": 2
+          },
+          "mars": {
+            "gate": 21,
+            "line": 6,
+            "color": 1,
+            "tone": 6,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 56,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 40,
+            "line": 2,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 43,
+            "line": 1,
+            "color": 5,
+            "tone": 4,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 4,
+            "color": 3,
+            "tone": 4,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 3,
+            "color": 3,
+            "tone": 3,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 24,
+            "line": 2,
+            "color": 4,
+            "tone": 2,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 4,
+            "line": 3,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "26th July 1979 @ 04:04",
+        "BirthDateLocal12": "26th July 1979 @ 04:04 AM",
+        "BirthDateUtc": "26th July 1979 @ 08:04",
+        "BirthDateUtc12": "26th July 1979 @ 08:04 AM",
+        "BirthDateLocalStandard": "1979-07-26T04:04:00-04:00",
+        "BirthDateUtcStandard": "1979-07-26T08:04:00+00:00",
+        "Age": 46,
+        "DesignDateUtc": "25th April 1979 @ 13:40",
+        "DesignDateUtc12": "25th April 1979 @ 01:40 PM",
+        "DesignDateUtcStandard": "1979-04-25T13:40:17+00:00",
+        "Type": "Manifestor",
+        "Strategy": "To Inform",
+        "InnerAuthority": "Emotional",
+        "Profile": "1 / 3",
+        "Signature": "Peace",
+        "NotSelfTheme": "Anger",
+        "IncarnationCross": "Right Angle Cross of The Unexpected  (31/41 | 27/28)",
+        "Definition": "Single Definition",
+        "Digestion": "InDirect",
+        "Environment": "Mountains",
+        "Perspective": "Possibility",
+        "Motivation": "Guilt",
+        "Sense": "Acceptance",
+        "DesignSense": "Inner Vision",
+        "DecisionMakingStrategy": "Wait for clarity then inform",
+        "BusinessCompetencesAndQualities": "Management - Detail, Fundamentals, Networking and Client Relations<br>Dedication - Customer Service, Connections, Fundamentals, Knowledge<br>Supervision - Propaganda, Credibility, Talent, Competences<br>Organizing - Customer Service, Connections, Fundamentals, Knowledge<br>Execution - Customer Service, Connections, Fundamentals, Knowledge",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "17 - 62",
+          "7 - 31",
+          "21 - 45",
+          "37 - 40"
+        ],
+        "Channels": [
+          "17-62",
+          "7-31",
+          "21-45",
+          "37-40"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "left",
+        "Name": "Lisa Clark",
+        "FirstName": "Lisa",
+        "LastName": "Clark",
+        "BirthPlace": "New York City (New York), United States (USA)"
+      }
+    },
+    {
+      "name": "Kimball",
+      "localDate": "1977-12-11",
+      "localTime": "02:06",
+      "timezone": "America/Denver",
+      "birthplace": "Denver (Colorado), United States (USA)",
+      "latitude": 39.7392,
+      "longitude": -104.9903,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 26,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "earth": {
+            "gate": 45,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 48,
+            "line": 4,
+            "color": 4,
+            "tone": 4,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 21,
+            "line": 4,
+            "color": 4,
+            "tone": 4,
+            "base": 2
+          },
+          "moon": {
+            "gate": 10,
+            "line": 1,
+            "color": 2,
+            "tone": 5,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 58,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 4
+          },
+          "venus": {
+            "gate": 9,
+            "line": 4,
+            "color": 4,
+            "tone": 6,
+            "base": 5
+          },
+          "mars": {
+            "gate": 33,
+            "line": 5,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 15,
+            "line": 5,
+            "color": 5,
+            "tone": 1,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 59,
+            "line": 1,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 1,
+            "line": 2,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 5,
+            "line": 5,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 2,
+            "color": 2,
+            "tone": 2,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 3,
+            "line": 6,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 12,
+            "line": 4,
+            "color": 3,
+            "tone": 3,
+            "base": 3
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 47,
+            "line": 5,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "earth": {
+            "gate": 22,
+            "line": 5,
+            "color": 3,
+            "tone": 6,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 57,
+            "line": 1,
+            "color": 2,
+            "tone": 2,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 51,
+            "line": 1,
+            "color": 2,
+            "tone": 2,
+            "base": 1
+          },
+          "moon": {
+            "gate": 46,
+            "line": 3,
+            "color": 5,
+            "tone": 5,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 40,
+            "line": 2,
+            "color": 2,
+            "tone": 5,
+            "base": 4
+          },
+          "venus": {
+            "gate": 4,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 1
+          },
+          "mars": {
+            "gate": 52,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 15,
+            "line": 6,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 4,
+            "line": 6,
+            "color": 6,
+            "tone": 2,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 44,
+            "line": 2,
+            "color": 4,
+            "tone": 6,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 5,
+            "line": 3,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 48,
+            "line": 4,
+            "color": 6,
+            "tone": 4,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 27,
+            "line": 4,
+            "color": 3,
+            "tone": 4,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 35,
+            "line": 5,
+            "color": 6,
+            "tone": 2,
+            "base": 3
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "11th December 1977 @ 02:06",
+        "BirthDateLocal12": "11th December 1977 @ 02:06 AM",
+        "BirthDateUtc": "11th December 1977 @ 09:06",
+        "BirthDateUtc12": "11th December 1977 @ 09:06 AM",
+        "BirthDateLocalStandard": "1977-12-11T02:06:00-07:00",
+        "BirthDateUtcStandard": "1977-12-11T09:06:00+00:00",
+        "Age": 48,
+        "DesignDateUtc": "14th September 1977 @ 03:39",
+        "DesignDateUtc12": "14th September 1977 @ 03:39 AM",
+        "DesignDateUtcStandard": "1977-09-14T03:39:27+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "3 / 5",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of Rulership (26/45 | 47/22)",
+        "Definition": "Single Definition",
+        "Digestion": "Cold",
+        "Environment": "Markets",
+        "Perspective": "Wanting",
+        "Motivation": "Desire",
+        "Sense": "Uncertainty",
+        "DesignSense": "Touch",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Supervision - Propaganda, Credibility, Talent, Competences<br>Responsability - Propaganda, Credibility, Talent, Competences<br>Execution - Talent, Competences, Propaganda, Credibility<br>Culture - Propaganda, Credibility, Talent, Competences<br>Teamwork - Determination, Capital, Leadership and Trust<br>Responsability - Leadership, Trust, Determination and Capital<br>Culture - Determination, Capital, Leadership and Trust",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "57 - 10",
+          "26 - 44",
+          "15 - 5",
+          "21 - 45",
+          "9 - 52"
+        ],
+        "Channels": [
+          "57-10",
+          "26-44",
+          "15-5",
+          "21-45",
+          "9-52"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Kimball",
+        "FirstName": "Kimball",
+        "LastName": "",
+        "BirthPlace": "Denver (Colorado), United States (USA)"
+      }
+    },
+    {
+      "name": "Rahna",
+      "localDate": "1973-07-20",
+      "localTime": "13:29",
+      "timezone": "America/Chicago",
+      "birthplace": "Minneapolis (Minnesota), United States (USA)",
+      "latitude": 44.9778,
+      "longitude": -93.265,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 56,
+            "line": 2,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          },
+          "earth": {
+            "gate": 60,
+            "line": 2,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 58,
+            "line": 4,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 52,
+            "line": 4,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "moon": {
+            "gate": 36,
+            "line": 6,
+            "color": 6,
+            "tone": 6,
+            "base": 5
+          },
+          "mercury": {
+            "gate": 56,
+            "line": 1,
+            "color": 5,
+            "tone": 2,
+            "base": 1
+          },
+          "venus": {
+            "gate": 29,
+            "line": 1,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          },
+          "mars": {
+            "gate": 51,
+            "line": 4,
+            "color": 4,
+            "tone": 2,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 19,
+            "line": 1,
+            "color": 6,
+            "tone": 2,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 15,
+            "line": 1,
+            "color": 3,
+            "tone": 2,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 57,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 6,
+            "color": 1,
+            "tone": 2,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 5,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 42,
+            "line": 1,
+            "color": 1,
+            "tone": 6,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 11,
+            "line": 5,
+            "color": 5,
+            "tone": 6,
+            "base": 5
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 3,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "earth": {
+            "gate": 50,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 38,
+            "line": 1,
+            "color": 4,
+            "tone": 5,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 39,
+            "line": 1,
+            "color": 4,
+            "tone": 5,
+            "base": 1
+          },
+          "moon": {
+            "gate": 14,
+            "line": 4,
+            "color": 6,
+            "tone": 5,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 17,
+            "line": 1,
+            "color": 3,
+            "tone": 1,
+            "base": 2
+          },
+          "venus": {
+            "gate": 27,
+            "line": 1,
+            "color": 4,
+            "tone": 3,
+            "base": 4
+          },
+          "mars": {
+            "gate": 13,
+            "line": 5,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "jupiter": {
+            "gate": 19,
+            "line": 3,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 45,
+            "line": 1,
+            "color": 2,
+            "tone": 6,
+            "base": 5
+          },
+          "uranus": {
+            "gate": 57,
+            "line": 6,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 9,
+            "line": 2,
+            "color": 2,
+            "tone": 6,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 5,
+            "color": 3,
+            "tone": 2,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 51,
+            "line": 3,
+            "color": 4,
+            "tone": 5,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 5,
+            "line": 6,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "20th July 1973 @ 13:29",
+        "BirthDateLocal12": "20th July 1973 @ 01:29 PM",
+        "BirthDateUtc": "20th July 1973 @ 18:29",
+        "BirthDateUtc12": "20th July 1973 @ 06:29 PM",
+        "BirthDateLocalStandard": "1973-07-20T13:29:00-05:00",
+        "BirthDateUtcStandard": "1973-07-20T18:29:00+00:00",
+        "Age": 52,
+        "DesignDateUtc": "20th April 1973 @ 02:24",
+        "DesignDateUtc12": "20th April 1973 @ 02:24 AM",
+        "DesignDateUtcStandard": "1973-04-20T02:24:57+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "2 / 4",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of Laws  (56/60 | 3/50)",
+        "Definition": "Single Definition",
+        "Digestion": "High",
+        "Environment": "Mountains",
+        "Perspective": "Personal",
+        "Motivation": "Need",
+        "Sense": "Meditation",
+        "DesignSense": "Outer Vision",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Dedication - Detail, Fundamentals, Networking and Client Relations<br>Responsability - Detail, Fundamentals, Networking and Client Relations<br>Teamwork - Propaganda, Credibility, Talent, Competences<br>Capacity - Customer Service, Connections, Fundamentals, Knowledge<br>Accounting - Propaganda, Credibility, Talent, Competences<br>Teamwork - Propaganda, Credibility, Talent, Competences",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "57 - 34",
+          "46 - 29",
+          "27 - 50",
+          "3 - 60",
+          "9 - 52"
+        ],
+        "Channels": [
+          "57-34",
+          "46-29",
+          "27-50",
+          "3-60",
+          "9-52"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "left",
+        "Name": "Rahna",
+        "FirstName": "Rahna",
+        "LastName": "",
+        "BirthPlace": "Minneapolis (Minnesota), United States (USA)"
+      }
+    },
+    {
+      "name": "Larissa",
+      "localDate": "1980-01-24",
+      "localTime": "11:00",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "San Francisco (California), United States (USA)",
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 41,
+            "line": 3,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "earth": {
+            "gate": 31,
+            "line": 3,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 29,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 30,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 2
+          },
+          "moon": {
+            "gate": 27,
+            "line": 5,
+            "color": 6,
+            "tone": 5,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 41,
+            "line": 5,
+            "color": 4,
+            "tone": 2,
+            "base": 3
+          },
+          "venus": {
+            "gate": 37,
+            "line": 6,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "mars": {
+            "gate": 64,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 40,
+            "line": 4,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 6,
+            "line": 5,
+            "color": 3,
+            "tone": 2,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 14,
+            "line": 1,
+            "color": 4,
+            "tone": 2,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 6,
+            "color": 1,
+            "tone": 2,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 2,
+            "color": 1,
+            "tone": 4,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 24,
+            "line": 2,
+            "color": 4,
+            "tone": 5,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 47,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 3
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 28,
+            "line": 5,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "earth": {
+            "gate": 27,
+            "line": 5,
+            "color": 2,
+            "tone": 2,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 40,
+            "line": 1,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 37,
+            "line": 1,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          },
+          "moon": {
+            "gate": 30,
+            "line": 1,
+            "color": 2,
+            "tone": 4,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 14,
+            "line": 6,
+            "color": 4,
+            "tone": 2,
+            "base": 3
+          },
+          "venus": {
+            "gate": 43,
+            "line": 5,
+            "color": 4,
+            "tone": 2,
+            "base": 4
+          },
+          "mars": {
+            "gate": 4,
+            "line": 1,
+            "color": 6,
+            "tone": 5,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 59,
+            "line": 6,
+            "color": 4,
+            "tone": 5,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 6,
+            "line": 1,
+            "color": 3,
+            "tone": 6,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 43,
+            "line": 2,
+            "color": 4,
+            "tone": 3,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 2,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 5,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          },
+          "chiron": {
+            "gate": 24,
+            "line": 5,
+            "color": 3,
+            "tone": 4,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 64,
+            "line": 2,
+            "color": 1,
+            "tone": 6,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "24th January 1980 @ 11:00",
+        "BirthDateLocal12": "24th January 1980 @ 11:00 AM",
+        "BirthDateUtc": "24th January 1980 @ 19:00",
+        "BirthDateUtc12": "24th January 1980 @ 07:00 PM",
+        "BirthDateLocalStandard": "1980-01-24T11:00:00-08:00",
+        "BirthDateUtcStandard": "1980-01-24T19:00:00+00:00",
+        "Age": 46,
+        "DesignDateUtc": "29th October 1979 @ 23:37",
+        "DesignDateUtc12": "29th October 1979 @ 11:37 PM",
+        "DesignDateUtcStandard": "1979-10-29T23:37:24+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Emotional",
+        "Profile": "3 / 5",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Unexpected  (41/31 | 28/27)",
+        "Definition": "Single Definition",
+        "Digestion": "Open",
+        "Environment": "Shores",
+        "Perspective": "Power",
+        "Motivation": "Fear",
+        "Sense": "Action",
+        "DesignSense": "Taste",
+        "DecisionMakingStrategy": "Respond then wait for clarity",
+        "BusinessCompetencesAndQualities": "Management - Determination, Capital, Leadership and Trust<br>Dedication - Leadership, Trust, Determination and Capital<br>Capacity - Detail, Fundamentals, Networking and Client Relations<br>Capacity - Leadership, Trust, Determination and Capital",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "37 - 40",
+          "59 - 6",
+          "41 - 30"
+        ],
+        "Channels": [
+          "37-40",
+          "59-6",
+          "41-30"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "left",
+        "Name": "Larissa",
+        "FirstName": "Larissa",
+        "LastName": "",
+        "BirthPlace": "San Francisco (California), United States (USA)"
+      }
+    },
+    {
+      "name": "Aleksey",
+      "localDate": "1972-07-27",
+      "localTime": "06:00",
+      "timezone": "Europe/Kiev",
+      "birthplace": "Kiev, Ukraine",
+      "latitude": 50.4501,
+      "longitude": 30.5234,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 31,
+            "line": 3,
+            "color": 2,
+            "tone": 6,
+            "base": 3
+          },
+          "earth": {
+            "gate": 41,
+            "line": 3,
+            "color": 2,
+            "tone": 6,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 61,
+            "line": 6,
+            "color": 4,
+            "tone": 6,
+            "base": 3
+          },
+          "south_node": {
+            "gate": 62,
+            "line": 6,
+            "color": 4,
+            "tone": 6,
+            "base": 3
+          },
+          "moon": {
+            "gate": 13,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 3
+          },
+          "mercury": {
+            "gate": 4,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 1
+          },
+          "venus": {
+            "gate": 12,
+            "line": 2,
+            "color": 1,
+            "tone": 1,
+            "base": 3
+          },
+          "mars": {
+            "gate": 7,
+            "line": 6,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 10,
+            "line": 2,
+            "color": 4,
+            "tone": 5,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 35,
+            "line": 6,
+            "color": 5,
+            "tone": 5,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 48,
+            "line": 6,
+            "color": 4,
+            "tone": 4,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 3,
+            "color": 4,
+            "tone": 4,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 2,
+            "color": 5,
+            "tone": 4,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 51,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 1,
+            "line": 5,
+            "color": 2,
+            "tone": 4,
+            "base": 2
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 27,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "earth": {
+            "gate": 28,
+            "line": 5,
+            "color": 3,
+            "tone": 5,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 60,
+            "line": 5,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "south_node": {
+            "gate": 56,
+            "line": 5,
+            "color": 1,
+            "tone": 4,
+            "base": 3
+          },
+          "moon": {
+            "gate": 48,
+            "line": 3,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 17,
+            "line": 6,
+            "color": 6,
+            "tone": 2,
+            "base": 2
+          },
+          "venus": {
+            "gate": 45,
+            "line": 4,
+            "color": 5,
+            "tone": 1,
+            "base": 1
+          },
+          "mars": {
+            "gate": 45,
+            "line": 3,
+            "color": 5,
+            "tone": 3,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 58,
+            "line": 5,
+            "color": 5,
+            "tone": 3,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 20,
+            "line": 6,
+            "color": 5,
+            "tone": 4,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 57,
+            "line": 1,
+            "color": 3,
+            "tone": 1,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 2,
+            "color": 4,
+            "tone": 6,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 21,
+            "line": 6,
+            "color": 3,
+            "tone": 5,
+            "base": 5
+          },
+          "lilith": {
+            "gate": 28,
+            "line": 6,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "27th July 1972 @ 06:00",
+        "BirthDateLocal12": "27th July 1972 @ 06:00 AM",
+        "BirthDateUtc": "27th July 1972 @ 03:00",
+        "BirthDateUtc12": "27th July 1972 @ 03:00 AM",
+        "BirthDateLocalStandard": "1972-07-27T06:00:00+03:00",
+        "BirthDateUtcStandard": "1972-07-27T03:00:00+00:00",
+        "Age": 53,
+        "DesignDateUtc": "26th April 1972 @ 07:45",
+        "DesignDateUtc12": "26th April 1972 @ 07:45 AM",
+        "DesignDateUtcStandard": "1972-04-26T07:45:34+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "3 / 5",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Unexpected  (31/41 | 27/28)",
+        "Definition": "Single Definition",
+        "Digestion": "Cold",
+        "Environment": "Caves",
+        "Perspective": "Wanting",
+        "Motivation": "Hope",
+        "Sense": "Acceptance",
+        "DesignSense": "Feeling",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Management - Determination, Capital, Leadership and Trust<br>Accounting - Detail, Fundamentals, Networking and Client Relations<br>Organizing - Leadership, Trust, Determination and Capital<br>Teamwork - Talent, Competences, Propaganda, Credibility<br>Teamwork - Talent, Competences, Propaganda, Credibility",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "17 - 62",
+          "57 - 20",
+          "20 - 10",
+          "20 - 34",
+          "34 - 10",
+          "57 - 10",
+          "57 - 34",
+          "7 - 31"
+        ],
+        "Channels": [
+          "17-62",
+          "57-20",
+          "20-10",
+          "20-34",
+          "34-10",
+          "57-10",
+          "57-34",
+          "7-31"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "right",
+        "Name": "Aleksey",
+        "FirstName": "Aleksey",
+        "LastName": "",
+        "BirthPlace": "Kiev, Ukraine"
+      }
+    },
+    {
+      "name": "Sandman",
+      "localDate": "1971-02-01",
+      "localTime": "09:16",
+      "timezone": "America/Chicago",
+      "birthplace": "Dallas/Ft Worth, TX",
+      "latitude": 32.7767,
+      "longitude": -96.797,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 19,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 3
+          },
+          "earth": {
+            "gate": 33,
+            "line": 5,
+            "color": 5,
+            "tone": 5,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 49,
+            "line": 6,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 4,
+            "line": 6,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "moon": {
+            "gate": 3,
+            "line": 4,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 61,
+            "line": 1,
+            "color": 2,
+            "tone": 4,
+            "base": 4
+          },
+          "venus": {
+            "gate": 11,
+            "line": 4,
+            "color": 2,
+            "tone": 3,
+            "base": 4
+          },
+          "mars": {
+            "gate": 9,
+            "line": 1,
+            "color": 2,
+            "tone": 5,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 34,
+            "line": 3,
+            "color": 6,
+            "tone": 2,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 2,
+            "line": 3,
+            "color": 6,
+            "tone": 1,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 48,
+            "line": 5,
+            "color": 2,
+            "tone": 3,
+            "base": 3
+          },
+          "neptune": {
+            "gate": 34,
+            "line": 3,
+            "color": 6,
+            "tone": 1,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 2,
+            "color": 2,
+            "tone": 5,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 17,
+            "line": 4,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 64,
+            "line": 6,
+            "color": 5,
+            "tone": 3,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 1,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 2
+          },
+          "earth": {
+            "gate": 2,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 30,
+            "line": 6,
+            "color": 4,
+            "tone": 2,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 29,
+            "line": 6,
+            "color": 4,
+            "tone": 2,
+            "base": 4
+          },
+          "moon": {
+            "gate": 49,
+            "line": 1,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 43,
+            "line": 2,
+            "color": 5,
+            "tone": 4,
+            "base": 3
+          },
+          "venus": {
+            "gate": 43,
+            "line": 1,
+            "color": 5,
+            "tone": 4,
+            "base": 4
+          },
+          "mars": {
+            "gate": 48,
+            "line": 2,
+            "color": 5,
+            "tone": 2,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 1,
+            "line": 3,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 23,
+            "line": 1,
+            "color": 5,
+            "tone": 2,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 48,
+            "line": 2,
+            "color": 6,
+            "tone": 4,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 14,
+            "line": 6,
+            "color": 6,
+            "tone": 2,
+            "base": 3
+          },
+          "pluto": {
+            "gate": 46,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 17,
+            "line": 3,
+            "color": 6,
+            "tone": 3,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 40,
+            "line": 2,
+            "color": 3,
+            "tone": 6,
+            "base": 4
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "1st February 1971 @ 09:16",
+        "BirthDateLocal12": "1st February 1971 @ 09:16 AM",
+        "BirthDateUtc": "1st February 1971 @ 15:16",
+        "BirthDateUtc12": "1st February 1971 @ 03:16 PM",
+        "BirthDateLocalStandard": "1971-02-01T09:16:00-06:00",
+        "BirthDateUtcStandard": "1971-02-01T15:16:00+00:00",
+        "Age": 55,
+        "DesignDateUtc": "6th November 1970 @ 22:53",
+        "DesignDateUtc12": "6th November 1970 @ 10:53 PM",
+        "DesignDateUtcStandard": "1970-11-06T22:53:33+00:00",
+        "Type": "Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Emotional",
+        "Profile": "5 / 1",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Left Angle Cross of Refinement  (19/33 | 1/2)",
+        "Definition": "Triple Split Definition",
+        "Digestion": "InDirect",
+        "Environment": "Mountains",
+        "Perspective": "Survival",
+        "Motivation": "Guilt",
+        "Sense": "Judgment",
+        "DesignSense": "Inner Vision",
+        "DecisionMakingStrategy": "Respond then wait for clarity",
+        "BusinessCompetencesAndQualities": "Supervision - Propaganda, Credibility, Talent, Competences<br>Direction - Determination, Capital, Leadership and Trust<br>Teamwork - Talent, Competences, Propaganda, Credibility<br>Execution - Detail, Fundamentals, Networking and Client Relations<br>Direction - Detail, Fundamentals, Networking and Client Relations<br>Dedication - Leadership, Trust, Determination and Capital<br>Execution - Determination, Capital, Leadership and Trust<br>Capacity - Leadership, Trust, Determination and Capital<br>Teamwork - Detail, Fundamentals, Networking and Client Relations",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "43 - 23",
+          "2 - 14",
+          "46 - 29",
+          "19 - 49"
+        ],
+        "Channels": [
+          "43-23",
+          "2-14",
+          "46-29",
+          "19-49"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "right",
+        "Name": "Sandman",
+        "FirstName": "Sandman",
+        "LastName": "",
+        "BirthPlace": "Dallas/Ft Worth, TX"
+      }
+    },
+    {
+      "name": "Ashes",
+      "localDate": "1984-11-09",
+      "localTime": "09:17",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Pullman, Washington, USA",
+      "latitude": 46.7313,
+      "longitude": -117.1796,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 1,
+            "line": 5,
+            "color": 4,
+            "tone": 1,
+            "base": 5
+          },
+          "earth": {
+            "gate": 2,
+            "line": 5,
+            "color": 4,
+            "tone": 1,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 8,
+            "line": 4,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "south_node": {
+            "gate": 14,
+            "line": 4,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "moon": {
+            "gate": 8,
+            "line": 5,
+            "color": 2,
+            "tone": 5,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 34,
+            "line": 5,
+            "color": 6,
+            "tone": 1,
+            "base": 3
+          },
+          "venus": {
+            "gate": 11,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 1
+          },
+          "mars": {
+            "gate": 61,
+            "line": 6,
+            "color": 1,
+            "tone": 3,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 38,
+            "line": 1,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "saturn": {
+            "gate": 43,
+            "line": 1,
+            "color": 1,
+            "tone": 1,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 5,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 1
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 2,
+            "color": 3,
+            "tone": 5,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 28,
+            "line": 1,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "chiron": {
+            "gate": 16,
+            "line": 2,
+            "color": 2,
+            "tone": 3,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 17,
+            "line": 4,
+            "color": 5,
+            "tone": 1,
+            "base": 1
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 4,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 4
+          },
+          "earth": {
+            "gate": 49,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 4
+          },
+          "north_node": {
+            "gate": 20,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 34,
+            "line": 4,
+            "color": 4,
+            "tone": 1,
+            "base": 5
+          },
+          "moon": {
+            "gate": 49,
+            "line": 6,
+            "color": 1,
+            "tone": 5,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 64,
+            "line": 2,
+            "color": 5,
+            "tone": 5,
+            "base": 2
+          },
+          "venus": {
+            "gate": 59,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 1
+          },
+          "mars": {
+            "gate": 14,
+            "line": 3,
+            "color": 5,
+            "tone": 1,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 10,
+            "line": 6,
+            "color": 5,
+            "tone": 3,
+            "base": 3
+          },
+          "saturn": {
+            "gate": 44,
+            "line": 3,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "uranus": {
+            "gate": 9,
+            "line": 5,
+            "color": 1,
+            "tone": 2,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 1,
+            "color": 4,
+            "tone": 6,
+            "base": 5
+          },
+          "pluto": {
+            "gate": 50,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 16,
+            "line": 3,
+            "color": 3,
+            "tone": 1,
+            "base": 4
+          },
+          "lilith": {
+            "gate": 36,
+            "line": 5,
+            "color": 6,
+            "tone": 6,
+            "base": 2
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "9th November 1984 @ 09:17",
+        "BirthDateLocal12": "9th November 1984 @ 09:17 AM",
+        "BirthDateUtc": "9th November 1984 @ 17:17",
+        "BirthDateUtc12": "9th November 1984 @ 05:17 PM",
+        "BirthDateLocalStandard": "1984-11-09T09:17:00-08:00",
+        "BirthDateUtcStandard": "1984-11-09T17:17:00+00:00",
+        "Age": 41,
+        "DesignDateUtc": "12th August 1984 @ 00:41",
+        "DesignDateUtc12": "12th August 1984 @ 12:41 AM",
+        "DesignDateUtcStandard": "1984-08-12T00:41:55+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "5 / 1",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Left Angle Cross of Defiance (1/2 | 4/49)",
+        "Definition": "Split Definition",
+        "Digestion": "Nervous",
+        "Environment": "Mountains",
+        "Perspective": "Survival",
+        "Motivation": "Need",
+        "Sense": "Security",
+        "DesignSense": "Touch",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Execution - Propaganda, Credibility, Talent, Competences<br>Direction - Propaganda, Credibility, Talent, Competences<br>Public Relations - Customer Service, Connections, Fundamentals, Knowledge<br>Capacity - Customer Service, Connections, Fundamentals, Knowledge<br>Public Relations - Propaganda, Credibility, Talent, Competences<br>Culture - Detail, Fundamentals, Networking and Client Relations<br>Capacity - Determination, Capital, Leadership and Trust",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "20 - 10",
+          "20 - 34",
+          "34 - 10",
+          "1 - 8",
+          "2 - 14",
+          "28 - 38"
+        ],
+        "Channels": [
+          "20-10",
+          "20-34",
+          "34-10",
+          "1-8",
+          "2-14",
+          "28-38"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Ashes",
+        "FirstName": "Ashes",
+        "LastName": "",
+        "BirthPlace": "Pullman, Washington, USA"
+      }
+    },
+    {
+      "name": "Rachel",
+      "localDate": "1984-08-24",
+      "localTime": "02:32",
+      "timezone": "America/Los_Angeles",
+      "birthplace": "Lakeview, United States (USA)",
+      "latitude": 42.1885,
+      "longitude": -120.345,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 59,
+            "line": 2,
+            "color": 3,
+            "tone": 1,
+            "base": 3
+          },
+          "earth": {
+            "gate": 55,
+            "line": 2,
+            "color": 3,
+            "tone": 1,
+            "base": 3
+          },
+          "north_node": {
+            "gate": 20,
+            "line": 3,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          },
+          "south_node": {
+            "gate": 34,
+            "line": 3,
+            "color": 2,
+            "tone": 5,
+            "base": 3
+          },
+          "moon": {
+            "gate": 56,
+            "line": 2,
+            "color": 4,
+            "tone": 6,
+            "base": 1
+          },
+          "mercury": {
+            "gate": 40,
+            "line": 4,
+            "color": 5,
+            "tone": 2,
+            "base": 1
+          },
+          "venus": {
+            "gate": 47,
+            "line": 4,
+            "color": 4,
+            "tone": 5,
+            "base": 2
+          },
+          "mars": {
+            "gate": 34,
+            "line": 4,
+            "color": 5,
+            "tone": 1,
+            "base": 2
+          },
+          "jupiter": {
+            "gate": 10,
+            "line": 6,
+            "color": 2,
+            "tone": 4,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 44,
+            "line": 4,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 9,
+            "line": 5,
+            "color": 1,
+            "tone": 2,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 2
+          },
+          "pluto": {
+            "gate": 50,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 16,
+            "line": 3,
+            "color": 5,
+            "tone": 3,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 25,
+            "line": 1,
+            "color": 3,
+            "tone": 5,
+            "base": 3
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 20,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 2
+          },
+          "earth": {
+            "gate": 34,
+            "line": 4,
+            "color": 3,
+            "tone": 6,
+            "base": 2
+          },
+          "north_node": {
+            "gate": 16,
+            "line": 1,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 9,
+            "line": 1,
+            "color": 6,
+            "tone": 3,
+            "base": 5
+          },
+          "moon": {
+            "gate": 22,
+            "line": 5,
+            "color": 5,
+            "tone": 6,
+            "base": 2
+          },
+          "mercury": {
+            "gate": 24,
+            "line": 1,
+            "color": 6,
+            "tone": 6,
+            "base": 1
+          },
+          "venus": {
+            "gate": 8,
+            "line": 3,
+            "color": 6,
+            "tone": 5,
+            "base": 4
+          },
+          "mars": {
+            "gate": 1,
+            "line": 4,
+            "color": 2,
+            "tone": 3,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 38,
+            "line": 3,
+            "color": 5,
+            "tone": 2,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 44,
+            "line": 5,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 5,
+            "line": 1,
+            "color": 4,
+            "tone": 3,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 10,
+            "line": 3,
+            "color": 5,
+            "tone": 1,
+            "base": 3
+          },
+          "pluto": {
+            "gate": 50,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 1
+          },
+          "chiron": {
+            "gate": 20,
+            "line": 4,
+            "color": 1,
+            "tone": 5,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 22,
+            "line": 2,
+            "color": 3,
+            "tone": 6,
+            "base": 1
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "24th August 1984 @ 02:32",
+        "BirthDateLocal12": "24th August 1984 @ 02:32 AM",
+        "BirthDateUtc": "24th August 1984 @ 09:32",
+        "BirthDateUtc12": "24th August 1984 @ 09:32 AM",
+        "BirthDateLocalStandard": "1984-08-24T02:32:00-07:00",
+        "BirthDateUtcStandard": "1984-08-24T09:32:00+00:00",
+        "Age": 41,
+        "DesignDateUtc": "24th May 1984 @ 09:32",
+        "DesignDateUtc12": "24th May 1984 @ 09:32 AM",
+        "DesignDateUtcStandard": "1984-05-24T09:32:21+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Sacral",
+        "Profile": "2 / 4",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Right Angle Cross of The Sleeping Phoenix (59/55 | 20/34)",
+        "Definition": "Single Definition",
+        "Digestion": "Cold",
+        "Environment": "Shores",
+        "Perspective": "Possibility",
+        "Motivation": "Desire",
+        "Sense": "Security",
+        "DesignSense": "Touch",
+        "DecisionMakingStrategy": "Respond and trust your gut",
+        "BusinessCompetencesAndQualities": "Public Relations - Determination, Capital, Leadership and Trust<br>Execution - Customer Service, Connections, Fundamentals, Knowledge<br>Culture - Detail, Fundamentals, Networking and Client Relations",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "20 - 10",
+          "20 - 34",
+          "34 - 10",
+          "1 - 8"
+        ],
+        "Channels": [
+          "20-10",
+          "20-34",
+          "34-10",
+          "1-8"
+        ],
+        "Variables.Digestion": "right",
+        "Variables.Environment": "left",
+        "Variables.Awareness": "left",
+        "Variables.Perspective": "right",
+        "Name": "Rachel",
+        "FirstName": "Rachel",
+        "LastName": "",
+        "BirthPlace": "Lakeview, United States (USA)"
+      }
+    },
+    {
+      "name": "Sarah H",
+      "localDate": "1979-03-02",
+      "localTime": "10:30",
+      "timezone": "America/New_York",
+      "birthplace": "Toledo (Ohio), United States (USA)",
+      "latitude": 41.6528,
+      "longitude": -83.5379,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 63,
+            "line": 1,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "earth": {
+            "gate": 64,
+            "line": 1,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 47,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 3
+          },
+          "south_node": {
+            "gate": 22,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 3
+          },
+          "moon": {
+            "gate": 27,
+            "line": 3,
+            "color": 6,
+            "tone": 6,
+            "base": 3
+          },
+          "mercury": {
+            "gate": 36,
+            "line": 6,
+            "color": 6,
+            "tone": 3,
+            "base": 4
+          },
+          "venus": {
+            "gate": 60,
+            "line": 3,
+            "color": 4,
+            "tone": 2,
+            "base": 1
+          },
+          "mars": {
+            "gate": 55,
+            "line": 3,
+            "color": 2,
+            "tone": 2,
+            "base": 5
+          },
+          "jupiter": {
+            "gate": 56,
+            "line": 4,
+            "color": 5,
+            "tone": 3,
+            "base": 2
+          },
+          "saturn": {
+            "gate": 40,
+            "line": 6,
+            "color": 1,
+            "tone": 2,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 43,
+            "line": 3,
+            "color": 2,
+            "tone": 3,
+            "base": 5
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 4,
+            "color": 4,
+            "tone": 4,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 4,
+            "color": 6,
+            "tone": 3,
+            "base": 4
+          },
+          "chiron": {
+            "gate": 27,
+            "line": 5,
+            "color": 3,
+            "tone": 1,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 7,
+            "line": 3,
+            "color": 4,
+            "tone": 4,
+            "base": 4
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 5,
+            "line": 3,
+            "color": 2,
+            "tone": 2,
+            "base": 5
+          },
+          "earth": {
+            "gate": 35,
+            "line": 3,
+            "color": 2,
+            "tone": 2,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 6,
+            "line": 1,
+            "color": 3,
+            "tone": 4,
+            "base": 4
+          },
+          "south_node": {
+            "gate": 36,
+            "line": 1,
+            "color": 3,
+            "tone": 4,
+            "base": 4
+          },
+          "moon": {
+            "gate": 30,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 3
+          },
+          "mercury": {
+            "gate": 5,
+            "line": 3,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "venus": {
+            "gate": 44,
+            "line": 1,
+            "color": 5,
+            "tone": 6,
+            "base": 4
+          },
+          "mars": {
+            "gate": 11,
+            "line": 3,
+            "color": 3,
+            "tone": 4,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 33,
+            "line": 2,
+            "color": 3,
+            "tone": 1,
+            "base": 3
+          },
+          "saturn": {
+            "gate": 64,
+            "line": 3,
+            "color": 3,
+            "tone": 2,
+            "base": 4
+          },
+          "uranus": {
+            "gate": 1,
+            "line": 6,
+            "color": 3,
+            "tone": 4,
+            "base": 2
+          },
+          "neptune": {
+            "gate": 26,
+            "line": 1,
+            "color": 6,
+            "tone": 4,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 57,
+            "line": 4,
+            "color": 5,
+            "tone": 1,
+            "base": 5
+          },
+          "chiron": {
+            "gate": 27,
+            "line": 5,
+            "color": 1,
+            "tone": 3,
+            "base": 1
+          },
+          "lilith": {
+            "gate": 31,
+            "line": 5,
+            "color": 2,
+            "tone": 6,
+            "base": 2
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "2nd March 1979 @ 10:30",
+        "BirthDateLocal12": "2nd March 1979 @ 10:30 AM",
+        "BirthDateUtc": "2nd March 1979 @ 15:30",
+        "BirthDateUtc12": "2nd March 1979 @ 03:30 PM",
+        "BirthDateLocalStandard": "1979-03-02T10:30:00-05:00",
+        "BirthDateUtcStandard": "1979-03-02T15:30:00+00:00",
+        "Age": 46,
+        "DesignDateUtc": "5th December 1978 @ 22:51",
+        "DesignDateUtc12": "5th December 1978 @ 10:51 PM",
+        "DesignDateUtcStandard": "1978-12-05T22:51:35+00:00",
+        "Type": "Manifestor",
+        "Strategy": "To Inform",
+        "InnerAuthority": "Emotional",
+        "Profile": "1 / 3",
+        "Signature": "Peace",
+        "NotSelfTheme": "Anger",
+        "IncarnationCross": "Right Angle Cross of Consciousness (63/64 | 5/35)",
+        "Definition": "Split Definition",
+        "Digestion": "Open",
+        "Environment": "Kitchens",
+        "Perspective": "Wanting",
+        "Motivation": "Fear",
+        "Sense": "Meditation",
+        "DesignSense": "Taste",
+        "DecisionMakingStrategy": "Wait for clarity then inform",
+        "BusinessCompetencesAndQualities": "Culture - Determination, Capital, Leadership and Trust<br>Culture - Determination, Capital, Leadership and Trust<br>Supervision - Talent, Competences, Propaganda, Credibility<br>Execution - Leadership, Trust, Determination and Capital",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "64 - 47",
+          "11 - 56",
+          "26 - 44",
+          "35 - 36"
+        ],
+        "Channels": [
+          "64-47",
+          "11-56",
+          "26-44",
+          "35-36"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "left",
+        "Name": "Sarah H",
+        "FirstName": "Sarah",
+        "LastName": "H",
+        "BirthPlace": "Toledo (Ohio), United States (USA)"
+      }
+    },
+    {
+      "name": "Mikaela",
+      "localDate": "1982-06-29",
+      "localTime": "12:00",
+      "timezone": "America/New_York",
+      "birthplace": "New York City (New York), United States (USA)",
+      "latitude": 40.7128,
+      "longitude": -74.006,
+      "positions": {
+        "personality": {
+          "sun": {
+            "gate": 52,
+            "line": 4,
+            "color": 6,
+            "tone": 5,
+            "base": 1
+          },
+          "earth": {
+            "gate": 58,
+            "line": 4,
+            "color": 6,
+            "tone": 5,
+            "base": 1
+          },
+          "north_node": {
+            "gate": 39,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "south_node": {
+            "gate": 38,
+            "line": 5,
+            "color": 1,
+            "tone": 5,
+            "base": 5
+          },
+          "moon": {
+            "gate": 32,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 35,
+            "line": 5,
+            "color": 5,
+            "tone": 3,
+            "base": 1
+          },
+          "venus": {
+            "gate": 20,
+            "line": 6,
+            "color": 1,
+            "tone": 5,
+            "base": 1
+          },
+          "mars": {
+            "gate": 48,
+            "line": 4,
+            "color": 1,
+            "tone": 4,
+            "base": 1
+          },
+          "jupiter": {
+            "gate": 50,
+            "line": 5,
+            "color": 3,
+            "tone": 1,
+            "base": 1
+          },
+          "saturn": {
+            "gate": 57,
+            "line": 1,
+            "color": 4,
+            "tone": 1,
+            "base": 2
+          },
+          "uranus": {
+            "gate": 34,
+            "line": 2,
+            "color": 2,
+            "tone": 1,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 11,
+            "line": 3,
+            "color": 6,
+            "tone": 3,
+            "base": 1
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 4,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 8,
+            "line": 2,
+            "color": 2,
+            "tone": 6,
+            "base": 3
+          },
+          "lilith": {
+            "gate": 10,
+            "line": 3,
+            "color": 6,
+            "tone": 4,
+            "base": 2
+          }
+        },
+        "design": {
+          "sun": {
+            "gate": 21,
+            "line": 1,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "earth": {
+            "gate": 48,
+            "line": 1,
+            "color": 1,
+            "tone": 3,
+            "base": 5
+          },
+          "north_node": {
+            "gate": 53,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 2
+          },
+          "south_node": {
+            "gate": 54,
+            "line": 4,
+            "color": 5,
+            "tone": 4,
+            "base": 2
+          },
+          "moon": {
+            "gate": 45,
+            "line": 2,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "mercury": {
+            "gate": 36,
+            "line": 6,
+            "color": 3,
+            "tone": 3,
+            "base": 2
+          },
+          "venus": {
+            "gate": 49,
+            "line": 5,
+            "color": 4,
+            "tone": 3,
+            "base": 3
+          },
+          "mars": {
+            "gate": 48,
+            "line": 2,
+            "color": 2,
+            "tone": 4,
+            "base": 3
+          },
+          "jupiter": {
+            "gate": 44,
+            "line": 1,
+            "color": 6,
+            "tone": 6,
+            "base": 4
+          },
+          "saturn": {
+            "gate": 57,
+            "line": 5,
+            "color": 5,
+            "tone": 6,
+            "base": 3
+          },
+          "uranus": {
+            "gate": 34,
+            "line": 5,
+            "color": 4,
+            "tone": 4,
+            "base": 4
+          },
+          "neptune": {
+            "gate": 11,
+            "line": 5,
+            "color": 5,
+            "tone": 2,
+            "base": 4
+          },
+          "pluto": {
+            "gate": 32,
+            "line": 6,
+            "color": 4,
+            "tone": 4,
+            "base": 3
+          },
+          "chiron": {
+            "gate": 23,
+            "line": 2,
+            "color": 1,
+            "tone": 1,
+            "base": 2
+          },
+          "lilith": {
+            "gate": 26,
+            "line": 5,
+            "color": 1,
+            "tone": 6,
+            "base": 3
+          }
+        }
+      },
+      "properties": {
+        "BirthDateLocal": "29th June 1982 @ 12:00",
+        "BirthDateLocal12": "29th June 1982 @ 12:00 PM",
+        "BirthDateUtc": "29th June 1982 @ 16:00",
+        "BirthDateUtc12": "29th June 1982 @ 04:00 PM",
+        "BirthDateLocalStandard": "1982-06-29T12:00:00-04:00",
+        "BirthDateUtcStandard": "1982-06-29T16:00:00+00:00",
+        "Age": 43,
+        "DesignDateUtc": "30th March 1982 @ 14:54",
+        "DesignDateUtc12": "30th March 1982 @ 02:54 PM",
+        "DesignDateUtcStandard": "1982-03-30T14:54:07+00:00",
+        "Type": "Manifesting Generator",
+        "Strategy": "To Respond",
+        "InnerAuthority": "Emotional",
+        "Profile": "4 / 1",
+        "Signature": "Satisfaction",
+        "NotSelfTheme": "Frustration",
+        "IncarnationCross": "Juxtaposition Cross of Stillness (52/58 | 21/48)",
+        "Definition": "Single Definition",
+        "Digestion": "Consecutive",
+        "Environment": "Valleys",
+        "Perspective": "Survival",
+        "Motivation": "Innocence",
+        "Sense": "Judgment",
+        "DesignSense": "Outer Vision",
+        "DecisionMakingStrategy": "Respond then wait for clarity",
+        "BusinessCompetencesAndQualities": "",
+        "Channels.id": "Channels",
+        "Channels.list": [
+          "57 - 20",
+          "20 - 34",
+          "57 - 34",
+          "21 - 45",
+          "35 - 36",
+          "32 - 54"
+        ],
+        "Channels": [
+          "57-20",
+          "20-34",
+          "57-34",
+          "21-45",
+          "35-36",
+          "32-54"
+        ],
+        "Variables.Digestion": "left",
+        "Variables.Environment": "right",
+        "Variables.Awareness": "right",
+        "Variables.Perspective": "right",
+        "Name": "Mikaela",
+        "FirstName": "Mikaela",
+        "LastName": "",
+        "BirthPlace": "New York City (New York), United States (USA)"
+      }
+    }
+  ]
+}

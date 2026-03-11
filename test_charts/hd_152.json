@@ -1,0 +1,57 @@
+{
+  "name": "Test_152",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (6/36 | 15/10)",
+  "channels": [
+    "10-57",
+    "13-33",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.5",
+      "Earth: 36.5",
+      "NorthNode: 54.2",
+      "SouthNode: 53.2",
+      "Moon: 13.3",
+      "Mercury: 64.5",
+      "Venus: 4.4",
+      "Mars: 48.4",
+      "Jupiter: 59.2",
+      "Saturn: 60.5",
+      "Uranus: 38.1",
+      "Neptune: 38.5",
+      "Pluto: 1.6"
+    ],
+    "design": [
+      "Sun: 15.1",
+      "Earth: 10.1",
+      "NorthNode: 54.5",
+      "SouthNode: 53.5",
+      "Moon: 57.3",
+      "Mercury: 15.6",
+      "Venus: 7.1",
+      "Mars: 7.2",
+      "Jupiter: 33.6",
+      "Saturn: 41.5",
+      "Uranus: 38.4",
+      "Neptune: 54.1",
+      "Pluto: 1.6"
+    ]
+  },
+  "input": {
+    "localDate": "1991-09-20",
+    "localTime": "10:53",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_152",
+    "birthplace": "Johannesburg"
+  }
+}

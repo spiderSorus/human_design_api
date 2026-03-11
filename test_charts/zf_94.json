@@ -1,0 +1,55 @@
+{
+  "name": "Test_94",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Self Projected",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (7/13 | 2/1)",
+  "channels": [
+    "13-33"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 7.2",
+      "Earth: 13.2",
+      "NorthNode: 15.4",
+      "SouthNode: 10.4",
+      "Moon: 33.4",
+      "Mercury: 64.1",
+      "Venus: 15.4",
+      "Mars: 52.2",
+      "Jupiter: 23.6",
+      "Saturn: 55.4",
+      "Uranus: 40.4",
+      "Neptune: 1.2",
+      "Pluto: 64.2"
+    ],
+    "design": [
+      "Sun: 2.4",
+      "Earth: 1.4",
+      "NorthNode: 15.6",
+      "SouthNode: 10.6",
+      "Moon: 22.2",
+      "Mercury: 3.6",
+      "Venus: 15.1",
+      "Mars: 3.4",
+      "Jupiter: 27.5",
+      "Saturn: 55.4",
+      "Uranus: 40.1",
+      "Neptune: 1.4",
+      "Pluto: 64.1"
+    ]
+  },
+  "input": {
+    "localDate": "1964-08-07",
+    "localTime": "12:31",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_94",
+    "birthplace": "London"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_323",
+  "type": "Generator",
+  "profile": "5 / 2",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (36/6 | 10/15)",
+  "channels": [
+    "37-40",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 36.5",
+      "Earth: 6.5",
+      "NorthNode: 56.2",
+      "SouthNode: 60.2",
+      "Moon: 10.1",
+      "Mercury: 63.5",
+      "Venus: 13.4",
+      "Mars: 31.4",
+      "Jupiter: 36.4",
+      "Saturn: 13.6",
+      "Uranus: 59.3",
+      "Neptune: 1.3",
+      "Pluto: 40.6"
+    ],
+    "design": [
+      "Sun: 10.2",
+      "Earth: 15.2",
+      "NorthNode: 56.4",
+      "SouthNode: 60.4",
+      "Moon: 50.3",
+      "Mercury: 38.5",
+      "Venus: 1.6",
+      "Mars: 29.1",
+      "Jupiter: 37.2",
+      "Saturn: 19.2",
+      "Uranus: 59.6",
+      "Neptune: 1.2",
+      "Pluto: 64.1"
+    ]
+  },
+  "input": {
+    "localDate": "1963-03-18",
+    "localTime": "10:00",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_323",
+    "birthplace": "New York"
+  }
+}

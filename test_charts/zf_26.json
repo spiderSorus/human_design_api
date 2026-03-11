@@ -1,0 +1,56 @@
+{
+  "name": "Test_26",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (27/28 | 41/31)",
+  "channels": [
+    "2-14",
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 27.2",
+      "Earth: 28.2",
+      "NorthNode: 25.2",
+      "SouthNode: 46.2",
+      "Moon: 53.5",
+      "Mercury: 2.6",
+      "Venus: 21.2",
+      "Mars: 5.6",
+      "Jupiter: 6.6",
+      "Saturn: 3.4",
+      "Uranus: 46.3",
+      "Neptune: 14.4",
+      "Pluto: 6.1"
+    ],
+    "design": [
+      "Sun: 41.4",
+      "Earth: 31.4",
+      "NorthNode: 25.5",
+      "SouthNode: 46.5",
+      "Moon: 27.4",
+      "Mercury: 13.1",
+      "Venus: 22.6",
+      "Mars: 1.2",
+      "Jupiter: 18.3",
+      "Saturn: 51.5",
+      "Uranus: 46.6",
+      "Neptune: 14.5",
+      "Pluto: 6.3"
+    ]
+  },
+  "input": {
+    "localDate": "1969-04-23",
+    "localTime": "21:58",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_26",
+    "birthplace": "Tokyo"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_77",
+  "type": "Manifesting Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (22/47 | 26/45)",
+  "channels": [
+    "21-45",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 22.3",
+      "Earth: 47.3",
+      "NorthNode: 15.3",
+      "SouthNode: 10.3",
+      "Moon: 41.6",
+      "Mercury: 37.1",
+      "Venus: 51.5",
+      "Mars: 21.2",
+      "Jupiter: 9.6",
+      "Saturn: 28.2",
+      "Uranus: 9.4",
+      "Neptune: 10.1",
+      "Pluto: 50.3"
+    ],
+    "design": [
+      "Sun: 26.6",
+      "Earth: 45.6",
+      "NorthNode: 52.1",
+      "SouthNode: 58.1",
+      "Moon: 9.2",
+      "Mercury: 58.2",
+      "Venus: 10.4",
+      "Mars: 41.2",
+      "Jupiter: 14.4",
+      "Saturn: 50.6",
+      "Uranus: 9.1",
+      "Neptune: 11.5",
+      "Pluto: 50.3"
+    ]
+  },
+  "input": {
+    "localDate": "1983-03-11",
+    "localTime": "06:36",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_77",
+    "birthplace": "Tokyo"
+  }
+}

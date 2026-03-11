@@ -1,0 +1,58 @@
+{
+  "name": "Test_316",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (15/10 | 17/18)",
+  "channels": [
+    "10-57",
+    "16-48",
+    "25-51",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 15.5",
+      "Earth: 10.5",
+      "NorthNode: 21.3",
+      "SouthNode: 48.3",
+      "Moon: 54.6",
+      "Mercury: 39.4",
+      "Venus: 52.4",
+      "Mars: 24.4",
+      "Jupiter: 16.1",
+      "Saturn: 22.3",
+      "Uranus: 8.1",
+      "Neptune: 25.2",
+      "Pluto: 60.6"
+    ],
+    "design": [
+      "Sun: 17.1",
+      "Earth: 18.1",
+      "NorthNode: 51.1",
+      "SouthNode: 57.1",
+      "Moon: 6.5",
+      "Mercury: 42.3",
+      "Venus: 63.5",
+      "Mars: 55.2",
+      "Jupiter: 2.3",
+      "Saturn: 63.2",
+      "Uranus: 23.2",
+      "Neptune: 36.6",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2024-06-23",
+    "localTime": "12:30",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_316",
+    "birthplace": "Johannesburg"
+  }
+}

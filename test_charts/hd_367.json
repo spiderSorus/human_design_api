@@ -1,0 +1,59 @@
+{
+  "name": "Test_367",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (64/63 | 35/5)",
+  "channels": [
+    "11-56",
+    "12-22",
+    "24-61",
+    "3-60",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 64.1",
+      "Earth: 63.1",
+      "NorthNode: 12.4",
+      "SouthNode: 11.4",
+      "Moon: 25.5",
+      "Mercury: 6.5",
+      "Venus: 56.2",
+      "Mars: 3.2",
+      "Jupiter: 54.3",
+      "Saturn: 61.6",
+      "Uranus: 24.4",
+      "Neptune: 22.3",
+      "Pluto: 61.3"
+    ],
+    "design": [
+      "Sun: 35.3",
+      "Earth: 5.3",
+      "NorthNode: 15.1",
+      "SouthNode: 10.1",
+      "Moon: 43.3",
+      "Mercury: 52.4",
+      "Venus: 35.3",
+      "Mars: 63.4",
+      "Jupiter: 60.1",
+      "Saturn: 60.6",
+      "Uranus: 24.2",
+      "Neptune: 22.5",
+      "Pluto: 61.5"
+    ]
+  },
+  "input": {
+    "localDate": "2020-09-03",
+    "localTime": "21:50",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_367",
+    "birthplace": "Sao Paulo"
+  }
+}

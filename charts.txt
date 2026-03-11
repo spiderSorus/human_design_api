@@ -1,0 +1,26 @@
+# Stored chart samples (birth data only)
+# Format (1 per line):
+#   <name>|<YYYY-MM-DD>|<HH:MM>|<IANA timezone>|<latitude>|<longitude>|<birthplace>
+#
+# Example:
+#   Robin Gorden|1962-11-08|14:12|America/Los_Angeles|40.1785|-122.2358|Red Bluff, California, USA
+
+Kai|1982-11-09|06:13|America/Los_Angeles|42.1885|-120.3450|Lakeview, Oregon
+Apollo|2011-03-24|11:37|America/Los_Angeles|43.2165|-123.3417|Roseburg, Oregon, USA
+Helena Sorus|1978-04-21|16:26|America/Los_Angeles|38.4405|-122.7144|Santa Rosa, California, USA
+Eliza Mei Sorus|2015-11-03|06:54|America/Los_Angeles|39.5296|-119.8138|Reno, Nevada, USA
+Greg Ames|1956-01-29|11:47|America/Los_Angeles|34.0522|-118.2437|Los Angeles, California, USA
+Robin Gorden|1962-11-08|14:12|America/Los_Angeles|40.1785|-122.2358|Red Bluff, California, USA
+Ash|1970-04-14|04:45|America/New_York|38.0406|-84.5037|Lexington, Kentucky, USA
+Saint Linda|1942-03-26|01:15|America/Los_Angeles|40.1785|-122.2358|Red Bluff, California, USA
+Tanya|1979-04-20|08:05|America/Los_Angeles|47.6062|-122.3321|Seattle (Washington), United States (USA)
+Lisa Clark|1979-07-26|04:04|America/New_York|40.7128|-74.0060|New York City (New York), United States (USA)
+Kimball|1977-12-11|02:06|America/Denver|39.7392|-104.9903|Denver (Colorado), United States (USA)
+Rahna|1973-07-20|13:29|America/Chicago|44.9778|-93.2650|Minneapolis (Minnesota), United States (USA)
+Larissa|1980-01-24|11:00|America/Los_Angeles|37.7749|-122.4194|San Francisco (California), United States (USA)
+Aleksey|1972-07-27|06:00|Europe/Kiev|50.4501|30.5234|Kiev, Ukraine
+Sandman|1971-02-01|09:16|America/Chicago|32.7767|-96.7970|Dallas/Ft Worth, TX
+Ashes|1984-11-09|09:17|America/Los_Angeles|46.7313|-117.1796|Pullman, Washington, USA
+Rachel|1984-08-24|02:32|America/Los_Angeles|42.1885|-120.3450|Lakeview, United States (USA)
+Sarah H|1979-03-02|10:30|America/New_York|41.6528|-83.5379|Toledo (Ohio), United States (USA)
+Mikaela|1982-06-29|12:00|America/New_York|40.7128|-74.0060|New York City (New York), United States (USA)

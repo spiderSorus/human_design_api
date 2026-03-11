@@ -1,0 +1,196 @@
+{
+  "name": "Ashes",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (1/2 | 4/49)",
+  "points": {
+    "personality": {
+      "Sun": {
+        "base": 5,
+        "tone": 1,
+        "color": 4
+      },
+      "Earth": {
+        "base": 5,
+        "tone": 1,
+        "color": 4
+      },
+      "NorthNode": {
+        "base": 5,
+        "tone": 3,
+        "color": 1
+      },
+      "SouthNode": {
+        "base": 5,
+        "tone": 3,
+        "color": 1
+      },
+      "Moon": {
+        "base": 2,
+        "tone": 5,
+        "color": 2
+      },
+      "Mercury": {
+        "base": 3,
+        "tone": 1,
+        "color": 6
+      },
+      "Venus": {
+        "base": 1,
+        "tone": 2,
+        "color": 3
+      },
+      "Mars": {
+        "base": 3,
+        "tone": 3,
+        "color": 1
+      },
+      "Jupiter": {
+        "base": 5,
+        "tone": 3,
+        "color": 6
+      },
+      "Saturn": {
+        "base": 2,
+        "tone": 1,
+        "color": 1
+      },
+      "Uranus": {
+        "base": 1,
+        "tone": 4,
+        "color": 6
+      },
+      "Neptune": {
+        "base": 4,
+        "tone": 5,
+        "color": 3
+      },
+      "Pluto": {
+        "base": 2,
+        "tone": 3,
+        "color": 5
+      }
+    },
+    "design": {
+      "Sun": {
+        "base": 4,
+        "tone": 6,
+        "color": 4
+      },
+      "Earth": {
+        "base": 4,
+        "tone": 6,
+        "color": 4
+      },
+      "NorthNode": {
+        "base": 5,
+        "tone": 1,
+        "color": 4
+      },
+      "SouthNode": {
+        "base": 5,
+        "tone": 1,
+        "color": 4
+      },
+      "Moon": {
+        "base": 4,
+        "tone": 5,
+        "color": 1
+      },
+      "Mercury": {
+        "base": 2,
+        "tone": 5,
+        "color": 5
+      },
+      "Venus": {
+        "base": 1,
+        "tone": 3,
+        "color": 3
+      },
+      "Mars": {
+        "base": 5,
+        "tone": 1,
+        "color": 5
+      },
+      "Jupiter": {
+        "base": 3,
+        "tone": 3,
+        "color": 5
+      },
+      "Saturn": {
+        "base": 1,
+        "tone": 6,
+        "color": 6
+      },
+      "Uranus": {
+        "base": 5,
+        "tone": 2,
+        "color": 1
+      },
+      "Neptune": {
+        "base": 5,
+        "tone": 6,
+        "color": 4
+      },
+      "Pluto": {
+        "base": 1,
+        "tone": 6,
+        "color": 3
+      }
+    }
+  },
+  "channels": [
+    "1-8",
+    "10-20",
+    "10-34",
+    "2-14",
+    "20-34",
+    "28-38"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 1.5",
+      "Earth: 2.5",
+      "NorthNode: 8.4",
+      "SouthNode: 14.4",
+      "Moon: 8.5",
+      "Mercury: 34.5",
+      "Venus: 11.3",
+      "Mars: 61.6",
+      "Jupiter: 38.1",
+      "Saturn: 43.1",
+      "Uranus: 5.1",
+      "Neptune: 10.2",
+      "Pluto: 28.1"
+    ],
+    "design": [
+      "Sun: 4.1",
+      "Earth: 49.1",
+      "NorthNode: 20.4",
+      "SouthNode: 34.4",
+      "Moon: 49.6",
+      "Mercury: 64.2",
+      "Venus: 59.6",
+      "Mars: 14.3",
+      "Jupiter: 10.6",
+      "Saturn: 44.3",
+      "Uranus: 9.5",
+      "Neptune: 10.1",
+      "Pluto: 50.4"
+    ]
+  },
+  "input": {
+    "localDate": "1984-11-09",
+    "localTime": "09:17",
+    "timezone": "America/Los_Angeles",
+    "latitude": 46.7313,
+    "longitude": -117.1796,
+    "name": "Ashes",
+    "birthplace": "Pullman, Washington, USA"
+  }
+}

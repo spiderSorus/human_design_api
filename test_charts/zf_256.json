@@ -1,0 +1,56 @@
+{
+  "name": "Test_256",
+  "type": "Manifestor",
+  "profile": "3 / 6",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (6/36 | 12/11)",
+  "channels": [
+    "35-36",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 6.3",
+      "Earth: 36.3",
+      "NorthNode: 42.5",
+      "SouthNode: 32.5",
+      "Moon: 28.3",
+      "Mercury: 40.4",
+      "Venus: 7.3",
+      "Mars: 48.6",
+      "Jupiter: 2.3",
+      "Saturn: 55.3",
+      "Uranus: 23.5",
+      "Neptune: 36.4",
+      "Pluto: 60.2"
+    ],
+    "design": [
+      "Sun: 12.6",
+      "Earth: 11.6",
+      "NorthNode: 27.1",
+      "SouthNode: 28.1",
+      "Moon: 52.2",
+      "Mercury: 35.2",
+      "Venus: 33.5",
+      "Mars: 7.5",
+      "Jupiter: 27.6",
+      "Saturn: 37.2",
+      "Uranus: 23.3",
+      "Neptune: 36.6",
+      "Pluto: 60.4"
+    ]
+  },
+  "input": {
+    "localDate": "2023-09-18",
+    "localTime": "14:57",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_256",
+    "birthplace": "Berlin"
+  }
+}

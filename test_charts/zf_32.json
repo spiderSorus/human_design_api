@@ -1,0 +1,58 @@
+{
+  "name": "Test_32",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (57/51 | 62/61)",
+  "channels": [
+    "13-33",
+    "24-61",
+    "26-44",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 57.6",
+      "Earth: 51.6",
+      "NorthNode: 27.1",
+      "SouthNode: 28.1",
+      "Moon: 18.6",
+      "Mercury: 32.6",
+      "Venus: 40.6",
+      "Mars: 48.2",
+      "Jupiter: 18.1",
+      "Saturn: 56.1",
+      "Uranus: 55.4",
+      "Neptune: 19.6",
+      "Pluto: 26.4"
+    ],
+    "design": [
+      "Sun: 62.2",
+      "Earth: 61.2",
+      "NorthNode: 24.1",
+      "SouthNode: 44.1",
+      "Moon: 45.2",
+      "Mercury: 7.3",
+      "Venus: 35.2",
+      "Mars: 33.6",
+      "Jupiter: 64.5",
+      "Saturn: 53.3",
+      "Uranus: 37.1",
+      "Neptune: 13.2",
+      "Pluto: 26.4"
+    ]
+  },
+  "input": {
+    "localDate": "2004-10-13",
+    "localTime": "08:22",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_32",
+    "birthplace": "Johannesburg"
+  }
+}

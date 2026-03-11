@@ -1,0 +1,59 @@
+{
+  "name": "Test_487",
+  "type": "Manifesting Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (29/30 | 20/34)",
+  "channels": [
+    "20-34",
+    "26-44",
+    "37-40",
+    "39-55",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.5",
+      "Earth: 30.5",
+      "NorthNode: 27.3",
+      "SouthNode: 28.3",
+      "Moon: 28.4",
+      "Mercury: 59.4",
+      "Venus: 39.4",
+      "Mars: 40.2",
+      "Jupiter: 6.1",
+      "Saturn: 62.2",
+      "Uranus: 55.6",
+      "Neptune: 13.1",
+      "Pluto: 26.3"
+    ],
+    "design": [
+      "Sun: 20.1",
+      "Earth: 34.1",
+      "NorthNode: 24.4",
+      "SouthNode: 44.4",
+      "Moon: 12.5",
+      "Mercury: 27.5",
+      "Venus: 12.4",
+      "Mars: 52.6",
+      "Jupiter: 40.4",
+      "Saturn: 39.2",
+      "Uranus: 37.1",
+      "Neptune: 13.3",
+      "Pluto: 26.5"
+    ]
+  },
+  "input": {
+    "localDate": "2004-08-21",
+    "localTime": "22:42",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_487",
+    "birthplace": "Tokyo"
+  }
+}

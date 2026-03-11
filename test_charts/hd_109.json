@@ -1,0 +1,55 @@
+{
+  "name": "Test_109",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (21/48 | 54/53)",
+  "channels": [
+    "10-34"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 21.5",
+      "Earth: 48.5",
+      "NorthNode: 15.5",
+      "SouthNode: 10.5",
+      "Moon: 56.6",
+      "Mercury: 22.1",
+      "Venus: 8.6",
+      "Mars: 41.1",
+      "Jupiter: 61.5",
+      "Saturn: 60.5",
+      "Uranus: 27.4",
+      "Neptune: 22.3",
+      "Pluto: 61.5"
+    ],
+    "design": [
+      "Sun: 54.1",
+      "Earth: 53.1",
+      "NorthNode: 52.5",
+      "SouthNode: 58.5",
+      "Moon: 23.4",
+      "Mercury: 38.4",
+      "Venus: 49.3",
+      "Mars: 34.3",
+      "Jupiter: 58.5",
+      "Saturn: 61.2",
+      "Uranus: 27.1",
+      "Neptune: 63.6",
+      "Pluto: 61.2"
+    ]
+  },
+  "input": {
+    "localDate": "2020-04-02",
+    "localTime": "23:51",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_109",
+    "birthplace": "Berlin"
+  }
+}

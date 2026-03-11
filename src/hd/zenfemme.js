@@ -20,7 +20,7 @@ function toZenFormData(input) {
   const [hh, mm] = input.localTime.split(':');
 
   const params = new URLSearchParams();
-  params.set('name', input.name || 'Test');
+  params.set('name', input.name || 'Apollo');
   params.set('year', y);
   params.set('month', pad2(m));
   params.set('day', pad2(d));
@@ -60,13 +60,11 @@ function mapZenSide(sideObj) {
 }
 
 async function fetchZenChart(input, options = {}) {
-  const token = options.token || process.env.ZENFEMME_TOKEN;
-  if (!token) {
-    throw new Error('ZENFEMME_TOKEN is required to use the ZenFemme backend');
-  }
-
   const endpointBase = options.endpointBase || process.env.ZENFEMME_ENDPOINT_BASE || DEFAULT_ENDPOINT_BASE;
-  const endpoint = `${endpointBase}?token=${token}`;
+  const token = options.token || process.env.ZENFEMME_TOKEN;
+  // Token is optional: the public ZenFemme free-chart flow uses a public embed endpoint.
+  // If a token is supplied, include it for compatibility with older setups.
+  const endpoint = token ? `${endpointBase}?token=${token}` : endpointBase;
 
   const body = toZenFormData(input);
   const res = await fetch(endpoint, {

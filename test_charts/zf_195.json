@@ -1,0 +1,56 @@
+{
+  "name": "Test_195",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (44/24 | 33/19)",
+  "channels": [
+    "19-49",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 44.3",
+      "Earth: 24.3",
+      "NorthNode: 12.6",
+      "SouthNode: 11.6",
+      "Moon: 23.5",
+      "Mercury: 32.2",
+      "Venus: 32.2",
+      "Mars: 41.2",
+      "Jupiter: 53.1",
+      "Saturn: 35.3",
+      "Uranus: 49.3",
+      "Neptune: 41.5",
+      "Pluto: 5.3"
+    ],
+    "design": [
+      "Sun: 33.5",
+      "Earth: 19.5",
+      "NorthNode: 52.3",
+      "SouthNode: 58.3",
+      "Moon: 19.6",
+      "Mercury: 33.3",
+      "Venus: 15.6",
+      "Mars: 5.6",
+      "Jupiter: 52.1",
+      "Saturn: 35.2",
+      "Uranus: 49.5",
+      "Neptune: 41.6",
+      "Pluto: 5.2"
+    ]
+  },
+  "input": {
+    "localDate": "2001-11-02",
+    "localTime": "19:07",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_195",
+    "birthplace": "Sydney"
+  }
+}

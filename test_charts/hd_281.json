@@ -1,0 +1,56 @@
+{
+  "name": "Test_281",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (60/56 | 50/3)",
+  "channels": [
+    "3-60",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 60.1",
+      "Earth: 56.1",
+      "NorthNode: 37.5",
+      "SouthNode: 40.5",
+      "Moon: 58.4",
+      "Mercury: 61.4",
+      "Venus: 60.4",
+      "Mars: 61.5",
+      "Jupiter: 53.5",
+      "Saturn: 36.5",
+      "Uranus: 8.4",
+      "Neptune: 25.2",
+      "Pluto: 41.2"
+    ],
+    "design": [
+      "Sun: 50.3",
+      "Earth: 3.3",
+      "NorthNode: 22.1",
+      "SouthNode: 47.1",
+      "Moon: 28.4",
+      "Mercury: 43.3",
+      "Venus: 48.1",
+      "Mars: 43.2",
+      "Jupiter: 62.4",
+      "Saturn: 36.4",
+      "Uranus: 20.1",
+      "Neptune: 25.2",
+      "Pluto: 60.6"
+    ]
+  },
+  "input": {
+    "localDate": "2026-01-16",
+    "localTime": "17:43",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_281",
+    "birthplace": "Los Angeles"
+  }
+}

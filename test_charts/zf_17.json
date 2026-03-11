@@ -1,0 +1,59 @@
+{
+  "name": "Test_17",
+  "type": "Manifesting Generator",
+  "profile": "2 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (20/34 | 55/59)",
+  "channels": [
+    "20-34",
+    "20-57",
+    "34-57",
+    "47-64",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 20.2",
+      "Earth: 34.2",
+      "NorthNode: 4.6",
+      "SouthNode: 49.6",
+      "Moon: 64.3",
+      "Mercury: 35.2",
+      "Venus: 15.5",
+      "Mars: 40.1",
+      "Jupiter: 59.2",
+      "Saturn: 47.4",
+      "Uranus: 43.5",
+      "Neptune: 26.6",
+      "Pluto: 57.5"
+    ],
+    "design": [
+      "Sun: 55.5",
+      "Earth: 59.5",
+      "NorthNode: 29.6",
+      "SouthNode: 30.6",
+      "Moon: 16.3",
+      "Mercury: 22.5",
+      "Venus: 51.1",
+      "Mars: 40.1",
+      "Jupiter: 59.6",
+      "Saturn: 6.3",
+      "Uranus: 14.2",
+      "Neptune: 26.6",
+      "Pluto: 32.1"
+    ]
+  },
+  "input": {
+    "localDate": "1980-05-23",
+    "localTime": "05:36",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_17",
+    "birthplace": "Tokyo"
+  }
+}

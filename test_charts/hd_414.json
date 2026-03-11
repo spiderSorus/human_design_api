@@ -1,0 +1,59 @@
+{
+  "name": "Test_414",
+  "type": "Generator",
+  "profile": "1 / 4",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Survival",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (8/14 | 30/29)",
+  "channels": [
+    "17-62",
+    "2-14",
+    "20-57",
+    "27-50",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 8.1",
+      "Earth: 14.1",
+      "NorthNode: 27.6",
+      "SouthNode: 28.6",
+      "Moon: 4.5",
+      "Mercury: 20.2",
+      "Venus: 52.4",
+      "Mars: 57.1",
+      "Jupiter: 56.3",
+      "Saturn: 17.6",
+      "Uranus: 47.4",
+      "Neptune: 43.5",
+      "Pluto: 47.2"
+    ],
+    "design": [
+      "Sun: 30.4",
+      "Earth: 29.4",
+      "NorthNode: 24.3",
+      "SouthNode: 44.3",
+      "Moon: 2.5",
+      "Mercury: 63.5",
+      "Venus: 22.5",
+      "Mars: 50.5",
+      "Jupiter: 62.6",
+      "Saturn: 36.6",
+      "Uranus: 6.1",
+      "Neptune: 43.6",
+      "Pluto: 47.4"
+    ]
+  },
+  "input": {
+    "localDate": "1967-05-17",
+    "localTime": "03:12",
+    "timezone": "Europe/Moscow",
+    "latitude": 55.7558,
+    "longitude": 37.6173,
+    "name": "Test_414",
+    "birthplace": "Moscow"
+  }
+}

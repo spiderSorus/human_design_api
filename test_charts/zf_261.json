@@ -1,0 +1,60 @@
+{
+  "name": "Test_261",
+  "type": "Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (9/16 | 40/37)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "18-58",
+    "34-57",
+    "37-40",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 9.3",
+      "Earth: 16.3",
+      "NorthNode: 10.1",
+      "SouthNode: 15.1",
+      "Moon: 19.6",
+      "Mercury: 43.1",
+      "Venus: 61.4",
+      "Mars: 42.6",
+      "Jupiter: 19.1",
+      "Saturn: 15.6",
+      "Uranus: 32.6",
+      "Neptune: 9.2",
+      "Pluto: 18.3"
+    ],
+    "design": [
+      "Sun: 40.5",
+      "Earth: 37.5",
+      "NorthNode: 58.2",
+      "SouthNode: 52.2",
+      "Moon: 43.5",
+      "Mercury: 40.6",
+      "Venus: 57.3",
+      "Mars: 27.6",
+      "Jupiter: 41.2",
+      "Saturn: 15.6",
+      "Uranus: 32.1",
+      "Neptune: 34.5",
+      "Pluto: 46.6"
+    ]
+  },
+  "input": {
+    "localDate": "1973-11-30",
+    "localTime": "19:12",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_261",
+    "birthplace": "Berlin"
+  }
+}

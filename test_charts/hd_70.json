@@ -1,0 +1,58 @@
+{
+  "name": "Test_70",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (26/45 | 47/22)",
+  "channels": [
+    "10-57",
+    "25-51",
+    "26-44",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 26.3",
+      "Earth: 45.3",
+      "NorthNode: 6.5",
+      "SouthNode: 36.5",
+      "Moon: 11.3",
+      "Mercury: 10.5",
+      "Venus: 44.1",
+      "Mars: 57.3",
+      "Jupiter: 47.6",
+      "Saturn: 9.4",
+      "Uranus: 51.2",
+      "Neptune: 37.2",
+      "Pluto: 38.6"
+    ],
+    "design": [
+      "Sun: 47.5",
+      "Earth: 22.5",
+      "NorthNode: 46.3",
+      "SouthNode: 25.3",
+      "Moon: 18.3",
+      "Mercury: 57.1",
+      "Venus: 7.3",
+      "Mars: 4.5",
+      "Jupiter: 40.2",
+      "Saturn: 14.6",
+      "Uranus: 51.5",
+      "Neptune: 37.3",
+      "Pluto: 38.4"
+    ]
+  },
+  "input": {
+    "localDate": "2015-12-12",
+    "localTime": "07:00",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_70",
+    "birthplace": "Tokyo"
+  }
+}

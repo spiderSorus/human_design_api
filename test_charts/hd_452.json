@@ -1,0 +1,58 @@
+{
+  "name": "Test_452",
+  "type": "Manifestor",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Survival",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (16/9 | 37/40)",
+  "channels": [
+    "12-22",
+    "16-48",
+    "37-40",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.1",
+      "Earth: 9.1",
+      "NorthNode: 22.4",
+      "SouthNode: 47.4",
+      "Moon: 48.3",
+      "Mercury: 12.4",
+      "Venus: 15.2",
+      "Mars: 55.4",
+      "Jupiter: 2.6",
+      "Saturn: 10.3",
+      "Uranus: 10.2",
+      "Neptune: 38.1",
+      "Pluto: 44.4"
+    ],
+    "design": [
+      "Sun: 37.3",
+      "Earth: 40.3",
+      "NorthNode: 36.1",
+      "SouthNode: 6.1",
+      "Moon: 39.1",
+      "Mercury: 13.1",
+      "Venus: 42.1",
+      "Mars: 10.6",
+      "Jupiter: 3.2",
+      "Saturn: 10.3",
+      "Uranus: 10.3",
+      "Neptune: 38.1",
+      "Pluto: 44.6"
+    ]
+  },
+  "input": {
+    "localDate": "1988-05-27",
+    "localTime": "01:49",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_452",
+    "birthplace": "Johannesburg"
+  }
+}

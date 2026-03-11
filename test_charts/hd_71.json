@@ -1,0 +1,55 @@
+{
+  "name": "Test_71",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (63/64 | 5/35)",
+  "channels": [
+    "27-50"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 63.2",
+      "Earth: 64.2",
+      "NorthNode: 63.1",
+      "SouthNode: 64.1",
+      "Moon: 54.4",
+      "Mercury: 30.3",
+      "Venus: 22.6",
+      "Mars: 3.2",
+      "Jupiter: 28.4",
+      "Saturn: 27.4",
+      "Uranus: 18.5",
+      "Neptune: 34.1",
+      "Pluto: 6.5"
+    ],
+    "design": [
+      "Sun: 5.4",
+      "Earth: 35.4",
+      "NorthNode: 63.6",
+      "SouthNode: 64.6",
+      "Moon: 1.1",
+      "Mercury: 11.4",
+      "Venus: 34.4",
+      "Mars: 49.6",
+      "Jupiter: 50.3",
+      "Saturn: 27.1",
+      "Uranus: 18.5",
+      "Neptune: 14.5",
+      "Pluto: 6.5"
+    ]
+  },
+  "input": {
+    "localDate": "1970-03-03",
+    "localTime": "22:16",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_71",
+    "birthplace": "Johannesburg"
+  }
+}

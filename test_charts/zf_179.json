@@ -1,0 +1,59 @@
+{
+  "name": "Test_179",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Power",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "2-14",
+    "20-34",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.3",
+      "Earth: 30.3",
+      "NorthNode: 12.1",
+      "SouthNode: 11.1",
+      "Moon: 54.2",
+      "Mercury: 6.2",
+      "Venus: 59.5",
+      "Mars: 31.3",
+      "Jupiter: 34.2",
+      "Saturn: 50.4",
+      "Uranus: 34.6",
+      "Neptune: 11.5",
+      "Pluto: 50.1"
+    ],
+    "design": [
+      "Sun: 8.5",
+      "Earth: 14.5",
+      "NorthNode: 12.3",
+      "SouthNode: 11.3",
+      "Moon: 59.4",
+      "Mercury: 2.5",
+      "Venus: 39.3",
+      "Mars: 20.3",
+      "Jupiter: 9.2",
+      "Saturn: 50.3",
+      "Uranus: 9.2",
+      "Neptune: 10.1",
+      "Pluto: 50.2"
+    ]
+  },
+  "input": {
+    "localDate": "1983-08-20",
+    "localTime": "04:18",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_179",
+    "birthplace": "Mumbai"
+  }
+}

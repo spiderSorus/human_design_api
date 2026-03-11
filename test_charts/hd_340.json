@@ -1,0 +1,56 @@
+{
+  "name": "Test_340",
+  "type": "Generator",
+  "profile": "3 / 6",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Power",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (57/51 | 53/54)",
+  "channels": [
+    "34-57",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 57.3",
+      "Earth: 51.3",
+      "NorthNode: 45.1",
+      "SouthNode: 26.1",
+      "Moon: 11.3",
+      "Mercury: 18.1",
+      "Venus: 59.5",
+      "Mars: 40.2",
+      "Jupiter: 9.3",
+      "Saturn: 28.4",
+      "Uranus: 9.1",
+      "Neptune: 11.5",
+      "Pluto: 50.3"
+    ],
+    "design": [
+      "Sun: 53.6",
+      "Earth: 54.6",
+      "NorthNode: 12.3",
+      "SouthNode: 11.3",
+      "Moon: 4.5",
+      "Mercury: 62.4",
+      "Venus: 59.2",
+      "Mars: 52.6",
+      "Jupiter: 34.2",
+      "Saturn: 50.2",
+      "Uranus: 34.6",
+      "Neptune: 11.5",
+      "Pluto: 50.1"
+    ]
+  },
+  "input": {
+    "localDate": "1983-10-11",
+    "localTime": "15:31",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_340",
+    "birthplace": "New York"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Test_383",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (27/28 | 41/31)",
+  "channels": [
+    "19-49",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 27.2",
+      "Earth: 28.2",
+      "NorthNode: 31.5",
+      "SouthNode: 41.5",
+      "Moon: 11.1",
+      "Mercury: 3.4",
+      "Venus: 24.1",
+      "Mars: 3.3",
+      "Jupiter: 46.5",
+      "Saturn: 18.1",
+      "Uranus: 14.5",
+      "Neptune: 11.3",
+      "Pluto: 32.3"
+    ],
+    "design": [
+      "Sun: 41.4",
+      "Earth: 31.4",
+      "NorthNode: 33.4",
+      "SouthNode: 19.4",
+      "Moon: 18.5",
+      "Mercury: 49.3",
+      "Venus: 54.4",
+      "Mars: 49.2",
+      "Jupiter: 48.1",
+      "Saturn: 48.1",
+      "Uranus: 14.6",
+      "Neptune: 11.2",
+      "Pluto: 32.4"
+    ]
+  },
+  "input": {
+    "localDate": "1981-04-23",
+    "localTime": "18:13",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_383",
+    "birthplace": "Sao Paulo"
+  }
+}

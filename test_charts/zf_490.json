@@ -1,0 +1,55 @@
+{
+  "name": "Test_490",
+  "type": "Projector",
+  "profile": "1 / 3",
+  "authority": "Ego",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (19/33 | 44/24)",
+  "channels": [
+    "25-51"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 19.1",
+      "Earth: 33.1",
+      "NorthNode: 25.4",
+      "SouthNode: 46.4",
+      "Moon: 16.5",
+      "Mercury: 19.4",
+      "Venus: 36.3",
+      "Mars: 1.4",
+      "Jupiter: 18.3",
+      "Saturn: 51.6",
+      "Uranus: 46.6",
+      "Neptune: 14.5",
+      "Pluto: 6.3"
+    ],
+    "design": [
+      "Sun: 44.3",
+      "Earth: 24.3",
+      "NorthNode: 17.6",
+      "SouthNode: 18.6",
+      "Moon: 21.1",
+      "Mercury: 32.2",
+      "Venus: 5.4",
+      "Mars: 6.4",
+      "Jupiter: 6.6",
+      "Saturn: 51.6",
+      "Uranus: 46.5",
+      "Neptune: 14.2",
+      "Pluto: 6.2"
+    ]
+  },
+  "input": {
+    "localDate": "1969-01-28",
+    "localTime": "06:16",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_490",
+    "birthplace": "London"
+  }
+}

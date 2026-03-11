@@ -1,0 +1,57 @@
+{
+  "name": "Test_221",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Sacral",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Survival",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "11-56",
+    "2-14",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.1",
+      "Earth: 41.1",
+      "NorthNode: 56.6",
+      "SouthNode: 60.6",
+      "Moon: 2.2",
+      "Mercury: 53.1",
+      "Venus: 59.1",
+      "Mars: 52.1",
+      "Jupiter: 18.2",
+      "Saturn: 18.2",
+      "Uranus: 14.2",
+      "Neptune: 26.6",
+      "Pluto: 32.2"
+    ],
+    "design": [
+      "Sun: 27.3",
+      "Earth: 28.3",
+      "NorthNode: 31.5",
+      "SouthNode: 41.5",
+      "Moon: 10.4",
+      "Mercury: 3.5",
+      "Venus: 24.2",
+      "Mars: 3.4",
+      "Jupiter: 46.5",
+      "Saturn: 18.1",
+      "Uranus: 14.5",
+      "Neptune: 11.3",
+      "Pluto: 32.3"
+    ]
+  },
+  "input": {
+    "localDate": "1981-07-25",
+    "localTime": "03:43",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_221",
+    "birthplace": "New York"
+  }
+}

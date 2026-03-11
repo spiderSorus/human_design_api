@@ -1,0 +1,58 @@
+{
+  "name": "Test_64",
+  "type": "Manifestor",
+  "profile": "5 / 1",
+  "authority": "Splenic",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (58/52 | 48/21)",
+  "channels": [
+    "16-48",
+    "18-58",
+    "21-45",
+    "24-61"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 58.5",
+      "Earth: 52.5",
+      "NorthNode: 24.5",
+      "SouthNode: 44.5",
+      "Moon: 17.6",
+      "Mercury: 61.4",
+      "Venus: 61.5",
+      "Mars: 16.4",
+      "Jupiter: 25.3",
+      "Saturn: 49.4",
+      "Uranus: 2.3",
+      "Neptune: 36.1",
+      "Pluto: 60.2"
+    ],
+    "design": [
+      "Sun: 48.1",
+      "Earth: 21.1",
+      "NorthNode: 2.1",
+      "SouthNode: 1.1",
+      "Moon: 54.4",
+      "Mercury: 6.2",
+      "Venus: 18.2",
+      "Mars: 45.5",
+      "Jupiter: 25.5",
+      "Saturn: 49.1",
+      "Uranus: 2.6",
+      "Neptune: 36.2",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2022-12-30",
+    "localTime": "08:12",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_64",
+    "birthplace": "Mumbai"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "Test_483",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Self Projected",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Shores",
+  "cross": "Left Angle Cross of ... (49/4 | 14/8)",
+  "channels": [
+    "1-8"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 9.1",
+      "SouthNode: 16.1",
+      "Moon: 22.2",
+      "Mercury: 13.1",
+      "Venus: 22.1",
+      "Mars: 54.2",
+      "Jupiter: 22.6",
+      "Saturn: 39.4",
+      "Uranus: 28.1",
+      "Neptune: 5.1",
+      "Pluto: 18.6"
+    ],
+    "design": [
+      "Sun: 14.2",
+      "Earth: 8.2",
+      "NorthNode: 9.5",
+      "SouthNode: 16.5",
+      "Moon: 61.2",
+      "Mercury: 44.2",
+      "Venus: 14.5",
+      "Mars: 1.2",
+      "Jupiter: 37.3",
+      "Saturn: 53.4",
+      "Uranus: 50.4",
+      "Neptune: 9.4",
+      "Pluto: 18.5"
+    ]
+  },
+  "input": {
+    "localDate": "1975-02-13",
+    "localTime": "10:45",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_483",
+    "birthplace": "London"
+  }
+}

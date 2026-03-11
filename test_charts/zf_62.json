@@ -1,0 +1,56 @@
+{
+  "name": "Test_62",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Survival",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "17-62",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.1",
+      "Earth: 61.1",
+      "NorthNode: 32.4",
+      "SouthNode: 42.4",
+      "Moon: 60.6",
+      "Mercury: 15.2",
+      "Venus: 12.1",
+      "Mars: 32.4",
+      "Jupiter: 56.4",
+      "Saturn: 1.4",
+      "Uranus: 51.2",
+      "Neptune: 37.2",
+      "Pluto: 38.3"
+    ],
+    "design": [
+      "Sun: 42.3",
+      "Earth: 32.3",
+      "NorthNode: 50.3",
+      "SouthNode: 3.3",
+      "Moon: 47.6",
+      "Mercury: 17.6",
+      "Venus: 37.2",
+      "Mars: 57.3",
+      "Jupiter: 39.4",
+      "Saturn: 43.4",
+      "Uranus: 21.4",
+      "Neptune: 37.2",
+      "Pluto: 38.5"
+    ]
+  },
+  "input": {
+    "localDate": "2014-07-12",
+    "localTime": "22:08",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_62",
+    "birthplace": "Los Angeles"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Test_324",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Want",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (37/40 | 9/16)",
+  "channels": [
+    "10-20",
+    "10-34",
+    "13-33",
+    "20-34",
+    "26-44",
+    "32-54",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 37.4",
+      "Earth: 40.4",
+      "NorthNode: 7.2",
+      "SouthNode: 13.2",
+      "Moon: 33.4",
+      "Mercury: 22.2",
+      "Venus: 22.5",
+      "Mars: 26.3",
+      "Jupiter: 43.5",
+      "Saturn: 58.4",
+      "Uranus: 42.6",
+      "Neptune: 63.3",
+      "Pluto: 54.6"
+    ],
+    "design": [
+      "Sun: 9.6",
+      "Earth: 16.6",
+      "NorthNode: 7.5",
+      "SouthNode: 13.5",
+      "Moon: 20.6",
+      "Mercury: 10.2",
+      "Venus: 34.3",
+      "Mars: 32.6",
+      "Jupiter: 44.5",
+      "Saturn: 11.6",
+      "Uranus: 42.5",
+      "Neptune: 63.1",
+      "Pluto: 54.3"
+    ]
+  },
+  "input": {
+    "localDate": "2018-02-27",
+    "localTime": "17:20",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_324",
+    "birthplace": "New York"
+  }
+}

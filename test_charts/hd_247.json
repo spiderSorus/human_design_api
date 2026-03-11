@@ -1,0 +1,56 @@
+{
+  "name": "Test_247",
+  "type": "Projector",
+  "profile": "5 / 2",
+  "authority": "Splenic",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (63/64 | 26/45)",
+  "channels": [
+    "16-48",
+    "26-44"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 63.5",
+      "Earth: 64.5",
+      "NorthNode: 16.5",
+      "SouthNode: 9.5",
+      "Moon: 42.6",
+      "Mercury: 63.3",
+      "Venus: 49.2",
+      "Mars: 43.5",
+      "Jupiter: 58.6",
+      "Saturn: 1.4",
+      "Uranus: 5.3",
+      "Neptune: 10.4",
+      "Pluto: 50.6"
+    ],
+    "design": [
+      "Sun: 26.2",
+      "Earth: 45.2",
+      "NorthNode: 35.5",
+      "SouthNode: 5.5",
+      "Moon: 30.3",
+      "Mercury: 58.5",
+      "Venus: 28.3",
+      "Mars: 48.4",
+      "Jupiter: 26.5",
+      "Saturn: 44.5",
+      "Uranus: 9.5",
+      "Neptune: 10.1",
+      "Pluto: 50.6"
+    ]
+  },
+  "input": {
+    "localDate": "1984-03-06",
+    "localTime": "11:22",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_247",
+    "birthplace": "Johannesburg"
+  }
+}

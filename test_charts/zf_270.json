@@ -1,0 +1,59 @@
+{
+  "name": "Test_270",
+  "type": "Manifesting Generator",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Power",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (55/59 | 34/20)",
+  "channels": [
+    "20-34",
+    "27-50",
+    "28-38",
+    "39-55",
+    "6-59"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 55.3",
+      "Earth: 59.3",
+      "NorthNode: 50.4",
+      "SouthNode: 3.4",
+      "Moon: 1.2",
+      "Mercury: 49.3",
+      "Venus: 54.6",
+      "Mars: 50.1",
+      "Jupiter: 39.2",
+      "Saturn: 43.5",
+      "Uranus: 21.1",
+      "Neptune: 55.6",
+      "Pluto: 38.4"
+    ],
+    "design": [
+      "Sun: 34.5",
+      "Earth: 20.5",
+      "NorthNode: 28.6",
+      "SouthNode: 27.6",
+      "Moon: 64.3",
+      "Mercury: 1.5",
+      "Venus: 54.4",
+      "Mars: 6.2",
+      "Jupiter: 53.6",
+      "Saturn: 1.4",
+      "Uranus: 17.6",
+      "Neptune: 55.3",
+      "Pluto: 38.1"
+    ]
+  },
+  "input": {
+    "localDate": "2014-02-21",
+    "localTime": "01:25",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_270",
+    "birthplace": "New York"
+  }
+}

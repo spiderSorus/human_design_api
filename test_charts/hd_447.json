@@ -1,0 +1,56 @@
+{
+  "name": "Test_447",
+  "type": "Generator",
+  "profile": "6 / 3",
+  "authority": "Sacral",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (25/46 | 58/52)",
+  "channels": [
+    "47-64",
+    "9-52"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 25.6",
+      "Earth: 46.6",
+      "NorthNode: 47.1",
+      "SouthNode: 22.1",
+      "Moon: 49.3",
+      "Mercury: 25.6",
+      "Venus: 30.1",
+      "Mars: 22.4",
+      "Jupiter: 56.3",
+      "Saturn: 40.4",
+      "Uranus: 43.2",
+      "Neptune: 26.4",
+      "Pluto: 57.4"
+    ],
+    "design": [
+      "Sun: 58.3",
+      "Earth: 52.3",
+      "NorthNode: 47.5",
+      "SouthNode: 22.5",
+      "Moon: 9.4",
+      "Mercury: 5.3",
+      "Venus: 43.3",
+      "Mars: 38.3",
+      "Jupiter: 31.6",
+      "Saturn: 64.3",
+      "Uranus: 43.1",
+      "Neptune: 26.2",
+      "Pluto: 57.5"
+    ]
+  },
+  "input": {
+    "localDate": "1979-03-25",
+    "localTime": "01:52",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_447",
+    "birthplace": "Berlin"
+  }
+}

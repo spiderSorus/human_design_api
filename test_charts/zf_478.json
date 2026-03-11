@@ -1,0 +1,56 @@
+{
+  "name": "Test_478",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (42/32 | 60/56)",
+  "channels": [
+    "24-61",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 42.5",
+      "Earth: 32.5",
+      "NorthNode: 28.4",
+      "SouthNode: 27.4",
+      "Moon: 57.4",
+      "Mercury: 42.5",
+      "Venus: 22.5",
+      "Mars: 7.3",
+      "Jupiter: 5.4",
+      "Saturn: 22.3",
+      "Uranus: 60.5",
+      "Neptune: 61.6",
+      "Pluto: 34.1"
+    ],
+    "design": [
+      "Sun: 60.1",
+      "Earth: 56.1",
+      "NorthNode: 44.5",
+      "SouthNode: 24.5",
+      "Moon: 56.5",
+      "Mercury: 13.2",
+      "Venus: 9.5",
+      "Mars: 59.2",
+      "Jupiter: 9.3",
+      "Saturn: 37.4",
+      "Uranus: 60.1",
+      "Neptune: 61.3",
+      "Pluto: 14.6"
+    ]
+  },
+  "input": {
+    "localDate": "1995-04-15",
+    "localTime": "06:11",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_478",
+    "birthplace": "Mumbai"
+  }
+}

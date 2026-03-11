@@ -1,0 +1,56 @@
+{
+  "name": "Test_386",
+  "type": "Projector",
+  "profile": "2 / 4",
+  "authority": "Mental",
+  "digestion": "Taste/Closed",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (62/61 | 42/32)",
+  "channels": [
+    "11-56",
+    "17-62"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 62.2",
+      "Earth: 61.2",
+      "NorthNode: 36.6",
+      "SouthNode: 6.6",
+      "Moon: 37.1",
+      "Mercury: 56.2",
+      "Venus: 12.2",
+      "Mars: 29.1",
+      "Jupiter: 44.2",
+      "Saturn: 33.5",
+      "Uranus: 63.4",
+      "Neptune: 49.1",
+      "Pluto: 11.3"
+    ],
+    "design": [
+      "Sun: 42.4",
+      "Earth: 32.4",
+      "NorthNode: 17.1",
+      "SouthNode: 18.1",
+      "Moon: 50.1",
+      "Mercury: 36.5",
+      "Venus: 37.3",
+      "Mars: 15.2",
+      "Jupiter: 1.4",
+      "Saturn: 31.3",
+      "Uranus: 63.2",
+      "Neptune: 49.1",
+      "Pluto: 11.5"
+    ]
+  },
+  "input": {
+    "localDate": "2006-07-14",
+    "localTime": "10:56",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_386",
+    "birthplace": "London"
+  }
+}

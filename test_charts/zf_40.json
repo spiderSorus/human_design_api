@@ -1,0 +1,55 @@
+{
+  "name": "Test_40",
+  "type": "Projector",
+  "profile": "1 / 3",
+  "authority": "Splenic",
+  "digestion": "Taste/Closed",
+  "motivation": "Hope",
+  "perception": "Survival",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (35/5 | 63/64)",
+  "channels": [
+    "16-48"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 35.1",
+      "Earth: 5.1",
+      "NorthNode: 18.5",
+      "SouthNode: 17.5",
+      "Moon: 9.3",
+      "Mercury: 16.2",
+      "Venus: 56.1",
+      "Mars: 35.4",
+      "Jupiter: 7.4",
+      "Saturn: 34.1",
+      "Uranus: 51.5",
+      "Neptune: 37.5",
+      "Pluto: 38.6"
+    ],
+    "design": [
+      "Sun: 63.3",
+      "Earth: 64.3",
+      "NorthNode: 48.1",
+      "SouthNode: 21.1",
+      "Moon: 29.6",
+      "Mercury: 13.6",
+      "Venus: 21.6",
+      "Mars: 21.1",
+      "Jupiter: 7.2",
+      "Saturn: 34.6",
+      "Uranus: 21.6",
+      "Neptune: 37.2",
+      "Pluto: 38.6"
+    ]
+  },
+  "input": {
+    "localDate": "2015-06-02",
+    "localTime": "11:12",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_40",
+    "birthplace": "Berlin"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_455",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (48/21 | 53/54)",
+  "channels": [
+    "10-34",
+    "3-60",
+    "32-54",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 48.5",
+      "Earth: 21.5",
+      "NorthNode: 42.1",
+      "SouthNode: 32.1",
+      "Moon: 14.2",
+      "Mercury: 28.3",
+      "Venus: 43.1",
+      "Mars: 60.3",
+      "Jupiter: 63.4",
+      "Saturn: 9.1",
+      "Uranus: 26.3",
+      "Neptune: 10.6",
+      "Pluto: 28.5"
+    ],
+    "design": [
+      "Sun: 53.1",
+      "Earth: 54.1",
+      "NorthNode: 3.1",
+      "SouthNode: 50.1",
+      "Moon: 62.3",
+      "Mercury: 31.5",
+      "Venus: 29.2",
+      "Mars: 54.4",
+      "Jupiter: 36.1",
+      "Saturn: 34.4",
+      "Uranus: 26.3",
+      "Neptune: 58.1",
+      "Pluto: 28.3"
+    ]
+  },
+  "input": {
+    "localDate": "1986-10-07",
+    "localTime": "09:22",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_455",
+    "birthplace": "Tokyo"
+  }
+}

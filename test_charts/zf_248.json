@@ -1,0 +1,57 @@
+{
+  "name": "Test_248",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Thirst/Cold",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (50/3 | 31/41)",
+  "channels": [
+    "10-57",
+    "30-41",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 50.5",
+      "Earth: 3.5",
+      "NorthNode: 49.6",
+      "SouthNode: 4.6",
+      "Moon: 29.4",
+      "Mercury: 57.4",
+      "Venus: 5.6",
+      "Mars: 32.2",
+      "Jupiter: 39.2",
+      "Saturn: 58.6",
+      "Uranus: 10.5",
+      "Neptune: 38.1",
+      "Pluto: 1.2"
+    ],
+    "design": [
+      "Sun: 31.1",
+      "Earth: 41.1",
+      "NorthNode: 30.2",
+      "SouthNode: 29.2",
+      "Moon: 3.5",
+      "Mercury: 33.3",
+      "Venus: 59.2",
+      "Mars: 4.6",
+      "Jupiter: 15.1",
+      "Saturn: 58.6",
+      "Uranus: 10.5",
+      "Neptune: 38.1",
+      "Pluto: 44.6"
+    ]
+  },
+  "input": {
+    "localDate": "1989-10-23",
+    "localTime": "19:04",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_248",
+    "birthplace": "Sao Paulo"
+  }
+}

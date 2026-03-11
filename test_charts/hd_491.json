@@ -1,0 +1,58 @@
+{
+  "name": "Test_491",
+  "type": "Manifesting Generator",
+  "profile": "6 / 3",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Personal",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (43/23 | 29/30)",
+  "channels": [
+    "23-43",
+    "3-60",
+    "34-57",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 43.6",
+      "Earth: 23.6",
+      "NorthNode: 32.6",
+      "SouthNode: 42.6",
+      "Moon: 64.5",
+      "Mercury: 43.3",
+      "Venus: 26.1",
+      "Mars: 26.4",
+      "Jupiter: 26.3",
+      "Saturn: 22.2",
+      "Uranus: 60.1",
+      "Neptune: 61.3",
+      "Pluto: 34.1"
+    ],
+    "design": [
+      "Sun: 29.3",
+      "Earth: 30.3",
+      "NorthNode: 50.3",
+      "SouthNode: 3.3",
+      "Moon: 35.6",
+      "Mercury: 64.6",
+      "Venus: 29.2",
+      "Mars: 57.4",
+      "Jupiter: 9.1",
+      "Saturn: 36.1",
+      "Uranus: 60.2",
+      "Neptune: 61.3",
+      "Pluto: 14.4"
+    ]
+  },
+  "input": {
+    "localDate": "1995-11-17",
+    "localTime": "09:20",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_491",
+    "birthplace": "Johannesburg"
+  }
+}

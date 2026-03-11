@@ -1,0 +1,59 @@
+{
+  "name": "Test_160",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Survival",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (31/41 | 27/28)",
+  "channels": [
+    "19-49",
+    "25-51",
+    "29-46",
+    "34-57",
+    "47-64"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 31.1",
+      "Earth: 41.1",
+      "NorthNode: 47.5",
+      "SouthNode: 22.5",
+      "Moon: 51.2",
+      "Mercury: 29.4",
+      "Venus: 59.3",
+      "Mars: 57.4",
+      "Jupiter: 49.1",
+      "Saturn: 51.6",
+      "Uranus: 41.6",
+      "Neptune: 60.3",
+      "Pluto: 34.3"
+    ],
+    "design": [
+      "Sun: 27.3",
+      "Earth: 28.3",
+      "NorthNode: 46.1",
+      "SouthNode: 25.1",
+      "Moon: 14.4",
+      "Mercury: 27.4",
+      "Venus: 24.3",
+      "Mars: 64.6",
+      "Jupiter: 13.6",
+      "Saturn: 21.5",
+      "Uranus: 19.1",
+      "Neptune: 60.4",
+      "Pluto: 34.6"
+    ]
+  },
+  "input": {
+    "localDate": "1997-07-25",
+    "localTime": "10:16",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_160",
+    "birthplace": "Sao Paulo"
+  }
+}

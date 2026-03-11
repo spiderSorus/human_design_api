@@ -1,0 +1,57 @@
+{
+  "name": "Test_357",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (5/35 | 64/63)",
+  "channels": [
+    "29-46",
+    "30-41",
+    "4-63"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 5.2",
+      "Earth: 35.2",
+      "NorthNode: 4.2",
+      "SouthNode: 49.2",
+      "Moon: 28.4",
+      "Mercury: 9.1",
+      "Venus: 14.6",
+      "Mars: 5.5",
+      "Jupiter: 41.4",
+      "Saturn: 60.1",
+      "Uranus: 59.1",
+      "Neptune: 44.5",
+      "Pluto: 40.5"
+    ],
+    "design": [
+      "Sun: 64.4",
+      "Earth: 63.4",
+      "NorthNode: 29.3",
+      "SouthNode: 30.3",
+      "Moon: 7.3",
+      "Mercury: 46.6",
+      "Venus: 33.4",
+      "Mars: 48.5",
+      "Jupiter: 60.2",
+      "Saturn: 61.4",
+      "Uranus: 29.4",
+      "Neptune: 44.2",
+      "Pluto: 40.3"
+    ]
+  },
+  "input": {
+    "localDate": "1961-12-04",
+    "localTime": "14:34",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_357",
+    "birthplace": "Los Angeles"
+  }
+}

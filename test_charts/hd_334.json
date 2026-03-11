@@ -1,0 +1,59 @@
+{
+  "name": "Test_334",
+  "type": "Manifesting Generator",
+  "profile": "1 / 3",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Fear",
+  "perception": "Survival",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (11/12 | 6/36)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "18-58",
+    "34-57",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.1",
+      "Earth: 12.1",
+      "NorthNode: 9.5",
+      "SouthNode: 16.5",
+      "Moon: 58.5",
+      "Mercury: 26.4",
+      "Venus: 10.5",
+      "Mars: 34.3",
+      "Jupiter: 37.6",
+      "Saturn: 53.3",
+      "Uranus: 50.6",
+      "Neptune: 9.5",
+      "Pluto: 18.6"
+    ],
+    "design": [
+      "Sun: 6.3",
+      "Earth: 36.3",
+      "NorthNode: 5.3",
+      "SouthNode: 35.3",
+      "Moon: 57.5",
+      "Mercury: 57.3",
+      "Venus: 64.1",
+      "Mars: 46.6",
+      "Jupiter: 37.6",
+      "Saturn: 53.3",
+      "Uranus: 32.6",
+      "Neptune: 9.2",
+      "Pluto: 18.3"
+    ]
+  },
+  "input": {
+    "localDate": "1974-12-15",
+    "localTime": "06:13",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_334",
+    "birthplace": "Mumbai"
+  }
+}

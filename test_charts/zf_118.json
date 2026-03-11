@@ -1,0 +1,57 @@
+{
+  "name": "Test_118",
+  "type": "Manifesting Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Guilt",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (46/25 | 15/10)",
+  "channels": [
+    "29-46",
+    "32-54",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 46.2",
+      "Earth: 25.2",
+      "NorthNode: 13.5",
+      "SouthNode: 7.5",
+      "Moon: 15.6",
+      "Mercury: 32.3",
+      "Venus: 50.2",
+      "Mars: 32.2",
+      "Jupiter: 38.4",
+      "Saturn: 64.4",
+      "Uranus: 22.4",
+      "Neptune: 49.4",
+      "Pluto: 10.1"
+    ],
+    "design": [
+      "Sun: 15.4",
+      "Earth: 10.4",
+      "NorthNode: 49.1",
+      "SouthNode: 4.1",
+      "Moon: 13.6",
+      "Mercury: 35.3",
+      "Venus: 52.2",
+      "Mars: 29.1",
+      "Jupiter: 54.5",
+      "Saturn: 59.4",
+      "Uranus: 36.1",
+      "Neptune: 49.6",
+      "Pluto: 10.2"
+    ]
+  },
+  "input": {
+    "localDate": "2008-09-22",
+    "localTime": "21:35",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_118",
+    "birthplace": "Sydney"
+  }
+}

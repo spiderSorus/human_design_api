@@ -1,0 +1,58 @@
+{
+  "name": "Test_131",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Possibility",
+  "environment": "Mountains",
+  "cross": "Right Angle Cross of ... (28/27 | 31/41)",
+  "channels": [
+    "24-61",
+    "27-50",
+    "28-38",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 28.2",
+      "Earth: 27.2",
+      "NorthNode: 41.1",
+      "SouthNode: 31.1",
+      "Moon: 41.1",
+      "Mercury: 28.5",
+      "Venus: 50.6",
+      "Mars: 35.4",
+      "Jupiter: 33.5",
+      "Saturn: 54.5",
+      "Uranus: 58.3",
+      "Neptune: 38.3",
+      "Pluto: 1.5"
+    ],
+    "design": [
+      "Sun: 31.4",
+      "Earth: 41.4",
+      "NorthNode: 41.6",
+      "SouthNode: 31.6",
+      "Moon: 32.3",
+      "Mercury: 29.5",
+      "Venus: 39.1",
+      "Mars: 24.3",
+      "Jupiter: 62.6",
+      "Saturn: 61.1",
+      "Uranus: 58.3",
+      "Neptune: 38.4",
+      "Pluto: 1.2"
+    ]
+  },
+  "input": {
+    "localDate": "1990-10-26",
+    "localTime": "20:31",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_131",
+    "birthplace": "London"
+  }
+}

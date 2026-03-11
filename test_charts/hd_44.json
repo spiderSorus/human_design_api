@@ -1,0 +1,58 @@
+{
+  "name": "Test_44",
+  "type": "Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (39/38 | 51/57)",
+  "channels": [
+    "10-57",
+    "39-55",
+    "42-53",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 39.6",
+      "Earth: 38.6",
+      "NorthNode: 41.6",
+      "SouthNode: 31.6",
+      "Moon: 10.5",
+      "Mercury: 53.5",
+      "Venus: 35.4",
+      "Mars: 42.6",
+      "Jupiter: 53.6",
+      "Saturn: 61.2",
+      "Uranus: 58.4",
+      "Neptune: 38.4",
+      "Pluto: 1.2"
+    ],
+    "design": [
+      "Sun: 51.2",
+      "Earth: 57.2",
+      "NorthNode: 13.2",
+      "SouthNode: 7.2",
+      "Moon: 40.3",
+      "Mercury: 27.3",
+      "Venus: 55.1",
+      "Mars: 49.1",
+      "Jupiter: 15.6",
+      "Saturn: 61.5",
+      "Uranus: 38.1",
+      "Neptune: 38.6",
+      "Pluto: 1.5"
+    ]
+  },
+  "input": {
+    "localDate": "1990-07-06",
+    "localTime": "17:11",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_44",
+    "birthplace": "Los Angeles"
+  }
+}

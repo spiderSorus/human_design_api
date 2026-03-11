@@ -1,0 +1,56 @@
+{
+  "name": "Test_291",
+  "type": "Projector",
+  "profile": "2 / 5",
+  "authority": "Emotional",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (39/38 | 21/48)",
+  "channels": [
+    "39-55",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 39.2",
+      "Earth: 38.2",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 7.4",
+      "Mercury: 31.6",
+      "Venus: 53.2",
+      "Mars: 2.1",
+      "Jupiter: 40.5",
+      "Saturn: 13.5",
+      "Uranus: 54.2",
+      "Neptune: 54.3",
+      "Pluto: 43.2"
+    ],
+    "design": [
+      "Sun: 21.5",
+      "Earth: 48.5",
+      "NorthNode: 58.1",
+      "SouthNode: 52.1",
+      "Moon: 17.6",
+      "Mercury: 25.3",
+      "Venus: 36.3",
+      "Mars: 55.5",
+      "Jupiter: 40.1",
+      "Saturn: 13.4",
+      "Uranus: 54.3",
+      "Neptune: 54.4",
+      "Pluto: 43.4"
+    ]
+  },
+  "input": {
+    "localDate": "1992-07-03",
+    "localTime": "03:21",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_291",
+    "birthplace": "Johannesburg"
+  }
+}

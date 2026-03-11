@@ -1,0 +1,56 @@
+{
+  "name": "Test_43",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Desire",
+  "perception": "Want",
+  "environment": "Caves",
+  "cross": "Right Angle Cross of ... (29/30 | 8/14)",
+  "channels": [
+    "25-51",
+    "29-46"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 29.4",
+      "Earth: 30.4",
+      "NorthNode: 46.4",
+      "SouthNode: 25.4",
+      "Moon: 44.2",
+      "Mercury: 47.5",
+      "Venus: 4.1",
+      "Mars: 33.1",
+      "Jupiter: 59.3",
+      "Saturn: 14.5",
+      "Uranus: 51.6",
+      "Neptune: 37.4",
+      "Pluto: 38.5"
+    ],
+    "design": [
+      "Sun: 8.6",
+      "Earth: 14.6",
+      "NorthNode: 18.6",
+      "SouthNode: 17.6",
+      "Moon: 52.4",
+      "Mercury: 35.2",
+      "Venus: 39.6",
+      "Mars: 16.1",
+      "Jupiter: 7.3",
+      "Saturn: 34.2",
+      "Uranus: 51.4",
+      "Neptune: 37.5",
+      "Pluto: 54.1"
+    ]
+  },
+  "input": {
+    "localDate": "2015-08-21",
+    "localTime": "13:20",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_43",
+    "birthplace": "Sydney"
+  }
+}

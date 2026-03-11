@@ -1,0 +1,58 @@
+{
+  "name": "Test_304",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Possibility",
+  "environment": "Shores",
+  "cross": "Right Angle Cross of ... (42/32 | 61/62)",
+  "channels": [
+    "19-49",
+    "3-60",
+    "30-41",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 42.2",
+      "Earth: 32.2",
+      "NorthNode: 40.5",
+      "SouthNode: 37.5",
+      "Moon: 50.1",
+      "Mercury: 21.4",
+      "Venus: 37.1",
+      "Mars: 3.4",
+      "Jupiter: 63.5",
+      "Saturn: 42.3",
+      "Uranus: 19.5",
+      "Neptune: 41.1",
+      "Pluto: 9.3"
+    ],
+    "design": [
+      "Sun: 61.4",
+      "Earth: 62.4",
+      "NorthNode: 40.6",
+      "SouthNode: 37.6",
+      "Moon: 7.3",
+      "Mercury: 10.5",
+      "Venus: 60.1",
+      "Mars: 49.3",
+      "Jupiter: 30.1",
+      "Saturn: 21.6",
+      "Uranus: 19.1",
+      "Neptune: 60.4",
+      "Pluto: 9.2"
+    ]
+  },
+  "input": {
+    "localDate": "1998-04-12",
+    "localTime": "04:49",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_304",
+    "birthplace": "Sao Paulo"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Test_54",
+  "type": "Generator",
+  "profile": "5 / 2",
+  "authority": "Sacral",
+  "digestion": "Appetite/Alternating",
+  "motivation": "Innocence",
+  "perception": "Probability",
+  "environment": "Mountains",
+  "cross": "Left Angle Cross of ... (11/12 | 46/25)",
+  "channels": [
+    "10-34",
+    "10-57",
+    "27-50",
+    "34-57"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 11.5",
+      "Earth: 12.5",
+      "NorthNode: 3.5",
+      "SouthNode: 50.5",
+      "Moon: 25.1",
+      "Mercury: 9.6",
+      "Venus: 34.3",
+      "Mars: 14.1",
+      "Jupiter: 57.1",
+      "Saturn: 62.6",
+      "Uranus: 55.4",
+      "Neptune: 13.1",
+      "Pluto: 26.6"
+    ],
+    "design": [
+      "Sun: 46.2",
+      "Earth: 25.2",
+      "NorthNode: 27.1",
+      "SouthNode: 28.1",
+      "Moon: 10.5",
+      "Mercury: 47.1",
+      "Venus: 7.4",
+      "Mars: 6.5",
+      "Jupiter: 46.2",
+      "Saturn: 62.5",
+      "Uranus: 55.4",
+      "Neptune: 19.6",
+      "Pluto: 26.3"
+    ]
+  },
+  "input": {
+    "localDate": "2004-12-18",
+    "localTime": "21:18",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_54",
+    "birthplace": "Berlin"
+  }
+}

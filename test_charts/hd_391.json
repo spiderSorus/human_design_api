@@ -1,0 +1,57 @@
+{
+  "name": "Test_391",
+  "type": "Manifesting Generator",
+  "profile": "4 / 1",
+  "authority": "Emotional",
+  "digestion": "Appetite/Consecutive",
+  "motivation": "Innocence",
+  "perception": "Want",
+  "environment": "Mountains",
+  "cross": "Juxtaposition Cross of ... (3/50 | 41/31)",
+  "channels": [
+    "12-22",
+    "27-50",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 3.4",
+      "Earth: 50.4",
+      "NorthNode: 30.2",
+      "SouthNode: 29.2",
+      "Moon: 32.3",
+      "Mercury: 27.3",
+      "Venus: 51.2",
+      "Mars: 53.5",
+      "Jupiter: 61.2",
+      "Saturn: 59.2",
+      "Uranus: 22.5",
+      "Neptune: 49.6",
+      "Pluto: 10.4"
+    ],
+    "design": [
+      "Sun: 41.1",
+      "Earth: 31.1",
+      "NorthNode: 30.4",
+      "SouthNode: 29.4",
+      "Moon: 31.3",
+      "Mercury: 49.2",
+      "Venus: 11.6",
+      "Mars: 12.3",
+      "Jupiter: 58.5",
+      "Saturn: 40.2",
+      "Uranus: 63.6",
+      "Neptune: 49.3",
+      "Pluto: 10.2"
+    ]
+  },
+  "input": {
+    "localDate": "2008-04-19",
+    "localTime": "11:46",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_391",
+    "birthplace": "Los Angeles"
+  }
+}

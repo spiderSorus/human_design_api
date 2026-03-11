@@ -1,0 +1,57 @@
+{
+  "name": "Test_308",
+  "type": "Generator",
+  "profile": "1 / 3",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Survival",
+  "environment": "Valleys",
+  "cross": "Right Angle Cross of ... (23/43 | 49/4)",
+  "channels": [
+    "23-43",
+    "24-61",
+    "3-60"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.1",
+      "Earth: 43.1",
+      "NorthNode: 56.1",
+      "SouthNode: 60.1",
+      "Moon: 31.4",
+      "Mercury: 23.2",
+      "Venus: 24.4",
+      "Mars: 20.5",
+      "Jupiter: 2.6",
+      "Saturn: 23.2",
+      "Uranus: 49.2",
+      "Neptune: 41.5",
+      "Pluto: 5.1"
+    ],
+    "design": [
+      "Sun: 49.3",
+      "Earth: 4.3",
+      "NorthNode: 31.2",
+      "SouthNode: 41.2",
+      "Moon: 42.4",
+      "Mercury: 37.4",
+      "Venus: 61.1",
+      "Mars: 25.1",
+      "Jupiter: 3.4",
+      "Saturn: 24.4",
+      "Uranus: 13.5",
+      "Neptune: 41.3",
+      "Pluto: 5.2"
+    ]
+  },
+  "input": {
+    "localDate": "2000-05-09",
+    "localTime": "14:44",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_308",
+    "birthplace": "Sao Paulo"
+  }
+}

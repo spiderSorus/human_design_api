@@ -1,0 +1,58 @@
+{
+  "name": "Test_339",
+  "type": "Manifestor",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (17/18 | 38/39)",
+  "channels": [
+    "17-62",
+    "18-58",
+    "30-41",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 17.5",
+      "Earth: 18.5",
+      "NorthNode: 36.6",
+      "SouthNode: 6.6",
+      "Moon: 22.3",
+      "Mercury: 25.4",
+      "Venus: 25.2",
+      "Mars: 62.2",
+      "Jupiter: 35.5",
+      "Saturn: 36.2",
+      "Uranus: 8.1",
+      "Neptune: 25.2",
+      "Pluto: 41.2"
+    ],
+    "design": [
+      "Sun: 38.1",
+      "Earth: 39.1",
+      "NorthNode: 25.4",
+      "SouthNode: 46.4",
+      "Moon: 58.6",
+      "Mercury: 26.2",
+      "Venus: 30.3",
+      "Mars: 31.1",
+      "Jupiter: 35.3",
+      "Saturn: 63.4",
+      "Uranus: 23.6",
+      "Neptune: 36.5",
+      "Pluto: 60.5"
+    ]
+  },
+  "input": {
+    "localDate": "2025-03-28",
+    "localTime": "08:10",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_339",
+    "birthplace": "Mumbai"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Test_102",
+  "type": "Manifesting Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (32/42 | 62/61)",
+  "channels": [
+    "1-8",
+    "10-20",
+    "10-34",
+    "20-34",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 32.4",
+      "Earth: 42.4",
+      "NorthNode: 8.4",
+      "SouthNode: 14.4",
+      "Moon: 53.2",
+      "Mercury: 50.3",
+      "Venus: 14.3",
+      "Mars: 58.5",
+      "Jupiter: 58.3",
+      "Saturn: 1.4",
+      "Uranus: 9.6",
+      "Neptune: 10.1",
+      "Pluto: 50.6"
+    ],
+    "design": [
+      "Sun: 62.6",
+      "Earth: 61.6",
+      "NorthNode: 20.6",
+      "SouthNode: 34.6",
+      "Moon: 36.6",
+      "Mercury: 4.1",
+      "Venus: 31.4",
+      "Mars: 1.4",
+      "Jupiter: 58.3",
+      "Saturn: 44.3",
+      "Uranus: 9.5",
+      "Neptune: 10.2",
+      "Pluto: 50.4"
+    ]
+  },
+  "input": {
+    "localDate": "1984-10-17",
+    "localTime": "12:07",
+    "timezone": "Asia/Kolkata",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "name": "Test_102",
+    "birthplace": "Mumbai"
+  }
+}

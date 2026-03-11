@@ -1,0 +1,59 @@
+{
+  "name": "Test_6",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (5/35 | 47/22)",
+  "channels": [
+    "12-22",
+    "20-34",
+    "35-36",
+    "47-64",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 5.6",
+      "Earth: 35.6",
+      "NorthNode: 20.5",
+      "SouthNode: 34.5",
+      "Moon: 45.5",
+      "Mercury: 34.5",
+      "Venus: 60.6",
+      "Mars: 54.5",
+      "Jupiter: 12.6",
+      "Saturn: 37.6",
+      "Uranus: 47.3",
+      "Neptune: 43.2",
+      "Pluto: 47.2"
+    ],
+    "design": [
+      "Sun: 47.2",
+      "Earth: 22.2",
+      "NorthNode: 16.3",
+      "SouthNode: 9.3",
+      "Moon: 36.5",
+      "Mercury: 59.6",
+      "Venus: 50.2",
+      "Mars: 1.2",
+      "Jupiter: 15.1",
+      "Saturn: 63.3",
+      "Uranus: 64.5",
+      "Neptune: 1.5",
+      "Pluto: 64.6"
+    ]
+  },
+  "input": {
+    "localDate": "1965-12-09",
+    "localTime": "10:45",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_6",
+    "birthplace": "Sydney"
+  }
+}

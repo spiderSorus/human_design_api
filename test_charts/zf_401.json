@@ -1,0 +1,58 @@
+{
+  "name": "Test_401",
+  "type": "Manifesting Generator",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Sound/Low",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (49/4 | 14/8)",
+  "channels": [
+    "10-57",
+    "25-51",
+    "35-36",
+    "5-15"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 49.6",
+      "Earth: 4.6",
+      "NorthNode: 10.4",
+      "SouthNode: 15.4",
+      "Moon: 35.6",
+      "Mercury: 13.2",
+      "Venus: 38.1",
+      "Mars: 49.4",
+      "Jupiter: 17.1",
+      "Saturn: 57.2",
+      "Uranus: 25.1",
+      "Neptune: 30.4",
+      "Pluto: 58.4"
+    ],
+    "design": [
+      "Sun: 14.2",
+      "Earth: 8.2",
+      "NorthNode: 10.6",
+      "SouthNode: 15.6",
+      "Moon: 51.6",
+      "Mercury: 5.3",
+      "Venus: 50.2",
+      "Mars: 5.5",
+      "Jupiter: 36.1",
+      "Saturn: 48.5",
+      "Uranus: 36.5",
+      "Neptune: 30.2",
+      "Pluto: 10.6"
+    ]
+  },
+  "input": {
+    "localDate": "2011-02-13",
+    "localTime": "03:40",
+    "timezone": "America/Sao_Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333,
+    "name": "Test_401",
+    "birthplace": "Sao Paulo"
+  }
+}

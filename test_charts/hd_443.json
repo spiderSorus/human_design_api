@@ -1,0 +1,59 @@
+{
+  "name": "Test_443",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Emotional",
+  "digestion": "Taste/Open",
+  "motivation": "Fear",
+  "perception": "Possibility",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (41/31 | 28/27)",
+  "channels": [
+    "10-57",
+    "13-33",
+    "18-58",
+    "27-50",
+    "30-41"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 41.2",
+      "Earth: 31.2",
+      "NorthNode: 61.1",
+      "SouthNode: 62.1",
+      "Moon: 3.3",
+      "Mercury: 58.6",
+      "Venus: 41.4",
+      "Mars: 33.6",
+      "Jupiter: 55.2",
+      "Saturn: 18.1",
+      "Uranus: 36.2",
+      "Neptune: 30.1",
+      "Pluto: 58.1"
+    ],
+    "design": [
+      "Sun: 28.4",
+      "Earth: 27.4",
+      "NorthNode: 61.5",
+      "SouthNode: 62.5",
+      "Moon: 30.6",
+      "Mercury: 50.4",
+      "Venus: 57.2",
+      "Mars: 31.4",
+      "Jupiter: 13.5",
+      "Saturn: 46.2",
+      "Uranus: 36.1",
+      "Neptune: 49.6",
+      "Pluto: 10.4"
+    ]
+  },
+  "input": {
+    "localDate": "2010-01-23",
+    "localTime": "03:58",
+    "timezone": "Europe/Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "name": "Test_443",
+    "birthplace": "Berlin"
+  }
+}

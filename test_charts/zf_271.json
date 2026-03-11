@@ -1,0 +1,59 @@
+{
+  "name": "Test_271",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Light/Direct",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (54/53 | 32/42)",
+  "channels": [
+    "10-57",
+    "27-50",
+    "32-54",
+    "42-53",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 54.5",
+      "Earth: 53.5",
+      "NorthNode: 5.3",
+      "SouthNode: 35.3",
+      "Moon: 31.2",
+      "Mercury: 10.6",
+      "Venus: 30.1",
+      "Mars: 47.6",
+      "Jupiter: 3.5",
+      "Saturn: 50.3",
+      "Uranus: 25.3",
+      "Neptune: 30.5",
+      "Pluto: 58.5"
+    ],
+    "design": [
+      "Sun: 32.1",
+      "Earth: 42.1",
+      "NorthNode: 5.5",
+      "SouthNode: 35.5",
+      "Moon: 8.3",
+      "Mercury: 28.1",
+      "Venus: 28.6",
+      "Mars: 7.3",
+      "Jupiter: 27.6",
+      "Saturn: 57.6",
+      "Uranus: 25.4",
+      "Neptune: 30.5",
+      "Pluto: 58.2"
+    ]
+  },
+  "input": {
+    "localDate": "2012-01-10",
+    "localTime": "21:53",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_271",
+    "birthplace": "Sydney"
+  }
+}

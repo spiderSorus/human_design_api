@@ -1,0 +1,56 @@
+{
+  "name": "Test_106",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Sacral",
+  "digestion": "Thirst/Hot",
+  "motivation": "Hope",
+  "perception": "Probability",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (50/3 | 31/41)",
+  "channels": [
+    "10-34",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 50.5",
+      "Earth: 3.5",
+      "NorthNode: 11.1",
+      "SouthNode: 12.1",
+      "Moon: 46.1",
+      "Mercury: 43.5",
+      "Venus: 34.5",
+      "Mars: 53.6",
+      "Jupiter: 46.5",
+      "Saturn: 19.5",
+      "Uranus: 38.6",
+      "Neptune: 54.2",
+      "Pluto: 43.4"
+    ],
+    "design": [
+      "Sun: 31.1",
+      "Earth: 41.1",
+      "NorthNode: 10.3",
+      "SouthNode: 15.3",
+      "Moon: 8.4",
+      "Mercury: 7.4",
+      "Venus: 7.1",
+      "Mars: 8.5",
+      "Jupiter: 64.3",
+      "Saturn: 13.4",
+      "Uranus: 54.1",
+      "Neptune: 54.3",
+      "Pluto: 43.2"
+    ]
+  },
+  "input": {
+    "localDate": "1992-10-23",
+    "localTime": "13:24",
+    "timezone": "Europe/London",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "name": "Test_106",
+    "birthplace": "London"
+  }
+}

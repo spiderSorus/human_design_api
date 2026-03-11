@@ -1,0 +1,57 @@
+{
+  "name": "Test_461",
+  "type": "Generator",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Probability",
+  "environment": "Caves",
+  "cross": "Left Angle Cross of ... (16/9 | 63/64)",
+  "channels": [
+    "25-51",
+    "3-60",
+    "37-40"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 16.5",
+      "Earth: 9.5",
+      "NorthNode: 59.6",
+      "SouthNode: 55.6",
+      "Moon: 29.1",
+      "Mercury: 8.5",
+      "Venus: 27.1",
+      "Mars: 20.6",
+      "Jupiter: 36.3",
+      "Saturn: 3.3",
+      "Uranus: 19.6",
+      "Neptune: 60.6",
+      "Pluto: 9.1"
+    ],
+    "design": [
+      "Sun: 63.1",
+      "Earth: 64.1",
+      "NorthNode: 40.6",
+      "SouthNode: 37.6",
+      "Moon: 24.2",
+      "Mercury: 22.3",
+      "Venus: 60.3",
+      "Mars: 25.1",
+      "Jupiter: 37.1",
+      "Saturn: 51.4",
+      "Uranus: 19.4",
+      "Neptune: 60.6",
+      "Pluto: 9.3"
+    ]
+  },
+  "input": {
+    "localDate": "1998-06-01",
+    "localTime": "03:11",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_461",
+    "birthplace": "Sydney"
+  }
+}

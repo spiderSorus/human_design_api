@@ -1,0 +1,58 @@
+{
+  "name": "Test_462",
+  "type": "Generator",
+  "profile": "2 / 4",
+  "authority": "Sacral",
+  "digestion": "Touch/Nervous",
+  "motivation": "Need",
+  "perception": "Possibility",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (52/58 | 17/18)",
+  "channels": [
+    "11-56",
+    "17-62",
+    "18-58",
+    "42-53"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 52.2",
+      "Earth: 58.2",
+      "NorthNode: 53.3",
+      "SouthNode: 54.3",
+      "Moon: 42.6",
+      "Mercury: 56.5",
+      "Venus: 45.6",
+      "Mars: 56.1",
+      "Jupiter: 26.1",
+      "Saturn: 54.4",
+      "Uranus: 27.5",
+      "Neptune: 22.2",
+      "Pluto: 61.2"
+    ],
+    "design": [
+      "Sun: 17.4",
+      "Earth: 18.4",
+      "NorthNode: 62.4",
+      "SouthNode: 61.4",
+      "Moon: 58.5",
+      "Mercury: 63.6",
+      "Venus: 55.2",
+      "Mars: 8.4",
+      "Jupiter: 11.2",
+      "Saturn: 54.5",
+      "Uranus: 3.6",
+      "Neptune: 63.6",
+      "Pluto: 61.3"
+    ]
+  },
+  "input": {
+    "localDate": "2019-06-27",
+    "localTime": "14:57",
+    "timezone": "Australia/Sydney",
+    "latitude": -33.8688,
+    "longitude": 151.2093,
+    "name": "Test_462",
+    "birthplace": "Sydney"
+  }
+}

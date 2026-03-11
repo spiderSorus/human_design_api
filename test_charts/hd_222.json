@@ -1,0 +1,57 @@
+{
+  "name": "Test_222",
+  "type": "Projector",
+  "profile": "6 / 2",
+  "authority": "Splenic",
+  "digestion": "Touch/Calm",
+  "motivation": "Desire",
+  "perception": "Personal",
+  "environment": "Kitchens",
+  "cross": "Left Angle Cross of ... (23/43 | 30/29)",
+  "channels": [
+    "18-58",
+    "23-43",
+    "32-54"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.6",
+      "Earth: 43.6",
+      "NorthNode: 29.5",
+      "SouthNode: 30.5",
+      "Moon: 58.1",
+      "Mercury: 3.3",
+      "Venus: 21.1",
+      "Mars: 35.5",
+      "Jupiter: 48.6",
+      "Saturn: 11.5",
+      "Uranus: 42.6",
+      "Neptune: 63.3",
+      "Pluto: 54.5"
+    ],
+    "design": [
+      "Sun: 30.2",
+      "Earth: 29.2",
+      "NorthNode: 59.4",
+      "SouthNode: 55.4",
+      "Moon: 18.4",
+      "Mercury: 19.4",
+      "Venus: 17.4",
+      "Mars: 21.4",
+      "Jupiter: 32.3",
+      "Saturn: 11.4",
+      "Uranus: 42.1",
+      "Neptune: 37.6",
+      "Pluto: 54.4"
+    ]
+  },
+  "input": {
+    "localDate": "2017-05-14",
+    "localTime": "09:34",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_222",
+    "birthplace": "New York"
+  }
+}

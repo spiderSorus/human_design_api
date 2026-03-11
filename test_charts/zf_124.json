@@ -1,0 +1,59 @@
+{
+  "name": "Test_124",
+  "type": "Manifestor",
+  "profile": "6 / 2",
+  "authority": "Emotional",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Personal",
+  "environment": "Markets",
+  "cross": "Left Angle Cross of ... (23/43 | 30/29)",
+  "channels": [
+    "12-22",
+    "23-43",
+    "24-61",
+    "30-41",
+    "35-36"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 23.6",
+      "Earth: 43.6",
+      "NorthNode: 16.6",
+      "SouthNode: 9.6",
+      "Moon: 12.4",
+      "Mercury: 35.5",
+      "Venus: 16.2",
+      "Mars: 39.4",
+      "Jupiter: 30.6",
+      "Saturn: 13.1",
+      "Uranus: 24.5",
+      "Neptune: 36.1",
+      "Pluto: 60.1"
+    ],
+    "design": [
+      "Sun: 30.2",
+      "Earth: 29.2",
+      "NorthNode: 45.1",
+      "SouthNode: 26.1",
+      "Moon: 25.2",
+      "Mercury: 13.1",
+      "Venus: 13.4",
+      "Mars: 23.2",
+      "Jupiter: 13.1",
+      "Saturn: 41.6",
+      "Uranus: 27.6",
+      "Neptune: 22.3",
+      "Pluto: 61.6"
+    ]
+  },
+  "input": {
+    "localDate": "2021-05-15",
+    "localTime": "02:37",
+    "timezone": "Asia/Tokyo",
+    "latitude": 35.6895,
+    "longitude": 139.6917,
+    "name": "Test_124",
+    "birthplace": "Tokyo"
+  }
+}

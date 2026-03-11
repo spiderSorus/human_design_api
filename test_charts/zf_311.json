@@ -1,0 +1,55 @@
+{
+  "name": "Test_311",
+  "type": "Projector",
+  "profile": "5 / 1",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Probability",
+  "environment": "Valleys",
+  "cross": "Left Angle Cross of ... (63/64 | 26/45)",
+  "channels": [
+    "19-49"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 63.5",
+      "Earth: 64.5",
+      "NorthNode: 33.4",
+      "SouthNode: 19.4",
+      "Moon: 22.1",
+      "Mercury: 49.3",
+      "Venus: 37.3",
+      "Mars: 22.6",
+      "Jupiter: 18.5",
+      "Saturn: 18.5",
+      "Uranus: 14.6",
+      "Neptune: 11.3",
+      "Pluto: 32.4"
+    ],
+    "design": [
+      "Sun: 26.1",
+      "Earth: 45.1",
+      "NorthNode: 33.5",
+      "SouthNode: 19.5",
+      "Moon: 38.5",
+      "Mercury: 9.1",
+      "Venus: 43.1",
+      "Mars: 38.5",
+      "Jupiter: 18.4",
+      "Saturn: 18.5",
+      "Uranus: 14.3",
+      "Neptune: 26.6",
+      "Pluto: 32.4"
+    ]
+  },
+  "input": {
+    "localDate": "1981-03-06",
+    "localTime": "05:35",
+    "timezone": "America/Los_Angeles",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "name": "Test_311",
+    "birthplace": "Los Angeles"
+  }
+}

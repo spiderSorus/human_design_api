@@ -1,0 +1,58 @@
+{
+  "name": "Test_441",
+  "type": "Generator",
+  "profile": "4 / 6",
+  "authority": "Sacral",
+  "digestion": "Sound/High",
+  "motivation": "Need",
+  "perception": "Want",
+  "environment": "Kitchens",
+  "cross": "Right Angle Cross of ... (15/10 | 25/46)",
+  "channels": [
+    "13-33",
+    "25-51",
+    "42-53",
+    "7-31"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 15.4",
+      "Earth: 10.4",
+      "NorthNode: 31.5",
+      "SouthNode: 41.5",
+      "Moon: 28.3",
+      "Mercury: 53.6",
+      "Venus: 33.4",
+      "Mars: 19.2",
+      "Jupiter: 1.1",
+      "Saturn: 58.3",
+      "Uranus: 3.6",
+      "Neptune: 63.6",
+      "Pluto: 54.6"
+    ],
+    "design": [
+      "Sun: 25.6",
+      "Earth: 46.6",
+      "NorthNode: 7.1",
+      "SouthNode: 13.1",
+      "Moon: 15.1",
+      "Mercury: 51.2",
+      "Venus: 42.1",
+      "Mars: 10.6",
+      "Jupiter: 43.5",
+      "Saturn: 58.6",
+      "Uranus: 3.1",
+      "Neptune: 63.4",
+      "Pluto: 61.1"
+    ]
+  },
+  "input": {
+    "localDate": "2018-06-22",
+    "localTime": "22:27",
+    "timezone": "America/New_York",
+    "latitude": 40.7128,
+    "longitude": -74.006,
+    "name": "Test_441",
+    "birthplace": "New York"
+  }
+}

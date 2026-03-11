@@ -1,0 +1,57 @@
+{
+  "name": "Test_199",
+  "type": "Projector",
+  "profile": "3 / 5",
+  "authority": "Emotional",
+  "digestion": "Light/Indirect",
+  "motivation": "Guilt",
+  "perception": "Power",
+  "environment": "Markets",
+  "cross": "Right Angle Cross of ... (38/39 | 48/21)",
+  "channels": [
+    "24-61",
+    "28-38",
+    "39-55"
+  ],
+  "gates": {
+    "personality": [
+      "Sun: 38.3",
+      "Earth: 39.3",
+      "NorthNode: 28.4",
+      "SouthNode: 27.4",
+      "Moon: 60.3",
+      "Mercury: 38.6",
+      "Venus: 61.6",
+      "Mars: 48.4",
+      "Jupiter: 53.1",
+      "Saturn: 43.2",
+      "Uranus: 17.6",
+      "Neptune: 55.4",
+      "Pluto: 38.2"
+    ],
+    "design": [
+      "Sun: 48.5",
+      "Earth: 21.5",
+      "NorthNode: 44.1",
+      "SouthNode: 24.1",
+      "Moon: 44.5",
+      "Mercury: 44.2",
+      "Venus: 14.6",
+      "Mars: 29.1",
+      "Jupiter: 53.5",
+      "Saturn: 44.4",
+      "Uranus: 21.1",
+      "Neptune: 55.4",
+      "Pluto: 58.6"
+    ]
+  },
+  "input": {
+    "localDate": "2014-01-02",
+    "localTime": "16:38",
+    "timezone": "Africa/Johannesburg",
+    "latitude": -26.2041,
+    "longitude": 28.0473,
+    "name": "Test_199",
+    "birthplace": "Johannesburg"
+  }
+}
