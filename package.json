@@ -1,14 +1,21 @@
 {
   "name": "human_design_api",
   "version": "3.0.0",
-  "description": "",
-  "main": "hd-engine.js",
+  "description": "High-precision Swiss Ephemeris calculation engine for Human Design charts, solar design-time solver, PHS/Rave Psychology substructures, and planetary gate transits.",
+  "main": "index.js",
   "scripts": {
     "test": "node test_runner.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "swisseph",
+    "ephemeris",
+    "astronomy",
+    "human-design",
+    "iching",
+    "transits"
+  ],
+  "author": "Charlotte Sorus",
+  "license": "MIT",
   "dependencies": {
     "luxon": "^3.7.2",
     "swisseph": "^0.5.17"
